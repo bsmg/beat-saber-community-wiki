@@ -1,5 +1,5 @@
 <!-- TITLE: Mapping FAQ -->
-<!-- SUBTITLE: A quick summary of Faq Mapping -->
+<!-- SUBTITLE: Frequently Asked Questions about mapping. -->
 
 
 # How do I make a Beatmap?
