@@ -1,7 +1,7 @@
 <!-- TITLE: Beginners Guide for Mappers -->
 <!-- SUBTITLE: Get started making beatmaps for Beat Saber! -->
 
-# Beginner's Guide for Mappers
+# Getting Started
 Currently the official editor has not been released.
 All custom maps are being made using the community built map editors.
 
