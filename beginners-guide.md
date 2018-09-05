@@ -13,4 +13,12 @@ Follow these instructions to get mods working in Beat Saber!
 
 Mods are installed into the folder `Plugins` within your Beat Saber install directory.
 
-New maps can be found at www.beatsaver.com!
+# I want to learn about
+* [Making beatmaps](beginners-guide-mapping)
+* [Custom sabers](custom-sabers)
+* [Custom avatars](custom-avatars)
+* [Custom platforms](custom-avatars)
+* [Making mods](beginners-guide-modding)
+
+# Have questions?
+Visit the [FAQ](faq)
