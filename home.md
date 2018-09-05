@@ -5,7 +5,7 @@
 Below are some links to help you get started:
 ## General Links
 * [FAQ]()
-* [Beginner's Guide for Users]()
+* [Beginner's Guide for Users](beginners-guide)
 
 ## Mapping
 * [Beginner's Guide for Mappers]()
