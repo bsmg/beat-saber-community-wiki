@@ -52,12 +52,10 @@ https://www.youtube.com/watch?v=mhMeR9CEUjk
 ## Custom Avatars
 
 ### How do I use Custom Avatars?
-
 Using custom avatars: Follow the instructions included with the plugin
 https://github.com/xyonico/CustomAvatarsPlugin/releases/latest
 Use Page Up / Page Down to switch avatars in game.
 Use the Home key on your keyboard to toggle your avatar in first person view
 
 ### How do I make Custom Avatars?
-
 Making custom avatars: Here is a full body avatar tutorial by Assistant https://bs.assistant.moe/Avatars/
