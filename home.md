@@ -1,16 +1,21 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- TITLE: Beat Saber Modding Group -->
+<!-- SUBTITLE: Welcome to the Beat Saber Modding Community Wiki! -->
 
-# Beat Saber Modding Group
-
-## Welcome to the Beat Saber Modding Community Wiki!
-
-Here are some links to help get you started:
-
+# Useful Links
+Below are some links to help you get started:
+## General Links
 * [FAQ]()
 * [Beginner's Guide for Users]()
-* [Guide for Mappers (not finished)]()
-* [Guide for Custom Sabers (not finished)]()
-* [Guide for Custom Avatars (not finished)]()
-* [Guide for Custom Platforms (not finished)]()
+
+## Mapping
+* [Beginner's Guide for Mappers]()
+* [Helpful Resources]()
+
+## Modding
+* [Developing a Mod]()
 * [List of All Plugins]()
+
+## Modelling
+* [Creating Custom Sabers]()
+* [Creating Custom Avatars]()
+* [Creating Custom Platforms]()
