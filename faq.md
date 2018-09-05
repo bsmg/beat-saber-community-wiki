@@ -10,9 +10,10 @@ Follow the instructions in the [beginners-guide](beginners-guide).
 # Where do I find custom songs?
 
 ## Beat Saver
-https://beatsaver.com/
 Nearly all custom songs are stored on Beat Saver!
-The Ingame Downloader Plugin loads songs directly from Beat Saver
+Here you can also upload your own beatmaps to share with others.
+Note that the Ingame Downloader Plugin loads songs directly from Beat Saver!
+https://beatsaver.com/
 
 ## Beast Saber
 Find reviews and playlists on Beast Saber!
@@ -24,20 +25,19 @@ We also have a designated channel on the Modding Group Discord!
 
 # How do I load other plugins?
 
-Manually approved mods uploaded to modsaber.ml are included in the mod manager.
-Follow the instructions in the [beginners-guide](beginners-guide).
+Only manually approved mods uploaded to modsaber.ml are included in the mod manager.
+(If you don't have any mods yet, run the mod manager from [beginners-guide](beginners-guide).)
 
-After you have run the mod manager, you can then add other mods as well.
-Plugins / mods that aren't in the mod manager have to be placed manually in the following directories:
+If you'd like to add another mod that isn't included in the mod manager, you have to place the mod manually in the following directories:
 
-.dll plugins go in the following directory
+.dll plugins go in this directory
 Steam:
 `steamapps\common\Beat Saber\Plugins`
 
 Oculus:
 `hyperbolic-magnetism-beat-saber\Plugins`
 
-Asset replacement plugins go in the directory
+Asset replacement plugins go in this directory
 Steam:
 `steamapps\common\Beat Saber\Beat Saber_Data`
 
