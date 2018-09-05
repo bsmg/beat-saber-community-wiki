@@ -10,7 +10,7 @@ Below are some links to help you get started:
 ## Mapping
 * [Beginner's Guide for Mappers]()
 * [Helpful Resources]()
-* [Mapping FAQ]()
+* [Mapping FAQ](faq-mapping)
 
 ## Modding
 * [Developing a Mod]()
