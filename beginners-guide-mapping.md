@@ -28,3 +28,6 @@ https://beatmapper.surge.sh/
 A 2D track editor made in Processing by Megalon!
 **Note: This is depreciated!**
 https://github.com/megalon/BeatSaber-UnofficialTrackEditor/releases
+
+# Have questions?
+Check out the [mapping FAQ](faq-mapping)!
