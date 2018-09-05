@@ -1,7 +1,7 @@
 <!-- TITLE: Beginners Guide for Users -->
 <!-- SUBTITLE: How to install mods for Beat Saber -->
 
-# Welcome to the Beat Saber Mod Group!
+# How to Install Mods!
 
 These are the instructions to get custom tracks working within  Beat Saber! 
 
