@@ -9,16 +9,25 @@ Follow the instructions in the [beginners-guide](beginners-guide).
 
 # Where do I find custom songs?
 
-Beat Saver   : https://beatsaver.com/
-Beast Saber : https://bsaber.com/
-We also have a designated channel on the Modding Group Discord : [#finished-maps](https://discordapp.com/channels/441805394323439646/442342190060929055/)
+## Beat Saver
+https://beatsaver.com/
+Nearly all custom songs are stored on Beat Saver!
+The Ingame Downloader Plugin loads songs directly from Beat Saver
+
+## Beast Saber
+Find reviews and playlists on Beast Saber!
+https://bsaber.com/
+
+## Discord
+We also have a designated channel on the Modding Group Discord!
+[#finished-maps](https://discordapp.com/channels/441805394323439646/442342190060929055/)
 
 # How do I load other plugins?
 
-Essential mods are included in the mod manager by Umbranoxio!
+Manually approved mods uploaded to modsaber.ml are included in the mod manager.
 Follow the instructions in the [beginners-guide](beginners-guide).
 
-After you have run the mod manager, you can then add other plugins / mods as well.
+After you have run the mod manager, you can then add other mods as well.
 Plugins / mods that aren't in the mod manager have to be placed manually in the following directories:
 
 .dll plugins go in the following directory
