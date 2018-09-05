@@ -99,3 +99,54 @@ https://www.youtube.com/playlist?list=PLYeZR6d3zDPgDgWogOwMteL-5SQWAE14b
 
 Here is a tutorial playlist:
 https://www.youtube.com/playlist?list=PLYeZR6d3zDPgDgWogOwMteL-5SQWAE14b
+
+## Do I need Beat Saber installed to use the editors?
+
+No. Edit Saber will ask for the Beat Saber directory, but it can be any folder.
+
+## What if I want to make my own editor / converter?
+
+Understanding the track JSON file: https://pastebin.com/cTPGrxWY
+
+Understanding the events data: https://docs.google.com/spreadsheets/d/1vCTlDvx0ZW8NkkZBYW6ecvXaVRxDUKX7QIoah9PCp_c/htmlview
+
+Example track file: https://pastebin.com/rkZVSmte
+
+## My game updated and now none of my mods are working!
+Each time the game updates it is possible that mods will stop working and need to be updated.
+The devs realize this, so when the game updates and you run it for the first time, everything in the Plugins folder is moved into the `Incompatible Plugins` folder. **Leave those plugins in there!**
+
+To get mods back, simply **run the mod manager again.**
+The mod manager only includes mods that have been proven to be compatible with the latest version of the game!
+
+Get the mod manager from the [beginners-guide](beginners-guide).
+
+## Should I use wrist weights when I play?
+
+***DO NOT USE WRIST WEIGHTS!***
+You will only hurt yourself. Besides, a lightsaber wouldn't be heavy, it's made of *light.*
+Please read this comment for more information https://www.reddit.com/r/Vive/comments/8g9jgs/beat_saber_has_now_released/dya1yl7/
+
+## My game will not load!
+
+You may have a popup on your desktop asking about your Beat Saver auth token to vote on songs at the end of the game.
+If you don't care to vote on songs, simply click "Cancel" and the popup will not appear again.
+
+## My game launches, then instantly closes!
+
+Check your plugins folder for `BeepBoop.dll`. This was a troll plugin designed to do exactly that.
+Simply delete the dll file to fix it.
+
+## "Your audio file name is wrong" message in the Edit Saber
+
+The 3D editor only supports .ogg files. You have to convert your file to ogg using a converter, such as audacity.
+If you simply change the file extension to .ogg, it will not work.
+
+## How do I delay a song so that it doesn't start right when the level loads?
+
+Currently this isn't possible in Beat Saber. For now you have to edit the song in an audio editor (such as Audacity) to add silence at the beginning of the track.
+
+## I tried to install mods via the Mod Installer but it gives me an error that it can't find the IPA.exe.
+
+Try installing the song injector separately, then try running the mod installer again. https://github.com/xyonico/BeatSaberSongInjector/releases
+
