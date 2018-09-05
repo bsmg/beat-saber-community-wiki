@@ -4,22 +4,7 @@
 
 # How do I make a Beatmap?
 
-There are currently 3 editors. All export the same files, but offer different workflows.
-
-## Edit Saber
-A robust 3D track editor made in Unreal Engine by ikeiwa!
-https://github.com/Ikeiwa/EditSaber/releases
-
-## Unofficial 2D Track Editor
-A 2D track editor made in Processing by Megalon!
-**Note: This is depreciated! Please use the 3D editor (Edit Saber) instead!**
-https://github.com/megalon/BeatSaber-UnofficialTrackEditor/releases
-
-## Midi converter / web based editor
-Converter by ciwolsey 
-https://github.com/ciwolsey/midisaber 
-and companion track editor
-https://beatmapper.surge.sh/
+See [beginners-guide-mapping](beginners-guide-mapping)
 
 # Do you have any tips for making a good map?
 
