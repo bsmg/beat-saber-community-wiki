@@ -12,8 +12,7 @@ Follow the instructions in the [beginners-guide](beginners-guide).
 
 Beat Saver   : https://beatsaver.com/
 Beast Saber : https://bsaber.com/
-and
-[#finished-maps](https://discordapp.com/channels/441805394323439646/442342190060929055/) on the Modding Group Discord
+The [#finished-maps](https://discordapp.com/channels/441805394323439646/442342190060929055/) on the Modding Group Discord
 
 ## How do I load other plugins?
 
