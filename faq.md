@@ -36,13 +36,28 @@ Steam:
 Oculus:
 `hyperbolic-magnetism-beat-saber\Beat Saber_Data`
 
-## How do I use / make custom sabers?
+## Custom Sabers
 
+### How do I use Custom Sabers?
 Using custom sabers: Here is a video tutorial https://youtu.be/dUzyochSTt4
-Or, scroll down in #beginners-guide for text instructions.
+(Add link to #beginners-guide section here)
 
+### How do I make Custom Sabers?
 Making custom sabers:
 Here is a written tutorial:
 https://bs.assistant.moe/Sabers/
 And here is a video tutorial:
 https://www.youtube.com/watch?v=mhMeR9CEUjk
+
+## Custom Avatars
+
+### How do I use Custom Avatars?
+
+Using custom avatars: Follow the instructions included with the plugin
+https://github.com/xyonico/CustomAvatarsPlugin/releases/latest
+Use Page Up / Page Down to switch avatars in game.
+Use the Home key on your keyboard to toggle your avatar in first person view
+
+### How do I make Custom Avatars?
+
+Making custom avatars: Here is a full body avatar tutorial by Assistant https://bs.assistant.moe/Avatars/
