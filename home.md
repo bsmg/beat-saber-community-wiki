@@ -18,7 +18,7 @@ Below are some links to help you get started:
 * [Modding FAQ]()
 
 ## 3d Modelling
-* [Creating Custom Sabers]()
-* [Creating Custom Avatars]()
-* [Creating Custom Platforms]()
+* [Custom Sabers](custom-sabers)
+* [Custom Avatars](custom-avatars)
+* [Custom Platforms](custom-platforms)
 * [3D Modeling FAQ]()
