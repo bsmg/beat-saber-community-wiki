@@ -2,7 +2,8 @@
 <!-- SUBTITLE: Get started making beatmaps for Beat Saber! -->
 
 # Beginner's Guide for Mappers
-Currently the official editor has not been released. All editors listed here are made from scratch by the community.
+Currently the official editor has not been released.
+All custom maps are being made using the community built map editors.
 
 There's a very good guide for building a map from the ground up by BennyDaBeast:
 https://bsaber.com/benny-custom-mapping/
