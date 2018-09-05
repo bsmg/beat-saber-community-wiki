@@ -150,3 +150,8 @@ Currently this isn't possible in Beat Saber. For now you have to edit the song i
 
 Try installing the song injector separately, then try running the mod installer again. https://github.com/xyonico/BeatSaberSongInjector/releases
 
+## I want to double the BPM of my song, is there an easy way to do that?
+
+Here is a python 3 script that will multiply the BPM and _time values in your json file by any given factor:
+https://cdn.discordapp.com/attachments/442372806705938434/447910905972523008/beat-saber-time-multiplier.zip
+
