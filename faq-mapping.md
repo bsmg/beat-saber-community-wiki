@@ -1,4 +1,4 @@
-<!-- TITLE: Mapping FAQ -->
+<!-- TITLE: FAQ Mapping -->
 <!-- SUBTITLE: Frequently Asked Questions about mapping. -->
 
 
