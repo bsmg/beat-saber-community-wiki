@@ -26,5 +26,5 @@ https://beatmapper.surge.sh/
 
 ## Unofficial 2D Track Editor
 A 2D track editor made in Processing by Megalon!
-**Note: This is depreciated! Please use the 3D editor (Edit Saber) instead!**
+**Note: This is depreciated!**
 https://github.com/megalon/BeatSaber-UnofficialTrackEditor/releases
