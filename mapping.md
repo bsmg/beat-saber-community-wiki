@@ -7,4 +7,4 @@
 
 # Editors
 * [Ikeiwa's 3D Editor](https://github.com/Ikeiwa/3D-beatsaber-song-editor/releases)
-* [Megalon's 2D Editor](https://github.com/megalon/BeatSaber-UnofficialTrackEditor/releases) (deprecated)
+* [Megalon's 2D Editor](https://github.com/megalon/BeatSaber-UnofficialTrackEditor/releases) **(deprecated)**
