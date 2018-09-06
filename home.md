@@ -10,13 +10,14 @@ Not sure how to get started? Check out the [Beginner's Guide](beginners-guide)!
 ## Mod Reference
 * [List of All Plugins](plugin-index)
 * [Developing a Mod]()
+* [ModSaber](https://www.modsaber.ml/)
 
 ## Mapping Reference
 Too many anime songs? Too little anime songs? Are you ready to take matters into your own hands? Here are some useful resources for making your own maps.
 * [BennyDaBeast's Mapping Tutorial](https://bsaber.com/benny-custom-mapping/)
 * [AwfulNaut's Best Practices Guide](https://bit.ly/2LjbURw)
-* [3D Editor](https://github.com/Ikeiwa/3D-beatsaber-song-editor/releases)
-* [2D Editor](https://github.com/megalon/BeatSaber-UnofficialTrackEditor/releases) (deprecated)
+* [Ikeiwa's 3D Editor](https://github.com/Ikeiwa/3D-beatsaber-song-editor/releases)
+* [Megalon's 2D Editor](https://github.com/megalon/BeatSaber-UnofficialTrackEditor/releases) (deprecated)
 
 ## Custom Models
 * [Custom Sabers](custom-sabers)
@@ -28,4 +29,8 @@ Too many anime songs? Too little anime songs? Are you ready to take matters into
 * [FAQ](faq)
 * [BeastSaber](https://bsaber.com/)
 * [BeatSaver](https://beatsaver.com/)
+* [ScoreSaber](https://scoresaber.com/)
+* [ShameSaber]()
 * [Discord](https://discord.gg/beatsabermods)
+* [Steam Store](https://store.steampowered.com/app/620980/Beat_Saber/)
+* [Oculus Store](https://www.oculus.com/experiences/rift/1304877726278670/)
