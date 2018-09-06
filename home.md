@@ -7,16 +7,18 @@ can we get elliot to write a short intro to what beat saber is, what the beat sa
 # Useful Links
 Not sure how to get started? Check out the [Beginner's Guide](beginners-guide)!
 
-### Mod Reference
+## Mod Reference
 * [List of All Plugins](plugin-index)
 * [Developing a Mod]()
 
-### Mapping Reference
+## Mapping Reference
+Too many anime songs? Too little anime songs? Are you ready to take matters into your own hands? Here are some useful resources for making your own maps.
 * [BennyDaBeast's Mapping Tutorial](https://bsaber.com/benny-custom-mapping/)
+* [AwfulNaut's Best Practices Guide](https://bit.ly/2LjbURw)
 * [3D Editor](https://github.com/Ikeiwa/3D-beatsaber-song-editor/releases)
 * [2D Editor](https://github.com/megalon/BeatSaber-UnofficialTrackEditor/releases) (deprecated)
 
-### Custom Models
+## Custom Models
 * [Custom Sabers](custom-sabers)
 * [Custom Avatars](custom-avatars)
 * [Custom Platforms](custom-platforms)
