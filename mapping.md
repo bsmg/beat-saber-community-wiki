@@ -11,8 +11,8 @@
 [M.Rappold's OST analysis](https://bit.ly/2lzzSxd)
 
 # Editors and Tools
-* [Ikeiwa's 3D Editor](https://github.com/Ikeiwa/3D-beatsaber-song-editor/releases)
-* [Megalon's 2D Editor](https://github.com/megalon/BeatSaber-UnofficialTrackEditor/releases) **(deprecated)**
+[Ikeiwa's 3D Editor](https://github.com/Ikeiwa/3D-beatsaber-song-editor/releases)
+[Megalon's 2D Editor](https://github.com/megalon/BeatSaber-UnofficialTrackEditor/releases) **(deprecated)**
 
 # FAQ
 
