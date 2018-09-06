@@ -8,7 +8,7 @@ Below are some links to help you get started:
 * [FAQ](faq)
 
 ## Mapping
-* [Beginner's Guide for Mappers]()
+* [Beginner's Guide for Mappers](beginners-guide-mapping)
 * [Helpful Resources]()
 * [Mapping FAQ](faq-mapping)
 
