@@ -2,7 +2,6 @@
 <!-- SUBTITLE: Too many anime maps? Not enough anime maps? Ready to take matters into your own hands? You've come to the right place. -->
 
 # Tutorials
-
 * [BennyDaBeast's Mapping Tutorial](https://bsaber.com/benny-custom-mapping/)
 * [AwfulNaut's Best Practices Guide](https://bit.ly/2LjbURw)
 
