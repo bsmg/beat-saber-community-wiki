@@ -66,6 +66,7 @@ Get the mod manager from the [Beginners Guide](beginners-guide).
 ## Should I use wrist weights when I play?
 > DO NOT USE WRIST WEIGHTS!
 {.is-danger}
+
 You will only hurt yourself. Besides, a lightsaber wouldn't be heavy, *it's made of light.*
 Please read [this comment](https://www.reddit.com/r/Vive/comments/8g9jgs/beat_saber_has_now_released/dya1yl7/) for more information.
 
