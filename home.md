@@ -27,8 +27,8 @@ Too many anime songs? Too little anime songs? Are you ready to take matters into
 * [3D Modeling FAQ](3d-modeling)
 
 ## Other Links
-* [Discord](https://discord.gg/beatsabermods)
 * [FAQ](faq)
+* [Discord](https://discord.gg/beatsabermods)
 * [BeatSaver](https://beatsaver.com/)
 * [BeastSaber](https://bsaber.com/)
 * [ScoreSaber](https://scoresaber.com/)
