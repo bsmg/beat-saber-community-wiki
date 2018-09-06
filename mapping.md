@@ -16,11 +16,11 @@
 
 # FAQ
 
-# Do I need Beat Saber installed to use the editors?
+## Do I need Beat Saber installed to use the editors?
 
 No. Edit Saber will ask for the Beat Saber directory, but it can be any folder.
 
-# What if I want to make my own editor / converter?
+## What if I want to make my own editor / converter?
 
 Understanding the track JSON file: https://pastebin.com/cTPGrxWY
 
