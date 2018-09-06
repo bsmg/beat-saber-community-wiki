@@ -2,20 +2,20 @@
 <!-- SUBTITLE: Frequently Asked Questions! -->
 # FAQ
 ## How do I load custom songs?
-Use the mod manager by Umbranox! 
+Use the [Mod Manager](https://github.com/Umbranoxio/BeatSaberModInstaller/releases) by Umbranox! 
 Follow the instructions in the [Beginners Guide](beginners-guide).
 
 ## Where do I find custom songs?
-Beat Saver: https://beatsaver.com/
-Beast Saber: https://bsaber.com/
+[Beat Saver](https://beatsaver.com/)
+[Beast Saber](https://bsaber.com/)
 
-We also have a designated channel on the Modding Group Discord : [#finished-maps](https://discordapp.com/channels/441805394323439646/442342190060929055/)
+We also have a designated channel on the Modding Group Discord: `[#finished-maps](https://discordapp.com/channels/441805394323439646/442342190060929055/)`
 
 ## How do I load other plugins?
 Essential mods are included in the mod manager by Umbranoxio!
-Follow the instructions in the [beginners-guide](beginners-guide).
+Follow the instructions in the [Beginners Guide](beginners-guide).
 
-After you have run the mod manager, you can then add other plugins / mods as well.
+After you have run the Mod Manager, you can then add other plugins / mods as well.
 Plugins / mods that aren't in the mod manager have to be placed manually in the following directories:
 
 `.dll` plugins go in the following directory:
@@ -55,8 +55,8 @@ Here is a full body avatar tutorial written by Assistant: https://bs.assistant.m
 Here is a guide to setup the multiplayer plugin: https://bs.assistant.moe/Multiplayer/
 
 ## My game updated and now none of my mods are working!
-Each time the game updates it is possible that mods will stop working and need to be updated.
-The devs realize this, so when the game updates and you run it for the first time, everything in the Plugins folder is moved into the `Incompatible Plugins` folder. **Leave those plugins in there!**
+Each time the game updates it is possible *(and very likely)* that mods will stop working and need to be updated.
+The devs realized this, so when the game updates and you run it for the first time, everything in the `Plugins` folder is moved into the `Incompatible Plugins` folder. **Leave those plugins in there!**
 
 To get mods back, simply **run the mod manager again.**
 The mod manager only includes mods that have been proven to be compatible with the latest version of the game!
@@ -64,7 +64,7 @@ The mod manager only includes mods that have been proven to be compatible with t
 Get the mod manager from the [Beginners Guide](beginners-guide).
 
 ## Should I use wrist weights when I play?
-> DO NOT USE WRIST WEIGHTS!
+> **DO NOT USE WRIST WEIGHTS!**
 {.is-danger}
 
 You will only hurt yourself. Besides, a lightsaber wouldn't be heavy, *it's made of light.*
@@ -79,16 +79,14 @@ Check your plugins folder for `BeepBoop.dll`. This was a troll plugin designed t
 Simply delete the `.dll` to fix it.
 
 ## "Your audio file name is wrong" message in the Edit Saber
-The 3D editor only supports `.ogg` files. You have to convert your file to Ogg Vorbis using a converter, such as Audacity.
+The 3D Editor only supports `.ogg` files. You have to convert your file to Ogg Vorbis using a converter, such as Audacity.
 If you simply change the file extension to `.ogg`, it will not work.
 
 ## How do I delay a song so that it doesn't start right when the level loads?
 Currently this isn't possible in Beat Saber. For now you have to edit the song in an audio editor *(such as Audacity)* to add silence at the beginning of the track.
 
 ## I tried to install mods via the Mod Installer but it gives me an error that it can't find the IPA.exe.
-Try installing the song injector separately, then try running the mod installer again.
-Download the song injector here: https://github.com/xyonico/BeatSaberSongInjector/releases
+Try installing the [Song Injector](https://github.com/xyonico/BeatSaberSongInjector/releases) separately, then try running the Mod Manager again.
 
 ## I want to double the BPM of my song, is there an easy way to do that?
-Here is a Python3 script that will multiply the BPM and `_time` values in your JSON file by any given factor:
-https://cdn.discordapp.com/attachments/442372806705938434/447910905972523008/beat-saber-time-multiplier.zip
+Here is a [Python3 Script](https://cdn.discordapp.com/attachments/442372806705938434/447910905972523008/beat-saber-time-multiplier.zip) that will multiply the BPM and `_time` values in your JSON file by any given factor.
