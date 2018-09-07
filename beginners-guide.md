@@ -16,7 +16,6 @@ Mods are installed into the folder `Plugins` within your Beat Saber install dire
 
 # How to uninstall mods
 **Currently the only way to uninstall a mod is to remove the dll from the `Plugins` folder.**
-
 |  |  |
 | --- | --- |
 | Steam | `\steamapps\common\Beat Saber\Plugins` |
