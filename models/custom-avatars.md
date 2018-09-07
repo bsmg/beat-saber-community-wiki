@@ -9,4 +9,4 @@ You can press the `Page Up` and `Page Down` keys on your keyboard while Beat Sab
 Pressing the `Home` key will toggle between being able to see your avatar in your HMD (first person view).
 
 # Creating your own avatar
-[Assistant's Avatar Guide](https://bs.assistant.moe/Avatars) is a good resource for learning how to make your own avatar. It includes a short video narrated by Megalon [at the end](https://bs.assistant.moe/Avatars#Videos), however it is not as in depth and you should watch it in adition to reading the guide, not instead of.
+[Assistant's Avatar Guide](https://bs.assistant.moe/Avatars) is a good resource for learning how to make your own avatar. It includes a [short video narrated by Megalon](https://bs.assistant.moe/Avatars#Videos), however it is not as in depth and you should watch it in adition to reading the guide, not instead of.
