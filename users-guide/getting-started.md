@@ -1,5 +1,5 @@
-<!-- TITLE: Beginners Guide for Users -->
-<!-- SUBTITLE: How to install mods for Beat Saber -->
+<!-- TITLE: Users Guide -->
+<!-- SUBTITLE: Getting Started -->
 
 # How to install mods
 
