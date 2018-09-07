@@ -77,6 +77,7 @@ If you don't care to vote on songs, simply click **"Cancel"** and the popup will
 ## My game launches, then instantly closes!
 Check your plugins folder for `BeepBoop.dll`. This was a troll plugin designed to do exactly that.
 Simply delete the `.dll` to fix it.
+See [beginners Guide](beginners-guide) for help.
 
 ## "Your audio file name is wrong" message in the Edit Saber
 The 3D Editor only supports `.ogg` files. You have to convert your file to Ogg Vorbis using a converter, such as Audacity.
