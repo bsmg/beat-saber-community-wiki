@@ -82,13 +82,6 @@ Check your plugins folder for `BeepBoop.dll`. This was a troll plugin designed t
 Simply delete the `.dll` to fix it.
 See [beginners Guide](beginners-guide) for help.
 
-## "Your audio file name is wrong" message in the Edit Saber
-The 3D Editor only supports `.ogg` files. You have to convert your file to Ogg Vorbis using a converter, such as Audacity.
-If you simply change the file extension to `.ogg`, it will not work.
-
-## How do I delay a song so that it doesn't start right when the level loads?
-Currently this isn't possible in Beat Saber. For now you have to edit the song in an audio editor *(such as Audacity)* to add silence at the beginning of the track.
-
 ## I tried to install mods via the Mod Installer but it gives me an error that it can't find the IPA.exe.
 Try installing the [Song Injector](https://github.com/xyonico/BeatSaberSongInjector/releases) separately, then try running the Mod Manager again.
 
