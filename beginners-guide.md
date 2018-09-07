@@ -25,7 +25,7 @@ Where is Beat Saber installed? See [install folder.](faq/install-folder)
 
 # How to get more songs
 The Mod Manager includes the `Ingame Downloader Plugin`, which allows you to download beatmaps in the game using the `BEATSAVER` menu button on the main menu screen. This pulls beatmaps directly from www.beatsaver.com
-You can also manually place beatmaps that you have downloaded into the `CustomSongs` folder in your Beat Saber directory. See [install folder](FAQ/install-folder).
+You can also manually place beatmaps into the `CustomSongs` folder in your Beat Saber directory. See [install folder](FAQ/install-folder).
 
 # Where to go from here
 * [Making beatmaps](beginners-guide-mapping)
