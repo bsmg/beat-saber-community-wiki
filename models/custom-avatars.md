@@ -1,6 +1,4 @@
 <!-- TITLE: Custom Avatars -->
-<!-- SUBTITLE: A quick summary of Custom Avatars -->
-
 ## Installing
 The latest Custom Avatar plugin can be found in this [Github](https://github.com/xyonico/CustomAvatarsPlugin/releases/latest).
 Download the zip file called `CustomAvatarsPlugin`, and extract it into [your install folder](FAQ/install-folder). 
