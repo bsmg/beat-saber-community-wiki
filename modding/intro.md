@@ -23,4 +23,4 @@ TODO
 TODO
 
 # Moving forward
-Check out the [example mod](modding/example-mod) tutorial.
+Check out the [example mod](example-mod) tutorial.
