@@ -13,13 +13,23 @@ Follow these instructions to get mods working in Beat Saber!
 
 Mods are installed into the folder `Plugins` within your Beat Saber install directory.
 
-Note:
-**After a game update, run the game once before installing any mods, close the game, then use the mod manager.**
 
-Since each update breaks old plugins, the game moves all files in any existing `Plugins` folder into an `Incompatible Plugins` folder when Beat Saber is launched for the first time after an update. This saves everyone the trouble of digging through the files to find outdated mods that are breaking the new ones. 
+# How to uninstall mods
+Currenly the only way to uninstall a mod is to remove it from the `Plugins` folder.
 
-This also happens on fresh installs with brand new plugins.
+**Steam**
+Default path
+`C:\Program Files (x86)\Steam\steamapps\common\Beat Saber\Plugins`
 
+If you have your games installed on a different drive, it might be 
+`F:\SteamLibrary\steamapps\common\Beat Saber\Plugins`
+
+**Oculus**
+Default path
+`C:\Program Files\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\Plugins`
+
+If you have your games installed on a different drive, it might be 
+`F:\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\Plugins`
 # Where to go from here
 * [Making beatmaps](beginners-guide-mapping)
 * [Custom sabers](custom-sabers)
