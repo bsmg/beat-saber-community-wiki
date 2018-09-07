@@ -12,6 +12,7 @@ Follow these instructions to get mods working in Beat Saber!
 * Run it! Select what mods you want to install from the list!
 
 Mods are installed into the folder `Plugins` within your Beat Saber install directory.
+See [install location.](faq/install-folder)
 
 
 # How to uninstall mods
@@ -19,7 +20,9 @@ Mods are installed into the folder `Plugins` within your Beat Saber install dire
 |  |  |
 | --- | --- |
 | Steam | `\steamapps\common\Beat Saber\Plugins` |
-| Oculus | `\hyperbolic-magnetism-beat-saber\Plugins` |
+| Oculus | `\hyperbolic-magnetism-beat-saber\Plugins` | 
+
+See [install location.](faq/install-folder)
 
 # Where to go from here
 * [Making beatmaps](beginners-guide-mapping)
