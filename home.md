@@ -22,10 +22,10 @@ Too many anime songs? Too little anime songs? Are you ready to take matters into
 * [Megalon's 2D Editor](https://github.com/megalon/BeatSaber-UnofficialTrackEditor/releases) **(deprecated)**
 
 ## Custom Models
-* [Custom Sabers](custom-sabers)
-* [Custom Avatars](custom-avatars)
-* [Custom Platforms](custom-platforms)
-* [3D Modeling FAQ](3d-modeling)
+* [Custom Sabers](models/custom-sabers)
+* [Custom Avatars](models/custom-avatars)
+* [Custom Platforms](models/custom-platforms)
+* [3D Modeling FAQ](models/FAQ)
 
 ## Other Links
 * [FAQ](faq)
