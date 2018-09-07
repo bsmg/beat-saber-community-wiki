@@ -1,4 +1,4 @@
-<!-- TITLE: 3D Models Overview -->
+<!-- TITLE: Models -->
 <!-- SUBTITLE: A quick summary of Models -->
 
 # Header
