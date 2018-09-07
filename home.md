@@ -5,9 +5,11 @@
 can we get elliot to write a short intro to what beat saber is, what the beat saber modding community is, community driven project all the jazz lmao
 ok
 
-# Useful Links
-**Not sure how to get started?**
-Check out the [Beginner's Guide](beginners-guide)!
+# Index
+[Beginner's Guide](beginners-guide)!
+[Modder's Guide](modding)
+[Mapper's Guide](mapping)
+[3D Models Guide](3d-models)
 
 ## Mod Reference
 * [List of All Plugins](plugin-index)
