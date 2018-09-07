@@ -1,7 +1,7 @@
 <!-- TITLE: Beginners Guide for Users -->
 <!-- SUBTITLE: How to install mods for Beat Saber -->
 
-# How to Install Mods
+# How to install mods
 
 Follow these instructions to get mods working in Beat Saber! 
 
