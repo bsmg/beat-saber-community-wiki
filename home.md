@@ -23,7 +23,7 @@ Too many anime songs? Too little anime songs? Are you ready to take matters into
 
 ## Custom Models
 * [Custom Sabers](custom-sabers)
-* [Custom Avatars](https://bs.assistant.moe/Avatars)
+* [Custom Avatars](custom-avatars)
 * [Custom Platforms](custom-platforms)
 * [3D Modeling FAQ](3d-modeling)
 
