@@ -11,8 +11,8 @@ Instead, all mods within the mod installer rely on IPA to load plugins into the 
 * [Beat Saber modding intro / template](modding/intro) (WIP)
 * [Making a basic mod](modding/example-mod) (WIP)
 * FAQ (TODO)
-# Plugins Index
-See: [All Plugins.](modding/all-plugins)
+# Mods Index
+See: [All Mods.](modding/all-mods)
 
 # Other Links
 * [ModSaber](https://www.modsaber.ml/)
