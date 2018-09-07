@@ -31,7 +31,7 @@ Can't find where Beat Saber is installed? See [install folder.](faq/install-fold
 * [Making beatmaps](mapping)
 * [Custom sabers](models/custom-sabers)
 * [Custom avatars](models/custom-avatars)
-* [Custom platforms](models/custom-avatars)
+* [Custom platforms](models/custom-platforms)
 * [Making mods](modding)
 
 # Have questions?
