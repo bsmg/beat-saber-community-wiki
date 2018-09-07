@@ -13,14 +13,12 @@ All custom maps are being made using the community built map editors.
 There are currently 3 editors. All export the same files, but offer different workflows.
 ## Edit Saber
 A robust 3D track editor made in Unreal Engine by ikeiwa!
-Most people use this editor.
-
-Here is a link to the editor on Github
+*Most people use this editor.*
 https://github.com/Ikeiwa/EditSaber/releases
 
 ## Midi converter / web based editor
-This editor relies on midi data to outline a beatmap, then that track can be edited in the companion web editor.
 Midi converter made by ciwolsey!
+This editor relies on midi data to outline a beatmap, then that track can be edited in the companion web editor.
 https://github.com/ciwolsey/midisaber 
 and companion track editor!
 https://beatmapper.surge.sh/
