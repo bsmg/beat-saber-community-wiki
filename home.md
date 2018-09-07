@@ -6,7 +6,8 @@ can we get elliot to write a short intro to what beat saber is, what the beat sa
 ok
 
 # Useful Links
-Not sure how to get started? Check out the [Beginner's Guide](beginners-guide)!
+**Not sure how to get started?**
+Check out the [Beginner's Guide](beginners-guide)!
 
 ## Mod Reference
 * [List of All Plugins](plugin-index)
