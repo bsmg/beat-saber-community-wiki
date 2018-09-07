@@ -9,7 +9,7 @@ ok
 * [Beginner's Guide](beginners-guide)
 * [Modder's Guide](modding)
 * [Mapper's Guide](mapping)
-* [3D Models Guide](3d-models)
+* [3D Models Guide](models)
 * [FAQ](faq)
 # External Links
 * [Discord](https://discord.gg/beatsabermods)
