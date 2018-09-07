@@ -3,7 +3,7 @@
 
 # How to install mods
 
-Follow these instructions to get mods working in Beat Saber! 
+Beat Saber was not designed with mod support, so you have to run a program to patch the game and enable mods.
 
 ## Beat Saber Mod Manager
 
