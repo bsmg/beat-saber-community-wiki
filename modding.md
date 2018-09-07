@@ -2,7 +2,9 @@
 <!-- SUBTITLE: A quick summary of Modding -->
 
 # Installing Mods
-If you would just like to install existing mods, visit [beginners-guide.](beginners-guide)
+If you have no mods installed, visit [beginners-guide.](beginners-guide)
+To install other mods that you have downloaded or made, place the plugin into your `Plugins` folder within the Beat Saber install directory.
+See: [install folder.](/faq/install-folder)
 # Making Mods
 Beat Saber does not have built in mod support.
 Instead, all mods within the mod installer rely on IPA to load plugins into the game.
