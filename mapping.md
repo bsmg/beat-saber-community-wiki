@@ -39,3 +39,10 @@ Example track file: https://pastebin.com/rkZVSmte
 ## Where are custom maps saved?
 Custom maps are saved to the `CustomSongs` folder in your Beat Saber install folder.
 **Where is Beat Saber installed?** See [install folder.](faq/install-folder)
+
+## "Your audio file name is wrong" message in the Edit Saber
+The 3D Editor only supports `.ogg` files. You have to convert your file to Ogg Vorbis using a converter, such as Audacity.
+If you simply change the file extension to `.ogg`, it will not work.
+
+## How do I delay a song so that it doesn't start right when the level loads?
+Currently this isn't possible in Beat Saber. For now you have to edit the song in an audio editor *(such as Audacity)* to add silence at the beginning of the track.
