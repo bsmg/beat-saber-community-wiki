@@ -31,7 +31,7 @@ Asset replacement plugins go in the directory:
 | Steam | `steamapps\common\Beat Saber\Beat Saber_Data` |
 | Oculus | `hyperbolic-magnetism-beat-saber\Beat Saber_Data` |
 
-**Can't find your install directory?** See: [where is Beat Saber installed?](faq/install-folder)
+**Can't find your install directory?** See: [Beat Saber install folder](faq/install-folder)
 
 ## Custom sabers?
 ### How do I use custom sabers?
