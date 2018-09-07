@@ -6,6 +6,7 @@
 * [Modder's Guide](modding)
 * [Mapper's Guide](mapping)
 * [3D Models Guide](models)
+* [List of All Mods](modding/all-mods)
 * [FAQ](faq)
 # External Links
 * [Discord](https://discord.gg/beatsabermods)
