@@ -14,7 +14,6 @@ Follow these instructions to get mods working in Beat Saber!
 Mods are installed into the folder `Plugins` within your Beat Saber install directory.
 See [install location.](faq/install-folder)
 
-
 # How to uninstall mods
 **Currently the only way to uninstall a mod is to remove the dll from the `Plugins` folder.**
 |  |  |
