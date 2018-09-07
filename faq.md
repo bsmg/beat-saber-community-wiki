@@ -18,6 +18,7 @@ Follow the instructions in the [Beginners Guide](beginners-guide).
 After you have run the Mod Manager, you can then add other plugins / mods as well.
 Plugins / mods that aren't in the mod manager have to be placed manually in the following directories:
 
+
 `.dll` plugins go in the following directory:
 |  |  |
 | --- | --- |
@@ -29,6 +30,8 @@ Asset replacement plugins go in the directory:
 | --- | --- |
 | Steam | `steamapps\common\Beat Saber\Beat Saber_Data` |
 | Oculus | `hyperbolic-magnetism-beat-saber\Beat Saber_Data` |
+
+**Can't find your install directory?** See: [where is Beat Saber installed?](faq/install-folder)
 
 ## Custom sabers?
 ### How do I use custom sabers?
