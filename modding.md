@@ -4,8 +4,8 @@
 # Making Mods
 Beat Saber does not have built in mod support.
 Instead, all mods within the mod installer rely on IPA to load plugins into the game.
-* [Beat Saber Plugin Template](/uploads/modding/beat-saber-plugin-template.zip "Beat Saber Plugin Template")
-* [Making a basic mod](modding/example-mod)
+* [Beat Saber modding intro / template](modding/intro) (WIP)
+* [Making a basic mod](modding/example-mod) (WIP)
 * FAQ (TODO)
 # Plugins Index
 See: [All Plugins.](modding/all-plugins)
