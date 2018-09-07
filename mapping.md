@@ -37,5 +37,5 @@ Understanding the track JSON file: https://pastebin.com/cTPGrxWY
 Understanding the events data: https://docs.google.com/spreadsheets/d/1vCTlDvx0ZW8NkkZBYW6ecvXaVRxDUKX7QIoah9PCp_c/htmlview
 Example track file: https://pastebin.com/rkZVSmte
 ## Where are custom maps saved?
-Custom Maps are saved to the `CustomSongs` folder in your Beat Saber install folder.
+Custom maps are saved to the `CustomSongs` folder in your Beat Saber install folder.
 **Where is Beat Saber installed?** See [install folder.](faq/install-folder)
