@@ -1,4 +1,4 @@
-<!-- TITLE: Users Guide -->
+<!-- TITLE: Beginners Guide -->
 <!-- SUBTITLE: Getting Started -->
 
 # How to install mods
