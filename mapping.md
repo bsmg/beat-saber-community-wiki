@@ -2,14 +2,15 @@
 <!-- SUBTITLE: Too many anime maps? Not enough anime maps? Ready to take matters into your own hands? You've come to the right place. -->
 
 
-**The official editor has not been released.**
-All custom maps are being made using the community built map editors.
 # Tutorials and References
 * [BennyDaBeast's Mapping Tutorials](https://bsaber.com/benny-custom-mapping/)
 * [Freeek's Mapping and Editor Tutorials](https://www.youtube.com/playlist?list=PLYeZR6d3zDPgDgWogOwMteL-5SQWAE14b)
 * [Awfulnaut's Best Practices Guide](https://bit.ly/2LjbURw)
 * [M.Rappold's OST analysis](https://bit.ly/2lzzSxd)
 # Editors and Tools
+
+**The official editor has not been released.**
+All custom maps are being made using the community built map editors.
 There are currently 3 editors. All export the same files, but offer different workflows.
 ## Edit Saber
 A robust 3D track editor made in Unreal Engine by ikeiwa!
