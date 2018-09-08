@@ -26,16 +26,18 @@ https://beatmapper.surge.sh/
 
 ## Unofficial 2D Track Editor
 A 2D track editor made in Processing by Megalon!
-**Note: This is depreciated!**
+**Note: This is depreciated and there is very little support for this program, if any!**
 https://github.com/megalon/BeatSaber-UnofficialTrackEditor/releases
 
 # Frequently Asked Questions
 ## Do I need Beat Saber installed to use the editors?
 No. Edit Saber will ask for the Beat Saber directory, but it can be any folder.
+
 ## What if I want to make my own editor / converter?
 Understanding the track JSON file: https://pastebin.com/cTPGrxWY
 Understanding the events data: https://docs.google.com/spreadsheets/d/1vCTlDvx0ZW8NkkZBYW6ecvXaVRxDUKX7QIoah9PCp_c/htmlview
 Example track file: https://pastebin.com/rkZVSmte
+
 ## Where are custom maps saved?
 Custom maps are saved to the `CustomSongs` folder in your Beat Saber install folder.
 **Where is Beat Saber installed?** See [install folder.](faq/install-folder)
@@ -45,4 +47,8 @@ The 3D Editor only supports `.ogg` files. You have to convert your file to Ogg V
 If you simply change the file extension to `.ogg`, it will not work.
 
 ## How do I delay a song so that it doesn't start right when the level loads?
-Currently this isn't possible in Beat Saber. For now you have to edit the song in an audio editor *(such as Audacity)* to add silence at the beginning of the track.
+Currently this isn't possible in Beat Saber or the editors. For now you have to edit the song in an audio editor *(such as Audacity)* to add silence at the beginning of the track.
+
+## I'm having issues uploading the map to BeatSaver, it says the format is invalid but everything looks right.
+If you have Windows file extensions turned off, then you might have unknowingly saved your files with names like `cover.jpg.jpg`.  To turn off file extensions in Windows, see the following image:
+![File Extensions](/uploads/images/file-extensions.png "File Extensions")
