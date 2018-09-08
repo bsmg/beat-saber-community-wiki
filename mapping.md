@@ -6,7 +6,7 @@
 * [Freeek's Mapping and Editor Tutorials](https://www.youtube.com/playlist?list=PLYeZR6d3zDPgDgWogOwMteL-5SQWAE14b)
 * [Awfulnaut's Best Practices Guide](https://bit.ly/2LjbURw)
 * [M.Rappold's OST analysis](https://bit.ly/2lzzSxd)
-# Editors and Tools
+# Editors
 
 **The official editor has not been released.**
 All custom maps are being made using the community built map editors.
@@ -28,6 +28,20 @@ https://beatmapper.surge.sh/
 A 2D track editor made in Processing by Megalon!
 **Note: This is depreciated and there is very little support for this program, if any!**
 https://github.com/megalon/BeatSaber-UnofficialTrackEditor/releases
+
+# Other Tools
+## Lightmap
+A tool to automatically generate lighting events for a custom song!
+Get it here: https://github.com/recrudesce/lightmap/releases
+Explanation video and examples: https://youtu.be/MVatdcy7TPA
+
+## THE OSU! EDITOR
+You can use the osu! editor to help you with timing when creating your map. Here is a video tutorial by @Fayhe 
+https://www.youtube.com/watch?v=nIX0koHzW8c&t
+## VARIABLE BPM
+Currently variable BPM isn't supported by the game, but you can fake it by offsetting notes to fit the grid. @TehSuperToilet made a guide on how to do this. It is included in the following zip file.
+https://cdn.discordapp.com/attachments/443569023951568906/459771392054001664/bpm_changer.zip
+
 
 # Frequently Asked Questions
 ## Do I need Beat Saber installed to use the editors?
@@ -53,13 +67,3 @@ Currently this isn't possible in Beat Saber or the editors. For now you have to 
 If you have Windows file extensions turned off, then you might have unknowingly saved your files with names like `cover.jpg.jpg`.  To turn off file extensions in Windows, see the following image:
 
 ![File Extensions](/uploads/images/file-extensions.png "File Extensions")
-
-## Are there any other tools to help me make maps?
-
-VARIABLE BPM
-Currently variable BPM isn't supported by the game, but you can fake it by offsetting notes to fit the grid. @TehSuperToilet made a guide on how to do this. It is included in the following zip file.
-https://cdn.discordapp.com/attachments/443569023951568906/459771392054001664/bpm_changer.zip
-
-THE OSU! EDITOR
-You can use the osu! editor to help you with timing when creating your map. Here is a video tutorial by @Fayhe 
-https://www.youtube.com/watch?v=nIX0koHzW8c&t
