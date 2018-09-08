@@ -34,9 +34,12 @@ Asset replacement plugins go in the directory:
 **Can't find your install directory?** See: [Beat Saber install folder](faq/install-folder)
 
 ## Custom sabers?
+
 ### How do I use custom sabers?
-Here is a video tutorial https://youtu.be/dUzyochSTt4
-<!-- (Add link to #beginners-guide section here) -->
+Refer to the [custom sabers page](https://wiki.assistant.moe/models/custom-sabers#installation)
+
+You can also check out this [video](https://youtu.be/dUzyochSTt4){.youtube}
+
 
 ### How do I make custom sabers?
 Making custom sabers:
