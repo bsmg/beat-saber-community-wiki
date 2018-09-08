@@ -2,7 +2,24 @@
 <!-- SUBTITLE: An attempt to list all mods that exist for Beat Saber -->
 
 # Mods
-Many of these mods are available in the Mod Manager. For the ones that aren't, refer to [FAQ](faq#how-do-i-load-other-plugins). Mods without a [Usage] link simply have no configuration.
+Many of these mods are available via the [Mod Manager](beginners-guide#beat-saber-mod-manager) and it is highly recommended to install them this way to avoid any mishaps. For the ones that aren't, refer to [FAQ](faq#how-do-i-load-other-plugins). Mods without a [Usage] link do not require or support any configuration.
+
+## Core Plugins
+These 3 plugins will always be available via the [Mod Manager](beginners-guide#beat-saber-mod-manager).
+
+**Song Loader**
+Allows custom songs to be loaded into the game.
+[Release](https://www.modsaber.ml/mod/song-loader/4.3.2)
+
+**Score Saber**
+Adds leaderboards to custom songs.
+[Release](https://www.modsaber.ml/mod/scoresaber/1.7.2)
+
+**BeatSaver Downloader**
+Allows you to download and upvote/downvote songs from [BeatSaver](https://beatsaver.com/browse/downloads).
+[Release](https://www.modsaber.ml/mod/beatsaverdownloader/2.5.3) 
+
+
 ## Most Popular
 
 **Camera Plus**
@@ -24,6 +41,20 @@ Allows you to change the platform you stand on in the game.
 **Progress Counter**
 Displays the song progression, estimated letter grade and % of maximum score earned. 
 [Release](https://github.com/Strackeror/BeatSaberProgressCounter/releases)
+
+**Custom Colors**
+Allows you to change the default red-blue color schema to anything you want.
+[Release](https://github.com/SteffanDonal/BeatSaber-CustomColors/releases) [Usage](https://github.com/SteffanDonal/BeatSaber-CustomColors)
+
+## Other Plugins
+
+**Practice Plugin**
+Change the speed of the song in no-fail mode, and set a loop to practice.
+[Release](https://github.com/xyonico/PracticePlugin/releases)
+
+**Rainbow Mod**
+Randomizes the colors of the background lights.
+[Release](https://www.modsaber.ml/mod/simplestrainbowmod/1.0.1)
 
 
 # Other tools
