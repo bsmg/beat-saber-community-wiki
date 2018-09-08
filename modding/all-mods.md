@@ -2,6 +2,7 @@
 <!-- SUBTITLE: An attempt to list all mods that exist for Beat Saber -->
 
 # Mods
+Many of these mods are available in the Mod Manager. For the ones that aren't, refer to [FAQ](faq). Mods without a [Usage] link simply have no configuration.
 ## Most Popular
 
 **Camera Plus**
@@ -19,6 +20,11 @@ Allows you to use fullbody avatars.
 **Custom Platform**
 Allows you to change the platform you stand on in the game.
 [Release](https://github.com/rolopogo/CustomPlatforms/releases/) [Usage](https://wiki.assistant.moe/models/custom-platforms)
+
+**Progress Counter**
+Displays the song progression, estimated letter grade and % of maximum score earned. 
+[Release](https://github.com/Strackeror/BeatSaberProgressCounter/releases)
+
 
 # Other tools
 TODO
