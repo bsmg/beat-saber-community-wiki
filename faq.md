@@ -59,18 +59,17 @@ Use <kbd>PageUp</kbd> / <kbd>PageDown</kbd> to switch avatars in game.
 Use the <kbd>Home</kbd> key on your keyboard to toggle your avatar in first person view.
 
 ### How do I make Custom Avatars?
-
 Here is a full body avatar tutorial written by Assistant: https://bs.assistant.moe/Avatars/
 
 ## Multiplayer?
 Here is a guide to setup the multiplayer plugin: https://bs.assistant.moe/Multiplayer/
 
 ## My game updated and now none of my mods are working!
-Each time the game updates it is possible *(and very likely)* that mods will stop working and need to be updated.
+Each time the game updates it is possible *(and very likely)* that your existing will stop working and need to be updated.
 The devs realized this, so when the game updates and you run it for the first time, everything in the `Plugins` folder is moved into the `Incompatible Plugins` folder. **Leave those plugins in there!**
 
 To get mods back, simply **run the mod manager again.**
-The mod manager only includes mods that have been proven to be compatible with the latest version of the game!
+The mod manager only includes mods that have been confirmed to work on the latest version of the game!
 
 Get the mod manager from the [Beginners Guide](beginners-guide).
 
@@ -78,7 +77,7 @@ Get the mod manager from the [Beginners Guide](beginners-guide).
 > **DO NOT USE WRIST WEIGHTS!**
 {.is-danger}
 
-You will only hurt yourself. Besides, a lightsaber wouldn't be heavy, *it's made of light.*
+You will only hurt yourself. Besides, a lightsaber wouldn't be heavy, *it's made of plasma.*
 Please read [this comment](https://www.reddit.com/r/Vive/comments/8g9jgs/beat_saber_has_now_released/dya1yl7/) for more information.
 
 ## My game will not load!
