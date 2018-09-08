@@ -28,16 +28,6 @@ Asset replacement plugins go in the directory:
 
 **Can't find your install directory?** See: [Beat Saber install folder](faq/install-folder)
 
-## Custom sabers?
-
-Refer to the [custom sabers page](models/custom-sabers)
-
-## Custom avatars?
-
-### How do I use Custom Avatars?
-
-Refer to the [custom sabers page](models/custom-avatars)
-
 ## Multiplayer?
 Here is a guide to setup the multiplayer plugin: https://bs.assistant.moe/Multiplayer/
 
@@ -66,3 +56,14 @@ Try installing the [Song Loader](https://github.com/xyonico/BeatSaberSongLoader/
 
 ## I want to double the BPM of my song, is there an easy way to do that?
 Here is a [Python3 Script](https://cdn.discordapp.com/attachments/442372806705938434/447910905972523008/beat-saber-time-multiplier.zip) that will multiply the BPM and `_time` values in your JSON file by any given factor.
+
+## Why are the vote buttons greyed out in game?
+
+To vote on songs, you must have an account on Beat Saver, then input your access token in the modprefs file.
+
+`\Beat Saber\UserData\modprefs.ini`
+
+Change the value for: `apiAccessToken=replace-this-with-your-api-token`
+
+Use the value from your beatsaver account by going to the access tokens page on your profile.
+https://gyazo.com/46da60331d8bfabd4833ab85bcb73535
