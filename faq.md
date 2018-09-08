@@ -9,7 +9,7 @@ Follow the instructions in the [Beginners Guide](beginners-guide).
 [Beat Saver](https://beatsaver.com/)
 [Beast Saber](https://bsaber.com/)
 
-We also have a designated channel on the Modding Group Discord: [`#finished-maps`](https://discordapp.com/channels/441805394323439646/442342190060929055/)
+We also have a dedicated channel on the Modding Group Discord: [`#finished-maps`](https://discordapp.com/channels/441805394323439646/442342190060929055/)
 
 ## How do I load other plugins?
 Essential mods are included in the mod manager by Umbranoxio!
@@ -17,7 +17,6 @@ Follow the instructions in the [Beginners Guide](beginners-guide).
 
 After you have run the Mod Manager, you can then add other plugins / mods as well.
 Plugins / mods that aren't in the mod manager have to be placed manually in the following directories:
-
 
 `.dll` plugins go in the following directory:
 |  |  |
