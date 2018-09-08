@@ -1,4 +1,4 @@
-<!-- TITLE: Beat Saber Modding Group -->
+<!-- TITLE: Beat Saber Modding Community -->
 <!-- SUBTITLE: Welcome to the Beat Saber Modding Community Wiki! -->
 
 # Quick Links
