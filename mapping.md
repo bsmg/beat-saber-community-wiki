@@ -1,7 +1,6 @@
 <!-- TITLE: Mapping -->
 <!-- SUBTITLE: Too many anime maps? Not enough anime maps? Ready to take matters into your own hands? You've come to the right place. -->
 
-
 # Tutorials and References
 * [BennyDaBeast's Mapping Tutorials](https://bsaber.com/benny-custom-mapping/)
 * [Freeek's Mapping and Editor Tutorials](https://www.youtube.com/playlist?list=PLYeZR6d3zDPgDgWogOwMteL-5SQWAE14b)
@@ -12,6 +11,7 @@
 **The official editor has not been released.**
 All custom maps are being made using the community built map editors.
 There are currently 3 editors. All export the same files, but offer different workflows.
+
 ## Edit Saber
 A robust 3D track editor made in Unreal Engine by ikeiwa!
 *Most people use this editor.*
@@ -43,7 +43,7 @@ Custom maps are saved to the `CustomSongs` folder in your Beat Saber install fol
 **Where is Beat Saber installed?** See [install folder.](faq/install-folder)
 
 ## "Your audio file name is wrong" message in the Edit Saber
-The 3D Editor only supports `.ogg` files. You have to convert your file to Ogg Vorbis using a converter, such as Audacity.
+The 3D Editor only supports `.ogg` files. You have to convert your file to Ogg Vorbis using a converter, such as [Audacity](https://www.audacityteam.org/).
 If you simply change the file extension to `.ogg`, it will not work.
 
 ## How do I delay a song so that it doesn't start right when the level loads?
