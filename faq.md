@@ -2,7 +2,6 @@
 <!-- SUBTITLE: Frequently Asked Questions! -->
 # FAQ
 ## How do I load custom songs?
-Use the [Mod Manager](https://github.com/Umbranoxio/BeatSaberModInstaller/releases) by Umbranox! 
 Follow the instructions in the [Beginners Guide](beginners-guide).
 
 ## Where do I find custom songs?
@@ -11,14 +10,11 @@ Follow the instructions in the [Beginners Guide](beginners-guide).
 
 We also have a dedicated channel on the Modding Group Discord: [`#finished-maps`](https://discordapp.com/channels/441805394323439646/442342190060929055/)
 
-## How do I load other plugins?
-Essential mods are included in the mod manager by Umbranoxio!
-Follow the instructions in the [Beginners Guide](beginners-guide).
+## How do I load plugins that aren't in the Mod Manager?
 
-After you have run the Mod Manager, you can then add other plugins / mods as well.
-Plugins / mods that aren't in the mod manager have to be placed manually in the following directories:
+After you have run the Mod Manager, you can then add other plugins / mods in the following directory:
 
-`.dll` plugins go in the following directory:
+`.dll` plugins go in the directory:
 |  |  |
 | --- | --- |
 | Steam | `steamapps\common\Beat Saber\Plugins` |
@@ -34,31 +30,13 @@ Asset replacement plugins go in the directory:
 
 ## Custom sabers?
 
-### How do I use custom sabers?
-
-Refer to the [custom sabers page](https://wiki.assistant.moe/models/custom-sabers#installation)
-
-You can also check out this video
-[video](https://youtu.be/dUzyochSTt4){.youtube}
-
-### How do I make custom sabers?
-
-Making custom sabers:
-* [Written Tutorial](https://bs.assistant.moe/Sabers/)
-* [Video Tutorial](https://www.youtube.com/watch?v=mhMeR9CEUjk)
+Refer to the [custom sabers page](models/custom-sabers)
 
 ## Custom avatars?
 
 ### How do I use Custom Avatars?
 
-Follow the instructions included with the plugin:
-https://github.com/xyonico/CustomAvatarsPlugin/releases/latest
-
-Use <kbd>PageUp</kbd> / <kbd>PageDown</kbd> to switch avatars in game.
-Use the <kbd>Home</kbd> key on your keyboard to toggle your avatar in first person view.
-
-### How do I make Custom Avatars?
-Here is a full body avatar tutorial written by Assistant: https://bs.assistant.moe/Avatars/
+Refer to the [custom sabers page](models/custom-avatars)
 
 ## Multiplayer?
 Here is a guide to setup the multiplayer plugin: https://bs.assistant.moe/Multiplayer/
