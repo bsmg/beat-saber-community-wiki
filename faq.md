@@ -40,6 +40,12 @@ The mod manager only includes mods that have been confirmed to work on the lates
 
 Get the mod manager from the [Beginners Guide](beginners-guide).
 
+## How does the scoring system work in Beat Saber?
+
+Check out this video the devs released: https://twitter.com/beatsaber/status/992782948515622913?lang=en
+
+Here is an image of the hitboxes for the notes: https://twitter.com/Split82/status/979365834324889600
+
 ## Should I use wrist weights when I play?
 > **DO NOT USE WRIST WEIGHTS!**
 {.is-danger}
