@@ -14,6 +14,11 @@ Allows you to replace the default sabers with custom models.
 
 **Custom Avatar**
 Allows you to use fullbody avatars.
-https://github.com/xyonico/CustomAvatarsPlugin/releases
+[Release](https://github.com/xyonico/CustomAvatarsPlugin/releases) [Usage](https://wiki.assistant.moe/models/custom-avatars)
+
+**Custom Platform**
+Allows you to change the platform you stand on in the game.
+[Release](https://github.com/rolopogo/CustomPlatforms/releases/) [Usage](https://wiki.assistant.moe/models/custom-platforms)
+
 # Other tools
 TODO
