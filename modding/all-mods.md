@@ -2,7 +2,7 @@
 <!-- SUBTITLE: An attempt to list all mods that exist for Beat Saber -->
 
 # Mods
-Many of these mods are available in the Mod Manager. For the ones that aren't, refer to [FAQ](faq). Mods without a [Usage] link simply have no configuration.
+Many of these mods are available in the Mod Manager. For the ones that aren't, refer to [FAQ](faq#how-do-i-load-other-plugins). Mods without a [Usage] link simply have no configuration.
 ## Most Popular
 
 **Camera Plus**
