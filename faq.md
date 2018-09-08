@@ -48,22 +48,16 @@ Check out this video the devs released: https://twitter.com/beatsaber/status/992
 
 Here is an image of the hitboxes for the notes: https://twitter.com/Split82/status/979365834324889600
 
+## My game will not load!
+You may have a popup on your desktop asking about your Beat Saver auth token to vote on songs at the end of the game.
+If you don't care to vote on songs, simply click **"Cancel"** and the popup will not appear again.
+
 ## Should I use wrist weights when I play?
 > **DO NOT USE WRIST WEIGHTS!**
 {.is-danger}
 
 You will only hurt yourself. Besides, a lightsaber wouldn't be heavy, *it's made of plasma.*
 Please read [this comment](https://www.reddit.com/r/Vive/comments/8g9jgs/beat_saber_has_now_released/dya1yl7/) for more information.
-
-## My game will not load!
-You may have a popup on your desktop asking about your Beat Saver auth token to vote on songs at the end of the game.
-If you don't care to vote on songs, simply click **"Cancel"** and the popup will not appear again.
-
-## I tried to install mods via the Mod Installer but it gives me an error that it can't find the IPA.exe.
-Try installing the [Song Loader](https://github.com/xyonico/BeatSaberSongLoader/releases) on its own, then try running the Mod Manager again.
-
-## I want to double the BPM of my song, is there an easy way to do that?
-Here is a [Python3 Script](https://cdn.discordapp.com/attachments/442372806705938434/447910905972523008/beat-saber-time-multiplier.zip) that will multiply the BPM and `_time` values in your JSON file by any given factor.
 
 ## Why are the vote buttons greyed out in game?
 
@@ -75,3 +69,19 @@ Change the value for: `apiAccessToken=replace-this-with-your-api-token`
 
 Use the value from your beatsaver account by going to the access tokens page on your profile.
 https://gyazo.com/46da60331d8bfabd4833ab85bcb73535
+
+## "Failed to get version info!" in the Mod Manager
+
+This error means that the Mod Manager could not connect to https://modsaber.ml
+* Check your internet connection
+* Check if the website is reachable for you
+* Check that your firewall isn't blocking the Mod Manager from access the internet
+
+![Mod Manager Error](/uploads/faq/mod-manager-error.png "Mod Manager Error")
+
+## I tried to install mods via the Mod Installer but it gives me an error that it can't find the IPA.exe.
+Try installing the [Song Loader](https://github.com/xyonico/BeatSaberSongLoader/releases) on its own, then try running the Mod Manager again.
+
+## I want to double the BPM of my song, is there an easy way to do that?
+Here is a [Python3 Script](https://cdn.discordapp.com/attachments/442372806705938434/447910905972523008/beat-saber-time-multiplier.zip) that will multiply the BPM and `_time` values in your JSON file by any given factor.
+
