@@ -48,6 +48,22 @@ Allows you to change the default red-blue color schema to anything you want.
 
 ## Other Plugins
 
+**Beat Saber Tweaks**
+Allows you to customize many UI and gameplay elements of the game.
+[Release and Usage](https://www.modsaber.ml/mod/beatsabertweaks/)
+
+**SongBrowser**
+Filter songs by playlist, search, or favorites. Sort songs by author, song name, play count, difficulty available, random, newest.
+[Release](https://www.modsaber.ml/mod/songbrowserplugin/)
+
+**Custom Menu Music**
+Changes the music that plays in the Beat Saber menu.
+[Release and Usage](https://www.modsaber.ml/mod/custommenumusic/)
+
+**Hit-Score Visualizer**
+Colors the score popups that appear when hitting notes and adds judgment text above (or below) the score.
+[Release and Usage](https://www.modsaber.ml/mod/hitscorevisualizer/)
+
 **Practice Plugin**
 Change the speed of the song in no-fail mode, and set a loop to practice.
 [Release](https://www.modsaber.ml/mod/practice-plugin)
@@ -56,9 +72,7 @@ Change the speed of the song in no-fail mode, and set a loop to practice.
 Randomizes the colors of the background lights.
 [Release](https://www.modsaber.ml/mod/simplestrainbowmod/)
 
-**Hit-Score Visualizer**
-Colors the score popups that appear when hitting notes and adds judgment text above (or below) the score.
-[Release and Usage](https://www.modsaber.ml/mod/hitscorevisualizer/)
+
 
 # Other tools
 TODO
