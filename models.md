@@ -5,9 +5,9 @@
 The Custom Saber, Custom Avatar, and Custom Platform mods were all developed separately.
 The mods are discussed on their own pages, listed below.
 
-[Custom Sabers](/custom-avatars)
-[Custom Avatars](/custom-avatars)
-[Custom Platforms](/custom-platforms)
+[Custom Sabers](custom-avatars)
+[Custom Avatars](custom-avatars)
+[Custom Platforms](custom-platforms)
 
 # Where to find models
 Currently you can only get more Beat Saber compatible models from the following channels on the Beat Saber Modding Group Discord server.
