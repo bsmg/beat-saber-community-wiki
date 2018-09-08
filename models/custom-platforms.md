@@ -4,5 +4,5 @@
 TODO
 # Usage
 TODO
-# Creating Your Own
+# Creating your own platform
 TODO
