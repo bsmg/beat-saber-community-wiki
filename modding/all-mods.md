@@ -24,11 +24,11 @@ Allows you to download and upvote/downvote songs from [BeatSaver](https://beatsa
 
 **Camera Plus**
 Increases the FOV and smoothes the movement of the desktop window in first person mode, and also features a static third person camera mode.
-[Release](https://github.com/xyonico/CameraPlus/releases) [Usage](https://github.com/xyonico/CameraPlus)
+[Release and Usage](https://www.modsaber.ml/mod/camera-plus/)
 
 **Custom Saber**
 Allows you to replace the default sabers with custom models.
-[Release](https://github.com/Reaxt00/CustomSaberPlugin/releases/tag/2.0) [Usage](https://wiki.assistant.moe/models/custom-sabers)
+[Release](https://www.modsaber.ml/mod/custom-saber/) [Usage](https://wiki.assistant.moe/models/custom-sabers)
 
 **Custom Avatar**
 Allows you to use fullbody avatars.
@@ -36,7 +36,7 @@ Allows you to use fullbody avatars.
 
 **Custom Platform**
 Allows you to change the platform you stand on in the game.
-[Release](https://github.com/rolopogo/CustomPlatforms/releases/) [Usage](https://wiki.assistant.moe/models/custom-platforms)
+[Release](https://www.modsaber.ml/mod/custom-platforms/) [Usage](https://wiki.assistant.moe/models/custom-platforms)
 
 **Progress Counter**
 Displays the song progression, estimated letter grade and % of maximum score earned. 
@@ -44,21 +44,21 @@ Displays the song progression, estimated letter grade and % of maximum score ear
 
 **Custom Colors**
 Allows you to change the default red-blue color schema to anything you want.
-[Release](https://github.com/SteffanDonal/BeatSaber-CustomColors/releases) [Usage](https://github.com/SteffanDonal/BeatSaber-CustomColors)
+[Release and Usage](https://www.modsaber.ml/mod/customcolors/)
 
 ## Other Plugins
 
 **Practice Plugin**
 Change the speed of the song in no-fail mode, and set a loop to practice.
-[Release](https://github.com/xyonico/PracticePlugin/releases)
+[Release](https://www.modsaber.ml/mod/practice-plugin)
 
 **Rainbow Mod**
 Randomizes the colors of the background lights.
-[Release](https://www.modsaber.ml/mod/simplestrainbowmod/1.0.1)
+[Release](https://www.modsaber.ml/mod/simplestrainbowmod/)
 
 **Hit-Score Visualizer**
 Colors the score popups that appear when hitting notes and adds judgment text above (or below) the score.
-[Release](https://www.modsaber.ml/mod/hitscorevisualizer/2.0.2) [Usage](https://github.com/artemiswkearney/HitScoreVisualizer)
+[Release and Usage](https://www.modsaber.ml/mod/hitscorevisualizer/)
 
 # Other tools
 TODO
