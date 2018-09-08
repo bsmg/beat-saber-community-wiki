@@ -29,7 +29,9 @@ Asset replacement plugins go in the directory:
 **Can't find your install directory?** See: [Beat Saber install folder](faq/install-folder)
 
 ## Multiplayer?
-Here is a guide to setup the multiplayer plugin: https://bs.assistant.moe/Multiplayer/
+
+The official multiplayer has not been released, but you can use the multiplayer mod by Andruzzzhka.
+Here is a guide to set up the multiplayer mod: https://bs.assistant.moe/Multiplayer/
 
 ## My game updated and now none of my mods are working!
 Each time the game updates it is possible *(and very likely)* that your existing will stop working and need to be updated.
