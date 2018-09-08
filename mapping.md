@@ -53,3 +53,13 @@ Currently this isn't possible in Beat Saber or the editors. For now you have to 
 If you have Windows file extensions turned off, then you might have unknowingly saved your files with names like `cover.jpg.jpg`.  To turn off file extensions in Windows, see the following image:
 
 ![File Extensions](/uploads/images/file-extensions.png "File Extensions")
+
+## Are there any other tools to help me make maps?
+
+VARIABLE BPM
+Currently variable BPM isn't supported by the game, but you can fake it by offsetting notes to fit the grid. @TehSuperToilet made a guide on how to do this. It is included in the following zip file.
+https://cdn.discordapp.com/attachments/443569023951568906/459771392054001664/bpm_changer.zip
+
+THE OSU! EDITOR
+You can use the osu! editor to help you with timing when creating your map. Here is a video tutorial by @Fayhe 
+https://www.youtube.com/watch?v=nIX0koHzW8c&t
