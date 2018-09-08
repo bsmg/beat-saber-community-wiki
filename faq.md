@@ -36,18 +36,22 @@ Asset replacement plugins go in the directory:
 ## Custom sabers?
 
 ### How do I use custom sabers?
+
 Refer to the [custom sabers page](https://wiki.assistant.moe/models/custom-sabers#installation)
 
 You can also check out this video
 [video](https://youtu.be/dUzyochSTt4){.youtube}
 
 ### How do I make custom sabers?
+
 Making custom sabers:
 * [Written Tutorial](https://bs.assistant.moe/Sabers/)
 * [Video Tutorial](https://www.youtube.com/watch?v=mhMeR9CEUjk)
 
 ## Custom avatars?
+
 ### How do I use Custom Avatars?
+
 Follow the instructions included with the plugin:
 https://github.com/xyonico/CustomAvatarsPlugin/releases/latest
 
@@ -55,6 +59,7 @@ Use <kbd>PageUp</kbd> / <kbd>PageDown</kbd> to switch avatars in game.
 Use the <kbd>Home</kbd> key on your keyboard to toggle your avatar in first person view.
 
 ### How do I make Custom Avatars?
+
 Here is a full body avatar tutorial written by Assistant: https://bs.assistant.moe/Avatars/
 
 ## Multiplayer?
