@@ -84,13 +84,8 @@ Please read [this comment](https://www.reddit.com/r/Vive/comments/8g9jgs/beat_sa
 You may have a popup on your desktop asking about your Beat Saver auth token to vote on songs at the end of the game.
 If you don't care to vote on songs, simply click **"Cancel"** and the popup will not appear again.
 
-## My game launches, then instantly closes!
-Check your plugins folder for `BeepBoop.dll`. This was a troll plugin designed to do exactly that.
-Simply delete the `.dll` to fix it.
-See [beginners Guide](beginners-guide) for help.
-
 ## I tried to install mods via the Mod Installer but it gives me an error that it can't find the IPA.exe.
-Try installing the [Song Injector](https://github.com/xyonico/BeatSaberSongInjector/releases) separately, then try running the Mod Manager again.
+Try installing the [Song Loader](https://github.com/xyonico/BeatSaberSongLoader/releases) on its own, then try running the Mod Manager again.
 
 ## I want to double the BPM of my song, is there an easy way to do that?
 Here is a [Python3 Script](https://cdn.discordapp.com/attachments/442372806705938434/447910905972523008/beat-saber-time-multiplier.zip) that will multiply the BPM and `_time` values in your JSON file by any given factor.
