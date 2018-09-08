@@ -56,6 +56,9 @@ Change the speed of the song in no-fail mode, and set a loop to practice.
 Randomizes the colors of the background lights.
 [Release](https://www.modsaber.ml/mod/simplestrainbowmod/1.0.1)
 
+**Hit-Score Visualizer**
+Colors the score popups that appear when hitting notes and adds judgment text above (or below) the score.
+[Release](https://www.modsaber.ml/mod/hitscorevisualizer/2.0.2) [Usage](https://github.com/artemiswkearney/HitScoreVisualizer)
 
 # Other tools
 TODO
