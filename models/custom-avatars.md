@@ -3,10 +3,10 @@
 # Installing
 The latest Custom Avatar plugin can be found in this [Github](https://github.com/xyonico/CustomAvatarsPlugin/releases/latest).
 Download the zip file called `CustomAvatarsPlugin`, and extract it into [your install folder](/FAQ/install-folder). 
-Once installed you should see a file called `CustomAvatar.dll` inside your `Plugins` folder. You should also see a folder called `CustomAvatars` in the main install folder -- this is where you will be placing the `*.avatar` files you want to use. 
+Once installed you should see a file called `CustomAvatar.dll` inside your `Plugins` folder. You should also see a folder called `CustomAvatars` in the main install folder—this is where you will be placing the `*.avatar` files you want to use. 
 
 # Usage
-The plugin uses the keyboard to change the settings. Make sure you have the game focused.
+The plugin uses the keyboard to change the settings. Make sure you have the game in focus, i.e. click on the desktop game window.
 |    Key    | Description                                |
 |:---------:|--------------------------------------------|
 |  Page Up  | Cycles to the next avatar in your list     |
