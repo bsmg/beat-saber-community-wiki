@@ -1,8 +1,8 @@
 <!-- TITLE: Models -->
-<!-- SUBTITLE:  -->
+<!-- SUBTITLE: Bring custom 3D Models into Beat Saber! -->
 
 # Info
-The Custom Saber, Custom Avatar, and Custom Platform mods are all different.
+The Custom Saber, Custom Avatar, and Custom Platform mods were all developed separately.
 The mods are discussed on their own pages, listed below.
 
 [Custom Sabers](/custom-avatars)
