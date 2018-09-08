@@ -5,7 +5,7 @@
 The Custom Saber, Custom Avatar, and Custom Platform mods were all developed separately.
 The mods are discussed on their own pages, listed below.
 
-[Custom Sabers](models/custom-avatars)
+[Custom Sabers](models/custom-sabers)
 [Custom Avatars](models/custom-avatars)
 [Custom Platforms](models/custom-platforms)
 
