@@ -40,8 +40,7 @@ You can use the osu! editor to help you with timing when creating your map. Here
 https://www.youtube.com/watch?v=nIX0koHzW8c&t
 
 ## VARIABLE BPM
-Currently variable BPM isn't supported by the game, but you can fake it by offsetting notes to fit the grid. TehSuperToilet made a guide on how to do this. It is included in the following zip file.
-https://cdn.discordapp.com/attachments/443569023951568906/459771392054001664/bpm_changer.zip
+Currently variable BPM isn't supported by the game, but you can fake it by offsetting notes to fit the grid. TehSuperToilet made a guide on how to do this. [It is included in this zip file.](https://cdn.discordapp.com/attachments/443569023951568906/459771392054001664/bpm_changer.zip)
 
 # Frequently Asked Questions
 ## Do I need Beat Saber installed to use the editors?
