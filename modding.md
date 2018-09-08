@@ -1,5 +1,5 @@
-<!-- TITLE: Modding Reference -->
-<!-- SUBTITLE: A quick summary of Modding -->
+<!-- TITLE: Modding -->
+<!-- SUBTITLE: Instructions for modding Beat Saber -->
 
 # Installing Mods
 If you have no mods installed, visit [beginners-guide.](beginners-guide)
