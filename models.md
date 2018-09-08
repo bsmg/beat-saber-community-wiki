@@ -15,4 +15,4 @@ Currently you can only get more Beat Saber compatible models from the following 
 [#finished-avatars](https://discordapp.com/channels/441805394323439646/450344263453245440/)
 [#finished-platforms](https://discordapp.com/channels/441805394323439646/452948292641488897/)
 
-We understand that this is inconvenient, and we are working on hosting these files on either Beast Saber, ModSaber, or Beat Saver.
+We are working on hosting these files on either Beast Saber, ModSaber, or Beat Saver.
