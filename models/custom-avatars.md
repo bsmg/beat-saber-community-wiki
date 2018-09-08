@@ -13,4 +13,5 @@ The plugin uses the keyboard to change the settings. Make sure you have the game
 |    Home   | Toggles first person view (HMD)            |
 Note: Some avatars were not made with first person view in mind, so they might block your vision if enabled.
 # Creating your own avatar
-[Assistant's Avatar Guide](https://bs.assistant.moe/Avatars) is a good resource for learning how to make your own avatar. It includes a [short video narrated by Megalon](https://bs.assistant.moe/Avatars#Videos), however it is not as in depth and you should watch it in adition to reading the guide, not instead of.
+[Assistant's Avatar Guide](https://bs.assistant.moe/Avatars) is a good resource for learning how to make your own avatar.
+The guide includes a [short video narrated by Megalon](https://bs.assistant.moe/Avatars#Videos), however it is not as in depth and you should watch it in addition to reading the guide, not instead of.
