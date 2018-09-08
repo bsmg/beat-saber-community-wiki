@@ -38,8 +38,8 @@ Asset replacement plugins go in the directory:
 ### How do I use custom sabers?
 Refer to the [custom sabers page](https://wiki.assistant.moe/models/custom-sabers#installation)
 
-You can also check out this [video](https://youtu.be/dUzyochSTt4){.youtube}
-
+You can also check out this video
+[video](https://youtu.be/dUzyochSTt4){.youtube}
 
 ### How do I make custom sabers?
 Making custom sabers:
