@@ -10,7 +10,7 @@ Can't find where Beat Saber is installed? See: [install folder.](/faq/install-fo
 Beat Saber does not have built in mod support.
 Instead, all mods within the mod installer rely on IPA (Illusion Plugin Architecture) to inject plugins into the game.
 * [Beat Saber modding intro / template](modding/intro) (WIP)
-* [Making a basic mod](modding/example-mod) (WIP)
+* [Making a basic mod](modding/example-mod) (TODO)
 * FAQ (TODO)
 # Mods Index
 See: [All Mods.](modding/all-mods)
