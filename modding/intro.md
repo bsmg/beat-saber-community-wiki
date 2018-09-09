@@ -28,9 +28,16 @@ To rename the assembly:
 
 ![Modding Plugin Properties](/uploads/modding/modding-plugin-properties.png "Modding Plugin Properties")
 
-# Fixing references
+# Check out the code
 
-You will likely need to "fix" the references within the project, because visual studio will not find them.
+In the solution explorer, double click on `Plugin.cs` to open it up.
+You should see something like this.
+
+![Plugin Cs Example](/uploads/modding/plugin-cs-example.png "Plugin Cs Example")
+
+Note the red squiggly underlines. This is becuase Visual Studio can't find our references.
+
+# Fixing references
 
 To do this, right click on `References` in the Solution Explorer, and select `Add Reference...`
 
@@ -42,10 +49,9 @@ Most of these files will be located within `\\<Beat Saber directory\>\Beat Saber
 **Can't find your Beat Saber directory?** See [install folder](/faq/install-folder).
 
 # Compiling the plugin
-If you have fixed all of the references in the project, on the top menu bar press `Build -> Build Solution`
-Or <kbd>CTLR + SHIFT + B</kbd>
+If you have fixed all of the references in the project, on the top menu bar press `Build -> Build Solution` or <kbd>CTLR + SHIFT + B</kbd>
 
-Your compiled DLL should appear in the `BIN -> Debug` folder of your project.
+Your compiled DLL should appear in the `\Bin\Debug` folder of your project.
 
 You can then copy this DLL into the `Plugins` folder within your Beat Saber directory.
 
