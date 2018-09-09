@@ -15,5 +15,4 @@ It was originally created to replace the #beginners-guide and #faq channels of t
 
 ## Tools
 This wiki was created using [wiki.js](https://wiki.js.org/)
-
 Source control is contained within [this git repo](https://github.com/megalon/beat-saber-community-wiki)
