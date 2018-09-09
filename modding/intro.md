@@ -27,9 +27,16 @@ To rename the assembly:
 ![Modding Plugin Properties](/uploads/modding/modding-plugin-properties.png "Modding Plugin Properties")
 
 # Fixing references
-TODO
 
+You will likely need to "fix" the references within the project, because visual studio will not find them.
 
+To do this, right click on `References` in the Solution Explorer, and select `Add Reference...`
+
+![Add Reference](/uploads/modding/add-a-ref.png "Add Reference")
+
+This will open the Reference Manager window, and you can browse to find the DLL files that are missing.
+Most of these files will be located within `\\<Beat Saber Directory\>\Beat Saber_Data\Managed`
+Where is Beat Saber installed? See [install folder](faq\install-folder).
 
 # Compiling the plugin
 If you have fixed all of the references in the project, on the top menu bar press `Build -> Build Solution`
