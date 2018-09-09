@@ -7,8 +7,8 @@ Download the [Beat Saber Plugin Template](/uploads/modding/beat-saber-plugin-tem
 Download [dnSpy](https://github.com/0xd4d/dnSpy)
 # Template setup
 Install Instructions:
-1. Open C:\Users\<Username>\Documents\Visual Studio 2017\Templates\ProjectTemplates.
-2. Drop in Beat Saber Plugin Template.zip.
+1. Open C:\Users\\<Username\>\Documents\Visual Studio 2017\Templates\ProjectTemplates.
+2. Drop in `beat-saber-plugin-template.zip`
 
 The default assembly name is `Unnamed Assembly`
 To rename the assembly:
