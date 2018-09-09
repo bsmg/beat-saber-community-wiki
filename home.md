@@ -8,6 +8,7 @@
 * [3D Models Guide](models)
 * [List of All Mods](modding/all-mods)
 * [FAQ](faq)
+* [About](about)
 # External Links
 * [Discord](https://discord.gg/beatsabermods)
 * [BeatSaver](https://beatsaver.com/)
