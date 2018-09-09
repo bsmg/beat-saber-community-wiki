@@ -18,9 +18,20 @@ Can't find where Beat Saber is installed? See [install folder.](faq/install-fold
 
 # How to get more songs
 The Mod Manager includes the `Song Loader Plugin`, which enables you to load more songs into the game, but only includes one test song.
+
+## Ingame Downloader
 The Mod Manager also includes the `BeatSaver Downloader` Plugin, which allows you to download beatmaps in-game using the `BEATSAVER` menu button on the main menu screen. This pulls beatmaps directly from www.beatsaver.com
 
-You can also manually place beatmaps into the `CustomSongs` folder in your Beat Saber directory. See [install folder](FAQ/install-folder).
+## Beat Saver
+[Beat Saver](www.beatsaver.com) holds nearly all custom songs/beatmaps for Beat Saber.
+You can also manually place the zip files downloaded from Beat Saver into the `CustomSongs` folder in your Beat Saber directory. 
+See [install folder](FAQ/install-folder).
+
+## Beast Saber
+[Beast Saber](www.bsaber.com) is a review site that aims to curate all of the songs on Beat Saver.
+
+## Beat Drop
+[Beat Drop](https://bsaber.com/beatdrop/) is a desktop application that allows you to download songs, and create playlists as well.
 
 # How to uninstall mods
 **Currently the only way to uninstall a mod is to remove the dll from the `Plugins` folder.**
