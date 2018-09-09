@@ -24,6 +24,8 @@ To rename the assembly:
 2. Change the text in the textbox Assembly name.
 
 
+![Modding Plugin Properties](/uploads/modding/modding-plugin-properties.png "Modding Plugin Properties")
+
 # Fixing references
 TODO
 
