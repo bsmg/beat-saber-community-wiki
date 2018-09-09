@@ -23,11 +23,13 @@ To rename the assembly:
 1. In the Solution Explorer panel, double click on Properties.
 2. Change the text in the textbox Assembly name.
 
-
+![Modding Plugin Prop Selected](/uploads/modding/modding-plugin-prop-selected.png "Modding Plugin Prop Selected")
 ![Modding Plugin Properties](/uploads/modding/modding-plugin-properties.png "Modding Plugin Properties")
 
 # Fixing references
 TODO
+
+
 
 # Compiling the plugin
 If you have fixed all of the references in the project, on the top menu bar press `Build -> Build Solution`
