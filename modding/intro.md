@@ -36,7 +36,7 @@ To do this, right click on `References` in the Solution Explorer, and select `Ad
 
 This will open the Reference Manager window, and you can browse to find the DLL files that are missing.
 Most of these files will be located within `\\<Beat Saber Directory\>\Beat Saber_Data\Managed`
-Where is Beat Saber installed? See [install folder](faq\install-folder).
+Where is Beat Saber installed? See [install folder](/faq/install-folder).
 
 # Compiling the plugin
 If you have fixed all of the references in the project, on the top menu bar press `Build -> Build Solution`
