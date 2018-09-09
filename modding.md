@@ -8,7 +8,7 @@ To install other mods that you have downloaded or made, place the plugin into yo
 Can't find where Beat Saber is installed? See: [install folder.](/faq/install-folder)
 # Making Mods
 Beat Saber does not have built in mod support.
-Instead, all mods within the mod installer rely on IPA to load plugins into the game.
+Instead, all mods within the mod installer rely on IPA (Illusion Plugin Architecture) to inject plugins into the game.
 * [Beat Saber modding intro / template](modding/intro) (WIP)
 * [Making a basic mod](modding/example-mod) (WIP)
 * FAQ (TODO)
