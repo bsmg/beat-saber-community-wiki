@@ -21,9 +21,11 @@ Create a new project using the template.
 The default assembly name is `UnnamedAssembly`
 To rename the assembly:
 1. In the Solution Explorer panel, double click on Properties.
-2. Change the text in the textbox Assembly name.
 
 ![Modding Plugin Prop Selected](/uploads/modding/modding-plugin-prop-selected.png "Modding Plugin Prop Selected")
+
+2. Change the text in the textbox Assembly name.
+
 ![Modding Plugin Properties](/uploads/modding/modding-plugin-properties.png "Modding Plugin Properties")
 
 # Fixing references
@@ -35,8 +37,9 @@ To do this, right click on `References` in the Solution Explorer, and select `Ad
 ![Add Reference](/uploads/modding/add-a-ref.png "Add Reference")
 
 This will open the Reference Manager window, and you can browse to find the DLL files that are missing.
-Most of these files will be located within `\\<Beat Saber Directory\>\Beat Saber_Data\Managed`
-Where is Beat Saber installed? See [install folder](/faq/install-folder).
+Most of these files will be located within `\\<Beat Saber directory\>\Beat Saber_Data\Managed`
+
+**Can't find your Beat Saber directory?** See [install folder](/faq/install-folder).
 
 # Compiling the plugin
 If you have fixed all of the references in the project, on the top menu bar press `Build -> Build Solution`
@@ -45,5 +48,6 @@ Or <kbd>CTLR + SHIFT + B</kbd>
 Your compiled DLL should appear in the `BIN -> Debug` folder of your project.
 
 You can then copy this DLL into the `Plugins` folder within your Beat Saber directory.
+
 # Moving forward
 Check out the [example mod](example-mod) tutorial.
