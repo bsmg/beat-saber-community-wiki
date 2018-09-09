@@ -54,14 +54,5 @@ Your compiled DLL should appear in the `\Bin\Debug` folder of your project.
 
 You can then copy this DLL into the `Plugins` folder within your Beat Saber directory.
 
-# Using dnSpy
-
-Download the [latest release of dnSpy](https://github.com/0xd4d/dnSpy/releases/latest)
-
-Open dnSpy and drop in the file `\<Beat Saber Directory>\Beat Saber_Data\Managed\Assembly-CSharp.dll`
-This will allow you to see you nearly all of the games' code, translated back into C#.
-
-![Dnspy Example](/uploads/modding/dnspy-example.png "Dnspy Example")
-
 # Moving forward
 Check out the [example mod](example-mod) tutorial.
