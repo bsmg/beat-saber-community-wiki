@@ -74,8 +74,8 @@ https://gyazo.com/46da60331d8bfabd4833ab85bcb73535
 
 This error means that the Mod Manager could not connect to https://modsaber.ml
 * Check your internet connection
-* Check if the website is reachable for you
-* Check that your firewall isn't blocking the Mod Manager from access the internet
+* Check if the website is reachable for you (click the link above)
+* Check that your firewall isn't blocking the Mod Manager from accessing the internet
 
 ![Mod Manager Error](/uploads/faq/mod-manager-error.png "Mod Manager Error")
 
