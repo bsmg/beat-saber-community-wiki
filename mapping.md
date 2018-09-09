@@ -66,3 +66,5 @@ Currently this isn't possible in Beat Saber or the editors. For now you have to 
 If you have Windows file extensions turned off, then you might have unknowingly saved your files with names like `cover.jpg.jpg`.  To turn off file extensions in Windows, see the following image:
 
 ![File Extensions](/uploads/images/file-extensions.png "File Extensions")
+## I want to double the BPM of my song, is there an easy way to do that?
+Here is a [Python3 Script](https://cdn.discordapp.com/attachments/442372806705938434/447910905972523008/beat-saber-time-multiplier.zip) that will multiply the BPM and `_time` values in your JSON file by any given factor.
