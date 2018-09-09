@@ -82,6 +82,4 @@ This error means that the Mod Manager could not connect to https://modsaber.ml
 ## I tried to install mods via the Mod Installer but it gives me an error that it can't find the IPA.exe.
 Try installing the [Song Loader](https://github.com/xyonico/BeatSaberSongLoader/releases) on its own, then try running the Mod Manager again.
 
-## I want to double the BPM of my song, is there an easy way to do that?
-Here is a [Python3 Script](https://cdn.discordapp.com/attachments/442372806705938434/447910905972523008/beat-saber-time-multiplier.zip) that will multiply the BPM and `_time` values in your JSON file by any given factor.
 
