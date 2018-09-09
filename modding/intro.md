@@ -3,7 +3,7 @@
 
 # Intro
 Beat Saber is made in Unity 2018 using C# with .NET framework 4.6.
-For convenience, RQ has created a plugin template that for Visual studio. This guide will show you how to setup that template.
+For convenience, RQ has created a plugin template for Visual studio. This guide will show you how to setup that template.
 
 Download the latest version of [Visual Studio Community.](https://visualstudio.microsoft.com/)
 Download the [Beat Saber Plugin Template](/uploads/modding/beat-saber-plugin-template.zip "Beat Saber Plugin Template") by RQ.
