@@ -28,10 +28,10 @@ You can also manually place the zip files downloaded from Beat Saver into the `C
 See [install folder](FAQ/install-folder).
 
 ## Beast Saber
-[Beast Saber](www.bsaber.com) is a review site that aims to curate all of the songs on Beat Saver.
+[Beast Saber](https://www.bsaber.com) is a review site that aims to curate all of the songs on Beat Saver!
 
 ## Beat Drop
-[Beat Drop](https://bsaber.com/beatdrop/) is a desktop application that allows you to download songs, and create playlists as well.
+[Beat Drop](https://bsaber.com/beatdrop/) is a desktop application that allows you to download songs, and create playlists as well!
 
 # How to uninstall mods
 **Currently the only way to uninstall a mod is to remove the dll from the `Plugins` folder.**
