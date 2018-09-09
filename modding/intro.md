@@ -17,10 +17,12 @@ To rename the assembly:
 
 # Fixing references
 TODO
-# Using dnSpy
-TODO
 # Compiling the plugin
-TODO
+If you have fixed all of the references in the project, on the top menu bar press `Build -> Build Solution`
+Or <kbd>CTLR + SHIFT + B</kbd>
 
+Your compiled DLL should appear in the `BIN -> Debug` folder of your project.
+
+You can then copy this DLL into the `Plugins` folder within your Beat Saber directory.
 # Moving forward
 Check out the [example mod](example-mod) tutorial.
