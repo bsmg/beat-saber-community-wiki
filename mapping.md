@@ -5,7 +5,7 @@
 * [BennyDaBeast's Mapping Tutorials](https://bsaber.com/benny-custom-mapping/)
 * [Freeek's Mapping and Editor Tutorials](https://www.youtube.com/playlist?list=PLYeZR6d3zDPgDgWogOwMteL-5SQWAE14b)
 * [Awfulnaut's Best Practices Guide](https://bit.ly/2LjbURw)
-* [M.Rappold's OST analysis](https://bit.ly/2lzzSxd)
+* [M.Rappold's OST Analysis Spreadsheet](https://bit.ly/2lzzSxd)
 # Editors
 
 **The official editor has not been released.**
