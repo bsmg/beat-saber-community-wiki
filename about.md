@@ -7,7 +7,7 @@ It was originally created to replace the #beginners-guide and #faq channels of t
 # Credits
 ## Wiki Admins
 **Megalon** -- *Initial creation and editing*
-**lolPants** -- *Technical support and managment*
+**lolPants** -- *Technical support and management*
 **williums** -- *Wiki structuring and sanity check*
 **Assistant** -- *Tutorial Wizard's Apprentice*
 
