@@ -118,7 +118,16 @@ For all you streamers out there who want song requests in your chat!
 [Release and Usage](https://www.modsaber.ml/mod/twitch-integration)
 
 **Beat Singer**
-
+Displays floating lyrics while playing the game.
 [Release](https://github.com/6A/BeatSinger/releases) [Usage](https://github.com/6A/BeatSinger)
+
+**Multi-View**
+Adds a smaller first-person "window" on top of the desktop camera to let you record both first and third person perspectives with CameraPlus.
+[Release and Usage](https://www.realitys.space/BeatSaber/Guides/MultiView/)
+
+**Twitch Chat IRC**
+Display Twitch chat in-game, and allows you to send responses without taking your headset off.
+[Release and Usage](https://www.realitys.space/BeatSaber/Guides/TwitchChat/)
+
 # Other tools
 TODO
