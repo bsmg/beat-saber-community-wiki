@@ -60,19 +60,62 @@ Filter songs by playlist, search, or favorites. Sort songs by author, song name,
 Changes the music that plays in the Beat Saber menu.
 [Release and Usage](https://www.modsaber.ml/mod/custommenumusic/)
 
+**Custom Menu Text**
+Changes the game's title in the main menu.
+[Release and Usage](https://www.modsaber.ml/mod/custommenutext/)
+
+**Darth Maul Plugin**
+Double-sided saber mod.
+[Release and Usage](https://www.modsaber.ml/mod/darthmaul/)
+
+**Discord Rich Presence Plugin**
+Enables Discord Rich Presence for Beat Saber.
+[Release and Usage](https://www.modsaber.ml/mod/discord-presence/)
+
+**Full Combo Display**
+Display a ring around your multiplier if you haven't missed yet.
+[Release and Usage](https://www.modsaber.ml/mod/fullcombodisplay/)
+
+**Hidden Blocks**
+Makes any notes/bombs disappear when they come within range of your player
+[Release and Usage](https://www.modsaber.ml/mod/hiddenblocks/)
+
+**Hit Swap**
+Forces the hit directions of notes to directions (and modes) of your choosing.
+[Release and Usage](https://www.modsaber.ml/mod/hitswap/)
+
 **Hit-Score Visualizer**
 Colors the score popups that appear when hitting notes and adds judgment text above (or below) the score.
 [Release and Usage](https://www.modsaber.ml/mod/hitscorevisualizer/)
 
+**HTTP Status**
+Exposes information about the current game status, to be used to build custom stream overlays or track player performance.
+[Release and Usage](https://www.modsaber.ml/mod/http-status/)
+
 **Practice Plugin**
 Change the speed of the song in no-fail mode, and set a loop to practice.
-[Release](https://www.modsaber.ml/mod/practice-plugin)
+[Release](https://www.modsaber.ml/mod/practice-plugin/)
 
-**Rainbow Mod**
+**Random Song**
+Select and play a song at random.
+[Release and Usage](https://www.modsaber.ml/mod/randomsong/)
+
+**Simplest Rainbow Mod**
 Randomizes the colors of the background lights.
 [Release](https://www.modsaber.ml/mod/simplestrainbowmod/)
 
+**Saber Tailor**
+Tweak almost everything about your sabers, including length, grip, and trail length.
+[Release and Usage](https://www.modsaber.ml/mod/sabertailor/)
 
+**Transparent Walls**
+A plugin that make the walls transparent in your cameras.
+***Note:** You must be in No-Fail mode to enable transparent walls in the headset.*
+[Release and Usage](https://www.modsaber.ml/mod/transparentwall/)
+
+**Twitch Integraction**
+For all you streamers out there who want song requests in your chat!
+[Release and Usage](https://www.modsaber.ml/mod/twitch-integration/)
 
 # Other tools
 TODO
