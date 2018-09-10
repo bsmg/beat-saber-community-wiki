@@ -129,5 +129,26 @@ Adds a smaller first-person "window" on top of the desktop camera to let you rec
 Display Twitch chat in-game, and allows you to send responses without taking your headset off.
 [Release and Usage](https://www.realitys.space/BeatSaber/Guides/TwitchChat/)
 
+**Stream Info**
+Output BeatSaber game data to an external overlay to be used on stream.
+[Release](https://github.com/bigfoott/BeatSaberStreamInfo/releases) [Usage](https://github.com/bigfoott/BeatSaberStreamInfo)
+
+**Song Status**
+Writes currently playing song status to a text file that can be read by programs like OBS.
+[Release](https://github.com/OshiHidra/SongStatus/releases) [Usage](https://github.com/OshiHidra/SongStatus)
+
+**Tilted**
+A plugin that fucks up the scene when you fuck up.
+[Release](https://github.com/Caeden117/BeatSaberTilted/releases) [Usage](https://github.com/Caeden117/BeatSaberTilted)
+
+**Perfection Display**
+Displays how well you hit various notes within a range.
+[Release and Usage](https://github.com/monkeymanboy/BeatSaberPerfectionDisplay/releases)
+
+**OnHit**
+Allows you to change the sounds for the hit sounds in game, including all kinds of Bad Cuts, Short Hits, and Long Hits. 
+[Release and Usage](https://discordapp.com/channels/441805394323439646/473162851666886676/484797887814041615)
+
+
 # Other tools
 TODO
