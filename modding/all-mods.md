@@ -149,6 +149,27 @@ Displays how well you hit various notes within a range.
 Allows you to change the sounds for the hit sounds in game, including all kinds of Bad Cuts, Short Hits, and Long Hits. 
 [Release and Usage](https://discordapp.com/channels/441805394323439646/473162851666886676/484797887814041615)
 
+**BeepBoopv2**
+Beep Boop
+[Release](https://cdn.discordapp.com/attachments/473162851666886676/484863513563627531/BeepBoopV2.dll)
+
+**BASSSABER**
+Dont
+[Release](https://cdn.discordapp.com/attachments/473162851666886676/484421756770320394/BASSSABER.dll)
+
+**wddada wDD.AD.A**
+wddada
+[Release](https://cdn.discordapp.com/attachments/473162851666886676/483198154385129473/wddada.zip)
+
+**Bail Out**
+Stops your game from ending if your energy drops to 0 and will instead switch you to No Fail mode.
+[Release](https://github.com/JumpmanSr/BailOutMode/releases)
+
+
 
 # Other tools
-TODO
+**Beat Saber Custom Playlist Complier**
+Automatically convert Youtube or Spotify playlists to BeatDrop playlists.
+[Release](https://bscustomplaylistcompiler.github.io/)
+
+
