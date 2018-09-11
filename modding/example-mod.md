@@ -14,7 +14,7 @@ You can also use dnSpy to view the code of plugins, even those that have not yet
 
 ![Dnspy Example](/uploads/modding/dnspy-example.png "Dnspy Example")
 # Plugin Beginnings
-> This section is a work in progress. Until this message disappears, this page is most likely not finished.
+> **This section is a work in progress. Until this message disappears, this page is most likely not finished.**
 {.is-danger}
 
 If you followed the [template setup guide](/modding/intro), you should end up with something similar to the following below:
