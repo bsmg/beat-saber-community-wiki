@@ -36,7 +36,7 @@ In this example, we will work on a basic plugin that counts how many notes we mi
 {.is-danger}
 Before we begin with our plugin, it is important to create some variables that will help us later in development:
 
-![Plugin Variables](/uploads/modding-example/plugin-variables.png "Plugin Variables")
+![Plugin Variables](/uploads/modding-example/plugin-variables-setup.png "Plugin Variables")
 *(Courtesy of [Beat Saber Progress Counter](https://github.com/Strackeror/BeatSaberProgressCounter/))*
 
 `env` | The `0.11.2` patch of Beat Saber brought with it a different way the game loads scenes. Instead of one "master" scene, it is split up into different scenes depending on the environment. We will detect if the game is played a game based off the name of the scene.
@@ -49,9 +49,17 @@ Before we begin with our plugin, it is important to create some variables that w
 # Creating a GameObject
 We will write little code inside of `Plugin.cs`. We will create a MonoBehavior script which will handle the heavy lifting for us. In fact, we will only be writing three more lines of code before we move on to another file.
 
-
+![Plugin Scenechanged](/uploads/modding-example/plugin-scenechanged.png "Plugin Scenechanged")
 
 > If you receive an error relating to `env.Contains()`, you may need to add `using System.Linq;` to the top of your file.
 {.is-danger}
+
+### What's going on here?
+Instead of having an if statement inside an if statement, we've compressed the code into just 3 lines. The first line deals with the `enabled` variable we set earlier. If it is `false`, C# will take the inverse, which will be true. It'll activate the if statement, causing the function to return, and stop execution.
+
+The second line deals with the `env` string array we also created earlier. If the name of the scene is included in that array, it continues to our last line. If it does not, it'll activate the if statement, causing the function to return. This prevents our plugin from activating in the main menu, the tutorial, or in the very beggining "Health Warning and Information" screen.
+
+### What's with the error?
+
 
 Also, be sure to visit the [#mod-development](https://discordapp.com/channels/441805394323439646/443146108420620318/) channel on the [modding discord](https://discord.gg/beatsabermods), to share what you're working on!
