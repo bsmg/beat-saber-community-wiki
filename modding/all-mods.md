@@ -197,12 +197,6 @@ Writes currently playing song status to a text file that can be read by programs
 
 ---
 
-**Tilted**
-A plugin that fucks up the scene when you fuck up.
-[Release](https://github.com/Caeden117/BeatSaberTilted/releases) [Usage](https://github.com/Caeden117/BeatSaberTilted)
-
----
-
 **Perfection Display**
 Displays how well you hit various notes within a range.
 [Release and Usage](https://github.com/monkeymanboy/BeatSaberPerfectionDisplay/releases)
@@ -238,6 +232,11 @@ Dont
 wddada
 [Release](https://cdn.discordapp.com/attachments/473162851666886676/483198154385129473/wddada.zip)
 
+---
+
+**Tilted**
+A plugin that fucks up the scene when you fuck up a note.
+[Release](https://github.com/Caeden117/BeatSaberTilted/releases) [Usage](https://github.com/Caeden117/BeatSaberTilted)
 
 # Other tools
 **Beat Saber Custom Playlist Complier**
