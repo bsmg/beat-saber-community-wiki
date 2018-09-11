@@ -6,6 +6,7 @@
 * [Freeek's Mapping and Editor Tutorials](https://www.youtube.com/playlist?list=PLYeZR6d3zDPgDgWogOwMteL-5SQWAE14b)
 * [Awfulnaut's Best Practices Guide](https://bit.ly/2LjbURw)
 * [M.Rappold's OST Analysis Spreadsheet](https://bit.ly/2lzzSxd)
+* [Kolezan's Song/Audio Editing Guide](https://bsaber.com/custom-mapping-song-audio-editing/)
 # Editors
 
 **The official editor has not been released.**
@@ -61,6 +62,7 @@ If you simply change the file extension to `.ogg`, it will not work.
 
 ## How do I delay a song so that it doesn't start right when the level loads?
 Currently this isn't possible in Beat Saber or the editors. For now you have to edit the song in an audio editor *(such as Audacity)* to add silence at the beginning of the track.
+Check out [Kolezan's Song/Audio Editing Guide](https://bsaber.com/custom-mapping-song-audio-editing/) for instructions.
 
 ## I'm having issues uploading the map to BeatSaver, it says the format is invalid but everything looks right.
 If you have Windows file extensions turned off, then you might have unknowingly saved your files with names like `cover.jpg.jpg`.  To turn off file extensions in Windows, see the following image:
