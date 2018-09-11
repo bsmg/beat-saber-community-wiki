@@ -16,6 +16,9 @@ Note: if you don't see a list of plugins, you may have antivirus software or a f
 Mods are installed into the folder `Plugins` within your Beat Saber install directory.
 Can't find where Beat Saber is installed? See [install folder.](faq/install-folder)
 
+> Every time the game updates, you will have to run the mod manager again, to get all mods compatible with the new update.
+{.is-warning}
+
 # How to get more songs
 The Mod Manager includes the `Song Loader Plugin`, which enables you to load more songs into the game, but only includes one test song.
 
