@@ -11,10 +11,12 @@ Beat Saber was not designed with mod support, so you have to run the Mod Manager
 * Download the BeatSaberModManager.exe
 * Run it! Select what mods you want to install from the list!
 
-Note: if you don't see a list of plugins, you may have antivirus software or a firewall that is preventing the mod installer from connecting to [ModSaber](https://www.modsaber.ml/). 
 
 Mods are installed into the folder `Plugins` within your Beat Saber install directory.
 Can't find where Beat Saber is installed? See [install folder.](faq/install-folder)
+
+> If you don't see a list of plugins, your antivirus software or firewall may be preventing the mod installer from connecting to [ModSaber](https://www.modsaber.ml/).
+{.is-info} 
 
 > The mod manager only shows mods compatible with the latest game update.
 > Every time the game updates, you will have to run the mod manager to get all compatible mods.
