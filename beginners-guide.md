@@ -16,7 +16,8 @@ Note: if you don't see a list of plugins, you may have antivirus software or a f
 Mods are installed into the folder `Plugins` within your Beat Saber install directory.
 Can't find where Beat Saber is installed? See [install folder.](faq/install-folder)
 
-> Every time the game updates, you will have to run the mod manager to get all mods compatible with the new update.
+> The mod manager only shows mods compatible with the latest game update.
+> Every time the game updates, you will have to run the mod manager to get all compatible mods.
 > It can take about a week or longer for all mods to be fixed for the latest game update.
 {.is-warning}
 
