@@ -48,6 +48,10 @@ Check out this video the devs released: https://twitter.com/beatsaber/status/992
 
 Here is an image of the hitboxes for the notes: https://twitter.com/Split82/status/979365834324889600
 
+## How do I revert to the original sabers after installing custom sabers?
+
+Use these [replicas](https://wiki.assistant.moe/uploads/originalish.saber)!
+
 ## My game will not load!
 You may have a popup on your desktop asking about your Beat Saver auth token to vote on songs at the end of the game.
 If you don't care to vote on songs, simply click **"Cancel"** and the popup will not appear again.
