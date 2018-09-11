@@ -34,6 +34,7 @@ In this example, we will work on a basic plugin that counts how many notes we mi
 # Setting Variables
 > If at any point you feel overwhelmed, it probably means you do not have enough experience. In that case, consider watching some Unity and C# tutorials to get familiar with Unity.
 {.is-danger}
+
 Before we begin with our plugin, it is important to create some variables that will help us later in development:
 
 ![Plugin Variables](/uploads/modding-example/plugin-variables-setup.png "Plugin Variables")
