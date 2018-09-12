@@ -152,6 +152,6 @@ Whichever method you chose in grabbing a score controller, you will end up in th
 
 Let's begin with creating our two TextMeshes and GameObject. Remember, we will be adding a TextMesh to the existing GameObject, and creating a new one which will hold our label.
 
-`counterText` will be added to the GameObject that also contains `MissedCounter`. We can access this by doing `this.gameObject`. `countGO` will be a new GameObject which will hold another TextMesh, which will act as a label. We did not create a second TextMeshPro variable in the [Adding Variables](/modding/example-mod#Adding-Variables) section because we do not need the label TextMesh once it is created.
+`counterText` will be added to the GameObject that also contains `MissedCounter`. We can access this by doing `this.gameObject`. `countGO` will be a new GameObject which will hold another TextMesh, which will act as a label. We did not create a second TextMeshPro variable in the [Adding Variables](/modding/example-mod#adding-variables) section because we do not need the label TextMesh once it is created.
 
 Also, be sure to visit the [#mod-development](https://discordapp.com/channels/441805394323439646/443146108420620318/) channel on the [modding discord](https://discord.gg/beatsabermods), to share what you're working on!
