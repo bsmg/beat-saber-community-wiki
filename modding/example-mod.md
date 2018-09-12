@@ -172,6 +172,10 @@ In the same `Init()` function, we will add an if statement seeing if our `score`
 
 So we just create a function that increments the counter, right? Wait a minute! What if we miss a Bomb? Or if we hit the note correctly? Using `data`, which is a variable passed into our two handler functions, we can get information on the note that was hit and missed. And `info`, a variable found in our note cut function, helps us make sure that the cut was OK. Adding some if statements which filter missing bombs and making sure the cut was not OK, we can create our final function and have them call it.
 
+![Plugin Conditionals](/uploads/modding-example/plugin-conditionals.png "Plugin Conditionals")
 
+## Incrementing Our Counter
+
+Our final function will be a simple one. Here we will implement our `counter` variable and set the text of the `counterText` variable we assigned in `Init()` to our updated value. This is easy since our variable was made outside of any functions, so we dont have to go digging and using `this.gameObject.GetComponent`.
 
 Also, be sure to visit the [#mod-development](https://discordapp.com/channels/441805394323439646/443146108420620318/) channel on the [modding discord](https://discord.gg/beatsabermods), to share what you're working on!
