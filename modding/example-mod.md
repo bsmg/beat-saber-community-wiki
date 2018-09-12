@@ -71,7 +71,7 @@ Let's create a new `MissedCounter.cs` file that extends from `MonoBehavior`. For
 
 ![Plugin Missedcounter](/uploads/modding-example/plugin-missedcounter.png "Plugin Missedcounter")
 
-For those who are familiar with Unity, you will recognize what we've just made. Here we can import Unity's default `Init()`, `Start()`, and `Update()` functions, and you can pretty much go nuts from here.
+For those who are familiar with Unity, you will recognize what we've just made. Here we can import Unity's default `Awake()`, `Start()`, and `Update()` functions, and you can pretty much go nuts from here.
 
 # TextMeshes, Events, and Counting
 In the previous section we covered the basics of any plugin. We created basic variables and have created an empty GameObject that will be called once a song is loaded. In this section, we will finish our component we added into the empty GameObject.
