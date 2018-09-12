@@ -178,4 +178,17 @@ So we just create a function that increments the counter, right? Wait a minute! 
 
 Our final function will be a simple one. Here we will implement our `counter` variable and set the text of the `counterText` variable we assigned in `Init()` to our updated value. This is easy since our variable was made outside of any functions, so we dont have to go digging and using `this.gameObject.GetComponent`.
 
+![Plugin Increment](/uploads/modding-example/plugin-increment.png "Plugin Increment")
+
+And with those final pieces of code added, we are finished with this example plugin! Now all we need to do now is to build it and move it to our plugins folder.
+
+# Let's Build!
+In the previous section, we have just finished our plugin and are ready to build it as a `.dll` and move it over to our Beat Saber installation. This section will focus on building, moving it over, and testing.
+
+## Building Our Plugin
+
+When your plugin is in a testable state (No errors, little warnings, everything's ready), go under `Build`, and click on `Build <Plugin Name>`. It is as easy as that! Now go to your `Output` window (Either go into `View` >> `Other Windows` >> `Output`, or it should be right next to your Error List), and it should tell you where your built file is located.
+
+
+
 Also, be sure to visit the [#mod-development](https://discordapp.com/channels/441805394323439646/443146108420620318/) channel on the [modding discord](https://discord.gg/beatsabermods), to share what you're working on!
