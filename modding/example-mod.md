@@ -28,9 +28,11 @@ Before we begin with our plugin, it is important to create some variables that w
 ![Plugin Variables](/uploads/modding-example/plugin-variables.png "Plugin Variables")
 *(Courtesy of [Beat Saber Progress Counter](https://github.com/Strackeror/BeatSaberProgressCounter/))*
 
-`env` | The `0.11.2` patch of Beat Saber brought with it a different way the game loads scenes. Instead of one "master" scene, it is split up into different scenes depending on the environment. We will detect if the game is played a game based off the name of the scene.
-`enabled` | Toggles our plugin on or off with the flip of a variable. If you want to add a configuration file later on, this will be one option you don't want to miss.
-`counterPosition` | Where our counter will be located in the scene.
+| | |
+| --- | --- |
+|`env` | The `0.11.2` patch of Beat Saber brought with it a different way the game loads scenes. Instead of one "master" scene, it is split up into different scenes depending on the environment. We will detect if the game is played a game based off the name of the scene.|
+|`enabled` | Toggles our plugin on or off with the flip of a variable. If you want to add a configuration file later on, this will be one option you don't want to miss.||
+`counterPosition` | Where our counter will be located in the scene.|
 
 > If you receive an error relating to the Vector3 variable, you may need to add `using UnityEngine;` to the top of your file.
 {.is-danger}
