@@ -3,6 +3,7 @@
 
 > This page is subject to changes at any time. Feel free to look often for new, missing, or changed content.
 {.is-warning}
+
 > Before you start, please be sure you've read the [template setup guide](/modding/intro) to download the plugin template and set up your project.
 {.is-warning}
 # Plugin Beginnings
