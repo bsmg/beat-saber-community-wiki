@@ -1,18 +1,6 @@
 <!-- TITLE: Example Mod -->
 <!-- SUBTITLE: Learn how to make a basic mod for Beat Saber! -->
-# Using dnSpy
-dnSpy is a .NET debugger and assembly editor that allows you to import compiled `.dll`s and view them decompiled into C#.
-In the case of modding, we can use dnSpy to view the source code of Beat Saber and find methods and variables that would be handy to have for some plugins.
-Read more about it [here](https://github.com/0xd4d/dnSpy).
 
-Download the [latest release of dnSpy.zip](https://github.com/0xd4d/dnSpy/releases/latest).
-Extract the zip, and run `dnSpy.exe`.
-Then drop in the file `\<Beat Saber Directory>\Beat Saber_Data\Managed\Assembly-CSharp.dll`
-`Assembly-CSharp.dll` contains nearly all of the games' code.
-
-You can also use dnSpy to view the code of plugins, even those that have not yet published to GitHub. Be wary, though!
-
-![Dnspy Example](/uploads/modding/dnspy-example.png "Dnspy Example")
 # Plugin Beginnings
 > **This section is a work in progress. Until this message disappears, this page is most likely not finished.**
 {.is-danger}
@@ -189,6 +177,54 @@ In the previous section, we have just finished our plugin and are ready to build
 
 When your plugin is in a testable state (No errors, little warnings, everything's ready), go under `Build`, and click on `Build <Plugin Name>`. It is as easy as that! Now go to your `Output` window (Either go into `View` >> `Other Windows` >> `Output`, or it should be right next to your Error List), and it should tell you where your built file is located.
 
+![Plugin Buildlocation](/uploads/modding-example/plugin-buildlocation.png "Plugin Buildlocation")
 
+## Final Steps
 
-Also, be sure to visit the [#mod-development](https://discordapp.com/channels/441805394323439646/443146108420620318/) channel on the [modding discord](https://discord.gg/beatsabermods), to share what you're working on!
+Moving the file from building is just as easy as copying the build path into your File Explorer, opening another one into your Plugins folder of the Beat Saber installation, and drag and dropping. There really is no simpler explanation than that.
+
+Then, launch Beat Saber, enter a song, and watch as a brand now Miss counter appears right below the Combo!
+
+# Before You Go
+We hope you enjoyed this tutorial on making a custom plugin for Beat Saber. In this tutorial, you learned the basics of creating Beat Saber Plugins, and are now ready to go out and create your own.
+
+Also, be sure to visit the [#mod-development](https://discordapp.com/channels/441805394323439646/443146108420620318/) channel on the [modding discord](https://discord.gg/beatsabermods), to share what you're working on! Feel free to also use it for help and suggestions based on your mod.
+
+# Extras
+## Using dnSpy
+dnSpy is a .NET debugger and assembly editor that allows you to import compiled `.dll`s and view them decompiled into C#.
+In the case of modding, we can use dnSpy to view the source code of Beat Saber and find methods and variables that would be handy to have for some plugins.
+Read more about it [here](https://github.com/0xd4d/dnSpy).
+
+Download the [latest release of dnSpy.zip](https://github.com/0xd4d/dnSpy/releases/latest).
+Extract the zip, and run `dnSpy.exe`.
+Then drop in the file `\<Beat Saber Directory>\Beat Saber_Data\Managed\Assembly-CSharp.dll`
+`Assembly-CSharp.dll` contains nearly all of the games' code.
+
+You can also use dnSpy to view the code of plugins, even those that have not yet published to GitHub. Be wary, though!
+
+![Dnspy Example](/uploads/modding/dnspy-example.png "Dnspy Example")
+
+## Advanced Building | Symlinks
+If you find yourself tired of having to copy your finished builds from one folder to the next, this will help you minimize the hassle needed by only just needing to Build, then you are good to go.
+
+A `symlink` is something that tells Windows that one file is actually linking to another directory. This is useful if you want a folder on your Desktop that goes straight to your Beat Saber directory when you open it, or in our case, have a symlink from our plugin in our Plugins folder to the latest builds in our build directory.
+
+>If any directory has spaces (Example: `cd C:\Users\Test\Hello World`), encase the path in quotations: `cd "C:\Users\Test\Hello World"`
+
+1. Open Command Prompt as Administrator.
+2. Make sure you do not have your plugin inside your Plugins folder.
+3. Have Command Prompt point to your Beat Saber Plugins folder (`cd <Beat Saber Directory>/Plugins`)
+4. Execute the following command: `mklink <Plugin Name>.dll, <Path to your build file>`
+
+If all is done correctly, the next time you build your plugin and launch Beat Saber, the plugins should update automatically.
+
+## Advanced Building | Post-Build Events
+Another way to go about this is taking advantage of C#'s post-build events. This not only allows you to copy files to a directory when build is complete, but you can also do a lot more.
+
+1. Under `Project`, click `<Project Name> Properties...`
+2. Click `Build Events`
+3. Copy and paste the following code into the Post-build event command line: `copy /Y "$(TargetPath)" "<Path to Beat Saber Plugins folder (Including the file name and extension)>"`
+4. Save and exit.
+
+If all is done correctly, the next time you build your plugin, a copy will be automatically sent to your Plugins folder (Automatically overwriting any previous version), and Beat Saber is ready to play.
