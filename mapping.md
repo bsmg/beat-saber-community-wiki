@@ -32,7 +32,7 @@ https://github.com/megalon/BeatSaber-UnofficialTrackEditor/releases
 
 # Other Tools
 ## Lightmap
-A tool to automatically generate lighting events for a custom song!
+A tool to automatically generate lighting events for a custom song by Freeek!
 Get it here: https://github.com/recrudesce/lightmap/releases
 Explanation video and examples: https://youtu.be/MVatdcy7TPA
 
