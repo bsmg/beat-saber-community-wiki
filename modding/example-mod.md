@@ -117,8 +117,19 @@ In both cases, we will be the `Awake()` function built-in to Unity components wh
 > If you receive an error relating to `IEnumator`, add `using System.Collections;` to the top of your file.
 {.is-danger}
 
-This has been used since the beginning of Beat Saber modding, where the version of .NET was 3.6. With no `System.Threading.Tasks` and no asynchronous tasks, we had to rely on built-in MonoBehaviour scripts. We will be creating an `IEnumerator` which will hold our code.
+This has been used since the beginning of Beat Saber modding, where the version of .NET was 3.6. With no `System.Threading.Tasks` and no asynchronous tasks, we had to rely on built-in MonoBehaviour scripts. We will be creating an `IEnumerator` which will hold our code, and starting it with the MonoBehaviour function `StartCoroutine`.
 
+![Plugin Init Ienumerator](/uploads/modding-example/plugin-init-ienumerator.png "Plugin Init Ienumerator")
 
+### System.Threading.Tasks and Asynchronous Functions
+> If you receive an error relating to `async` or `Task`, add `using System.Threading.Tasks;` to the top of your file.
+> {.is-danger}
+
+> If you receive an error relating to `Thread.Sleep()`, add `using System.Threading;` to the top of your file.
+> {.is-danger}
+
+As of the newest Beat Saber update (`0.11.2`), Beat Saber updated to Unity 2018, and with that comes the change from .NET 3.6 to .NET 4.x. This means we can use asychronous functions to handle tasks that will take time in a different thread and not cause the game to freeze! With newer Visual Studio releases, it should also automatically add `using System.Threading.Tasks;` to any newly created class file.
+
+Here we will be turning our `Awake()` function into an async one and have it `await` a Task, which will hold our code.
 
 Also, be sure to visit the [#mod-development](https://discordapp.com/channels/441805394323439646/443146108420620318/) channel on the [modding discord](https://discord.gg/beatsabermods), to share what you're working on!
