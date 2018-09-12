@@ -191,6 +191,9 @@ Moving the file from building is just as easy as copying the build path into you
 
 Then, launch Beat Saber, enter a song, and watch as a brand now Miss counter appears right below the Combo!
 
+## Debugging
+If you find your plugin not working, remember to launch Beat Saber in `--verbose` mode. This will open a console window where any errors will get logged and you can find out what went wrong. Another way to go about this is adding `try catch` statements in code where you think could be erroring, and logging something. This also prevents the plugin from breaking and no longer working at all after the first error.
+
 # Before You Go
 We hope you enjoyed this tutorial on making a custom plugin for Beat Saber. In this tutorial, you learned the basics of creating Beat Saber Plugins, and are now ready to go out and create your own.
 
