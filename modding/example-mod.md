@@ -103,7 +103,7 @@ Before we can make a working counter, we need to make some variables that will h
 ### What are these variables?
 
 `counter` will be our simple counter that will increment every time we hit a note incorrectly, or miss a note entirely.
-`score` will be our reference to a Beat Saber component which has two events we will use, `onNoteHit` and `onNoteMiss`.
+`score` will be our reference to a Beat Saber component which has two events we will use, `noteWasCutEvent` and `noteWasMissedEvent`.
 `counterGO` will be a second GameObject we will create which will act as a label letting people know that it is counting misses.
 `counterText` will be the TextMeshPro mesh we will add to our component and will control the text.
 
@@ -118,6 +118,8 @@ The most common use of this goes a little something like this:
 `Resources.FindObjectsOfTypeAll<Saber>().FirstOrDefault();`
 
 This will loop through all objects and return the first (or default) instance of a `Saber` class popping up in `Resources`. This is mainly used for adding functions to events. For editing private fields and properties, you will have to use Reflection, which we will cover in a future time.
+
+Resources can also be used to load in custom assets, fonts, images, etc.
 
 ## Grabbing our Score Controller
 
@@ -153,5 +155,17 @@ Whichever method you chose in grabbing a score controller, you will end up in th
 Let's begin with creating our two TextMeshes and GameObject. Remember, we will be adding a TextMesh to the existing GameObject, and creating a new one which will hold our label.
 
 `counterText` will be added to the GameObject that also contains `MissedCounter`. We can access this by doing `this.gameObject`. `countGO` will be a new GameObject which will hold another TextMesh, which will act as a label. We did not create a second TextMeshPro variable in the [Adding Variables](/modding/example-mod#adding-variables) section because we do not need the label TextMesh once it is created.
+
+Once we add the TextMeshPro Component onto our GameObject, we can edit every aspect of the text. Color, font, font size, alignment, and more, can all be edited through the variable we created. We can also apply the position of our `counterPosition` in `Plugin.cs` here, and add a bit of an offset to have our counter appear below the label.
+
+We can pretty much copy and paste our code for our label TextMesh, although we will have to create a new GameObject for `countGO`.
+
+![Plugin Creatingtextmeshes](/uploads/modding-example/plugin-creatingtextmeshes.png "Plugin Creatingtextmeshes")
+
+## Adding Events
+
+With the `score` variable we created then initialized earlier in the section, we can now access its properties. Two of these properties are events that we will add functions of our own into. These two events are `noteWasCutEvent` and `noteWasMissedEvent`. As you can expect, these will fire when a note is missed and a note is hit.
+
+In the same `Init()` function, we will add an if statement seeing if our `score` variable is not null. If it is assigned (and not null), we will create two functions and add them to the respective events.
 
 Also, be sure to visit the [#mod-development](https://discordapp.com/channels/441805394323439646/443146108420620318/) channel on the [modding discord](https://discord.gg/beatsabermods), to share what you're working on!
