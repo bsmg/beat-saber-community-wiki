@@ -166,6 +166,12 @@ We can pretty much copy and paste our code for our label TextMesh, although we w
 
 With the `score` variable we created then initialized earlier in the section, we can now access its properties. Two of these properties are events that we will add functions of our own into. These two events are `noteWasCutEvent` and `noteWasMissedEvent`. As you can expect, these will fire when a note is missed and a note is hit.
 
-In the same `Init()` function, we will add an if statement seeing if our `score` variable is not null. If it is assigned (and not null), we will create two functions and add them to the respective events.
+In the same `Init()` function, we will add an if statement seeing if our `score` variable is not null. If it is assigned (and not null), we will create two functions that handle these and add them to the respective events. Note that because these events have parameters that are added in, we'll add these as well.
+
+![Plugin Adding Events](/uploads/modding-example/plugin-adding-events.png "Plugin Adding Events")
+
+So we just create a function that increments the counter, right? Wait a minute! What if we miss a Bomb? Or if we hit the note correctly? Using `data`, which is a variable passed into our two handler functions, we can get information on the note that was hit and missed. And `info`, a variable found in our note cut function, helps us make sure that the cut was OK. Adding some if statements which filter missing bombs and making sure the cut was not OK, we can create our final function and have them call it.
+
+
 
 Also, be sure to visit the [#mod-development](https://discordapp.com/channels/441805394323439646/443146108420620318/) channel on the [modding discord](https://discord.gg/beatsabermods), to share what you're working on!
