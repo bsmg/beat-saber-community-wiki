@@ -107,7 +107,19 @@ Before we can make a working counter, we need to make some variables that will h
 `counterGO` will be a second GameObject we will create which will act as the counter itself. The `MissedCounter.cs` will be a label which will tell uses that the counter they are seeing is for Misses.
 `counterText` will be the TextMeshPro mesh we will add to `counterGO`.
 
-## Initializing
+## Resources
+
+Before we continue in initializing, we will go over a key class that will aid a lot in Beat Saber modding.
+
+`Resources` is a class that loops through everything inside a `Resources` folder in the Assets folder. This means we can search for a certain class and it will return it to us.
+
+The most common use of this goes a little something like this:
+
+`Resources.FindObjectsOfTypeAll<Saber>().FirstOrDefault();`
+
+This will loop through all objects and return the first (or default) instance of a `Saber` class popping up in `Resources`. This is mainly used for adding functions to events. For editing private fields and properties, you will have to use Reflection, which we will cover in a future time.
+
+## Grabbing our Score Controller
 
 Before anything can work, we need to gain access to the `ScoreController` Beat Saber uses, and sometimes that will take time. There are many different ways to get access, but here are two commonly used and very similar methods.
 
@@ -121,7 +133,7 @@ This has been used since the beginning of Beat Saber modding, where the version 
 
 ![Plugin Init Ienumerator](/uploads/modding-example/plugin-init-ienumerator.png "Plugin Init Ienumerator")
 
-### System.Threading.Tasks and Asynchronous Functions
+### System.Threading and Asynchronous Functions
 > If you receive an error relating to `async` or `Task`, add `using System.Threading.Tasks;` to the top of your file.
 > {.is-danger}
 
@@ -131,5 +143,13 @@ This has been used since the beginning of Beat Saber modding, where the version 
 As of the newest Beat Saber update (`0.11.2`), Beat Saber updated to Unity 2018, and with that comes the change from .NET 3.6 to .NET 4.x. This means we can use asychronous functions to handle tasks that will take time in a different thread and not cause the game to freeze! With newer Visual Studio releases, it should also automatically add `using System.Threading.Tasks;` to any newly created class file.
 
 Here we will be turning our `Awake()` function into an async one and have it `await` a Task, which will hold our code.
+
+![Plugin Init Threading](/uploads/modding-example/plugin-init-threading.png "Plugin Init Threading")
+
+## Initializing
+
+Whichever method you chose in grabbing a score controller, you will end up in the `Init()` function. Here is where we will create our GameObjects, TextMeshes, and rearrange everything to fit in with elements in-game.
+
+
 
 Also, be sure to visit the [#mod-development](https://discordapp.com/channels/441805394323439646/443146108420620318/) channel on the [modding discord](https://discord.gg/beatsabermods), to share what you're working on!
