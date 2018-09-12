@@ -37,7 +37,7 @@ In this example, we will work on a basic plugin that counts how many notes we mi
 
 Before we begin with our plugin, it is important to create some variables that will help us later in development:
 
-![Plugin Variables](/uploads/modding-example/plugin-variables-setup.png "Plugin Variables")
+![Plugin Variables](/uploads/modding-example/plugin-variables.png "Plugin Variables")
 *(Courtesy of [Beat Saber Progress Counter](https://github.com/Strackeror/BeatSaberProgressCounter/))*
 
 `env` | The `0.11.2` patch of Beat Saber brought with it a different way the game loads scenes. Instead of one "master" scene, it is split up into different scenes depending on the environment. We will detect if the game is played a game based off the name of the scene.
