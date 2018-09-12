@@ -188,7 +188,7 @@ Then, launch Beat Saber, enter a song, and watch as a brand now Miss counter app
 # Before You Go
 We hope you enjoyed this tutorial on making a custom plugin for Beat Saber. In this tutorial, you learned the basics of creating Beat Saber Plugins, and are now ready to go out and create your own.
 
-If you find yourself stuck with an error in your code, and you want to compare with the project we've created, we've published the source code on GitHub: https://github.com/Caeden117/MissedCounter
+**If you find yourself stuck with an error in your code, and you want to compare with the project we've created, we've published the source code on GitHub: https://github.com/Caeden117/MissedCounter**
 
 Also, be sure to visit the [#mod-development](https://discordapp.com/channels/441805394323439646/443146108420620318/) channel on the [modding discord](https://discord.gg/beatsabermods), to share what you're working on! Feel free to also use it for help and suggestions based on your mod.
 
