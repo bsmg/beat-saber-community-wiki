@@ -1,9 +1,9 @@
 <!-- TITLE: Example Mod -->
 <!-- SUBTITLE: Learn how to make a basic mod for Beat Saber! -->
 
-# Plugin Beginnings
-> **This section is a work in progress. Until this message disappears, this page is most likely not finished.**
+> This page is subject to changes at any time. Feel free to look often for new, missing, or changed content.
 {.is-warning}
+# Plugin Beginnings
 
 If you followed the [template setup guide](/modding/intro), you should end up with something similar to the following below:
 
