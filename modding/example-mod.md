@@ -3,7 +3,7 @@
 
 # Plugin Beginnings
 > **This section is a work in progress. Until this message disappears, this page is most likely not finished.**
-{.is-danger}
+{.is-warning}
 
 If you followed the [template setup guide](/modding/intro), you should end up with something similar to the following below:
 
