@@ -104,8 +104,8 @@ Before we can make a working counter, we need to make some variables that will h
 
 `counter` will be our simple counter that will increment every time we hit a note incorrectly, or miss a note entirely.
 `score` will be our reference to a Beat Saber component which has two events we will use, `onNoteHit` and `onNoteMiss`.
-`counterGO` will be a second GameObject we will create which will act as the counter itself. The `MissedCounter.cs` will be a label which will tell uses that the counter they are seeing is for Misses.
-`counterText` will be the TextMeshPro mesh we will add to `counterGO`.
+`counterGO` will be a second GameObject we will create which will act as a label letting people know that it is counting misses.
+`counterText` will be the TextMeshPro mesh we will add to our component and will control the text.
 
 ## Resources
 
@@ -146,10 +146,12 @@ Here we will be turning our `Awake()` function into an async one and have it `aw
 
 ![Plugin Init Threading](/uploads/modding-example/plugin-init-threading.png "Plugin Init Threading")
 
-## Initializing
+## Creating TextMeshes
 
 Whichever method you chose in grabbing a score controller, you will end up in the `Init()` function. Here is where we will create our GameObjects, TextMeshes, and rearrange everything to fit in with elements in-game.
 
+Let's begin with creating our two TextMeshes and GameObject. Remember, we will be adding a TextMesh to the existing GameObject, and creating a new one which will hold our label.
 
+`counterText` will be added to the GameObject that also contains `MissedCounter`. We can access this by doing `this.gameObject`. `countGO` will be a new GameObject which will hold another TextMesh, which will act as a label. We did not create a second TextMeshPro variable in the [Adding Variables](/modding/example-mod#Adding-Variables) section because we do not need the label TextMesh once it is created.
 
 Also, be sure to visit the [#mod-development](https://discordapp.com/channels/441805394323439646/443146108420620318/) channel on the [modding discord](https://discord.gg/beatsabermods), to share what you're working on!
