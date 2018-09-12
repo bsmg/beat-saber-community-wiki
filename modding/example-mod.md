@@ -91,11 +91,12 @@ Before we can make a working counter, we need to make some variables that will h
 ![Plugin Variables 2](/uploads/modding-example/plugin-variables-2.png "Plugin Variables 2")
 
 ### What are these variables?
-
-`counter` will be our simple counter that will increment every time we hit a note incorrectly, or miss a note entirely.
-`score` will be our reference to a Beat Saber component which has two events we will use, `noteWasCutEvent` and `noteWasMissedEvent`.
-`counterGO` will be a second GameObject we will create which will act as a label letting people know that it is counting misses.
-`counterText` will be the TextMeshPro mesh we will add to our component and will control the text.
+| | |
+| --- | --- |
+| `counter` | A simple counter that will increment every time we hit a note incorrectly, or miss a note entirely. |
+| `score` | Our reference to a Beat Saber component which has two events we will use, `noteWasCutEvent` and `noteWasMissedEvent`. |
+| `counterGO` | A second GameObject we will create which will act as a label letting people know that it is counting misses. |
+| `counterText` | The TextMeshPro mesh we will add to our component and update when we miss. |
 
 ## Resources
 
