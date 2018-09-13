@@ -9,7 +9,7 @@ This guide is intended to comprise of common mistakes seen in custom maps, and w
 
 Don't do this | Explanation / Solution
 -------------- | --------------
-Vision Blocks | Vision blocks: 95% of the time, you should not place blocks in the middle two sections of the grid. This is eye level and makes seeing blocks behind them nearly impossible. Instead, place blocks elsewhere (usually on the bottom row).
+Vision Blocks ![Vision Blocks](/uploads/images/vision-blocks.png "Vision Blocks") | Vision blocks: 95% of the time, you should not place blocks in the middle two sections of the grid. This is eye level and makes seeing blocks behind them nearly impossible. Instead, place blocks elsewhere (usually on the bottom row).
 
 Exception: For the other 5% of the time, a good rule of thumb is to make sure the player is pushed to the side—either by barriers or by the pattern itself—or put it at the very end of a pattern so there is a calm spot after it. Always keep visibility in mind.
 
