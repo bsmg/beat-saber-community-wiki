@@ -219,6 +219,42 @@ Stops your game from ending if your energy drops to 0 and will instead switch yo
 Replaces the current bombs with the older bomb model.
 [Release](https://cdn.discordapp.com/attachments/473162851666886676/490717535407439872/LegacyBombMod.zip)
 
+---
+
+**Reactive Materials** by PureDark
+Light events on materials.
+[Release](https://github.com/PureDark/ReactiveMaterial/releases/)
+
+---
+
+**Camera Mover** by RQ
+Move camera to preset locations.
+[Release and Usage](https://cdn.discordapp.com/attachments/473162851666886676/489583832803180545/CameraMover.zip)
+
+---
+
+**Shit Map Detector** by brian
+Detects bad maps and sounds the alarm before you waste your time playing them!
+[Release and Usage](https://brian91292.github.io/BeatSaber-ShitMapDetector/)
+
+---
+
+**Missed Counter** by Caeden117
+Shows a counter of the notes you have missed or hit incorrectly while playing through a song.
+[Release](https://github.com/Caeden117/MissedCounter/releases/)
+
+---
+
+**Better Twitch Chat** by brian
+A rich text Twitch chat integration mod with full unicode, emote (including BetterTwitchTV and FrankerFaceZ), badge, and Emoji support.
+[Release and Usage](https://brian91292.github.io/BeatSaber-BetterTwitchChat/)
+
+---
+
+**Mapper Feed** by brian
+Automatically downloads the latest songs from your favorite mappers whenever you launch Beat Saber.
+[Release and Usage](https://brian91292.github.io/BeatSaber-MapperFeed/)
+
 ## Joke Plugins
 
 **BeepBoopv2** by RQ
