@@ -282,7 +282,7 @@ A plugin that fucks up the scene when you fuck up a note.
 ---
 
 **Fun Times** by RQ
-fun
+WARNING: DO NOT USE THIS MOD IF YOU HAVE PHOTOSENSITIVE EPILEPSY! THIS IS NOT A JOKE! USE AT YOUR OWN RISK.
 [Release](https://cdn.discordapp.com/attachments/473162851666886676/490360478112022551/FunTimes.dll)
 
 # Other tools
