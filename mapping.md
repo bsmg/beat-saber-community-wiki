@@ -43,6 +43,10 @@ https://www.youtube.com/watch?v=nIX0koHzW8c&t
 ## VARIABLE BPM
 Currently variable BPM isn't supported by the game, but you can fake it by offsetting notes to fit the grid. TehSuperToilet made a guide on how to do this. [It is included in this zip file.](https://cdn.discordapp.com/attachments/443569023951568906/459771392054001664/bpm_changer.zip)
 
+# "Mappers" role on the Beat Saber Modding Group Discord
+If you'd like to apply for the Mappers role on the Beat Saber Modding Group Discord, use the following google form.
+https://docs.google.com/forms/d/1GtIN_i-ddvLb0AHGmZMYEIVjbeTTwqqbMxPXNjDywIo/
+
 # Frequently Asked Questions
 ## Do I need Beat Saber installed to use the editors?
 No. Edit Saber will ask for the Beat Saber directory, but it can be any folder.
@@ -65,11 +69,8 @@ Check out [Kolezan's Song/Audio Editing Guide](https://bsaber.com/custom-mapping
 
 ## I'm having issues uploading the map to BeatSaver, it says the format is invalid but everything looks right.
 If you have Windows file extensions turned off, then you might have unknowingly saved your files with names like `cover.jpg.jpg`.  To turn off file extensions in Windows, see the following image:
-
-## How do I get the "Mappers" role on the Beat Saber Modding Group Discord?
-Please use this google form https://docs.google.com/forms/d/1GtIN_i-ddvLb0AHGmZMYEIVjbeTTwqqbMxPXNjDywIo/
-
-
 ![File Extensions](/uploads/images/file-extensions.png "File Extensions")
+
+
 ## I want to double the BPM of my song, is there an easy way to do that?
 Here is a [Python3 Script](https://cdn.discordapp.com/attachments/442372806705938434/447910905972523008/beat-saber-time-multiplier.zip) that will multiply the BPM and `_time` values in your JSON file by any given factor.
