@@ -1,6 +1,9 @@
 <!-- TITLE: FAQ -->
 <!-- SUBTITLE: Frequently Asked Questions! -->
 # FAQ
+## After using the mod manager, I can't click anything in game!
+Don't pirate the game. Go to the corner of shame and think about what you've done. Once you've reflected on your mistakes, purchase the game from [Steam](https://store.steampowered.com/app/620980/Beat_Saber/) or [Oculus](https://www.oculus.com/experiences/rift/1304877726278670/) and the mods won't break your game.
+
 ## How do I load custom songs?
 Follow the instructions in the [Beginners Guide](beginners-guide).
 
