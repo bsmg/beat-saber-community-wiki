@@ -34,7 +34,7 @@ https://github.com/megalon/BeatSaber-UnofficialTrackEditor/releases
 ## Lightmap
 A tool to automatically generate lighting events for a custom song by Freeek and Recrudesce!
 Get it here: https://github.com/recrudesce/lightmap/releases
-Explanation video and examples: https://youtu.be/MVatdcy7TPA
+Explanation video and examples: https://www.youtube.com/watch?v=ImO9cFW5vyQ&t
 
 ## THE OSU! EDITOR
 You can use the osu! editor to help you with timing when creating your map. Here is a video tutorial by Fayhe 
