@@ -30,7 +30,7 @@ A 2D track editor made in Processing by Megalon!
 **Note: This is depreciated and there is very little support for this program, if any!**
 https://github.com/megalon/BeatSaber-UnofficialTrackEditor/releases
 
-# Other Tools
+# Other Resources
 ## Lightmap
 A tool to automatically generate lighting events for a custom song by Freeek and Recrudesce!
 Get it here: https://github.com/recrudesce/lightmap/releases
@@ -42,6 +42,10 @@ https://www.youtube.com/watch?v=nIX0koHzW8c&t
 
 ## VARIABLE BPM
 Currently variable BPM isn't supported by the game, but you can fake it by offsetting notes to fit the grid. TehSuperToilet made a guide on how to do this. [It is included in this zip file.](https://cdn.discordapp.com/attachments/443569023951568906/459771392054001664/bpm_changer.zip)
+
+# Auto-Mapping Tools
+> **Disclaimer: these tools generate terrible maps when used as-is. Nothing compares to a good hand-crafted map, and these tools are meant to be used as a starting point if anything.**
+{.is-warning}
 
 # "Mappers" role on the Beat Saber Modding Group Discord
 If you'd like to apply for the Mappers role on the Beat Saber Modding Group Discord, use the following google form.
