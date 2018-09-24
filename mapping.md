@@ -43,6 +43,12 @@ https://www.youtube.com/watch?v=nIX0koHzW8c&t
 ## VARIABLE BPM
 Currently variable BPM isn't supported by the game, but you can fake it by offsetting notes to fit the grid. TehSuperToilet made a guide on how to do this. [It is included in this zip file.](https://cdn.discordapp.com/attachments/443569023951568906/459771392054001664/bpm_changer.zip)
 
+## BPM Changer
+A [tool](https://github.com/zevdg/bpm-saber) for changing the BPM of a beatsaber track without changing the position of the boxes and walls relative to the music.
+
+## Copy-Paste Lighting Guide
+Normally, lighting events cannot be copy pasted but this [tutorial](https://bsaber.com/copy-and-paste-lighting-events-in-editsaber/) should make things easier.
+
 # "Mappers" role on the Beat Saber Modding Group Discord
 If you'd like to apply for the Mappers role on the Beat Saber Modding Group Discord, use the following google form.
 https://docs.google.com/forms/d/1GtIN_i-ddvLb0AHGmZMYEIVjbeTTwqqbMxPXNjDywIo/
