@@ -40,6 +40,8 @@ See [install folder](FAQ/install-folder).
 ## Beat Drop
 [Beat Drop](https://bsaber.com/beatdrop/) is a desktop application that allows you to download songs, and create playlists as well!
 
+## Bootleg Beat Saver Search
+Search for beatsaver songs based on difficulty rating, popularity and (maybe) eventually more using this [bootleg search](http://beatsaver-search.s3-website-ap-southeast-2.amazonaws.com/).
 # How to uninstall mods
 **Currently the only way to uninstall a mod is to remove the dll from the `Plugins` folder.**
 |  |  |
