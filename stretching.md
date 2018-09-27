@@ -22,3 +22,7 @@ OrangeW is one of the top players on the global leaderboards as well as a member
 Start with much slower maps (slower than your standard level of play) and in the space of 3-4 songs, work your way back up to your normal level of play. Apply a proper stretch in between each song.
 
 So for instance, my standard level of play (that I enjoy) is maps like TWISTSTEP, Your Voice So, etc. When I begin playing, I start on the low end, with maps like Believer, after which I take a minute or so to stretch out my arms and make sure they're actually starting to get warmer. Then I move to something a touch more intense, like Bubble Tea, and applying the same things after finishing it, and finishing with Deadly Nostalgia.
+
+# Takeaways
+Stretch!
+![Wammy](/uploads/images/wammy.gif "Wammy")
