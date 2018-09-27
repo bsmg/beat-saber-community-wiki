@@ -5,7 +5,10 @@
 Beat Saber can be a pretty physically demanding game and it is important to treat play sessions just a workout. We strongly recommend that you stretch and warm up before each play session to avoid physical injury, including damage to the wrist and shoulders. Common injuries include repetitive strain injury (RSI) to the wrist and shoulders. Stretching isn't just limited to people playing crazy custom songs either, you can injure yourself even if a map seems short or simple.
 
 # Wrist Weights?
-Do NOT use wrist weights! The body was not meant to support extra weight for long periods of time in unnatural movements, especially when it comes to limbs. This is why form and rest are so heavily emphasized in weightlifting. Refer to [this comment](https://www.reddit.com/r/Vive/comments/8g9jgs/beat_saber_has_now_released/dya1yl7/) for more information.
+> **DO NOT USE WRIST WEIGHTS!**
+{.is-danger}
+
+The body was not meant to support extra weight for long periods of time in unnatural movements, especially when it comes to limbs. This is why form and rest are so heavily emphasized in weightlifting. Refer to [this comment]
 # OrangeW's Advice
 OrangeW is one of the top players on the global leaderboards as well as a member of the BSMG Staff team. The following is his advice for minimizing the risk of wrist injury at any level of play.
 
