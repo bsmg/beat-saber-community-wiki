@@ -3,6 +3,7 @@
 
 # Quick Links
 * [Beginner's Guide](beginners-guide)
+* [Health and Safety Guide](stretching)
 * [Modder's Guide](modding)
 * [Mapper's Guide](mapping)
 * [3D Models Guide](models)
