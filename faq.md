@@ -79,7 +79,7 @@ https://gyazo.com/46da60331d8bfabd4833ab85bcb73535
 
 ## "Failed to get version info!" in the Mod Manager
 
-This error means that the Mod Manager could not connect to https://modsaber.ml
+This error means that the Mod Manager could not connect to https://modsaber.org
 * Check your internet connection
 * Check if the website is reachable for you (click the link above)
 * Check that your firewall isn't blocking the Mod Manager from accessing the internet
