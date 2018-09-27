@@ -15,7 +15,7 @@ Instead, all mods within the mod installer rely on IPA (Illusion Plugin Architec
 See: [All Mods.](modding/all-mods)
 
 # Other Links
-* [ModSaber](https://www.modsaber.ml/)
+* [ModSaber](https://www.modsaber.org/)
 * [Unity Scripting API](https://docs.unity3d.com/ScriptReference/index.html)
 * [dnSpy](https://github.com/0xd4d/dnSpy)
 * [Harmony](https://github.com/pardeike/Harmony)
