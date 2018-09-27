@@ -8,7 +8,7 @@ Beat Saber can be a pretty physically demanding game and it is important to trea
 > **DO NOT USE WRIST WEIGHTS!**
 {.is-danger}
 
-The body was not meant to support extra weight for long periods of time in unnatural movements, especially when it comes to limbs. This is why form and rest are so heavily emphasized in weightlifting. Refer to [this comment]
+The body was not meant to support extra weight for long periods of time in unnatural movements, especially when it comes to limbs. This is why form and rest are so heavily emphasized in weightlifting. Refer to [this comment](https://www.reddit.com/r/Vive/comments/8g9jgs/beat_saber_has_now_released/dya1yl7/) for more information.
 # OrangeW's Advice
 OrangeW is one of the top players on the global leaderboards as well as a member of the BSMG Staff team. The following is his advice for minimizing the risk of wrist injury at any level of play.
 
