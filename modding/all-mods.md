@@ -11,32 +11,32 @@ These 3 plugins will always be available via the [Mod Manager](/beginners-guide#
 
 **Song Loader** by xyonico
 Allows custom songs to be loaded into the game.
-[Release](https://www.modsaber.ml/mod/song-loader)
+[Release](https://www.modsaber.org/mod/song-loader)
 
 ---
 
 **Score Saber** by Umbranox
 Adds leaderboards to custom songs.
-[Release](https://www.modsaber.ml/mod/scoresaber)
+[Release](https://www.modsaber.org/mod/scoresaber)
 
 ---
 
 **BeatSaver Downloader** by andruzzzhka
 Allows you to download and upvote/downvote songs from [BeatSaver](https://beatsaver.com/browse/downloads).
-[Release](https://www.modsaber.ml/mod/beatsaverdownloader) 
+[Release](https://www.modsaber.org/mod/beatsaverdownloader) 
 
 
 ## Most Popular
 
 **Camera Plus** by xyonico
 Increases the FOV and smoothes the movement of the desktop window in first person mode, and also features a static third person camera mode.
-[Release and Usage](https://www.modsaber.ml/mod/camera-plus)
+[Release and Usage](https://www.modsaber.org/mod/camera-plus)
 
 ---
 
 **Custom Saber** by Reaxt
 Allows you to replace the default sabers with custom models.
-[Release](https://www.modsaber.ml/mod/custom-saber) [Usage](https://wiki.assistant.moe/models/custom-sabers)
+[Release](https://www.modsaber.org/mod/custom-saber) [Usage](https://wiki.assistant.moe/models/custom-sabers)
 
 ---
 
@@ -48,7 +48,7 @@ Allows you to use fullbody avatars.
 
 **Custom Platform** by Rolo
 Allows you to change the platform you stand on in the game.
-[Release](https://www.modsaber.ml/mod/custom-platforms) [Usage](https://wiki.assistant.moe/models/custom-platforms)
+[Release](https://www.modsaber.org/mod/custom-platforms) [Usage](https://wiki.assistant.moe/models/custom-platforms)
 
 ---
 
@@ -60,110 +60,110 @@ Displays the song progression, estimated letter grade and % of maximum score ear
 
 **Custom Colors** by Ruu
 Allows you to change the default red-blue color schema to anything you want.
-[Release and Usage](https://www.modsaber.ml/mod/customcolors)
+[Release and Usage](https://www.modsaber.org/mod/customcolors)
 
 ## Other Plugins
 
 **Beat Saber Tweaks** by Taz
 Allows you to customize many UI and gameplay elements of the game.
-[Release and Usage](https://www.modsaber.ml/mod/beatsabertweaks)
+[Release and Usage](https://www.modsaber.org/mod/beatsabertweaks)
 
 ---
 
 **Song Browser** by halsafar
 Filter songs by playlist, search, or favorites. Sort songs by author, song name, play count, difficulty available, random, newest.
-[Release](https://www.modsaber.ml/mod/songbrowserplugin)
+[Release](https://www.modsaber.org/mod/songbrowserplugin)
 
 ---
 
 **Custom Menu Music** by andruzzzhka
 Changes the music that plays in the Beat Saber menu.
-[Release and Usage](https://www.modsaber.ml/mod/custommenumusic)
+[Release and Usage](https://www.modsaber.org/mod/custommenumusic)
 
 ---
 
 **Custom Menu Text** by Arti
 Changes the game's title in the main menu.
-[Release and Usage](https://www.modsaber.ml/mod/custommenutext)
+[Release and Usage](https://www.modsaber.org/mod/custommenutext)
 
 ---
 
 **Darth Maul** by PureDark
 Double-sided saber mod.
-[Release and Usage](https://www.modsaber.ml/mod/darthmaul)
+[Release and Usage](https://www.modsaber.org/mod/darthmaul)
 
 ---
 
 **Discord Rich Presence**
 Enables Discord Rich Presence for Beat Saber.
-[Release and Usage](https://www.modsaber.ml/mod/discord-presence)
+[Release and Usage](https://www.modsaber.org/mod/discord-presence)
 
 ---
 
 **Full Combo Display** by bigfoot
 Display a ring around your multiplier if you haven't missed yet.
-[Release and Usage](https://www.modsaber.ml/mod/fullcombodisplay)
+[Release and Usage](https://www.modsaber.org/mod/fullcombodisplay)
 
 ---
 
 **Hidden Blocks** by brian
 Makes any notes/bombs disappear when they come within range of your player
-[Release and Usage](https://www.modsaber.ml/mod/hiddenblocks)
+[Release and Usage](https://www.modsaber.org/mod/hiddenblocks)
 
 ---
 
 **Hit Swap** by ItsNovaHere
 Forces the hit directions of notes to directions (and modes) of your choosing.
-[Release and Usage](https://www.modsaber.ml/mod/hitswap)
+[Release and Usage](https://www.modsaber.org/mod/hitswap)
 
 ---
 
 **Hit-Score Visualizer** by Arti
 Colors the score popups that appear when hitting notes and adds judgment text above (or below) the score.
-[Release and Usage](https://www.modsaber.ml/mod/hitscorevisualizer)
+[Release and Usage](https://www.modsaber.org/mod/hitscorevisualizer)
 
 ---
 
 **HTTP Status** by opl
 Exposes information about the current game status, to be used to build custom stream overlays or track player performance.
-[Release and Usage](https://www.modsaber.ml/mod/http-status)
+[Release and Usage](https://www.modsaber.org/mod/http-status)
 
 ---
 
 **Practice Plugin** by xyonico
 Change the speed of the song in no-fail mode, and set a loop to practice.
-[Release](https://www.modsaber.ml/mod/practice-plugin)
+[Release](https://www.modsaber.org/mod/practice-plugin)
 
 ---
 
 **Random Song** by Taz
 Select and play a song at random.
-[Release and Usage](https://www.modsaber.ml/mod/randomsong)
+[Release and Usage](https://www.modsaber.org/mod/randomsong)
 
 ---
 
 **Simplest Rainbow Mod** by RQ
 Randomizes the colors of the background lights.
-[Release](https://www.modsaber.ml/mod/simplestrainbowmod)
+[Release](https://www.modsaber.org/mod/simplestrainbowmod)
 
 ---
 
 **Saber Tailor** by Ruu
 Tweak almost everything about your sabers, including length, grip, and trail length.
-[Release and Usage](https://www.modsaber.ml/mod/sabertailor)
+[Release and Usage](https://www.modsaber.org/mod/sabertailor)
 
 ---
 
 **Transparent Walls** by PureDark
 A plugin that make the walls transparent in your cameras.
 ***Note:** You must be in No-Fail mode to enable transparent walls in the headset.*
-[Release and Usage](https://www.modsaber.ml/mod/transparentwall)
+[Release and Usage](https://www.modsaber.org/mod/transparentwall)
 
 ---
 
 **Twitch Integration** by Soliel
 For all you streamers out there who want song requests in your chat!
-[Release and Usage](https://www.modsaber.ml/mod/twitch-integration)
+[Release and Usage](https://www.modsaber.org/mod/twitch-integration)
 
 ---
 
