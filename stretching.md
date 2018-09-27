@@ -2,15 +2,17 @@
 <!-- SUBTITLE: Can't hit bloq with vegetable arms -->
 
 # Stretch and Warm Up
-Beat Saber can be a pretty physically demanding game and it is important to treat play sessions just a workout. We strongly recommend that you stretch and warm up before each play session to avoid physical injury, including damage to the wrist and shoulders. Stretching isn't just limited to people playing crazy custom songs either, you can yourself even if a map seems short simple.
+Beat Saber can be a pretty physically demanding game and it is important to treat play sessions just a workout. We strongly recommend that you stretch and warm up before each play session to avoid physical injury, including damage to the wrist and shoulders. Common injuries include repetitive strains to the wrist (RSI) and injuries to the rotator cuff. Stretching isn't just limited to people playing crazy custom songs either, you can injure yourself even if a map seems short or simple.
 
 # OrangeW's Advice
-## Stretches
+## Wrist Stretches
 
 [Dr Levi Harrison's videos](https://www.youtube.com/user/drlevifitness) are great for general warmup of muscles and making sure you don't pull muscles, and good for easing pain from existing RSI, or entirely preventing it.
 
-Orange's Recommended Videos:
+### Recommended Videos
+
 [video](https://youtu.be/wYGfDCGrJ4A){.youtube}
+
 [video](https://youtu.be/GRtXgm5QVIM){.youtube}
 
 ## Warm Ups
