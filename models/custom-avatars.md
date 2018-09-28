@@ -17,7 +17,7 @@ The plugin uses the keyboard to change the settings. Make sure you have the game
 {.is-warning}
 
 >Note: Avatars are not selected by default. Use Page Up / Page Down with the game in focus to switch to an avatar if none appear at first.
-
+{.is-warning}
 # Creating your own avatar
 [Assistant's Avatar Guide](https://bs.assistant.moe/Avatars) is a good resource for learning how to make your own avatar.
 The guide includes a [short video narrated by Megalon](https://bs.assistant.moe/Avatars#Videos), however it is intended to be an overview and you should watch it in addition to reading the guide, not lieu of.
