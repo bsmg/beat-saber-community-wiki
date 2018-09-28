@@ -12,7 +12,12 @@ The plugin uses the keyboard to change the settings. Make sure you have the game
 |  Page Up  | Cycles to the next avatar in your list     |
 | Page Down | Cycles to the previous avatar in your list |
 |    Home   | Toggles first person visibility (HMD)            |
-Note: Some avatars were not made with first person view in mind, so they might block your vision if enabled.
+
+> Note: Some avatars were not made with first person view in mind, so they might block your vision if enabled.
+{.is-warning}
+
+>Note: Avatars are not selected by default. Use Page Up / Page Down with the game in focus to switch to an avatar if none appear at first.
+
 # Creating your own avatar
 [Assistant's Avatar Guide](https://bs.assistant.moe/Avatars) is a good resource for learning how to make your own avatar.
 The guide includes a [short video narrated by Megalon](https://bs.assistant.moe/Avatars#Videos), however it is intended to be an overview and you should watch it in addition to reading the guide, not lieu of.
