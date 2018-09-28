@@ -1,7 +1,7 @@
 <!-- TITLE: Custom Platforms -->
 
 # Installation
-The latest Custom Saber plugin can be found in the Mod Manager. Run the Mod Manager, select the Custom Platforms plugin, and click Install.
+The latest Custom Platforms plugin can be found in the Mod Manager. Run the Mod Manager, select the Custom Platforms plugin, and click Install.
 Once you've installed it you will see a folder called CustomSabers in [your install folder](/FAQ/install-folder), this is where you should place the `*.plat` files you want to use.
 
 If you'd prefer a video demonstration, [here is a  tutorial](https://www.youtube.com/watch?v=sz7EPPqUjJ4) by Helixx VR.
