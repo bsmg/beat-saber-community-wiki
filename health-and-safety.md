@@ -28,6 +28,8 @@ Start with much slower maps (slower than your standard level of play) and in the
 
 So for instance, my standard level of play (that I enjoy) is maps like TWISTSTEP, Your Voice So, etc. When I begin playing, I start on the low end, with maps like Believer, after which I take a minute or so to stretch out my arms and make sure they're actually starting to get warmer. Then I move to something a touch more intense, like Bubble Tea, and applying the same things after finishing it, and finishing with Deadly Nostalgia.
 
+## Final Words
+Regulating your gameplay is important. Burning pain = muscle development. Sharp pain = stop playing, right now.
 # A Short Message from TammyPajammy and RQ
 To reduce the risk of physical injury, always remember to stretch before and after playing Beat Saber.  Consider the following:
 
