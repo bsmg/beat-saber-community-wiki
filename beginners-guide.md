@@ -35,7 +35,7 @@ You can also manually place the zip files downloaded from Beat Saver into the `C
 See [install folder](FAQ/install-folder).
 
 ## Beast Saber
-[Beast Saber](https://www.bsaber.com) is a review site that aims to curate all of the songs on Beat Saver!
+[Beast Saber](https://www.bsaber.com) is a review site that aims to curate all of the songs on Beat Saver! You can also download playlists, follow mappers, find songs using advanced sorting methods and more.
 
 ## Beat Drop
 [Beat Drop](https://bsaber.com/beatdrop/) is a desktop application that allows you to download songs, and create playlists as well!
