@@ -20,7 +20,7 @@ https://github.com/Ikeiwa/EditSaber/releases
 
 ### Edit Saber Enhanced
 A fork of Ikeiwa's Edit Saber 6v2 with a ton of additional features. A collaboratioin between permissionBRICK and squeaksies.
-https://github.com/permissionBRICK/EditSaberEnhanced
+https://github.com/permissionBRICK/EditSaberEnhanced/releases
 
 ## Midi converter / web based editor
 Midi converter made by ciwolsey!
