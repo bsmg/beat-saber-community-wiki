@@ -187,7 +187,7 @@ Display Twitch chat in-game, and allows you to send responses without taking you
 
 **Stream Info** by bigfoot
 Output BeatSaber game data to an external overlay to be used on stream.
-[Release](https://github.com/bigfoott/BeatSaberStreamInfo/releases) [Usage](https://github.com/bigfoott/BeatSaberStreamInfo)
+[Release](https://github.com/bigfoott/BeatSaberStreamInfo/releases) [Usage](https://bigft.io/streaminfo)
 
 ---
 
