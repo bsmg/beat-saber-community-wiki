@@ -29,7 +29,7 @@ A fork of Ikeiwa's `Edit Saber 6v2` with a ton of additional features.
 A collaboration between permissionBRICK and squeaksies.
 https://github.com/permissionBRICK/EditSaberEnhanced/releases/latest
 
-### Edit Saber (Vanilla)
+### Original
 The original `Edit Saber 6v2` that most maps were made with.
 https://github.com/Ikeiwa/EditSaber/releases/latest
 
