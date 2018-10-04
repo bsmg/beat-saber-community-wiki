@@ -20,17 +20,17 @@ A robust 3D track editor made in Unreal Engine by Ikeiwa!
 There are currently 3 versions of Edit Saber, listed below.
 
 ### Mediocre Mapper
-A fork of `Edit Saber Enhanced` made by squeaksies.
+A fork of Edit Saber Enhanced made by squeaksies.
 This version adds even more features to Edit Saber Enhanced!
 https://github.com/squeaksies/MediocreMapper/releases/latest
 
 ### Edit Saber Enhanced
-A fork of Ikeiwa's `Edit Saber 6v2` with a ton of additional features.
+A fork of Ikeiwa's Edit Saber 6v2 with a ton of additional features.
 A collaboration between permissionBRICK and squeaksies.
 https://github.com/permissionBRICK/EditSaberEnhanced/releases/latest
 
 ### Original
-The original `Edit Saber 6v2` that most maps were made with.
+The original Edit Saber
 https://github.com/Ikeiwa/EditSaber/releases/latest
 
 ## Midi converter / web based editor
