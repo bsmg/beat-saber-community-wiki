@@ -17,7 +17,7 @@ There are currently 3 editors. All export the same files, but offer different wo
 A robust 3D track editor made in Unreal Engine by Ikeiwa!
 *Most people use a version of this editor.*
 
-There are currently 3 versions of Edit Saber, listed below.
+There are several forks of Edit Saber, listed below.
 
 ### Mediocre Mapper
 A fork of Edit Saber Enhanced made by squeaksies.
