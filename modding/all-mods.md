@@ -269,7 +269,7 @@ Dont
 
 ---
 
-**wddada wDD.AD.A** by Arti
+**wddada** by Arti
 wddada
 [Release](https://cdn.discordapp.com/attachments/473162851666886676/483198154385129473/wddada.zip)
 
