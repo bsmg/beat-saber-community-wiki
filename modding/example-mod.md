@@ -43,7 +43,9 @@ Before we begin with our plugin, it is important to create some variables that w
 ## --verbose
 Let's add a quick line of code to the beginning of our `OnApplicationStart()` void function:
 
-`Console.WriteLine("Hello World!");`
+```csharp
+Console.WriteLine("Hello World!");
+```
 
 It is useful to modify the starting parameters of Beat Saber (through Steam or a shortcut) and add `--verbose` to the end. This will start Beat Saber with a console window open, displaying logs from every mod you have installed. If you compile then launch Beat Saber, and scroll from the top of the console window, you should see our Hello World message. Any errors that would cause our plugin to not work properly will be shown here, although because our plugin is in a compiled state, it will not tell us the exact line number. Be careful!
 ## Creating a GameObject
@@ -109,7 +111,9 @@ Before we continue in initializing, we will go over a key class that will aid a 
 
 The most common use of this goes a little something like this:
 
-`Resources.FindObjectsOfTypeAll<Saber>().FirstOrDefault();`
+```csharp
+Resources.FindObjectsOfTypeAll<Saber>().FirstOrDefault();
+```
 
 This will loop through all objects and return the first (or default) instance of a `Saber` class popping up in `Resources`. This is mainly used for adding functions to events. For editing private fields and properties, you will have to use Reflection, which we will cover in a future time.
 
@@ -214,9 +218,10 @@ Then drop in the file `\<Beat Saber Directory>\Beat Saber_Data\Managed\Assembly-
 
 You can also use dnSpy to view the code of plugins, even those that have not yet published to GitHub. Be wary, though!
 
-![Dnspy Example](/uploads/modding/dnspy-example.png "Dnspy Example")
+![dnSpy Example](/uploads/modding/dnspy-example.png "dnSpy Example")
 
-## Advanced Building | Symlinks
+## Advanced Building
+### Symlinks
 If you find yourself tired of having to copy your finished builds from one folder to the next, this will help you minimize the hassle needed by only just needing to Build, then you are good to go.
 
 A `symlink` is something that tells Windows that one file is actually linking to another directory. This is useful if you want a folder on your Desktop that goes straight to your Beat Saber directory when you open it, or in our case, have a symlink from our plugin in our Plugins folder to the latest builds in our build directory.
@@ -230,7 +235,7 @@ A `symlink` is something that tells Windows that one file is actually linking to
 
 If all is done correctly, the next time you build your plugin and launch Beat Saber, the plugins should update automatically.
 
-## Advanced Building | Post-Build Events
+### Post-Build Events
 Another way to go about this is taking advantage of C#'s post-build events. This not only allows you to copy files to a directory when build is complete, but you can also do a lot more.
 
 1. Under `Project`, click `<Project Name> Properties...`
