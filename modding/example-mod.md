@@ -250,7 +250,7 @@ You can also manually pass objects in by using `ReflectionUtil.GetPrivateField<T
 ### Example
 Let's say you have a `PlayerController` named `pc` and you wanted to get the left Saber. After setting up ReflectionUtil, all you need to do is:
 
-```c_cpp
+```js
 Saber leftSaver = pc.GetPrivateField<Saber>("_leftSaber");
 ```
 
@@ -261,7 +261,7 @@ Saber leftSaver = pc.GetPrivateField<Saber>("_leftSaber");
 Illusion Plugin Architecture plugins automatically include a form of saving and loading user content, called `ModPrefs`.
 
 ModPrefs are saved in `/<Beat Saber Directory>/UserData/modprefs.ini`. Setting and getting preferences are now as easy as:
-```c_cpp
+```js
 //Sets the string in section "section" with name "name" with the value "value".
 //You can also use SetInt, SetFloat, SetBool, etc.
 ModPrefs.SetString(section, name, value);
