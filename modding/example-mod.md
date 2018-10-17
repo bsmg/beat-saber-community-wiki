@@ -227,7 +227,7 @@ Read more about it [here.](https://github.com/pardeike/Harmony)
 
 Download the [latest release of Harmony](https://github.com/pardeike/Harmony/releases)
 Extract `0Harmony.dll` to `/<Beat Saber Directory>\Beat Saber_Data\Managed`.
-Add Harmony as a reference ([Click here if you forget how to add a reference to your project](/modding/example-mod#references-and-textmeshpro)).
+Add Harmony as a reference ([Click here if you forget how to add a reference to your project](/modding/example-mod#references-and-text-mesh-pro)).
 
 > Plugins that utilize Harmony ***require*** the `0Harmony.dll` file inside of `/<Beat Saber Directory>\Beat Saber_Data\Managed`. Add a try-catch statement when you patch the game so the plugin doesn't crash when starting without Harmony.
 {.is-warning}
