@@ -206,6 +206,11 @@ Also, be sure to visit the [#mod-development](https://discordapp.com/channels/44
 ## Source Code
 **If you find yourself stuck with an error in your code, and you want to compare with the project we've created, we've published the source code on GitHub: https://github.com/Caeden117/MissedCounter**
 # Extras
+
+Here is some extra content and information that will help you on your way of creating a plugin. Inspecting the game's uncompiled code, create and read settings, and access private variables are all things Beat Saber plugins do, so why leave you off with *just* the basics?
+
+Here's programs and libraries that allow you to go more advanced with your plugins, and will help you greatly if you decide to explore new territory in Beat Saber modding. Remember, the [Beat Saber Modding Group](https://discord.gg/beatsabermods) is always here for your programming help!
+
 ## dnSpy
 dnSpy is a .NET debugger and assembly editor that allows you to import compiled `.dll`s and view them decompiled into C#.
 In the case of modding, we can use dnSpy to view the source code of Beat Saber and find methods and variables that would be handy to have for some plugins.
