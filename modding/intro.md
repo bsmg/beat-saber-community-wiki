@@ -48,7 +48,7 @@ Most of these files will be located within `\<Beat Saber directory>\Beat Saber_D
 **Can't find your Beat Saber directory?** See [install folder](/faq/install-folder).
 
 # Compiling the plugin
-If you have fixed all of the references in the project, on the top menu bar press `Build -> Build Solution` or <kbd>CTLR + SHIFT + B</kbd>
+If you have fixed all of the references in the project, on the top menu bar press `Build -> Build Solution` or <kbd>CTRL + SHIFT + B</kbd>
 
 Your compiled DLL should appear in the `\Bin\Debug` folder of your project.
 
