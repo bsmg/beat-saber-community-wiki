@@ -51,6 +51,8 @@ It is useful to modify the starting parameters of Beat Saber (through Steam or a
 ## Creating a GameObject
 We will write little code inside of `Plugin.cs`. We will create a MonoBehavior script which will handle the heavy lifting for us. In fact, we will only be writing three more lines of code before we move on to another file.
 
+Let's add to the `SceneManagerOnActiveSceneChanged()` event that has been generated for us. This will be called when the scene has been changed, so we can easily create a GameObject here.
+
 ![Plugin Scenechanged](/uploads/modding-example/plugin-scenechanged.png "Plugin Scenechanged")
 
 > If you receive an error relating to `env.Contains()`, you may need to add `using System.Linq;` to the top of your file.
