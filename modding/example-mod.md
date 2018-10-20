@@ -195,7 +195,7 @@ When your plugin is in a testable state (No errors, little warnings, everything'
 
 Moving the file from building is just as easy as copying the build path into your File Explorer, opening another one into your Plugins folder of the Beat Saber installation, and drag and dropping. There really is no simpler explanation than that.
 
-Then, launch Beat Saber, enter a song, and watch as a brand now Miss counter appears right below the Combo!
+Then, launch Beat Saber, enter a song, and watch as a brand new Miss counter appears right below the Combo!
 
 ## Debugging
 If you find your plugin not working, remember to launch Beat Saber in `--verbose` mode. This will open a console window where any errors will get logged and you can find out what went wrong. Another way to go about this is adding `try catch` statements in code where you think could be erroring, and logging something. This also prevents the plugin from breaking and no longer working at all after the first error.
