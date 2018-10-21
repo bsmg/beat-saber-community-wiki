@@ -21,7 +21,7 @@ There are several forks of Edit Saber, listed below.
 
 ### Mediocre Mapper
 A fork of Edit Saber Enhanced made by squeaksies.
-This version adds even more features to Edit Saber Enhanced. We recommend using this version.
+This version adds even more features to Edit Saber Enhanced. **We recommend using this version.**
 https://github.com/squeaksies/MediocreMapper/releases/latest
 
 ### Edit Saber Enhanced
