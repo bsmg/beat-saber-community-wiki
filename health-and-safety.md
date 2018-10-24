@@ -9,8 +9,8 @@ Tino is a top 10 player in Canada who kindly wrote a very detailed guide coverin
 
 # Wrist Care
 ## Wrist Weights?
-> **DO NOT USE WRIST WEIGHTS!**
-{.is-danger}
+> **We do not recommend the use of wrist weights without professional training.**
+{.is-warning}
 
 The body was not meant to support extra weight for long periods of time in unnatural movements, especially when it comes to limbs. This is why form and rest are so heavily emphasized in weightlifting. Refer to [this comment](https://www.reddit.com/r/Vive/comments/8g9jgs/beat_saber_has_now_released/dya1yl7/) for more information.
 
