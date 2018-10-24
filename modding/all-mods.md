@@ -290,4 +290,8 @@ WARNING: DO NOT USE THIS MOD IF YOU HAVE PHOTOSENSITIVE EPILEPSY! THIS IS NOT A 
 Automatically convert Youtube or Spotify playlists to BeatDrop playlists.
 [Release](https://bscustomplaylistcompiler.github.io/)
 
+**AutoPause** by Auros
+Will pause your game if major tracking issues are detected or if your FPS decreases after a certain threshold.
+[Release and Usage](https://www.modsaber.org/mod/autopause)
+
 
