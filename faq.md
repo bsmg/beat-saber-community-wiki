@@ -53,7 +53,7 @@ Here is an image of the hitboxes for the notes: https://twitter.com/Split82/stat
 
 ## How do I revert to the original sabers after installing custom sabers?
 
-Use these [replicas](https://wiki.assistant.moe/uploads/originalish.saber)!
+Here are the [original saber models](/uploads/the-originals.saber "The Originals")]!
 
 ## My game will not load!
 You may have a popup on your desktop asking about your Beat Saver auth token to vote on songs at the end of the game.
