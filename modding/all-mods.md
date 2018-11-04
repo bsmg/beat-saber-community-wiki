@@ -81,7 +81,11 @@ Changes the text when you fail a song.
 
 **Debris Remover** by Kyle1413
 Removes note debris that appear after slicing a note.
-[Release and Usage](https://www.modsaber.org/mod/debrisremover/)
+NOTE: Kyle has decided to remove this plugin from modsaber, and also deleted the github repo.
+The plugin was "fundamentally flawed" and "caused extremely hard to reproduce issues that were run ruining."
+The plugin worked by setting the debris lifetime to 0, but this would somehow cause strange issue like the example below.
+Example:
+https://clips.twitch.tv/HealthyBillowingWitchRaccAttack
 
 ---
 
