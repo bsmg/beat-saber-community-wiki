@@ -75,8 +75,7 @@ Normally, lighting events cannot be copy pasted but this [tutorial](https://bsab
 
 # "Mappers" role on the Beat Saber Modding Group Discord
 If you'd like to apply for the Mappers role on the Beat Saber Modding Group Discord, use the following google form.
-https://docs.google.com/forms/d/1GtIN_i-ddvLb0AHGmZMYEIVjbeTTwqqbMxPXNjDywIo/
-
+https://goo.gl/forms/KM71UKjQpbCesWNg2
 # Frequently Asked Questions
 ## Do I need Beat Saber installed to use the editors?
 No. Edit Saber will ask for the Beat Saber directory, but it can be any folder.
