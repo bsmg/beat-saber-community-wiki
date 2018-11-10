@@ -43,7 +43,7 @@ See [install folder](FAQ/install-folder).
 [Beat Drop](https://bsaber.com/beatdrop/) is a desktop application that allows you to download songs, and create playlists as well!
 
 ## Bootleg BeatSaver Search
-An [external search engine](http://beatsaver-search.s3-website-ap-southeast-2.amazonaws.com/) that enables more advanced searching functionality to help you find songs on BeatSaver.
+An [external search engine](http://bootleg-beatsaver.com/) that enables more advanced searching functionality to help you find songs on BeatSaver.
 
 # How to uninstall mods
 **Currently the only way to uninstall a mod is to remove the dll from the `Plugins` folder.**
