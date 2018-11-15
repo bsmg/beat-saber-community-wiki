@@ -10,7 +10,7 @@
 * [Publishing Songs](https://beatsaver.com)
 
 > Please do not upload WIPs to beatsaver! It's hard to tell which maps aren't finished in game, and anyone who plays your WIP without no-fail enabled will create a new leaderboard for that map. Uploading to beatsaver should be akin to putting it on store shelves - that is, it's your final product. To share for playtesting, we encourage you to use google drive, dropbox, uploading to discord, etc. 
-{.is-caution}
+{.is-warning}
 
 # Editors
 
