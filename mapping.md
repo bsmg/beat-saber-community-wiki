@@ -9,7 +9,7 @@
 * [Kolezan's Song/Audio Editing Guide](https://bsaber.com/custom-mapping-song-audio-editing/)
 * [Publishing Songs](https://beatsaver.com)
 
------
+> Please do not upload WIPs to beatsaver! It's hard to tell which maps aren't finished in game, and anyone who plays your WIP without no-fail enabled will create a new leaderboard for that map. Uploading to beatsaver should be akin to putting it on store shelves - that is, it's your final product. To share for playtesting, we encourage you to use google drive, dropbox, uploading to discord, etc. 
 
 # Editors
 
@@ -49,8 +49,6 @@ A 2D track editor made in Processing by Megalon!
 **Note: This is depreciated and there is very little support for this program, if any!**
 https://github.com/megalon/BeatSaber-UnofficialTrackEditor/releases
 
------
-
 # Other Resources
 ## Lightmap
 A tool to automatically generate lighting events for a custom song by Freeek and Recrudesce!
@@ -68,9 +66,6 @@ https://bsaber.com/bpmsaber/
 ## BPM Changer
 A [tool](https://github.com/zevdg/bpm-saber) for changing the BPM of a beatsaber track without changing the position of the boxes and walls relative to the music.
 
-
------
-
 # Legacy Tools
 These tools have been deprecated by MediocreMapper, but you might find these helpful if you are using older tools.
 
@@ -83,8 +78,6 @@ Normally, lighting events cannot be copy pasted but this [tutorial](https://bsab
 # "Mappers" role on the Beat Saber Modding Group Discord
 If you'd like to apply for the Mappers role on the Beat Saber Modding Group Discord, use the following google form.
 https://goo.gl/forms/KM71UKjQpbCesWNg2
-
------
 
 # Frequently Asked Questions
 ## Do I need Beat Saber installed to use the editors?
