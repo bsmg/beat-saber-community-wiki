@@ -7,6 +7,10 @@
 * [Awfulnaut's Best Practices Guide](https://bit.ly/2LjbURw)
 * [M.Rappold's OST Analysis Spreadsheet](https://bit.ly/2lzzSxd)
 * [Kolezan's Song/Audio Editing Guide](https://bsaber.com/custom-mapping-song-audio-editing/)
+* [Publishing Songs](https://beatsaver.com)
+
+-----
+
 # Editors
 
 **The official editor has not been released.**
@@ -21,7 +25,7 @@ There are several forks of Edit Saber, listed below.
 
 ### Mediocre Mapper
 A fork of Edit Saber Enhanced made by squeaksies.
-This version adds even more features to Edit Saber Enhanced. **We recommend using this version.**
+This version adds even more features to Edit Saber Enhanced. 
 https://github.com/squeaksies/MediocreMapper/releases/latest
 
 ### Edit Saber Enhanced
@@ -45,6 +49,8 @@ A 2D track editor made in Processing by Megalon!
 **Note: This is depreciated and there is very little support for this program, if any!**
 https://github.com/megalon/BeatSaber-UnofficialTrackEditor/releases
 
+-----
+
 # Other Resources
 ## Lightmap
 A tool to automatically generate lighting events for a custom song by Freeek and Recrudesce!
@@ -63,6 +69,8 @@ https://bsaber.com/bpmsaber/
 A [tool](https://github.com/zevdg/bpm-saber) for changing the BPM of a beatsaber track without changing the position of the boxes and walls relative to the music.
 
 
+-----
+
 # Legacy Tools
 These tools have been deprecated by MediocreMapper, but you might find these helpful if you are using older tools.
 
@@ -72,13 +80,16 @@ Currently variable BPM isn't supported by the game, but you can fake it by offse
 ## Copy-Paste Lighting Guide
 Normally, lighting events cannot be copy pasted but this [tutorial](https://bsaber.com/copy-and-paste-lighting-events-in-editsaber/) should make things easier.
 
-
 # "Mappers" role on the Beat Saber Modding Group Discord
 If you'd like to apply for the Mappers role on the Beat Saber Modding Group Discord, use the following google form.
 https://goo.gl/forms/KM71UKjQpbCesWNg2
+
+-----
+
 # Frequently Asked Questions
 ## Do I need Beat Saber installed to use the editors?
-No. Edit Saber will ask for the Beat Saber directory, but it can be any folder.
+No. The editor will ask for the Beat Saber directory, but it can be any folder.
+
 ## What if I want to make my own editor / converter?
 Understanding the track JSON file: https://pastebin.com/cTPGrxWY
 Understanding the events data: https://docs.google.com/spreadsheets/d/1vCTlDvx0ZW8NkkZBYW6ecvXaVRxDUKX7QIoah9PCp_c/htmlview
@@ -99,7 +110,6 @@ Check out [Kolezan's Song/Audio Editing Guide](https://bsaber.com/custom-mapping
 ## I'm having issues uploading the map to BeatSaver, it says the format is invalid but everything looks right.
 If you have Windows file extensions turned off, then you might have unknowingly saved your files with names like `cover.jpg.jpg`.  To turn off file extensions in Windows, see the following image:
 ![File Extensions](/uploads/images/file-extensions.png "File Extensions")
-
 
 ## I want to double the BPM of my song, is there an easy way to do that?
 Here is a [Python3 Script](https://cdn.discordapp.com/attachments/442372806705938434/447910905972523008/beat-saber-time-multiplier.zip) that will multiply the BPM and `_time` values in your JSON file by any given factor.
