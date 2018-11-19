@@ -8,9 +8,8 @@ Beat Saber can be a pretty physically demanding game and it is important to trea
 Tino is a top 10 player in Canada who kindly wrote a very detailed guide covering proper warm up, recovery, and injury relief. [Check it out here!](https://docs.google.com/document/d/122rd-eU0mkwQ6fXUwSmo1_XAh73Jyqd1u6ncrUjtkD0/)
 
 # Wrist Care
-## Wrist Weights?
-> **We do not recommend the use of wrist weights without professional training.**
-{.is-warning}
+## Weights?
+Check out [this guide](https://www.vrfitnessinsider.com/beat-saber-weighted-gear/) to see how to use weights without hurting yourself in Beat Saber!
 
 The body was not meant to support extra weight for long periods of time in unnatural movements, especially when it comes to limbs. This is why form and rest are so heavily emphasized in weightlifting. Refer to [this comment](https://www.reddit.com/r/Vive/comments/8g9jgs/beat_saber_has_now_released/dya1yl7/) for more information.
 
