@@ -11,8 +11,6 @@ Tino is a top 10 player in Canada who kindly wrote a very detailed guide coverin
 ## Weights?
 Check out [this guide](https://www.vrfitnessinsider.com/beat-saber-weighted-gear/) to see how to use weights without hurting yourself in Beat Saber!
 
-The body was not meant to support extra weight for long periods of time in unnatural movements, especially when it comes to limbs. This is why form and rest are so heavily emphasized in weightlifting. Refer to [this comment](https://www.reddit.com/r/Vive/comments/8g9jgs/beat_saber_has_now_released/dya1yl7/) for more information.
-
 ## OrangeW's Guide to Wrist Care
 OrangeW is a top 10 player on the global leaderboards as well as a member of the BSMG Staff team. The following is his advice for minimizing the risk of wrist injury at any level of play.
 
