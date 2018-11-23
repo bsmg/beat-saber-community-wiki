@@ -9,4 +9,4 @@ If you'd prefer a video demonstration, [here is a  tutorial](https://www.youtube
 Inside the game in the main menu you will see a button called `PLATFORMS` near the bottom right of the center panel. Clicking that will open up a menu where you can preview and select which platform you want to use. Note that if you intend to use the `Progress Counter` mod, most platforms will block the center song timer.
 
 # Creating your own platform
-TODO
+[Emma's Platform Guide](https://bs.assistant.moe/Platforms) is an great resource for learning how to make your own platforms. 
