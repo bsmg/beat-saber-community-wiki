@@ -57,6 +57,7 @@ We will write little code inside of `Plugin.cs`. We will create a MonoBehavior s
 Let's add to the `SceneManagerOnActiveSceneChanged()` event that has been generated for us. This will be called when the scene has been changed, so we can easily create a GameObject here.
 
 > Due to later patches of Beat Saber changing scene loading, `env` is no longer needed. You can instead replace the conditional inside the if statement to `arg1.name == "GameCore"`. 
+{.is-danger}
 
 ![Plugin Scenechanged](/uploads/modding-example/plugin-scenechanged.png "Plugin Scenechanged")
 
