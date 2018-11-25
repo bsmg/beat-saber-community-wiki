@@ -7,8 +7,8 @@ The Beat Saber Modding Community is 100% volunteer based and it wouldn't be poss
 
 # Modders
 ### xyonico
-* Responsible for the custom song loader, CameraPlus, and the current custom avatar plugin.
-* [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RRQ2MBEEEW63A)
+Responsible for the custom song loader, CameraPlus, and the current custom avatar plugin.
+[Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RRQ2MBEEEW63A)
 
 # BSMG Sites
 Maintaining websites isn't free!
