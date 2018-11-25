@@ -1,14 +1,9 @@
 <!-- TITLE: Stretching -->
 <!-- SUBTITLE: Can't hit bloq with vegetable arms -->
 
-# Safety
+# Warm Up and Recovery
 Beat Saber can be a pretty physically demanding game and it is important to treat play sessions just a workout. We strongly recommend that you stretch and warm up before each play session to avoid physical injury, including damage to the wrist and shoulders. Common injuries include repetitive strain injury (RSI) to the wrist and shoulders. 
 
-Keep your playspace clear of obstructions, allow adequate room around during gameplay, and always wear your wrist straps. 
-![Allow Adequate Room Around You During Game Play Put On 27689465](/uploads/allow-adequate-room-around-you-during-game-play-put-on-27689465.png "Allow Adequate Room Around You During Game Play Put On 27689465")
-> Beat Saber is not available for the Nintendo Wii, this image is used for informative purposes only.
-{.is-warning}
-# Warm Up and Recovery
 Stretching isn't just limited to people playing crazy custom songs either, you can injure yourself even if a map seems short or simple.
 
 ## Tino's Guide to Warm Up and Recovery
@@ -39,6 +34,14 @@ So for instance, my standard level of play (that I enjoy) is maps like TWISTSTEP
 
 ### Final Words
 Regulating your gameplay is important. Burning pain = muscle development. Sharp pain = stop playing, right now.
+
+# Safety
+
+Keep your playspace clear of obstructions, allow adequate room around during gameplay, and always wear your wrist straps. 
+![Allow Adequate Room Around You During Game Play Put On 27689465](/uploads/allow-adequate-room-around-you-during-game-play-put-on-27689465.png "Allow Adequate Room Around You During Game Play Put On 27689465")
+> Beat Saber is not available for the Nintendo Wii, this image is used for informative purposes only.
+{.is-warning}
+
 # A Short Message from TammyPajammy and RQ
 To reduce the risk of physical injury, always remember to stretch before and after playing Beat Saber.  Consider the following:
 
