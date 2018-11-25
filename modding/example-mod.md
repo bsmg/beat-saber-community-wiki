@@ -31,6 +31,9 @@ Before we begin with our plugin, it is important to create some variables that w
 ![Plugin Variables](/uploads/modding-example/plugin-variables.png "Plugin Variables")
 *(Courtesy of [Beat Saber Progress Counter](https://github.com/Strackeror/BeatSaberProgressCounter/))*
 
+> The `0.12` patch of Beat Saber yet again brought a new way the game handles scene loading. The `env` variable we have created is no longer needed. Take a look for another one of these messages later in the tutorial.
+{.is-danger}
+
 | | |
 | --- | --- |
 |`env` | The `0.11.2` patch of Beat Saber brought with it a different way the game loads scenes. Instead of one "master" scene, it is split up into different scenes depending on the environment. We will detect if the game is played a game based off the name of the scene.|
@@ -52,6 +55,8 @@ It is useful to modify the starting parameters of Beat Saber (through Steam or a
 We will write little code inside of `Plugin.cs`. We will create a MonoBehavior script which will handle the heavy lifting for us. In fact, we will only be writing three more lines of code before we move on to another file.
 
 Let's add to the `SceneManagerOnActiveSceneChanged()` event that has been generated for us. This will be called when the scene has been changed, so we can easily create a GameObject here.
+
+> Due to later patches of Beat Saber changing scene loading, `env` is no longer needed. You can instead replace the conditional inside the if statement to `arg1.name == "GameCore"`. 
 
 ![Plugin Scenechanged](/uploads/modding-example/plugin-scenechanged.png "Plugin Scenechanged")
 
