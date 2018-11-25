@@ -7,14 +7,24 @@ The Beat Saber Modding Community is 100% volunteer based and it wouldn't be poss
 
 # Modders
 ### xyonico
-Responsible for the custom song loader, CameraPlus, and the current custom avatar plugin.
-[PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RRQ2MBEEEW63A)
+Responsible for the custom song loader, CameraPlus, and the current Custom Avatar plugin.
+[Github](https://github.com/xyonico/) [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RRQ2MBEEEW63A)
+
+### Rolo
+Creator of the Custom Platforms plugin and pumpkin carving extrordinaire.
+[Github](https://github.com/rolopogo) [PayPal](https://www.paypal.me/RobynLovett)
 
 ---
 
 **lolPants**
 Is a furry
 [Monzo](https://monzo.me/jackbaron)
+
+---
+
+**Soliel**
+Mother of !bsr
+[PayPal](https://streamlabs.com/soliela)
 # BSMG Sites
 Maintaining websites isn't free!
 
