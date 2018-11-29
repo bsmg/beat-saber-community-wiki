@@ -17,7 +17,7 @@ BSMG's unsung hero - he doesn't talk much but silently watches over the server f
 
 [Github](https://github.com/xyonico/) [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RRQ2MBEEEW63A)
 
-​
+
 ### Rolo
 Creator of the Custom Platforms plugin and pumpkin carving extrordinaire.
 [Github](https://github.com/rolopogo) [PayPal](https://www.paypal.me/RobynLovett)
