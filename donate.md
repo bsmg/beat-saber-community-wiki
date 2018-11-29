@@ -7,11 +7,9 @@ The Beat Saber Modding Community is 100% volunteer based and it wouldn't be poss
 
 # Modders
 ### xyonico
-Roles
-* staff
-* modder
+**Roles:**staff, modder
 
-Contributions
+**Contributions:**
 * SongLoader
 * CameraPlus 
 * Custom Avatar plugin (current version)
