@@ -31,8 +31,6 @@ placeholder text
 **Contributions:** Is a furry
 [Monzo](https://monzo.me/jackbaron)
 
----
-
 ### Soliel
 **Roles:** Modder
 **Contributions:** Mother of !bsr
