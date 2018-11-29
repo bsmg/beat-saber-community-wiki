@@ -26,14 +26,16 @@ placeholder text
 **Contributions:**
 [Github]() | [Donate]()
 
-**lolPants**
-Is a furry
+### lolPants
+**Roles:** Admin, Staff, Modder
+**Contributions:** Is a furry
 [Monzo](https://monzo.me/jackbaron)
 
 ---
 
-**Soliel**
-Mother of !bsr
+### Soliel
+**Roles:** Modder
+**Contributions:** Mother of !bsr
 [PayPal](https://streamlabs.com/soliela)
 
 # Supports
