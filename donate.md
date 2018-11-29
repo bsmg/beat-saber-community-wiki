@@ -1,8 +1,3 @@
-BEAT SABER MODDING COMMUNITY WIKI
-Donate
-DISCARD
-SAVE CHANGES
-
 <!-- TITLE: Donate -->
 <!-- SUBTITLE: Headpats are nice but they can't buy ramen -->
 
