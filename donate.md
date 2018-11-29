@@ -11,8 +11,7 @@ Ever wonder who made your favorite mod or answered your questions in #support? T
 ​
 # Modders
 ### xyonico
-Xyonico is the unsung hero - he doesn't talk much but silently watches over the server from the shadows and switfly fixes our custom songs whenever updates hit. He's also responsible for the saving us from shakey cameras and third person views. 
-
+BSMG's unsung hero - he doesn't talk much but silently watches over the server from the shadows and switfly fixes our custom songs whenever updates hit. He's also responsible for the saving us from shakey cameras and third person views. 
 **Roles:** staff, modder​
 **Contributions:** SongLoader, CameraPlus, Custom Avatar plugin (current version)
 [Github](https://github.com/xyonico/) [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RRQ2MBEEEW63A)
