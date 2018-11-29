@@ -7,7 +7,13 @@ The Beat Saber Modding Community is 100% volunteer based and it wouldn't be poss
 
 # Modders
 ### xyonico
-Responsible for the custom song loader, CameraPlus, and the current Custom Avatar plugin.
+Roles
+* staff
+* modder
+Contributions
+* SongLoader
+* CameraPlus 
+* Custom Avatar plugin (current version)
 [Github](https://github.com/xyonico/) [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RRQ2MBEEEW63A)
 
 ### Rolo
