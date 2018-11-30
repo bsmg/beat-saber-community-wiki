@@ -6,12 +6,6 @@ Ever wonder who made your favorite mod or answered your questions in #support? T
 Some people could go under multiple sections, so I tried to sort this page the best I could. If you'd like anything about your section changed, feel free to contact me - williums
 
 
-### name
-placeholder text
-**Roles:**
-**Contributions:**
-[Github]() | [Donate]()
-
 
 # Modders
 Making sure our games look nothing like the original, one mod at a time.
@@ -23,10 +17,16 @@ Creator of the Custom Platforms plugin and pumpkin carving extrordinaire.
 [Github](https://github.com/rolopogo) | [PayPal](https://www.paypal.me/RobynLovett)
 
 ### andruzzzhka
-Ever download a song from beatsaver in-game? You have this guy to thank. Also responsible for all your losses in unofficial multiplayer.
+In-game downloads, unofficial multiplayer, and the original ~~despacito~~ custom menu music plugin.
 **Roles:** Modder
-**Contributions:** BeatSaver Downloader, Unoffical Multiplayer
+**Contributions:** BeatSaver Downloader, Unoffical Multiplayer, Custom Menu Music (original)
 [Github](https://github.com/andruzzzhka)
+
+### Arti
+Somone say text customization mods?
+**Roles:** Modder
+**Contributions:** HitScoreVisualizer, CustomMenuText, CustomFailText
+[Github](https://github.com/artemiswkearney) | [Donate]()
 
 ### brian
 TODO: something about brian
@@ -36,22 +36,22 @@ TODO: something about brian
 
 
 ### Soliel
-TODO: Mother of !bsr
+TODO: Mother of `!bsr` and Async Twitch
 **Roles:** Modder
 **Contributions:** Twitch Integration, Async Twitch Library
 [Github](https://github.com/soliel) | [PayPal](https://streamlabs.com/soliela)
 
 
 ### DaNike
-TODO:
+TODO: who?
 **Roles:** Modder
-**Contributions:**
+**Contributions:** who?
 [Github]() | [Donate]()
 
 ### Caeden117
-TODO:
+TODO: Plugin tutorial guy who uses that one fish emote way too much
 **Roles:**
-**Contributions:** CountersPlus
+**Contributions:** CountersPlus, Camera Shake on Miss, wiki modding tutorials
 [Github](https://github.com/caeden117) | [Donate]()
 
 ### halsafar
@@ -61,25 +61,57 @@ You don't realize how much you appreciate SongBrowser until it's gone
 [Github](https://github.com/halsafar) | [Donate]()
 
 ### opl
-Creator of the HTTPStatus stream tools
+Creator of the fancy HTTPStatus stream tools
 **Roles:** Modder
 **Contributions:** HTTPStatus
 [Github](https://github.com/opl-) | [Donate]()
 
 ### PureDark
-If you've ever played darth maul mode, you have this guy to thank.
+If you've ever played darth maul mode, you have this guy to thank
 **Roles:** Modder
 **Contributions:** Darth Maul Plugin, Reactive Materials, Custom Key Events
 [Github](https://github.com/PureDark) | [Donate]()
 
 ### Ruu
-TODO: LIV guy
+TODO: LIV guy who tailors your sabers and game colors
 **Roles:** Modder
-**Contributions:** HTTPStatus
-[Github](https://github.com/opl-) | [Donate]()
+**Contributions:** Saber Tailor, Custom Colors (original)
+[Github](https://github.com/SteffanDonal) | [Donate]()
 
+### SkyKiwi
+The madman behind ChromaToggle and accuracy god. Seriously, this man isn't right in the head.
+**Roles:** Modder
+**Contributions:** ChromaToggle
+[Github](https://github.com/BinaryElement) | [Donate](https://streamlabs.com/SkyKiwiTV)
+
+### Kyle1413
+Resident Kirby and mod modder. Not only does he make mods, he helps you with them in #support too.
+**Roles:** Modder, Support
+**Contributions:** Progress Counter PBT Edition, Custom Colors User Friendly Edition, Intro Skip
+[Github]() | [Donate]()
 
 # Supports
+
+Having problems? Ask in #support. These guys are around to help you figure out your mod problems, big or small.
+
+### name
+placeholder text
+**Roles:**
+**Contributions:**
+[Github]() | [Donate]()
+
+### Steven
+Schrödinger's Support - whether he has the fancy colors or not, he's always around to lend a helping hand. Also a huge Smash Bros fanatic.
+**Roles:** Support
+[Github]() | [Donate]()
+
+### Kolezan
+He'll teach you to fix your plugins and your terribly off-beat first map. We've all been there.
+**Roles:** Support, Mapper
+[Donate]()
+
+### See Also:
+[Kyle1413](#Kyle1413)
 
 # Mappers
 There are WAY too many community mappers to list on this page. If you like someone's maps, give it a thumbs up and review it on [BeastSaber](https://bsaber.com) if you have a chance. Contact them through discord, find them on twitch
