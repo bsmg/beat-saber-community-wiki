@@ -115,7 +115,7 @@ He'll teach you to fix your plugins and your terribly off-beat first map. We've 
 [Donate]()
 
 ### See Also:
-[Kyle1413](###Kyle1413)
+[Kyle1413](###Kyle1413) [Staff](#Staff)
 
 # Mappers
 There are WAY too many community mappers to list on this page. If you like someone's maps, give it a thumbs up in game and review it on [BeastSaber](https://bsaber.com). They'll really appreciate it!
