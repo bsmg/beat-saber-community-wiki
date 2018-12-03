@@ -71,7 +71,7 @@ If you've ever played darth maul mode, you have this guy to thank
 Creator of the Custom Platforms plugin and pumpkin carving extrordinaire.
 **Roles:** Modder
 **Contributions:** Custom Platforms, fixing other plugins
-[Github](https://github.com/rolopogo) | [PayPal](https://www.paypal.me/RobynLovett)
+[Github](https://github.com/rolopogo) | [Donate](https://www.paypal.me/RobynLovett)
 ​
 ### Ruu
 TODO: LIV guy who tailors your sabers and game colors
@@ -83,7 +83,7 @@ TODO: LIV guy who tailors your sabers and game colors
 TODO: Mother of `!bsr` and Async Twitch
 **Roles:** Modder
 **Contributions:** Twitch Integration, Async Twitch Library
-[Github](https://github.com/soliel) | [PayPal](https://streamlabs.com/soliela)
+[Github](https://github.com/soliel) | [Donate](https://streamlabs.com/soliela)
 ​
 ### SkyKiwi
 The madman behind ChromaToggle and accuracy god. Seriously, this man isn't right in the head.
