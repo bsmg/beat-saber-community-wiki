@@ -7,7 +7,7 @@ Ever wonder who made your favorite mod or answered your questions in #support? T
 {.is-warning}
 # Modders
 Making sure our games look nothing like the original, one mod at a time.
-​
+
 ### andruzzzhka
 In-game downloads, unofficial multiplayer, and the original ~~despacito~~ custom menu music plugin.
 **Roles:** Modder
@@ -96,7 +96,7 @@ The madman behind ChromaToggle and accuracy god. Seriously, this man isn't right
 
 # Supports
 Having problems? Ask in #support. These guys have been around to help you figure out your mod problems, big or small.
-​
+
 ### ColdCurse
 One of the first supports and leader of the Steven fan club.
 **Roles:** Support
@@ -117,7 +117,7 @@ Each of your favorite maps is carefully crafted and tested over many hours by a 
 ​
 # Staff
 The team that runs the show. 
-​
+
 ### Assistant
 The original Support - Assistant took over the #support channel in the earilest days back when no one else would. The support role wouldn't exist if not for their efforts.
 **Roles:** Staff, Support, 3D Artist
