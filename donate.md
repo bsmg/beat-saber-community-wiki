@@ -95,11 +95,15 @@ The madman behind ChromaToggle and accuracy god. Seriously, this man isn't right
 [Github](https://github.com/BinaryElement) | [Twitch](https://www.twitch.tv/skykiwitv) | [Donate](https://streamlabs.com/SkyKiwiTV)
 
 ### See Also:
-[Ikeiwa](###Ikeiwa) | [Reaxt](###Reaxt) | [lolPants](###lolPants) 
+[Ikeiwa](###Ikeiwa) | [Reaxt](###Reaxt) | [lolPants](###lolPants)
 
 # Supports
 
 Having problems? Ask in #support. These guys have been around to help you figure out your mod problems, big or small.
+
+### ColdCurse
+One of the first supports and leader of the Steven fan club.
+**Roles:** Support
 
 ### Steven
 Schrödinger's Support - whether he has the fancy colors or not, he's always around to lend a helping hand. Smash Bros fanatic.
@@ -138,35 +142,43 @@ Everyone's favorite french furry. He kicked off modding early on with the origin
 Always a shining ray of positivity when all hell breaks loose, holding everything together when updates hit. Currently holds the title for most sent messages in the entire server.
 **Roles:** Staff, Support, 3D Artist
 **Contributions:** ScoreSaber Admin, Moderation
-[Monzo](https://streamlabs.com/klouderrr)
+[Twitch](https://www.twitch.tv/klouderrr) | [Donate](https://streamlabs.com/klouderrr)
 
 ### lolPants
 Always hard at work on the next feature to keep our discord under control - whether it's server security or plugin managment. Please, tell this man to stop making things, he's out of control.
 **Roles:** Admin, Staff, Modder
 **Contributions:** ModSaber Creator, BSMG Stream Overlays, CMB, Moderation
-[Monzo](https://monzo.me/jackbaron)
+[Personal Site](https://www.jackbaron.com/) | [Twitch](https://www.twitch.tv/lolpants_) | [Donate](https://monzo.me/jackbaron)
 
 ### Megalon
 Part of the original dynamic duo along with Reaxt, he keeps a watchful eye on the server with the help of Channel Monitor Bot. He might also have the nicest voice in the whole server.
 **Roles:** Admin, Staff, Support, Modder
 **Contributions:** CMB, ModSaber Admin, BSMG Stream Overlays, Moderation
-[ko-fi](https://ko-fi.com/megalon)
+[Github](https://github.com/megalon) | [Donate](https://ko-fi.com/megalon)
+
+### OrangeW
+The first beat saber pro player, representing Team Gravity. Also represents the pro players among staff and reeeeeeeeeaally good at the game.
+**Roles:** Staff
+**Contributions:** ScoreSaber Admin, Moderation
+[Twitch](https://twitch.tv/orangew2) | [Donate](https://streamlabs.com/orangew2)
 
 ### Reaxt
 BSMG server owner and rhythm game fanatic. We wouldn't be here today without this very special boy.
 **Roles:** Admin, Staff, Modder
 **Contributions:** Server Owner, Custom Sabers
+[Github](https://github.com/reaxt00)
 
 ### williums
 TODO:
 **Roles:** Staff, Support
 **Contributions:** Wiki Management, Moderation, Contest Management
-[ko-fi](https://ko-fi.com/williums)
+[Twitch](https://www.twitch.tv/williums/) | [Donate](https://ko-fi.com/williums)
 
 ### Umbranox
 ScoreSaber Supreme Leader and creator of the custom leaderboards/ranked system. Always trying to do way too much work with not enough rest. Also an official developer for Beat Games.
 **Roles:** Staff, Offical Dev
 **Contributions:** ScoreSaber
+[Linkkle](https://linkkle.com/umbranoxus)
 
 ### xyonico
 Watches over BSMG from the shadows and switfly fixes our custom songs whenever updates hit. Also responsible for the saving us from shakey cameras and gave us third person cameras.
