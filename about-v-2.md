@@ -168,7 +168,7 @@ BSMG server owner and rhythm game fanatic. We wouldn't be here today without thi
 [Github](https://github.com/reaxt00)
 ​
 ## williums
-TODO:
+From eggplants to Staff, our beloved recovering shitposter now helps keep the server a clean and happy place. Often takes the Initiative to improve the community by planning events among other things. 
 **Roles:** Staff, Support
 **Contributions:** Wiki Management, Moderation, Contest Management, 
 [Twitch](https://www.twitch.tv/williums/) | [Donate](https://ko-fi.com/williums)
