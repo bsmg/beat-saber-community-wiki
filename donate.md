@@ -1,7 +1,7 @@
-<!-- TITLE: Donate -->
-<!-- SUBTITLE: Headpats are nice but they can't buy ramen -->
+<!-- TITLE: About -->
+<!-- SUBTITLE: Who are we? -->
 
-Ever wonder who made your favorite mod or answered your questions in #support? This page tells you a little bit about some of the major Beat Saber Modding Community contributors. The community really wouldn't be the same without the blood, sweat, and tears of these amazing individuals.
+Ever wonder who made your favorite mod or answered your questions in #support? This page tells you a little bit about some of the major Beat Saber Modding Community contributors. The community really wouldn't be the same without the blood, sweat, and tears of these amazing individuals. 
 
 >Some people could go under multiple sections, so I tried to sort this page the best I could. If you'd like anything about your section changed, feel free to contact me - williums
 {.is-warning}
@@ -101,13 +101,13 @@ Having problems? Ask in #support. These guys have been around to help you figure
 One of the first supports and leader of the Steven fan club.
 **Roles:** Support
 ​
-### Steven
-Schrödinger's Support - whether he has the fancy colors or not, he's always around to lend a helping hand. Smash Bros fanatic.
-**Roles:** Support
-​
 ### Kolezan
 He'll teach you to fix your plugins and your terribly off-beat first map. We've all been there.
 **Roles:** Support, Mapper
+​
+### Steven
+Schrödinger's Support - whether he has the fancy colors or not, he's always around to lend a helping hand. Smash Bros fanatic.
+**Roles:** Support
 ​
 >See Also
 [Kyle1413](#Kyle1413) | [Assistant](#Assistant) | [Klouder](#Klouder) | [Megalon](#Megalon) | [williums](#williums)
@@ -124,8 +124,13 @@ The original Support - Assistant took over the #support channel in the earilest 
 **Contributions:** ModSaber Admin, Multiplayer/Saber/Avatar/Platform Creation Guides, Moderation
 [Github](https://github.com/Assistant)
 ​
+### Balsa
+BeatSaver creator - he's the reason we have somewhere to get our custom songs in the first place. He shows up in once in awhile to show off BeatSaver numbers, call us nerds, and present his collection of finely aged memes.
+**Roles:** Staff
+**Contributions:** BeatSaver
+​
 ### elliotttate
-Official BSMG PR Guy. Events like the 100k Contest wouldn't have been possible without him. Also runs BeastSaber to help you find the best curated maps.
+Official BSMG PR Guy. Events like the 100k Contest wouldn't have been possible without his efforts and networking skills. Also runs BeastSaber to help you find the best curated maps.
 **Roles:** Staff, BSMG PR
 **Contributions:** BeastSaber, Contest Management
 ​
@@ -142,7 +147,7 @@ Always a shining ray of positivity when all hell breaks loose, holding everythin
 [Twitch](https://www.twitch.tv/klouderrr) | [Donate](https://streamlabs.com/klouderrr)
 ​
 ### lolPants
-Always hard at work on the next feature to keep our discord under control - whether it's server security or plugin managment. Please, tell this man to stop making things, he's out of control.
+Constantly hard at work on the next feature to keep our discord under control - whether it's server security or plugin managment. Please, tell this man to stop making things, he's out of control.
 **Roles:** Admin, Staff, Modder
 **Contributions:** ModSaber Creator, BSMG Stream Overlays, CMB, Moderation
 [Personal Site](https://www.jackbaron.com/) | [Twitch](https://www.twitch.tv/lolpants_) | [Donate](https://monzo.me/jackbaron)
@@ -150,11 +155,11 @@ Always hard at work on the next feature to keep our discord under control - whet
 ### Megalon
 Part of the original dynamic duo along with Reaxt, he keeps a watchful eye on the server with the help of Channel Monitor Bot. He might also have the nicest voice in the whole server.
 **Roles:** Admin, Staff, Support, Modder
-**Contributions:** CMB, ModSaber Admin, BSMG Stream Overlays, Moderation
+**Contributions:** CMB, ModSaber Admin, BSMG Stream Overlays, Moderation, Wiki Management
 [Github](https://github.com/megalon) | [Donate](https://ko-fi.com/megalon)
 ​
 ### OrangeW
-The first beat saber pro player, representing Team Gravity. Also represents the pro players among staff and reeeeeeeeeaally good at the game.
+The first professional Beat Saber player, representing Team Gravity. Also represents the pro players in staff and reeeeeeeeeaally good at the game.
 **Roles:** Staff
 **Contributions:** ScoreSaber Admin, Moderation
 [Twitch](https://twitch.tv/orangew2) | [Donate](https://streamlabs.com/orangew2)
@@ -168,7 +173,7 @@ BSMG server owner and rhythm game fanatic. We wouldn't be here today without thi
 ### williums
 TODO:
 **Roles:** Staff, Support
-**Contributions:** Wiki Management, Moderation, Contest Management
+**Contributions:** Wiki Management, Moderation, Contest Management, 
 [Twitch](https://www.twitch.tv/williums/) | [Donate](https://ko-fi.com/williums)
 ​
 ### Umbranox
