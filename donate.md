@@ -95,7 +95,7 @@ The madman behind ChromaToggle and accuracy god. Seriously, this man isn't right
 [Github](https://github.com/BinaryElement) | [Twitch](https://www.twitch.tv/skykiwitv) | [Donate](https://streamlabs.com/SkyKiwiTV)
 
 ### See Also:
-[Ikeiwa](###Ikeiwa) | [Reaxt](###Reaxt) | [lolPants](###lolPants)
+[Ikeiwa](#ikeiwa) | [Reaxt](#reaxt) | [lolPants](#lol-pants)
 
 # Supports
 
