@@ -1,8 +1,3 @@
-BEAT SABER MODDING COMMUNITY WIKI
-Donate
-DISCARD
-SAVE CHANGES
-
 <!-- TITLE: Donate -->
 <!-- SUBTITLE: Headpats are nice but they can't buy ramen -->
 ​
@@ -190,6 +185,3 @@ Watches over BSMG from the shadows and switfly fixes our custom songs whenever u
 **Roles:** Modder, Staff
 **Contributions:** SongLoader, CameraPlus, Custom Avatar plugin (current version)
 [Github](https://github.com/xyonico/) [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RRQ2MBEEEW63A)
-Powered by Wiki.js.
-Home
-Return to top
