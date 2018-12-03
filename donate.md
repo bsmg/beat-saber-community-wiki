@@ -26,7 +26,6 @@ TODO:
 **Contributions:** Full Combo Display, Immersive Mode, StreamInfo
 [Github](https://github.com/artemiswkearney) | [Twitch](https://www.twitch.tv/bigfooott) | [Donate](https://streamlabs.com/bigfooott)
 ​
-​
 ### brian
 TODO:
 **Roles:** Modder
@@ -93,7 +92,6 @@ The madman behind ChromaToggle and accuracy god. Seriously, this man isn't right
 [Github](https://github.com/BinaryElement) | [Twitch](https://www.twitch.tv/skykiwitv) | [Donate](https://streamlabs.com/SkyKiwiTV)
 ​
 >See Also:
-​
 [Ikeiwa](#ikeiwa) | [Reaxt](#reaxt) | [lolPants](#lol-pants)
 
 # Supports
