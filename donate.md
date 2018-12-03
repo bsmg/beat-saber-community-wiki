@@ -114,7 +114,7 @@ He'll teach you to fix your plugins and your terribly off-beat first map. We've 
 **Roles:** Support, Mapper
 
 ### See Also:
-[Kyle1413](###Kyle1413) | [Assistant](###Assistant) | [Klouder](###Klouder) | [Megalon](###Megalon) | [williums](###williums)
+[Kyle1413](#Kyle1413) | [Assistant](#Assistant) | [Klouder](#Klouder) | [Megalon](#Megalon) | [williums](#williums)
 
 # Mappers
 There are WAY too many community mappers to list on this page. If you like someone's maps, give it a thumbs up in game and review it on [BeastSaber](https://bsaber.com). They'll really appreciate it!
@@ -182,6 +182,6 @@ ScoreSaber Supreme Leader and creator of the custom leaderboards/ranked system. 
 
 ### xyonico
 Watches over BSMG from the shadows and switfly fixes our custom songs whenever updates hit. Also responsible for the saving us from shakey cameras and gave us third person cameras.
-**Roles:** Modder​, Staff
+**Roles:** Modder, Staff
 **Contributions:** SongLoader, CameraPlus, Custom Avatar plugin (current version)
 [Github](https://github.com/xyonico/) [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RRQ2MBEEEW63A)
