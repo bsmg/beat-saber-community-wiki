@@ -93,10 +93,10 @@ The madman behind ChromaToggle and accuracy god. Seriously, this man isn't right
 [Github](https://github.com/BinaryElement) | [Twitch](https://www.twitch.tv/skykiwitv) | [Donate](https://streamlabs.com/SkyKiwiTV)
 ​
 >See Also:
+​
 [Ikeiwa](#ikeiwa) | [Reaxt](#reaxt) | [lolPants](#lol-pants)
-​
+
 # Supports
-​
 Having problems? Ask in #support. These guys have been around to help you figure out your mod problems, big or small.
 ​
 ### ColdCurse
@@ -115,9 +115,10 @@ He'll teach you to fix your plugins and your terribly off-beat first map. We've 
 [Kyle1413](#Kyle1413) | [Assistant](#Assistant) | [Klouder](#Klouder) | [Megalon](#Megalon) | [williums](#williums)
 ​
 # Mappers
-There are WAY too many community mappers to list on this page. If you like someone's maps, give it a thumbs up in game and review it on [BeastSaber](https://bsaber.com). They'll really appreciate it!
+Each of your favorite maps is carefully crafted and tested over many hours by a talented mapper. As much as we'd love to include them here too, there are WAY too many of them. If you like someone's maps, give it a thumbs up in game, review it on [BeastSaber](https://bsaber.com), or tell them personally! They'll really appreciate it.
 ​
 # Staff
+The team that runs the show. 
 ​
 ### Assistant
 The original Support - Assistant took over the #support channel in the earilest days back when no one else would. The support role wouldn't exist if not for their efforts.
