@@ -111,10 +111,7 @@ Schrödinger's Support - whether he has the fancy colors or not, he's always aro
 ​
 >See Also
 [Kyle1413](#Kyle1413) | [Assistant](#Assistant) | [Klouder](#Klouder) | [Megalon](#Megalon) | [williums](#williums)
-​
-# Mappers
-Each of your favorite maps is carefully crafted and tested over many hours by a talented mapper. As much as we'd love to include them here too, there are WAY too many of them. If you like someone's maps, give it a thumbs up in game, review it on [BeastSaber](https://bsaber.com), or tell them personally! They'll really appreciate it.
-​
+
 # Staff
 The team that runs the show. 
 
@@ -187,3 +184,7 @@ Watches over BSMG from the shadows and switfly fixes our custom songs whenever u
 **Roles:** Modder, Staff
 **Contributions:** SongLoader, CameraPlus, Custom Avatar plugin (current version)
 [Github](https://github.com/xyonico/) [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RRQ2MBEEEW63A)
+
+# Mappers
+Each of your favorite maps is carefully crafted and tested over many hours by a talented mapper. As much as we'd love to include them here too, there are WAY too many of them. If you like someone's maps, give it a thumbs up in game, review it on [BeastSaber](https://bsaber.com), or tell them personally! They'll really appreciate it.
+​
