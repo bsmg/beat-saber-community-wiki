@@ -33,7 +33,7 @@ TODO:
 [Github](https://github.com/brian91292)
 
 ## Caeden117
-TODO:
+How many statistics could we fit into a counters mod?
 **Roles:**
 **Contributions:** CountersPlus, Camera Shake on Miss, wiki modding tutorials
 [Github](https://github.com/caeden117)
