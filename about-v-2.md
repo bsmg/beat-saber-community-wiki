@@ -1,7 +1,7 @@
 <!-- TITLE: About -->
 <!-- SUBTITLE: Who are we? -->
 
-Ever wonder who made your favorite mod or answered your questions in #support? This page tells you a little bit about some of the major Beat Saber Modding Community contributors. The community really wouldn't be the same without the blood, sweat, and tears of these amazing individuals. 
+Ever wonder who made your favorite mod or answered your questions in #support? This page tells you a little bit about some of the major Beat Saber Modding Community contributors. The community really wouldn't be the same without the blood, sweat, and tears of these amazing individuals.
 
 >Some people could go under multiple sections, so I tried to sort this page the best I could. If you'd like anything about your section changed, feel free to contact me - williums
 {.is-warning}
@@ -92,7 +92,7 @@ The madman behind ChromaToggle and accuracy god. Seriously, this man isn't right
 [Github](https://github.com/BinaryElement) | [Twitch](https://www.twitch.tv/skykiwitv) | [Donate](https://streamlabs.com/SkyKiwiTV)
 ​
 >See Also:
-[Ikeiwa](#ikeiwa) | [Reaxt](#reaxt) | [lolPants](#lol-pants)
+**Staff:** [Ikeiwa](#ikeiwa) | [Reaxt](#reaxt) | [lolPants](#lol-pants)
 
 # Supports
 Having problems? Ask in #support. These guys have been around to help you figure out your mod problems, big or small.
@@ -101,6 +101,10 @@ Having problems? Ask in #support. These guys have been around to help you figure
 One of the first supports and leader of the Steven fan club.
 **Roles:** Support
 ​
+## Emma
+You might know them for their spectacular platforms, or for more refined individuals: yeet sabers.
+**Roles:** Support, 3D Artist
+
 ## Kolezan
 He'll teach you to fix your plugins and your terribly off-beat first map. We've all been there.
 **Roles:** Support, Mapper
@@ -110,10 +114,46 @@ Schrödinger's Support - whether he has the fancy colors or not, he's always aro
 **Roles:** Support
 ​
 >See Also
-[Kyle1413](#Kyle1413) | [Assistant](#Assistant) | [Klouder](#Klouder) | [Megalon](#Megalon) | [williums](#williums)
+**Modders:** [Kyle1413](#Kyle1413)
+**Staff:** [Assistant](#Assistant) | [Klouder](#Klouder) | [Megalon](#Megalon) | [williums](#williums)
+
+# 3D Artists
+Whether you're streaming or just looking for a change of view, these guys have your back. They've spent countless hours creating sabers, platforms, and avatars to help you customize your experience to suit your needs and more.
+
+## angeloid0103
+Wrote the custom saber creation guide among other fantastic contributions.
+**Roles:** 3D Artist
+
+## BeigeAnimal
+TODO:
+
+## 𝔅𝔯3𝔲𝔨𝔢𝔯 🎀 𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯#0001
+TODO:
+**Roles:** 3D Artist
+
+## Derpy Hooves
+TODO:
+**Roles:** 3D Artist
+
+## Mordred
+Mordred went on an absolute rampage when he first appeared, flooding the avatar and saber channels like never seen before. He's one of the reasons this role exists to begin with!
+**Roles:** 3D Artist
+
+## Oshi
+In addition to models, he's also fixed the beloved Rainbow Mod whenever updates hit. Enjoy your RGB lights!
+**Roles:** 3D Artist
+
+## Fusion
+They've got some impressive shaders and they're not afraid to use them.
+**Roles:** 3D Artist
+
+>See Also
+**Support:** [Emma](#Emma)
+**Staff:** [Assistant](#Assistant) | [Klouder](#Klouder)
+
 
 # Staff
-The team that runs the show. 
+The team that runs the show.
 
 ## Assistant
 The original Support - Assistant took over the #support channel in the earilest days back when no one else would. The support role wouldn't exist if not for their efforts.
@@ -156,7 +196,7 @@ Part of the original dynamic duo along with Reaxt, he keeps a watchful eye on th
 [Github](https://github.com/megalon) | [Donate](https://ko-fi.com/megalon)
 ​
 ## OrangeW
-The first professional Beat Saber player, representing Team Gravity. Also represents the pro players in staff and reeeeeeeeeaally good at the game.
+The first professional Beat Saber player, representing Team Gravity. Represents the pro players in staff, major contributor to the ranking system and reeeeeeeeeaally good at the game.
 **Roles:** Staff
 **Contributions:** ScoreSaber Admin, Moderation
 [Twitch](https://twitch.tv/orangew2) | [Donate](https://streamlabs.com/orangew2)
@@ -168,9 +208,9 @@ BSMG server owner and rhythm game fanatic. We wouldn't be here today without thi
 [Github](https://github.com/reaxt00)
 ​
 ## williums
-From eggplants to Staff, our beloved recovering shitposter now helps keep the server a clean and happy place. Often takes the Initiative to improve the community by planning events among other things. 
+From eggplants to Staff, our beloved recovering shitposter now helps keep the server a clean and happy place. Often takes the Initiative to improve the community by planning events among other things.
 **Roles:** Staff, Support
-**Contributions:** Wiki Management, Moderation, Contest Management, 
+**Contributions:** Wiki Management, Moderation, Contest Management,
 [Twitch](https://www.twitch.tv/williums/) | [Donate](https://ko-fi.com/williums)
 ​
 ## Umbranox
