@@ -9,9 +9,12 @@
 
 # Improve VIVE controller tracking
 Your body may be blocking one lighthouse from seeing one of your controllers.
+Here are some steps that may help improve tracking.
+
+Steps:
 1. Move into the corner of your playspace.
 1. Rotate your body 45 degrees so that your lighthouses can see both controllers. 
-1. Rotating the room within Beat Saber's settings to compensate for your rotation.
+1. Rotate the room within Beat Saber's settings to compensate, so that you appear facing forward within the game.
 
 ![Vive Tracking Help](/uploads/vive-tracking-help.gif "Vive Tracking Help")
 
