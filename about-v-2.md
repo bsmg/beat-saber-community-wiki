@@ -52,7 +52,7 @@ You don't realize how much you appreciate SongBrowser until it's gone
 ## Kyle1413
 Resident Kirby and mod modder. Not only does he make mods, he helps you with them in #support too.
 **Roles:** Modder, Support
-**Contributions:** Progress Counter PBT Edition, Custom Colors User Friendly Edition, Intro Skip
+**Contributions:** Progress Counter PBT Edition, Custom Colors User Friendly Edition, Intro Skip, Gameplay Modifiers Plus
 [Github](https://github.com/kylemc1413) | [Twitch](https://www.twitch.tv/kyle1413k) | [Donate](https://streamlabs.com/kyle1413k)
 ​
 ## opl
@@ -86,7 +86,7 @@ TODO: Mother of `!bsr` and Async Twitch
 [Github](https://github.com/soliel) | [Donate](https://streamlabs.com/soliela)
 ​
 ## SkyKiwi
-The madman behind ChromaToggle and accuracy god. Seriously, this man isn't right in the head.
+The madman behind ChromaToggle and accuracy god on the leaderboards. Seriously, this man isn't right in the head.
 **Roles:** Modder
 **Contributions:** ChromaToggle
 [Github](https://github.com/BinaryElement) | [Twitch](https://www.twitch.tv/skykiwitv) | [Donate](https://streamlabs.com/SkyKiwiTV)
