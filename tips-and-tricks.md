@@ -7,7 +7,7 @@
 
 ![Vive Grips Guide](/uploads/vive-grips-guide.png "Vive Grips Guide")
 
-# One Vive controller not tracking
+# Improve VIVE controller tracking
 Your body may be blocking one lighthouse from seeing one of your controllers.
 1. Move into the corner of your playspace.
 1. Rotate your body 45 degrees so that your lighthouses can see both controllers. 
