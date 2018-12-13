@@ -21,10 +21,10 @@ Somone say text customization mods?
 [Github](https://github.com/artemiswkearney)
 
 ## bigfoot
-TODO:
+Has large feet, maybe??
 **Roles:** Modder
 **Contributions:** Full Combo Display, Immersive Mode, StreamInfo
-[Github](https://github.com/artemiswkearney) | [Twitch](https://www.twitch.tv/bigfooott) | [Donate](https://streamlabs.com/bigfooott)
+[Github](https://github.com/bigfoott) | [Twitch](https://www.twitch.tv/bigfooott) | [Donate](https://streamlabs.com/bigfooott)
 
 ## brian
 TODO:
