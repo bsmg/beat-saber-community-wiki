@@ -80,7 +80,7 @@ TODO: LIV guy who tailors your sabers and game colors
 [Github](https://github.com/SteffanDonal)
 
 ## Soliel
-TODO: Mother of `!bsr` and Async Twitch
+Mother of `!bsr` and Async Twitch
 **Roles:** Modder
 **Contributions:** Twitch Integration, Async Twitch Library
 [Github](https://github.com/soliel) | [Donate](https://streamlabs.com/soliela)
@@ -90,6 +90,12 @@ The madman behind ChromaToggle and accuracy god on the leaderboards. Seriously, 
 **Roles:** Modder
 **Contributions:** ChromaToggle
 [Github](https://github.com/BinaryElement) | [Twitch](https://www.twitch.tv/skykiwitv) | [Donate](https://streamlabs.com/SkyKiwiTV)
+
+## StarGazer1258 
+Creator of BeatDrop, everyone's favorite desktop application for custom song management!
+**Roles:** Modder
+**Contributions:** BeatDrop
+[Github](https://github.com/StarGazer1258) | [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MJM78VP473AK8)
 
 >See Also:
 **Staff:** [Ikeiwa](#ikeiwa) | [Reaxt](#reaxt) | [lolPants](#lol-pants)
