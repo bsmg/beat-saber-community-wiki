@@ -233,3 +233,11 @@ Watches over BSMG from the shadows and switfly fixes our custom songs whenever u
 
 # Mappers
 Each of your favorite maps is carefully crafted and tested over many hours by a talented mapper. As much as we'd love to include them here too, there are WAY too many of them. If you like someone's maps, give it a thumbs up in game, review it on [BeastSaber](https://bsaber.com), or tell them personally! They'll really appreciate it.
+
+
+# About This Wiki
+
+This is a wiki for all things relating to modding the game Beat Saber.
+It was originally created to replace the #beginners-guide and #faq channels of the [Beat Saber Modding Group Discord](https://discord.gg/beatsabermods).
+
+Source control is contained within [this git repo](https://github.com/megalon/beat-saber-community-wiki)
