@@ -8,7 +8,7 @@ Beat Saber was not designed with mod support, so you have to run the Mod Manager
 ## Beat Saber Mod Manager
 
 * Navigate to https://github.com/Umbranoxio/BeatSaberModInstaller/releases
-* Download the BeatSaberModManager.exe
+* Download `BeatSaberModManager.exe`
 * Run it! Select what mods you want to install from the list!
 
 > It's not recommended to install mods without knowing what they do, this can lead to undesired behaviors and performance issues.
