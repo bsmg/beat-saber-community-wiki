@@ -70,7 +70,7 @@ If you've ever played darth maul mode, you have this guy to thank
 ## Rolo
 Creator of the Custom Platforms plugin and pumpkin carving extrordinaire.
 **Roles:** Modder
-**Contributions:** Custom Platforms, fixing other plugins
+**Contributions:** CMB's Face, Custom Platforms, fixing other plugins
 [Github](https://github.com/rolopogo) | [Donate](https://www.paypal.me/RobynLovett)
 
 ## Ruu
