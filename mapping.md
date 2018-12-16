@@ -38,9 +38,9 @@ https://github.com/permissionBRICK/EditSaberEnhanced/releases/latest
 The original Edit Saber
 https://github.com/Ikeiwa/EditSaber/releases/latest
 
-## Midi converter / web based editor
-Midi converter made by ciwolsey!
-This editor relies on midi data to outline a beatmap, then that track can be edited in the companion web editor.
+## MIDI Converter / Web Based Editor
+MIDI converter made by ciwolsey!
+This editor relies on MIDI data to outline a beatmap, then that track can be edited in the companion web editor.
 https://github.com/ciwolsey/midisaber 
 and companion track editor!
 https://beatmapper.surge.sh/
