@@ -1,7 +1,7 @@
 <!-- TITLE: About -->
 <!-- SUBTITLE: Who are we? -->
 
-Ever wonder who made your favorite mod or answered your questions in #support? This page tells you a little bit about some of the major Beat Saber Modding Community contributors. The community wouldn't exist without the blood, sweat, and tears of these amazing volunteers.
+Ever wonder who made your favorite mod or answered your questions in `#support`? This page tells you a little bit about some of the major Beat Saber Modding Community contributors. The community wouldn't exist without the blood, sweat, and tears of these amazing volunteers.
 
 >Some people could go under multiple sections, so I tried to sort this page the best I could. If you'd like anything about your section changed, feel free to contact me - williums
 {.is-warning}
