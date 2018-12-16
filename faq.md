@@ -90,4 +90,4 @@ This error means that the Mod Manager could not connect to https://modsaber.org
 Try installing the [Song Loader](https://github.com/xyonico/BeatSaberSongLoader/releases) on its own, then try running the Mod Manager again.
 
 ## I can see my avatar in the menus, but it disappears when I start a song ??
-Don't use Ikeiwa's version of the custom avatar plugin, it's outdated! Use [xyonico's](https://github.com/xyonico/CustomAvatarsPlugin/releases), also pinned in the #model-discussion channel.
+Don't use Ikeiwa's version of the custom avatar plugin, it's outdated! Use [xyonico's](https://github.com/xyonico/CustomAvatarsPlugin/releases), also pinned in the `#model-discussion` channel.
