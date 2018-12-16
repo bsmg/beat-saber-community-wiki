@@ -285,6 +285,18 @@ ModPrefs.SetString(section, name, value);
 ModPrefs.GetString(section, name, defaultValue, autosave);
 ```
 
+## CustomUI
+CustomUI is a library created by [Brian](https://github.com/brian91292/) that allows you to easily add your own custom UI to beat saber.
+
+With it, you can create things such as:
+* Create custom Settings submenus
+* Create custom Modifiers with your own modifier multiplier *(Does not affect the actual score)*
+* Add in custom Player Settings
+* Create entirely new menus with buttons on the main page
+that are all tied to variables you can save with config!
+
+[Check out the project here.](https://github.com/brian91292/BeatSaber-CustomUI)
+
 ## Advanced Building
 ### Symlinks
 If you find yourself tired of having to copy your finished builds from one folder to the next, this will help you minimize the hassle needed by only just needing to Build, then you are good to go.
