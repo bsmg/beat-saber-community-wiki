@@ -9,11 +9,10 @@
 * [Kolezan's Song/Audio Editing Guide](https://bsaber.com/custom-mapping-song-audio-editing/)
 * [Publishing Songs](https://beatsaver.com)
 
-> Please do not upload WIPs to beatsaver! It's hard to tell which maps aren't finished in game, and anyone who plays your WIP without practice mode enabled will create a new leaderboard for that map. Uploading to beatsaver should be akin to putting it on store shelves - that is, it's your final product. To share for playtesting, we encourage you to use google drive, dropbox, uploading to discord, etc. 
+> Please do not upload WIPs to BeatSaver! It's hard to tell which maps aren't finished in game, and anyone who plays your WIP without practice mode enabled will create a new leaderboard for that map. Uploading to BeatSaver should be akin to putting it on store shelves - that is, it's your final product. To share for playtesting, we encourage you to use Google Drive, Dropbox, uploading to Discord, etc. 
 {.is-warning}
 
 # Editors
-
 **The official editor has not been released.**
 All custom maps are being made using the community built map editors.
 There are currently 3 editors. All export the same files, but offer different workflows.
@@ -47,9 +46,10 @@ https://beatmapper.surge.sh/
 
 ## Unofficial 2D Track Editor
 A 2D track editor made in Processing by Megalon!
-**Note: This is depreciated and there is very little support for this program, if any!**
 https://github.com/megalon/BeatSaber-UnofficialTrackEditor/releases
 
+> Note: This is depreciated and there is very little support for this program, if any!
+{.is-danger}
 # Other Resources
 ## Lightmap
 A tool to automatically generate lighting events for a custom song by Freeek and Recrudesce!
