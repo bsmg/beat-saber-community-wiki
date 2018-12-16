@@ -12,31 +12,31 @@ Making sure our games look nothing like the original, one mod at a time.
 In-game downloads, unofficial multiplayer, and the original ~~despacito~~ custom menu music plugin.
 **Roles:** Modder
 **Contributions:** BeatSaver Downloader, Unoffical Multiplayer, Custom Menu Music (original)
-[Github](https://github.com/andruzzzhka)
+[GitHub](https://github.com/andruzzzhka)
 
 ## Arti
 Somone say text customization mods?
 **Roles:** Modder
 **Contributions:** HitScoreVisualizer, CustomMenuText, CustomFailText
-[Github](https://github.com/artemiswkearney)
+[GitHub](https://github.com/artemiswkearney)
 
 ## bigfoot
 Has large feet, maybe??
 **Roles:** Modder
 **Contributions:** Full Combo Display, Immersive Mode, StreamInfo
-[Github](https://github.com/bigfoott) | [Twitch](https://www.twitch.tv/bigfooott) | [Donate](https://streamlabs.com/bigfooott)
+[GitHub](https://github.com/bigfoott) | [Twitch](https://www.twitch.tv/bigfooott) | [Donate](https://streamlabs.com/bigfooott)
 
 ## brian
 TODO:
 **Roles:** Modder
 **Contributions:** Enhanced Twitch Chat, Hidden Blocks, CustomUI Library, Shit Map Detector, Note Miss Effect Remover, SyncSaber, Debris Remover, fixing other plugins
-[Github](https://github.com/brian91292)
+[GitHub](https://github.com/brian91292)
 
 ## Caeden117
 How many statistics could we fit into a counters mod?
 **Roles:**Modder
 **Contributions:** CountersPlus, Camera Shake on Miss, wiki modding tutorials
-[Github](https://github.com/caeden117)
+[GitHub](https://github.com/caeden117)
 
 ## DaNike
 TODO:
@@ -47,55 +47,55 @@ TODO:
 You don't realize how much you appreciate SongBrowser until it's gone
 **Roles:** Modder
 **Contributions:** SongBrowser
-[Github](https://github.com/halsafar)
+[GitHub](https://github.com/halsafar)
 
 ## Kyle1413
 Resident Kirby and mod modder. Not only does he make mods, he helps you with them in #support too.
 **Roles:** Modder, Support
 **Contributions:** Progress Counter PBT Edition, Custom Colors User Friendly Edition, Intro Skip, Gameplay Modifiers Plus
-[Github](https://github.com/kylemc1413) | [Twitch](https://www.twitch.tv/kyle1413k) | [Donate](https://streamlabs.com/kyle1413k)
+[GitHub](https://github.com/kylemc1413) | [Twitch](https://www.twitch.tv/kyle1413k) | [Donate](https://streamlabs.com/kyle1413k)
 
 ## opl
 Creator of the fancy HTTPStatus stream tools
 **Roles:** Modder
 **Contributions:** HTTPStatus
-[Github](https://github.com/opl-)
+[GitHub](https://github.com/opl-)
 
 ## PureDark
 If you've ever played darth maul mode, you have this guy to thank
 **Roles:** Modder
 **Contributions:** Darth Maul Plugin, Reactive Materials, Custom Key Events, Transparent Walls
-[Github](https://github.com/PureDark)
+[GitHub](https://github.com/PureDark)
 
 ## Rolo
 Creator of the Custom Platforms plugin and pumpkin carving extrordinaire.
 **Roles:** Modder
 **Contributions:** CMB's Face, Custom Platforms, fixing other plugins
-[Github](https://github.com/rolopogo) | [Donate](https://www.paypal.me/RobynLovett)
+[GitHub](https://github.com/rolopogo) | [Donate](https://www.paypal.me/RobynLovett)
 
 ## Ruu
 TODO: LIV guy who tailors your sabers and game colors
 **Roles:** Modder
 **Contributions:** Saber Tailor, Custom Colors (original)
-[Github](https://github.com/SteffanDonal)
+[GitHub](https://github.com/SteffanDonal)
 
 ## Soliel
 Mother of `!bsr` and Async Twitch
 **Roles:** Modder
 **Contributions:** Twitch Integration, Async Twitch Library
-[Github](https://github.com/soliel) | [Donate](https://streamlabs.com/soliela)
+[GitHub](https://github.com/soliel) | [Donate](https://streamlabs.com/soliela)
 
 ## SkyKiwi
 The madman behind ChromaToggle and accuracy god on the leaderboards. Seriously, this man isn't right in the head.
 **Roles:** Modder
 **Contributions:** ChromaToggle
-[Github](https://github.com/BinaryElement) | [Twitch](https://www.twitch.tv/skykiwitv) | [Donate](https://streamlabs.com/SkyKiwiTV)
+[GitHub](https://github.com/BinaryElement) | [Twitch](https://www.twitch.tv/skykiwitv) | [Donate](https://streamlabs.com/SkyKiwiTV)
 
 ## StarGazer1258 
 Creator of BeatDrop, everyone's favorite desktop application for custom song management!
 **Roles:** Modder
 **Contributions:** BeatDrop
-[Github](https://github.com/StarGazer1258) | [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MJM78VP473AK8)
+[GitHub](https://github.com/StarGazer1258) | [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MJM78VP473AK8)
 
 >See Also:
 **Staff:** [Ikeiwa](#ikeiwa) | [Reaxt](#reaxt) | [lolPants](#lol-pants)
@@ -165,7 +165,7 @@ The team that runs the show.
 The original Support - Assistant took over the #support channel in the earilest days back when no one else would. The support role wouldn't exist if not for their efforts.
 **Roles:** Staff, Support, 3D Artist
 **Contributions:** ModSaber Admin, Multiplayer/Saber/Avatar/Platform Creation Guides, Moderation
-[Github](https://github.com/Assistant) | [Donate](https://bs.assistant.moe/Donate)
+[GitHub](https://github.com/Assistant) | [Donate](https://bs.assistant.moe/Donate)
 
 ## Balsa
 BeatSaver creator - he's the reason we have somewhere to get our custom songs in the first place. He shows up in once in awhile to show off BeatSaver numbers, call us nerds, and present his collection of finely aged memes.
@@ -181,7 +181,7 @@ Official BSMG PR Guy. Events like the 100k Contest wouldn't have been possible w
 Everyone's favorite french furry. He kicked off modding early on with the original EditSaber and the earliest versions of the custom avatar plugin, among many others.
 **Roles:** Staff, Modder, 3D Artist
 **Contributions:** EditSaber, Custom Avatars, Custom Sabers, many more legacy plugins
-[Github](https://github.com/Ikeiwa)
+[GitHub](https://github.com/Ikeiwa)
 
 ## Klouder
 Always a shining ray of positivity when all hell breaks loose, holding everything together when updates hit. Currently holds the title for most sent messages in the entire server.
@@ -199,7 +199,7 @@ Constantly hard at work on the next feature to keep our discord under control - 
 Part of the original dynamic duo along with Reaxt, he keeps a watchful eye on the server with the help of Channel Monitor Bot. He might also have the nicest voice in the whole server.
 **Roles:** Admin, Staff, Support, Modder
 **Contributions:** CMB, ModSaber Admin, BSMG Stream Overlays, Moderation, Wiki Management
-[Github](https://github.com/megalon) | [Donate](https://ko-fi.com/megalon)
+[GitHub](https://github.com/megalon) | [Donate](https://ko-fi.com/megalon)
 
 ## OrangeW
 The first professional Beat Saber player, representing Team Gravity. Represents the pro players in staff, major contributor to the ranking system and reeeeeeeeeaally good at the game.
@@ -211,7 +211,7 @@ The first professional Beat Saber player, representing Team Gravity. Represents 
 BSMG server owner and rhythm game fanatic. We wouldn't be here today without this very special boy.
 **Roles:** Admin, Staff, Modder
 **Contributions:** Server Owner, Custom Sabers
-[Github](https://github.com/reaxt00)
+[GitHub](https://github.com/reaxt00)
 
 ## williums
 From eggplants to Staff, our beloved recovering shitposter now helps keep the server a clean and happy place. Often takes the Initiative to improve the community by planning events among other things.
@@ -229,15 +229,14 @@ ScoreSaber Supreme Leader and creator of the custom leaderboards/ranked system. 
 Watches over BSMG from the shadows and switfly fixes our custom songs whenever updates hit. Also responsible for the saving us from shakey cameras and gave us third person cameras.
 **Roles:** Modder, Staff
 **Contributions:** SongLoader, CameraPlus, Custom Avatar plugin (current version)
-[Github](https://github.com/xyonico/) [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RRQ2MBEEEW63A)
+[GitHub](https://github.com/xyonico/) [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RRQ2MBEEEW63A)
 
 # Mappers
 Each of your favorite maps is carefully crafted and tested over many hours by a talented mapper. As much as we'd love to include them here too, there are WAY too many of them. If you like someone's maps, give it a thumbs up in game, review it on [BeastSaber](https://bsaber.com), or tell them personally! They'll really appreciate it.
 
-
 # About This Wiki
 
 This is a wiki for all things relating to modding the game Beat Saber.
-It was originally created to replace the #beginners-guide and #faq channels of the [Beat Saber Modding Group Discord](https://discord.gg/beatsabermods).
+It was originally created to replace the `#beginners-guide` and `#faq` channels of the [Beat Saber Modding Group Discord](https://discord.gg/beatsabermods).
 
-Source control is contained within [this git repo](https://github.com/megalon/beat-saber-community-wiki)
+Source control is contained within [this Git repo](https://github.com/megalon/beat-saber-community-wiki)
