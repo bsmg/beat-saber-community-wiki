@@ -28,6 +28,8 @@ There are several forks of Edit Saber, listed below.
 A fork of Edit Saber Enhanced made by squeaksies.
 This version adds even more features to Edit Saber Enhanced. 
 https://github.com/squeaksies/MediocreMapper/releases/latest
+>is-warning
+Disclaimer: While most people use this editor because it's by far the most feature rich of the 3, this is still first and foremost __squeaksies' personal editor__. It's filled to the brim with memes and inside jokes, and he doesn't give a flying heck what you think about it. 
 
 ### Edit Saber Enhanced
 A fork of Ikeiwa's Edit Saber 6v2 with a ton of additional features.
@@ -35,7 +37,7 @@ A collaboration between permissionBRICK and squeaksies.
 https://github.com/permissionBRICK/EditSaberEnhanced/releases/latest
 
 ### Original
-The original Edit Saber
+The original Edit Saber by Ikeiwa.
 https://github.com/Ikeiwa/EditSaber/releases/latest
 
 ## MIDI Converter / Web Based Editor
