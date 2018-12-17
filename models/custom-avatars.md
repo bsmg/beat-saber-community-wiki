@@ -2,7 +2,6 @@
 <!--  -->
 # Installation
 The latest Custom Avatar plugin can be found in the [Mod Manager](/beginners-guide#how-to-install-mods).
-Download the zip file called `CustomAvatarsPlugin`, and extract it into [your install folder](/FAQ/install-folder). 
 Once installed you should see a file called `CustomAvatar.dll` inside your `Plugins` folder. You should also see a folder called `CustomAvatars` in the main install folder—this is where you will be placing the `*.avatar` files you want to use. 
 
 # Usage
