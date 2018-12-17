@@ -28,7 +28,7 @@ There are several forks of Edit Saber, listed below.
 A fork of Edit Saber Enhanced made by squeaksies.
 This version adds even more features to Edit Saber Enhanced. 
 https://github.com/squeaksies/MediocreMapper/releases/latest
->Disclaimer: While __most people use this editor__ because it's by far the most feature rich of the 3, this is still first and foremost squeaksies' personal editor. It's filled to the brim with memes and inside jokes, and he doesn't give a flying heck what you think about it. 
+>While __most people use this editor__ because it's by far the most feature rich of the 3, this is still first and foremost squeaksies' personal editor. It's filled to the brim with memes and inside jokes, and he doesn't give a flying heck what you think about it. 
 {.is-warning}
 
 ### Edit Saber Enhanced
