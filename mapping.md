@@ -2,11 +2,12 @@
 <!-- SUBTITLE: Too many anime maps? Not enough anime maps? Ready to take matters into your own hands? You've come to the right place. -->
 
 # Tutorials and References
-* [BennyDaBeast's Mapping Tutorials](https://bsaber.com/benny-custom-mapping/)
+* [BennyDaBeast's Mapping Tutorials](https://bsaber.com/benny-custom-mapping/) **highly recommended**
 * [Freeek's Mapping and Editor Tutorials](https://www.youtube.com/playlist?list=PLYeZR6d3zDPgDgWogOwMteL-5SQWAE14b)
-* [Awfulnaut's Best Practices Guide](https://bit.ly/2LjbURw)
+* [Awfulnaut's Best Practices Guide](https://bit.ly/2LjbURw) **highly recommended**
 * [M.Rappold's OST Analysis Spreadsheet](https://bit.ly/2lzzSxd)
 * [Kolezan's Song/Audio Editing Guide](https://bsaber.com/custom-mapping-song-audio-editing/)
+* [Ranking Critera](https://docs.google.com/document/d/1mtVihRO1LomyptXayoDNDTQYgX_TQPp6ZYDmtwR2jMI/edit)
 * [Publishing Songs](https://beatsaver.com)
 
 > Please do not upload WIPs to BeatSaver! It's hard to tell which maps aren't finished in game, and anyone who plays your WIP without practice mode enabled will create a new leaderboard for that map. Uploading to BeatSaver should be akin to putting it on store shelves - that is, it's your final product. To share for playtesting, we encourage you to use Google Drive, Dropbox, uploading to Discord, etc. 
