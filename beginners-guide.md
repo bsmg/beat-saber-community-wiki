@@ -5,8 +5,14 @@
 
 Beat Saber was not designed with mod support, so you have to run the Mod Manager below to enable mods.
 
-## Beat Saber Mod Manager
+## ModSaber Installer
+The new recommended mod installer! Both are similar in function, but this one offers richer debugging capabilities if things go wrong.
+* Navigate to https://github.com/lolPants/modsaber-installer/releases
+* Download `modsaber-installer-setup-{version}.exe` and install it
+* Run it! Select what mods you want to install from the list!
 
+## Beat Saber Mod Manager
+If you'd rather use the original mod manager:
 * Navigate to https://github.com/Umbranoxio/BeatSaberModInstaller/releases
 * Download `BeatSaberModManager.exe`
 * Run it! Select what mods you want to install from the list!
