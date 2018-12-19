@@ -51,6 +51,8 @@ See [install folder](FAQ/install-folder).
 ## Bootleg BeatSaver Search
 An [external search engine](http://bootleg-beatsaver.com/) that enables more advanced searching functionality to help you find songs on BeatSaver.
 
+## Beat Saber Songs
+Another [external search engine](https://beatsaber-songs.herokuapp.com/) with more advanced searching functionality to help you find songs on BeatSaver.
 # How to uninstall mods
 **Currently the only way to uninstall a mod is to remove the dll from the `Plugins` folder.**
 |  |  |
