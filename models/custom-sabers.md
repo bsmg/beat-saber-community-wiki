@@ -6,7 +6,6 @@ Once you've installed it you will see a folder called `CustomSabers` in [your in
 
 # Usage
 Inside the game in the main menu you will see a button called `SABER MENU` at the bottom right of the right panel. Clicking that will open up the menu you can use to select which sabers you want to use. Note that once selected the sabers will show up only while a song is playing, and not while in a menu. 
-To get back the original sabers you will either have to uninstall the plugin by removing `CustomSaber.dll` from the `Plugins` folder, or use these [Originalish Sabers](/uploads/originalish.saber "Originalish"), which are near-replicas of the originals. 
 
 # Creating your own sabers
 [angeloid0103's Saber Guide](https://bs.assistant.moe/Sabers) is an excellent resource for learning how to make your own sabers. 
