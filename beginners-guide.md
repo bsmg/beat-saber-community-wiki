@@ -35,7 +35,7 @@ Can't find where Beat Saber is installed? See [install folder.](faq/install-fold
 The Mod Manager includes the `Song Loader Plugin`, which enables you to load more songs into the game, but only includes one test song.
 
 ## Ingame Downloader
-The Mod Manager also includes the `BeatSaver Downloader` Plugin, which allows you to download beatmaps in-game using the `BEATSAVER` menu button on the main menu screen. This pulls beatmaps directly from www.beatsaver.com
+The Mod Manager also includes the `BeatSaver Downloader` Plugin, which allows you to download beatmaps in-game using the `MORE SONGS` menu button on the main menu screen. This pulls beatmaps directly from www.beatsaver.com
 
 ## Beat Saver
 [Beat Saver](https://www.beatsaver.com) holds nearly all custom songs/beatmaps for Beat Saber.
