@@ -2,7 +2,7 @@
 <!--  -->
 # Installation
 The latest Custom Avatar plugin can be found in the [Mod Manager](/beginners-guide#how-to-install-mods).
-Once installed you should see a file called `CustomAvatar.dll` inside your `Plugins` folder. You should also see a folder called `CustomAvatars` in the main install folder—this is where you will be placing the `*.avatar` files you want to use. 
+Once installed you should see a file called `CustomAvatar.dll` inside your `Plugins` folder. You should also see a folder called `CustomAvatars` in the main install folder—this is where you will be placing the `*.avatar` files you want to use. You can download more avatars on [ModelSaber](https://modelsaber.assistant.moe/Sabers/).
 
 # Usage
 The plugin uses the keyboard to change the settings. Make sure you have the game in focus, i.e. click on the desktop game window.
