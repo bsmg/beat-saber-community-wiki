@@ -55,9 +55,6 @@ Here is an image of the hitboxes for the notes: https://twitter.com/Split82/stat
 
 Here are the [original saber models](/uploads/the-originals.saber "The Originals")!
 
-## My game will not load!
-You may have a popup on your desktop asking about your Beat Saver auth token to vote on songs at the end of the game.
-If you don't care to vote on songs, simply click **"Cancel"** and the popup will not appear again.
 
 ## Should I use wrist weights when I play?
 > **DO NOT USE WRIST WEIGHTS!**
