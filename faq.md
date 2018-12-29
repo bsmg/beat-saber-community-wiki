@@ -1,7 +1,7 @@
 <!-- TITLE: FAQ -->
 <!-- SUBTITLE: Frequently Asked Questions! -->
 # FAQ
-## After using the mod manager, I can't click anything in game!
+## After using the mod installer, I can't click anything in game!
 Sounds like you pirated the game. If so, go sit in the corner of shame and think about what you've done. Once you've reflected on your mistakes, purchase the game from [Steam](https://store.steampowered.com/app/620980/Beat_Saber/) or [Oculus](https://www.oculus.com/experiences/rift/1304877726278670/) and the mods won't break your game.
 
 ## How do I load custom songs?
@@ -13,9 +13,9 @@ Follow the instructions in the [Beginners Guide](beginners-guide).
 
 We also have a dedicated channel on the Modding Group Discord: [`#finished-maps`](https://discordapp.com/channels/441805394323439646/442342190060929055/)
 
-## How do I load plugins that aren't in the Mod Manager?
+## How do I load plugins that aren't in the Mod Installer?
 
-After you have run the Mod Manager, you can then add other plugins / mods in the following directory:
+After you have run the ModSaber Installer, you can then add other plugins / mods in the following directory:
 
 `.dll` plugins go in the directory:
 |  |  |
@@ -40,10 +40,10 @@ Here is a guide to set up the multiplayer mod: https://bs.assistant.moe/Multipla
 Each time the game updates it is possible *(and very likely)* that your existing will stop working and need to be updated.
 The devs realized this, so when the game updates and you run it for the first time, everything in the `Plugins` folder is moved into the `Incompatible Plugins` folder. **Leave those plugins in there!**
 
-To get mods back, simply **run the mod manager again.**
-The mod manager only includes mods that have been confirmed to work on the latest version of the game!
+To get mods back, simply **run the installer again.**
+Both the modsaber installer and the mod manager only includes mods that have been confirmed to work on the latest version of the game!
 
-Get the mod manager from the [Beginners Guide](beginners-guide).
+Get the installer from [Beginners Guide](beginners-guide).
 
 ## How does the scoring system work in Beat Saber?
 
@@ -52,10 +52,10 @@ Check out this video the devs released: https://twitter.com/beatsaber/status/992
 Here is an image of the hitboxes for the notes: https://twitter.com/Split82/status/979365834324889600
 
 ## Should I use wrist weights when I play?
-> **DO NOT USE WRIST WEIGHTS!**
+> **PLEASE DO NOT, UNLESS YOU'RE A TRAINED PROFESSIONAL**
 {.is-danger}
 
-You will only hurt yourself. Besides, a lightsaber wouldn't be heavy, *it's made of plasma.*
+In which you'd know why not to use wrist weights. Besides, a lightsaber wouldn't be heavy, *it's made of plasma.*
 Please read [this comment](https://www.reddit.com/r/Vive/comments/8g9jgs/beat_saber_has_now_released/dya1yl7/) for more information.
 
 ## Why are the vote buttons greyed out in game?
@@ -77,7 +77,6 @@ This error means that the Mod Manager could not connect to https://modsaber.org
 * Check that your firewall isn't blocking the Mod Manager from accessing the internet
 
 ![Mod Manager Error](/uploads/faq/mod-manager-error.png "Mod Manager Error")
-
 
 ## My menus are blank and I have nothing to click on!
 If the main window in your game is blank, your save file likely got corrupted.
