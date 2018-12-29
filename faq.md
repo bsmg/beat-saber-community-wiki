@@ -51,11 +51,6 @@ Check out this video the devs released: https://twitter.com/beatsaber/status/992
 
 Here is an image of the hitboxes for the notes: https://twitter.com/Split82/status/979365834324889600
 
-## How do I revert to the original sabers after installing custom sabers?
-
-Here are the [original saber models](/uploads/the-originals.saber "The Originals")!
-
-
 ## Should I use wrist weights when I play?
 > **DO NOT USE WRIST WEIGHTS!**
 {.is-danger}
