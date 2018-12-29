@@ -78,8 +78,11 @@ This error means that the Mod Manager could not connect to https://modsaber.org
 
 ![Mod Manager Error](/uploads/faq/mod-manager-error.png "Mod Manager Error")
 
-## I tried to install mods via the Mod Installer but it gives me an error that it can't find the IPA.exe.
-Try installing the [Song Loader](https://github.com/xyonico/BeatSaberSongLoader/releases) on its own, then try running the Mod Manager again.
 
-## I can see my avatar in the menus, but it disappears when I start a song ??
-Don't use Ikeiwa's version of the custom avatar plugin, it's outdated! Use [xyonico's](https://github.com/xyonico/CustomAvatarsPlugin/releases), also pinned in the `#model-discussion` channel.
+## My menus are blank and I have nothing to click on!
+If the main window in your game is blank, your save file likely got corrupted.
+
+To fix it, navigate to:
+`%AppData%\..\LocalLow\Hyperbolic Magnetism`
+
+Delete or rename the Beat Saber folder to something else. When you re-enter the game, it'll recreate the save file and should load the main menu properly.
