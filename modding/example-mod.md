@@ -7,6 +7,8 @@
 > Before you start, please be sure you've read the [template setup guide](/modding/intro) to download the plugin template and set up your project.
 {.is-warning}
 # Plugin Beginnings
+> If at any point you feel overwhelmed, it probably means you do not have enough experience. In that case, consider watching some Unity and C# tutorials to get familiar with Unity.
+{.is-danger}
 
 If you followed the [template setup guide](/modding/intro), you should end up with something similar to the following below:
 
@@ -23,20 +25,12 @@ In this example, we will work on a basic plugin that counts how many notes we mi
 * A basic overview of events and actions.
 
 ## Setting Variables
-> If at any point you feel overwhelmed, it probably means you do not have enough experience. In that case, consider watching some Unity and C# tutorials to get familiar with Unity.
-{.is-danger}
-
 Before we begin with our plugin, it is important to create some variables that will help us later in development:
 
-![Plugin Variables](/uploads/modding-example/plugin-variables.png "Plugin Variables")
-*(Courtesy of [Beat Saber Progress Counter](https://github.com/Strackeror/BeatSaberProgressCounter/))*
-
-> The `0.12` patch of Beat Saber yet again brought a new way the game handles scene loading. The `env` variable we have created is no longer needed. Take a look for another one of these messages later in the tutorial.
-{.is-danger}
+![Plugin Variables](/uploads/modding-example/012-variables.png "Plugin Variables")
 
 | | |
 | --- | --- |
-|`env` | The `0.11.2` patch of Beat Saber brought with it a different way the game loads scenes. Instead of one "master" scene, it is split up into different scenes depending on the environment. We will detect if the game is played a game based off the name of the scene.|
 |`enabled` | Toggles our plugin on or off with the flip of a variable. If you want to add a configuration file later on, this will be one option you don't want to miss.||
 `counterPosition` | Where our counter will be located in the scene.|
 
@@ -56,13 +50,7 @@ We will write little code inside of `Plugin.cs`. We will create a MonoBehavior s
 
 Let's add to the `SceneManagerOnActiveSceneChanged()` event that has been generated for us. This will be called when the scene has been changed, so we can easily create a GameObject here.
 
-> Due to later patches of Beat Saber changing scene loading, `env` is no longer needed. You can instead replace the conditional inside the if statement to `arg1.name == "GameCore"`. 
-{.is-danger}
-
-![Plugin Scenechanged](/uploads/modding-example/plugin-scenechanged.png "Plugin Scenechanged")
-
-> If you receive an error relating to `env.Contains()`, you may need to add `using System.Linq;` to the top of your file.
-{.is-danger}
+![Scene Changes](/uploads/modding-example/012-scenechanged.png "Scene Changes")
 
 ### What's going on here?
 Instead of having an if statement inside an if statement, we've compressed the code into just 3 lines.
