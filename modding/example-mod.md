@@ -202,6 +202,8 @@ Also, be sure to visit the [#mod-development](https://discordapp.com/channels/44
 ## Source Code
 **If you find yourself stuck with an error in your code, and you want to compare with the project we've created, we've published the source code on GitHub: https://github.com/Caeden117/MissedCounter**
 # Extras
+> I am currently working on moving these Extras to their own seperate page in hopes of expanding details and going more in depth into how to integrate these into your plugins. Hang on tight!
+{.is-warning}
 
 Here is some extra content and information that will help you on your way of creating a plugin. Inspecting the game's uncompiled code, create and read settings, and access private variables are all things Beat Saber plugins do, so why leave you off with *just* the basics?
 
