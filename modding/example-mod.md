@@ -59,7 +59,7 @@ Instead of having an if statement inside an if statement, we've compressed the c
 
 * The second line deals with the scene Beat Saber is currently transitioning to. If this scene is "GameCore", or the main scene Beat Saber uses for playing songs, it'll continue to the last line. If it is not "GameCore", it'll activate the if statement, causing the function to return. This prevents our plugin from activating in the main menu, the tutorial, or in the "Health Warning and Information" screen.
 
-### What's with the error?
+### Why do I get an error with MissedCounter?
 Our plugin does not have a `MissedCounter` file to plug into our last line. Here we are creating an Empty GameObject at the very center of the scene, and adding a missing script into it. This is what we're going to be creating right now!
 
 ## MissedCounter.cs
