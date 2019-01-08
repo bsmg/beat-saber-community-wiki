@@ -16,6 +16,7 @@ However, if you wish to not wait and continue with this current mod tutorial, th
 # Plugin Beginnings
 > Before you start, please be sure you've read the [template setup guide](/modding/intro) to download the plugin template and set up your project.
 {.is-warning}
+
 > If at any point you feel overwhelmed, it probably means you do not have enough experience. In that case, consider watching some Unity and C# tutorials to get familiar with Unity.
 {.is-danger}
 
