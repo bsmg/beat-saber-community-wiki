@@ -1,19 +1,21 @@
 <!-- TITLE: Example Mod -->
 <!-- SUBTITLE: Learn how to make a basic mod for Beat Saber! -->
 
->**Hold Up!**
+# Hold Up!
 We got an even better modding tutorial in the works, updated for 0.12, and that will show off a lot more commonly used modder tools.
+
 We're talking things such as:
 * Using dnSpy to look at Beat Saber source code
 * Using ReflectionUtil to get ourselves some private variables *(Still debating on that)*
 * Integrating CustomUI to toggle some settings in game
 * Using ModPrefs to store and retrieve our variables
+* 
 It's going to be great! Stay tuned while we get this better Mod Tutorial cooked up and ready to serve!
-{.is-warning}
 
+However, if you wish to not wait and continue with this current mod tutorial, thats fine by us. Just know, a better one's coming soon™!
+# Plugin Beginnings
 > Before you start, please be sure you've read the [template setup guide](/modding/intro) to download the plugin template and set up your project.
 {.is-warning}
-# Plugin Beginnings
 > If at any point you feel overwhelmed, it probably means you do not have enough experience. In that case, consider watching some Unity and C# tutorials to get familiar with Unity.
 {.is-danger}
 
