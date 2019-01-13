@@ -31,6 +31,8 @@ e.g. If your top play is a 260 PP play, you will be rewarded 260 weighted PP whi
 Here is another site by [DuoVR](https://duovr.github.io/BigPP/) where you can input your scoresaber profile and it shows you songs that you should play for a lot of PP.
 
 *This section is adapted from Tek's writeup in the Beat Saber Canadian discord.*
+
+Songs are ranked/unranked by a ranking team in the [ScoreSaber discord](https://discord.gg/WpuDMwU). You can follow along in this server to see what changes happen!
 # Grips
 A grip compilation by Emperor of the Internet
 
