@@ -13,7 +13,7 @@ Additionally, here's an image from the devs about how the [hitboxes](https://twi
 # Ranking
 *How does global ranking work? What are performance points? What are the numbers in my brackets? Why is my PP so small?*
 
-You can find your global ranking and PP on [https://scoresaber.com/global] - here you can search for your name. Your scoresaber account is tied to your steam/oculus username. 
+You can find your global ranking and PP on ScoreSaber[https://scoresaber.com/global] - here you can search for your name. Your scoresaber account is tied to your steam/oculus username. 
 
 1. Ranked songs are assigned PP ( PP = performance points ). The exact amount of PP gained is determined by the accuracy you finish a ranked song with. How much PP a ranked song is worth is determined by a secret algorithm developed by Umbranox, our Panda God. 
 2. To avoid having skilled players grinding lots of easier songs that are worth less PP, a curve is applied to your plays. This curve is 0.965^(x-1) where x is the position of that score on your song list. 
