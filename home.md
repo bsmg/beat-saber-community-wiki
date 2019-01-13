@@ -3,9 +3,7 @@
 
 # Getting Started
 * [Beginner's Guide](beginners-guide)
-* [Health and Safety](health-and-safety)
 * [Tips](grips-and-tricks)
-* [FAQ](faq)
 
 # Looking to Make Your Own Stuff?
 * [Modder's Guide](modding)
@@ -14,7 +12,10 @@
 
 # Other Resources
 * [About Us](about)
+* [Health and Safety](health-and-safety)
 * [List of All Mods](modding/all-mods)
+* [FAQ](faq)
+
 # External Links
 * [Discord](https://discord.gg/beatsabermods)
 * [BeatSaver](https://beatsaver.com/)
