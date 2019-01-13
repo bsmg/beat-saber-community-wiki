@@ -12,8 +12,9 @@
 * [Mapper Resources](mapping)
 * [3D Models Guide](models)
 
+# Other Resources
+* [About Us](about)
 * [List of All Mods](modding/all-mods)
-* [About](about)
 # External Links
 * [Discord](https://discord.gg/beatsabermods)
 * [BeatSaver](https://beatsaver.com/)
