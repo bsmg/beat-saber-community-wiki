@@ -4,7 +4,7 @@
 # Quick Links
 * [Beginner's Guide](beginners-guide)
 * [Health and Safety Guide](health-and-safety)
-* [Grips and Tricks](https://wiki.assistant.moe/grips-and-tricks)
+* [Grips and Tricks](grips-and-tricks)
 * [Modder's Guide](modding)
 * [Mapper's Guide](mapping)
 * [3D Models Guide](models)
