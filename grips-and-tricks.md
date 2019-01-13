@@ -19,7 +19,7 @@ You can find your global ranking and PP on [https://scoresaber.com/global] - her
 2. A player will be rewarded with PP for their skill on a ranked song. To avoid having skilled players grinding lots of easier songs that are worth less PP, a curve is applied to your plays. This curve is 0.965^(x-1) where x is the position of that score on your song list. 
 e.g. If your top play is a 260 PP play, you will be rewarded 260 weighted PP which is a 100% of the raw PP of that play. If your second top play is 247 raw PP, you will be rewarded 238 weighted PP which is the actual amount of PP you get after the curve applies. Here is a list of my current top 4 plays where the raw PP is in italic and the weighted PP is in bold.
 |  |
-| --- |
+| --- | --- |
 | 260pp -> **260pp** (100% of raw PP) |
 | 247pp -> **238pp** (96.5% of raw PP) |
 | 246pp -> **229pp** (93.1% of raw PP) |
@@ -27,8 +27,9 @@ e.g. If your top play is a 260 PP play, you will be rewarded 260 weighted PP whi
 
 3. To rank up, get scores on new songs that are worth more or a similar amount of PP to your top scores. When you don't have any new high PP songs to play, replay songs on your first pages to get better scores. Here is a [spreadsheet by DuoVR](https://docs.google.com/spreadsheets/d/1ufWgF2tWS0gD3pIr0_d37EkIcmCrUy1x6hyzPEZDPNc/edit#gid=1775412672) of all the ranked songs and how much PP they are worth. This list is updated every 24 hours. 
 
-Here is another link to a website on wich you input your scoresaber.com profile and it shows you songs that you should play for a lot of PP.
-This section is adapted from Tek's writeup in the Beat Saber Canadian discord.
+Here is another site by [DuoVR](https://duovr.github.io/BigPP/) where you can input your scoresaber profile and it shows you songs that you should play for a lot of PP.
+
+*This section is adapted from Tek's writeup in the Beat Saber Canadian discord.*
 # Grips
 A grip compilation by Emperor of the Internet
 
