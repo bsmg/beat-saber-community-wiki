@@ -17,7 +17,7 @@ How does global ranking work? What are performance points? What are the numbers 
 2. A player will be rewarded with PP for their skill on a ranked song. To avoid having skilled players grinding lots of easier songs that are worth less PP, a curve is applied to your plays. This curve is 0.965^(x-1) where x is the position of that score on your song list. Because obviously very few people understand the meaning of this curve let's represent it in a simpler manner. 
 * e.g. If your top play is a 260 PP play, you will be rewarded 260 weighted PP which is a 100% of the raw PP of that play. If your second top play is 247 raw PP, you will be rewarded 238 weighted PP which is the actual amount of PP you get after the curve applies. Here is a list of my current top 4 plays where the raw PP is in italic and the weighted PP is in bold
 
-| --- | 
+|  |
 | 260pp -> **260pp** (100% of raw PP) |
 | 247pp -> **238pp** (96.5% of raw PP) |
 | 246pp -> **229pp** (93.1% of raw PP) |
