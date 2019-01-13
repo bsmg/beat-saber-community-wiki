@@ -10,7 +10,7 @@ Beat Saber was not designed with mod support, so you have to run one of the inst
 
 > The mod manager only shows mods compatible with the latest game update.
 > Every time the game updates, you will have to run the mod manager to get all compatible mods.
-> As all mods are made by volunteers, you may need to wait for your favorite mod to be fixed for the latest game update. Check the #announcements channel in the discord for the latest updates!
+> As all mods are made by volunteers, you may need to wait for your favorite mod to be fixed for the latest game update. Check the #server-announcements channel in the discord for the latest updates!
 {.is-warning}
 
 ## ModSaber Installer
@@ -28,20 +28,17 @@ If you'd rather use the original mod manager:
 Mods are installed into the folder `Plugins` within your Beat Saber install directory.
 Can't find where Beat Saber is installed? See [install folder.](faq/install-folder)
 
-> If you don't see a list of plugins, your antivirus software or firewall may be preventing the mod installer from connecting to [ModSaber](https://www.modsaber.org/).
-{.is-info} 
-
-
-
 # How to get more songs
 The Mod Manager includes the `Song Loader Plugin`, which enables you to load more songs into the game, but only includes one test song.
 
 ## Ingame Downloader
-The Mod Manager also includes the `BeatSaver Downloader` Plugin, which allows you to download beatmaps in-game using the `MORE SONGS` menu button on the main menu screen. This pulls beatmaps directly from www.beatsaver.com
+The installers include the `BeatSaver Downloader` Plugin, which allows you to download beatmaps in-game using the `MORE SONGS` menu button on the main menu screen. This pulls maps directly from www.beatsaver.com
 
 ## Beat Saver
 [Beat Saver](https://www.beatsaver.com) is the central repository that holds nearly all custom songs/maps for Beat Saber.
 You can manually place the zip files downloaded from Beat Saver into the `CustomSongs` folder in your Beat Saber directory, use the In-Game Downloader Plugin, or use the OneClick Install button if you're using the [ModSaber Installer](https://www.modsaber.org/).
+
+There are a couple more resources to help you find songs over in the [FAQ](faq#more-songs)
 
 # How to uninstall mods
 **Currently the only way to uninstall a mod is to remove the dll from the `Plugins` folder.**
@@ -49,8 +46,6 @@ You can manually place the zip files downloaded from Beat Saver into the `Custom
 | --- | --- |
 | Steam | `\steamapps\common\Beat Saber\Plugins` |
 | Oculus | `\hyperbolic-magnetism-beat-saber\Plugins` | 
-
-Can't find where Beat Saber is installed? See [install folder.](faq/install-folder)
 
 # Where to go from here
 * [Making beatmaps](mapping)
