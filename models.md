@@ -16,6 +16,8 @@ It includes preview images, and one-click install links.
 All models are manually approved before appearing on the site.
 https://modelsaber.assistant.moe/
 
+
+## Discord
 You can also find an uncurated list (with potentially more items) in the following channels on the Beat Saber Modding Group Discord server.
 
 [#finished-sabers](https://discordapp.com/channels/441805394323439646/446478074125746176/)
