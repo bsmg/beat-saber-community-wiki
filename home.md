@@ -9,7 +9,7 @@
 
 # Looking to Make Your Own Stuff?
 * [Modder's Guide](modding)
-* [Mapper's Guide](mapping)
+* [Mapper Resources](mapping)
 * [3D Models Guide](models)
 
 * [List of All Mods](modding/all-mods)
