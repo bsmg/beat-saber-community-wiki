@@ -6,6 +6,8 @@ See this video by the [Cube Community YT](https://www.youtube.com/channel/UCdG9z
 
 [video](https://www.youtube.com/watch?v=rVbXCGddspA){.youtube}
 
+Additionally, here's an image from the devs about how the [hitboxes](https://twitter.com/Split82/status/979365834324889600) work
+
 # Grips
 A grip compilation by Emperor of the Internet
 
