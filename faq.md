@@ -48,9 +48,7 @@ Get the installer from [Beginners Guide](beginners-guide).
 
 ## How does the scoring system work in Beat Saber?
 
-Check out this video the devs released: https://twitter.com/beatsaber/status/992782948515622913?lang=en
-
-Here is an image of the hitboxes for the notes: https://twitter.com/Split82/status/979365834324889600
+We have a section on the [grips and tricks](grips-and-tricks) page dedicated to the scoring system, check it out!
 
 ## Should I use wrist weights when I play?
 > **PLEASE DO NOT, UNLESS YOU'RE A TRAINED PROFESSIONAL**
