@@ -16,11 +16,18 @@ How does global ranking work? What are performance points? What are the numbers 
 1. Songs that get ranked are assigned are certain amount of PP ( PP = performance point ). That PP can be obtained by playing ranked songs, and the exact amount of PP gained is determined by what accuracy you finish a ranked song with. How much PP a ranked song is worth is determined by a secret algorithm developed by Umbranox, our Panda God. 
 2. A player will be rewarded with PP for their skill on a ranked song. To avoid having skilled players grinding lots of easier songs that are worth less PP, a curve is applied to your plays. This curve is 0.965^(x-1) where x is the position of that score on your song list. Because obviously very few people understand the meaning of this curve let's represent it in a simpler manner. 
 * e.g. If your top play is a 260 PP play, you will be rewarded 260 weighted PP which is a 100% of the raw PP of that play. If your second top play is 247 raw PP, you will be rewarded 238 weighted PP which is the actual amount of PP you get after the curve applies. Here is a list of my current top 4 plays where the raw PP is in italic and the weighted PP is in bold
-1. 260pp -> 260pp (100% of raw PP)
-2. 247pp -> 238pp (96.5% of raw PP)
-3. 246pp -> 229pp (93.1% of raw PP)
-4. 244pp -> 219pp  (89.9% of raw PP)
 
+|  |
+| --- | 
+| 260pp -> 260pp (100% of raw PP) |
+| 247pp -> 238pp (96.5% of raw PP) |
+| 246pp -> 229pp (93.1% of raw PP) |
+| 244pp -> 219pp  (89.9% of raw PP) |
+
+|  |  |
+| --- | --- |
+| Steam | `steamapps\common\Beat Saber\Plugins` |
+| Oculus | `hyperbolic-magnetism-beat-saber\Plugins` |
 
 This section is adapted from Tek's writeup in the Beat Saber Canadian discord.
 # Grips
