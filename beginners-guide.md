@@ -3,7 +3,15 @@
 
 # How to install mods
 
-Beat Saber was not designed with mod support, so you have to run the Mod Manager below to enable mods.
+Beat Saber was not designed with mod support, so you have to run one of the installers below to patch the game and enable mods.
+
+> It's not recommended to install mods without knowing what they do, this can lead to undesired behaviors and performance issues. Click the `View Selected Mod Info` button in the ModSaber Installer, or the `More Info` button in the Mod Manager to learn more about a mod.
+{.is-danger}
+
+> The mod manager only shows mods compatible with the latest game update.
+> Every time the game updates, you will have to run the mod manager to get all compatible mods.
+> As all mods are made by volunteers, you may need to wait for your favorite mod to be fixed for the latest game update. Check the #announcements channel in the discord for the latest updates!
+{.is-warning}
 
 ## ModSaber Installer
 The new **recommended** mod installer! Both are similar in function, but this one offers richer debugging capabilities if things go wrong.
@@ -17,19 +25,13 @@ If you'd rather use the original mod manager:
 * Download `BeatSaberModManager.exe`
 * Run it! Select what mods you want to install from the list!
 
-> It's not recommended to install mods without knowing what they do, this can lead to undesired behaviors and performance issues. Click the `View Selected Mod Info` button in the ModSaber Installer, or the `More Info` button in the Mod Manager to learn more about a mod.
-{.is-danger}
-
 Mods are installed into the folder `Plugins` within your Beat Saber install directory.
 Can't find where Beat Saber is installed? See [install folder.](faq/install-folder)
 
 > If you don't see a list of plugins, your antivirus software or firewall may be preventing the mod installer from connecting to [ModSaber](https://www.modsaber.org/).
 {.is-info} 
 
-> The mod manager only shows mods compatible with the latest game update.
-> Every time the game updates, you will have to run the mod manager to get all compatible mods.
-> It can take about a week or longer for all mods to be fixed for the latest game update.
-{.is-warning}
+
 
 # How to get more songs
 The Mod Manager includes the `Song Loader Plugin`, which enables you to load more songs into the game, but only includes one test song.
