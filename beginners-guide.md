@@ -17,7 +17,7 @@ If you'd rather use the original mod manager:
 * Download `BeatSaberModManager.exe`
 * Run it! Select what mods you want to install from the list!
 
-> It's not recommended to install mods without knowing what they do, this can lead to undesired behaviors and performance issues.
+> It's not recommended to install mods without knowing what they do, this can lead to undesired behaviors and performance issues. Click the `View Selected Mod Info` button in the ModSaber Installer, or the `More Info` button in the Mod Manager to learn more about a mod.
 {.is-danger}
 
 Mods are installed into the folder `Plugins` within your Beat Saber install directory.
@@ -38,21 +38,9 @@ The Mod Manager includes the `Song Loader Plugin`, which enables you to load mor
 The Mod Manager also includes the `BeatSaver Downloader` Plugin, which allows you to download beatmaps in-game using the `MORE SONGS` menu button on the main menu screen. This pulls beatmaps directly from www.beatsaver.com
 
 ## Beat Saver
-[Beat Saver](https://www.beatsaver.com) holds nearly all custom songs/beatmaps for Beat Saber.
-You can also manually place the zip files downloaded from Beat Saver into the `CustomSongs` folder in your Beat Saber directory. 
-See [install folder](FAQ/install-folder).
+[Beat Saver](https://www.beatsaver.com) is the central repository that holds nearly all custom songs/maps for Beat Saber.
+You can manually place the zip files downloaded from Beat Saver into the `CustomSongs` folder in your Beat Saber directory, use the In-Game Downloader Plugin, or use the OneClick Install button if you're using the [ModSaber Installer](https://www.modsaber.org/).
 
-## Beast Saber
-[Beast Saber](https://www.bsaber.com) is a review site that aims to curate all of the songs on Beat Saver! You can also download playlists, follow mappers, find songs using advanced sorting methods and more.
-
-## Beat Drop
-[Beat Drop](https://bsaber.com/beatdrop/) is a desktop application that allows you to download songs, and create playlists as well!
-
-## Bootleg BeatSaver Search
-An [external search engine](http://bootleg-beatsaver.com/) that enables more advanced searching functionality to help you find songs on BeatSaver.
-
-## Beat Saber Songs
-Another [external search engine](https://beatsaber-songs.herokuapp.com/) with more advanced searching functionality to help you find songs on BeatSaver.
 # How to uninstall mods
 **Currently the only way to uninstall a mod is to remove the dll from the `Plugins` folder.**
 |  |  |
