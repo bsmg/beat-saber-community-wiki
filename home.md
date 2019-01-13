@@ -1,16 +1,15 @@
 <!-- TITLE: Beat Saber Modding Community -->
 <!-- SUBTITLE: Welcome to the Beat Saber Modding Community Wiki! -->
 
-# Getting Started
+# Quick Links
 * [Beginner's Guide](beginners-guide)
-* [Health and Safety](health-and-safety)
-* [Tips](https://wiki.assistant.moe/grips-and-tricks)
-* [FAQ](faq)
-
+* [Health and Safety Guide](health-and-safety)
+* [Grips and Tricks](https://wiki.assistant.moe/grips-and-tricks)
 * [Modder's Guide](modding)
 * [Mapper's Guide](mapping)
 * [3D Models Guide](models)
 * [List of All Mods](modding/all-mods)
+* [FAQ](faq)
 * [About](about)
 # External Links
 * [Discord](https://discord.gg/beatsabermods)
