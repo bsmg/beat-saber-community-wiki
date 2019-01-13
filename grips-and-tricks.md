@@ -32,7 +32,7 @@ Here is another site by [DuoVR](https://duovr.github.io/BigPP/) where you can in
 
 *This section is adapted from Tek's writeup in the Beat Saber Canadian discord.*
 
-Songs are ranked/unranked by a ranking team in the [ScoreSaber discord](https://discord.gg/WpuDMwU). You can follow along in this server to see what changes happen!
+>Songs are ranked/unranked by a ranking team in the [ScoreSaber discord](https://discord.gg/WpuDMwU). You can follow along in this server to see what changes happen!
 # Grips
 A grip compilation by Emperor of the Internet
 
