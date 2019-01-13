@@ -3,6 +3,7 @@
 
 # Scoring
 See this video by the [Cube Community YT](https://www.youtube.com/channel/UCdG9zS8jVcQIKl7plwWXUkg) about how the scoring system works.
+
 [video](https://www.youtube.com/watch?v=rVbXCGddspA){.youtube}
 
 # Grips
