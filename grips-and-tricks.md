@@ -1,7 +1,12 @@
 <!-- TITLE: Grips And Tricks -->
 <!-- SUBTITLE: A compilation of resources to help you to hit bloq -->
 
+# Scoring
+See this video by the [Cube Community YT](https://www.youtube.com/channel/UCdG9zS8jVcQIKl7plwWXUkg) about how the scoring system works.
+[video](https://www.youtube.com/watch?v=rVbXCGddspA){.youtube}
+
 # Grips
+A grip compilation by Emperor of the Internet
 
 ![Oculus Grips Guide](/uploads/oculus-grips-guide.png "Oculus Grips Guide")
 
@@ -17,6 +22,8 @@ Steps:
 1. Rotate the room within Beat Saber's settings to compensate, so that you appear facing forward within the game.
 
 ![Vive Tracking Help](/uploads/vive-tracking-help.gif "Vive Tracking Help")
+
+This can apply to oculus sensors too.
 
 # Also Consider
 ![Allow Adequate Room Around You During Game Play Put On 27689465](/uploads/allow-adequate-room-around-you-during-game-play-put-on-27689465.png "Allow Adequate Room Around You During Game Play Put On 27689465")
