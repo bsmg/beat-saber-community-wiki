@@ -8,6 +8,7 @@ See this video by the [Cube Community YT](https://www.youtube.com/channel/UCdG9z
 
 Additionally, here's an image from the devs about how the [hitboxes](https://twitter.com/Split82/status/979365834324889600) work
 
+![Dzdn Pixcaeen](/uploads/dzdn-pixcaeen.jpg "Dzdn Pixcaeen")
 # Grips
 A grip compilation by Emperor of the Internet
 
