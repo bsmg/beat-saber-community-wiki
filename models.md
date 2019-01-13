@@ -11,9 +11,11 @@ The mods are discussed on their own pages, listed below.
 
 # Where to find models
 ## Model Saber
-Model Saber is the current repository for sabers, avatars, and platforms.
+**Model Saber** is the current repository for sabers, avatars, and platforms.
 It includes preview images, and one-click install links.
+
 All models are manually approved before appearing on the site.
+
 https://modelsaber.assistant.moe/
 
 
