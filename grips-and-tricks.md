@@ -1,4 +1,4 @@
-<!-- TITLE: Tips And Tricks -->
+<!-- TITLE: Grips And Tricks -->
 <!-- SUBTITLE: A compilation of resources to help you to hit bloq -->
 
 # Grips
