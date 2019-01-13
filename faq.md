@@ -1,21 +1,29 @@
 <!-- TITLE: FAQ -->
 <!-- SUBTITLE: Frequently Asked Questions! -->
 # FAQ
-## After using the mod installer, I can't click anything in game!
-Sounds like you pirated the game. If so, go sit in the corner of shame and think about what you've done. Once you've reflected on your mistakes, purchase the game from [Steam](https://store.steampowered.com/app/620980/Beat_Saber/) or [Oculus](https://www.oculus.com/experiences/rift/1304877726278670/) and the mods won't break your game.
+## I just got the game, how do I get started?
+Check out our [beginner's guide](beginners-guide)!
 
-## How do I load custom songs?
-Follow the instructions in the [Beginners Guide](beginners-guide).
+## More Songs
+If you don't like using beatsaver to find songs, here are some other tools to help you out!
 
-## Where do I find custom songs?
-[Beat Saver](https://beatsaver.com/)
-[Beast Saber](https://bsaber.com/)
+### Beast Saber
+[Beast Saber](https://www.bsaber.com) is a review site that aims to curate all of the songs on Beat Saver! You can also download playlists, follow mappers, find songs using advanced sorting methods and more. Created by elliotttate.
+
+### Beat Drop
+[Beat Drop](https://bsaber.com/beatdrop/) is a desktop application that allows you to download songs, and create playlists as well! Created by Stargazer.
+
+### Bootleg BeatSaver Search
+An [external search engine](http://bootleg-beatsaver.com/) that enables more advanced searching functionality to help you find songs on BeatSaver, by Zeekin.
+
+### Beat Saber Songs
+Another [external search engine](https://beatsaber-songs.herokuapp.com/) with more advanced searching functionality to help you find songs on BeatSaver, by rorekk.
 
 We also have a dedicated channel on the Modding Group Discord: [`#finished-maps`](https://discordapp.com/channels/441805394323439646/442342190060929055/)
 
 ## How do I load plugins that aren't in the Mod Installer?
 
-After you have run the ModSaber Installer, you can then add other plugins / mods in the following directory:
+After you have run the ModSaber Installer, you can then add/delelte other mods in the following directory:
 
 `.dll` plugins go in the directory:
 |  |  |
@@ -23,15 +31,8 @@ After you have run the ModSaber Installer, you can then add other plugins / mods
 | Steam | `steamapps\common\Beat Saber\Plugins` |
 | Oculus | `hyperbolic-magnetism-beat-saber\Plugins` |
 
-Asset replacement plugins go in the directory:
-|  |  |
-| --- | --- |
-| Steam | `steamapps\common\Beat Saber\Beat Saber_Data` |
-| Oculus | `hyperbolic-magnetism-beat-saber\Beat Saber_Data` |
 
-**Can't find your install directory?** See: [Beat Saber install folder](faq/install-folder)
-
-## Multiplayer?
+## How does the multiplayer mod work?
 
 The official multiplayer has not been released, but you can use the multiplayer mod by Andruzzzhka.
 Here is a guide to set up the multiplayer mod: https://bs.assistant.moe/Multiplayer/
