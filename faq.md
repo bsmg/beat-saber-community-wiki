@@ -46,9 +46,8 @@ Both the modsaber installer and the mod manager only includes mods that have bee
 
 Get the installer from [Beginners Guide](beginners-guide).
 
-## How does the scoring system work in Beat Saber?
-
-We have a section on the [grips and tricks](grips-and-tricks) page dedicated to the scoring system, check it out!
+## How does the scoring system work in Beat Saber? How does global ranking work?
+We have sections on the [grips and tricks](grips-and-tricks) page dedicated to the scoring and ranking systems, check them out!
 
 ## Should I use wrist weights when I play?
 > **PLEASE DO NOT, UNLESS YOU'RE A TRAINED PROFESSIONAL**
