@@ -71,7 +71,7 @@ If you've ever played darth maul mode, you have this guy to thank
 Creator of the Custom Platforms plugin and pumpkin carving extrordinaire.
 **Roles:** Modder
 **Contributions:** CMB's Face, Custom Platforms, fixing other plugins
-[GitHub](https://github.com/rolopogo) | [Donate](https://www.paypal.me/RobynLovett)
+[GitHub](https://github.com/rolopogo) | [PayPal](https://www.paypal.me/RobynLovett) | [Ko-Fi](http://ko-fi.com/robynlovett)
 
 ## Ruu
 TODO: LIV guy who tailors your sabers and game colors
