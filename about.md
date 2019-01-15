@@ -30,7 +30,7 @@ Has large feet, maybe??
 TODO:
 **Roles:** Modder
 **Contributions:** Enhanced Twitch Chat, Hidden Blocks, CustomUI Library, Shit Map Detector, Note Miss Effect Remover, SyncSaber, Debris Remover, fixing other plugins
-[GitHub](https://github.com/brian91292)
+[GitHub](https://github.com/brian91292) | [Donate](https://ko-fi.com/brian91292)
 
 ## Caeden117
 How many statistics could we fit into a counters mod?
