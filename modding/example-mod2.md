@@ -1,4 +1,16 @@
-<!-- TITLE: Example Mod 2 -->
-<!-- SUBTITLE: A quick summary of Example Mod 2 -->
+<!-- TITLE: The Example Mod Tutorial -->
+<!-- SUBTITLE: Learn how to make a Beat Saber Mod! -->
 
-# Header
+
+# Planning
+This is just a checklist of things I need to cover *(Will be removed later*)
+
+Plugin in qquestion: Counter of the average accuracy of slices *(The extra 10 points you can get for the total of 110)* that appears at the end of a song.
+
+* Using dnSpy to find stuff I need
+  * *If required*, grab and use ReflectionUtil.
+* An easy Config class that utilizes ModPrefs
+* Simple on/off toggle for the mod.
+* Emphasize usage of `IEnumerator` when handling Unity objects
+  * Depending on the above, maybe show off `WaitUntil()` instead of using a loop and a half *(`while (true)` and repeat until something is found)*
+# Before We Begin
