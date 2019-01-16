@@ -131,6 +131,8 @@ Before anything can work, we need to gain access to the `ScoreController` Beat S
 
 In both cases, we will be the `Awake()` function built-in to Unity components which will start a function utilizing an infinite `while(true)` loop that will attempt to get the first `ScoreController`. If we find it, the loop will break and continue execution into an `Init()` function. If we don't, we'll wait for a bit before trying again.
 
+When doing this while handling Unity objects, it is best to use IEnumerators. If you are not handling with any Unity objects, you can choose to do either or.
+
 ### Coroutines and IEnumerators
 > If you receive an error relating to `IEnumator`, add `using System.Collections;` to the top of your file.
 {.is-danger}
@@ -140,10 +142,7 @@ This has been used since the beginning of Beat Saber modding, where the version 
 ![Plugin Init Ienumerator](/uploads/modding-example/plugin-init-ienumerator.png "Plugin Init Ienumerator")
 
 ### System.Threading and Asynchronous Functions
-> If you receive an error relating to `async` or `Task`, add `using System.Threading.Tasks;` to the top of your file.
-> {.is-danger}
-
-> If you receive an error relating to `Thread.Sleep()`, add `using System.Threading;` to the top of your file.
+> Using seperate threads to handle interactions with Unity objects is a bad idea and can lead to crashes. Consider using the above `IEnumerator` when handling Unity objects.
 > {.is-danger}
 
 As of the newest Beat Saber update (`0.11.2`), Beat Saber updated to Unity 2018, and with that comes the change from .NET 3.6 to .NET 4.x. This means we can use asychronous functions to handle tasks that will take time in a different thread and not cause the game to freeze! With newer Visual Studio releases, it should also automatically add `using System.Threading.Tasks;` to any newly created class file.
