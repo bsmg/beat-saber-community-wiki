@@ -5,7 +5,7 @@
 # Planning
 This is just a checklist of things I need to cover *(Will be removed later*)
 
-Plugin in qquestion: Counter of the average accuracy of slices *(The extra 10 points you can get for the total of 110)* that appears at the end of a song.
+Plugin in question: Counter of the average accuracy of slices *(The extra 10 points you can get for the total of 110)* that appears at the end of a song.
 
 * Using dnSpy to find stuff I need
   * *If required*, grab and use ReflectionUtil.
