@@ -2,7 +2,7 @@
 <!-- SUBTITLE: An attempt to list all mods that exist for Beat Saber -->
 
 # Mods
-Many of these mods are available via the [Mod Manager](/beginners-guide#beat-saber-mod-manager) and it is highly recommended to install them this way to avoid any mishaps. For the ones that aren't, refer to [FAQ](faq#how-do-i-load-other-plugins). Mods without a [Usage] link do not require or support any configuration.
+Many of these mods are available via the [ModSaber Installer](/beginners-guide#Modsaber-installer) and it is highly recommended to install them this way to avoid any mishaps. For the ones that aren't, refer to [FAQ](faq#how-do-i-load-other-plugins). Mods without a [Usage] link do not require or support any configuration.
 
 ## Core Plugins
 
