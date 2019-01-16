@@ -9,6 +9,7 @@ Plugin in question: Counter of the average accuracy of slices *(The extra 10 poi
 
 * Using dnSpy to find stuff I need
   * *If required*, grab and use `ReflectionUtil`.
+  * From the looks of things, I can use `ScoreControllers` `ScoreWithoutMultiplier` void to grab the accuracy using the `cutDistanceScore` out integer.
 * An easy Config class that utilizes `ModPrefs`
 * Simple on/off toggle for the mod using `CustomUI`.
 * Emphasize usage of `IEnumerator` when handling Unity objects
