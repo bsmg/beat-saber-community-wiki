@@ -23,7 +23,7 @@ We also have a dedicated channel on the Modding Group Discord: [`#finished-maps`
 
 ## How do I load plugins that aren't in the Mod Installer?
 
-After you have run the ModSaber Installer, you can then add/delelte other mods in the following directory:
+After you have run the ModSaber Installer, you can then add/delete other mods in the following directory:
 
 `.dll` plugins go in the directory:
 |  |  |
