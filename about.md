@@ -18,7 +18,7 @@ In-game downloads, unofficial multiplayer, and the original ~~despacito~~ custom
 Somone say text customization mods?
 **Roles:** Modder
 **Contributions:** HitScoreVisualizer, CustomMenuText, CustomFailText
-[GitHub](https://github.com/artemiswkearney)
+[GitHub](https://github.com/artemiswkearney) | [Donate](https://ko-fi.com/artibs)
 
 ## bigfoot
 Has large feet, maybe??
