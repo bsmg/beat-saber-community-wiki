@@ -14,4 +14,6 @@ Plugin in question: Counter of the average accuracy of slices *(The extra 10 poi
 * Simple on/off toggle for the mod using `CustomUI`.
 * Emphasize usage of `IEnumerator` when handling Unity objects
   * Depending on the above, maybe show off `WaitUntil()` instead of using a loop and a half *(`while (true)` and repeat until something is found)*
+* A lot more images for code
+* Don't code badly :mad:
 # Before We Begin
