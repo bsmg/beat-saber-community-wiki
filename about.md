@@ -103,6 +103,11 @@ Creator of BeatDrop, everyone's favorite desktop application for custom song man
 # Supports
 Having problems? Ask in #support. These guys have been around to help you figure out your mod problems, big or small.
 
+## Channel Monitor Bot
+The bot that holds it all together.
+Created by Megalon, recreated by lolPants, and personified by Rolo!
+[Merch!](https://www.redbubble.com/people/megalon-gaming/portfolio)
+
 ## ColdCurse
 One of the first supports and leader of the Steven fan club.
 **Roles:** Support
