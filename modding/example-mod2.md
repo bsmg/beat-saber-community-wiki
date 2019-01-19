@@ -35,7 +35,7 @@ To help explain that, here's a screenshot from the game, with the help of the [F
 
 We will be keeping track of the last 10 points you can get for the maximum of 110.
 
-This mod will also have the help of some of the commonly used Libraries that are available on Mod Saber.
+This mod will also have the help of some of the commonly used Libraries that are available on [ModSaber.](https://www.modsaber.org/).
 
 We will be using the following in our tutorial:
 
