@@ -40,11 +40,19 @@ Add Harmony as a reference ([Click here if you forget how to add a reference to 
 
 # Reflection Util
 ReflectionUtil is a simple file that allows grabbing and setting private variables inside of files.
-This is used in conjuction with [dnSpy](/modding/example-mod#dnspy) to search for and set private variables in code.
-The most basic version of ReflectionUtil can be grabbed [here.](https://gist.github.com/Caeden117/87c02dda25df90a0896292187f78f106)
+This is used in conjuction with [dnSpy](/modding/extras#dnspy) to search for and set private variables in code.
+Reflection Util is available in many mods, so [here is one from Beat Saber Utils](https://github.com/Kylemc1413/Beat-Saber-Utils/blob/master/Beat%20Saber%20Utils/Utilities/ReflectionUtil.cs)
 
+## From Beat Saber Utils
+If you haven't already, add Beat Saber Utils as a reference to your project. *(Link real soon guys)*
+
+From there, add `using BS_Utils.Utilities;` to the top of your file.
+
+Access it using `ReflectionUtil`.
+
+## Creating Your Own
 Create a new file called `ReflectionUtil.cs`
-Copy and paste the code to the newly created file, making sure to replace `namespace Your_Project_Here` with the name of your project.
+Copy and paste the above code to the newly created file, making sure to replace `namespace BS_Utils.Utilities` with the name of your project.
 
 In other files, objects will now include a `GetPrivateField<T>(name)` and a `SetPrivateField(name)` function. You can pass in the name of any private variable (Usually marked with the `private` protection keyword, and/or an underscore `_` before the name) into either, and either:
 * A compatible file type for `T` (Use `Saber` when trying to get a Saber set as a private field) when using `GetPrivateField<T>()`
