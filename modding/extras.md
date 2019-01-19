@@ -5,6 +5,9 @@ Here is some extra content and information that will help you on your way to cre
 
 Here are programs and libraries that allow you to go more advanced with your plugins an dwill help you greatly if you decide to explore new territory in Beat Saber modding. Remember, the [Beat Saber Modding group](https://discord.gg/beatsabermods) is always here for your programming help!
 
+
+>This is heavily unfinished! If you wish to cover a library, or an aspect of modding, please DM me on Discord `Caeden117#0117` and let me know what to add.
+{.is-danger}
 # dnSpy
 dnSpy is a .NET debugger and assembly editor that allows you to import compiled `.dll`s and view them decompiled into C#.
 In the case of modding, we can use dnSpy to view the source code of Beat Saber and find methods and variables that would be handy to have for some plugins.
