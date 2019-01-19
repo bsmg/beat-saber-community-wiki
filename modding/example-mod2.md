@@ -43,3 +43,21 @@ We will be using the following in our tutorial:
 * **ModPrefs** to store and retrieve some configuration options.
 * **CustomUI** to create a simple Modifiers page that will change these options in-game.
 
+# I. The Basics
+## Config.cs
+Before we do anything else, lets start the tutorial by creating a new file. This will house our variables that we will, later in the tutorial, use ModPrefs to save and read from a file.
+
+![Config](/uploads/modding-example-v-2/02-configcreate.png "Config")
+
+We should now have an empty class. Let's create variables, and give them some temporary values for now.
+
+Just as a side note, each variable will have the `public static` keywords added on to them.
+
+| Variable | Description |
+|-|-|
+|**enabled**|Controls whether or not our plugin will be active at the end of the song.|
+|**displayBoth**|Toggles the average bonus score for both sabers.|
+|**displaySeparate**|Toggles the average bonus score for each left/right saber separately.|
+|**decimalPrecision**|What decimal place our average will round to.|
+
+
