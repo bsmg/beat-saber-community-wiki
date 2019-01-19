@@ -17,4 +17,29 @@ Plugin in question: Counter of the average accuracy of slices *(The extra 10 poi
   * Depending on the above, maybe show off `WaitUntil()` instead of using a loop and a half *(`while (true)` and repeat until something is found)*
 * A lot more images for code
 * Don't code badly :mad:
-# Before We Begin
+# Prelude
+>If at any point you feel overwhelmed, it probably means you do not have enough experience. In that case, consider watching some Unity and C# tutorials to get familar with Unity and how it works.
+{.is-danger}
+
+Before we begin, we'll assume you've followed the [template setup guide](https://wiki.assistant.moe/modding/intro) to create the project and add the necessary references.
+
+![Beginnings](/uploads/modding-example-v-2/00-beginnings.png "Beginnings")
+
+## Our Plugin
+
+The plugin we will be making will keep track of the average bonus accuracy points you can get in a swing.
+
+To help explain that, here's a screenshot from the game, with the help of the [First Person Flying Camera](https://wiki.assistant.moe/modding#launch-args).
+
+![Accuracy Explanation](/uploads/modding-example-v-2/01-accuracyexplanation.png "Accuracy Explanation")
+
+We will be keeping track of the last 10 points you can get for the maximum of 110.
+
+This mod will also have the help of some of the commonly used Libraries that are available on Mod Saber.
+
+We will be using the following in our tutorial:
+
+* **dnSpy** to look at Beat Saber's code for what we need.
+* **ModPrefs** to store and retrieve some configuration options.
+* **CustomUI** to create a simple Modifiers page that will change these options in-game.
+
