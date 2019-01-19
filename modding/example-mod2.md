@@ -95,3 +95,19 @@ Hmm. That's a *lot* of classes. We're going to have to narrow down what we're lo
 
 Here we are. We can see here we already have our way of grabbing note data whenever a note was cut; this will be useful for later. Let's scroll down a little bit into this large class.
 
+![06 Scorewithoutmultiplier](/uploads/modding-example-v-2/06-scorewithoutmultiplier.png "06 Scorewithoutmultiplier")
+
+*Ahhh*. Jackpot. This appears to be all of what we need to set up our `AccuracyLists` file. Let's head back to Visual Studio.
+
+## Actually Writing Code
+With our newfound knowledge from dnSpy, we can now actually start writing some code. Let's create two `List<int>`s that'll house the `cutDistanceScore`s from the `ScoreController`. Let's also create our `ScoreController` reference that will be used.
+
+Unlike the previous mod example, we will not be creating a counter, so no `TextMeshPro`s will be used here.
+
+Let's create an `Awake` void. We'll grab our ScoreController in the next section.
+
+## Grabbing the ScoreController
+>If you are having issues with `IEnumerator`, append `using System.Collections` to the top of your file.
+{.is-warning}
+
+To obtain our ScoreController, let's create an `IEnumerator` called `GrabRequired()`. Unlike the previous mod tutorial, we will not use a `while(true)` loop and keep looping through until we find our ScoreController.
