@@ -7,14 +7,14 @@ This is just a checklist of things I need to cover *(Will be removed later*)
 
 Plugin in question: Counter of the average accuracy of slices *(The extra 10 points you can get for the total of 110)* that appears at the end of a song.
 
-* Using dnSpy to find stuff I need
+~~* Using dnSpy to find stuff I need
   * *If required*, grab and use `ReflectionUtil`.
-  * From the looks of things, I can use `ScoreControllers` `ScoreWithoutMultiplier` void to grab the accuracy using the `cutDistanceScore` out integer.
+  * From the looks of things, I can use `ScoreControllers` `ScoreWithoutMultiplier` void to grab the accuracy using the `cutDistanceScore` out integer.~~
 * An easy Config class that utilizes `ModPrefs`
   * Recommend separating into a new file for multiple config options
 * Simple on/off toggle for the mod using `CustomUI`.
-* Emphasize usage of `IEnumerator` when handling Unity objects
-  * Depending on the above, maybe show off `WaitUntil()` instead of using a loop and a half *(`while (true)` and repeat until something is found)*
+~~* Emphasize usage of `IEnumerator` when handling Unity objects
+  * Depending on the above, maybe show off `WaitUntil()` instead of using a loop and a half *(`while (true)` and repeat until something is found)*~~
 * A lot more images for code
 * Don't code badly :mad:
 # Prelude
@@ -106,8 +106,19 @@ Unlike the previous mod example, we will not be creating a counter, so no `TextM
 
 Let's create an `Awake` void. We'll grab our ScoreController in the next section.
 
+![07 Writingcode](/uploads/modding-example-v-2/07-writingcode.png "07 Writingcode")
+
 ## Grabbing the ScoreController
 >If you are having issues with `IEnumerator`, append `using System.Collections` to the top of your file.
 {.is-warning}
 
 To obtain our ScoreController, let's create an `IEnumerator` called `GrabRequired()`. Unlike the previous mod tutorial, we will not use a `while(true)` loop and keep looping through until we find our ScoreController.
+
+Let me introduce you all to `WaitUntil(predicate)`! It stops a Coroutine until the bool `predicate` is `true`. In our case, we'll see if Resources can load a ScoreController, and pass that as a lambda expression with no extra variables to pass into.
+
+Since it will halt until our `ScoreController` is found, we do not need to worry about our variable being `null`. We can safely assign it via Resources, and move on to a brand new `Init()` void. We will then start our coroutine in the `Awake()` function.
+
+![08 Grabbingscorecontroller](/uploads/modding-example-v-2/08-grabbingscorecontroller.png "08 Grabbingscorecontroller")
+
+### Regarding Tasks and Threading
+Through my own experience, and from the advice of other Modders, it is unwise to grab, assign, or modify Unity objects *(Hint: Almost all of them inherit `MonoBehaviour`)* inside a separate thread. Attempting to do so will, however not consistently, crash the game. It is much better to use `IEnumerators` and Coroutines for handling Unity objects, and use Tasks and separate threads for those which do not.
