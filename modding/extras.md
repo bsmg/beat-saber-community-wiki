@@ -11,11 +11,18 @@ In the case of modding, we can use dnSpy to view the source code of Beat Saber a
 Read more about it [here](https://github.com/0xd4d/dnSpy).
 
 Download the [latest release of dnSpy.zip](https://github.com/0xd4d/dnSpy/releases/latest).
-Extract the zip, and run `dnSpy.exe`.
-Then open the file `\<Beat Saber Directory>\Beat Saber_Data\Managed\Assembly-CSharp.dll`
-`Assembly-CSharp.dll` contains nearly all of the games' code.
 
-You can also use dnSpy to view and even edit the code of plugins, even those that have not yet published to GitHub. Be wary, though! Snooping around in other's code without permission is a bad idea. Also, modifying only a few lines of code can turn a harmless mod into a disaster.
+Then extract the zip, and run `dnSpy.exe`.
+
+If all has been done correctly, things should look something like this, without the large list of files on the left side.
+
+![Dnspy Start](/uploads/modding/dnspy-start.png "Starting Page")
+
+Then go to `File >> Open`, then locate and open the compiled Beat Saber code located in `\<Beat Saber Directory>\Beat Saber_Data\Managed\Assembly-CSharp.dll`
+
+![Dnspy Start](/uploads/modding/dnspy-assembly.png "Code Location")
+
+You can also use dnSpy to view and even edit the code of plugins, even those that have not yet published to GitHub. Be wary, though! Snooping around in other's code without permission is a bad idea.
 
 ![dnSpy Example](/uploads/modding/dnspy-example.png "dnSpy Example")
 
