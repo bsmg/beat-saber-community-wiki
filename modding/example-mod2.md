@@ -91,3 +91,7 @@ Let's select our opened `Assembly-CSharp` file and open the dropdowns until we r
 
 Hmm. That's a *lot* of classes. We're going to have to narrow down what we're looking for. Because what we are looking for is related to score, and plus it would have to be when a note is cut, my first guess will be to look in the `ScoreController` class. It'll be a little ways down, but it should have what we need.
 
+![05 Dnspyscorecontroller](/uploads/modding-example-v-2/05-dnspyscorecontroller.png "05 Dnspyscorecontroller")
+
+Here we are. We can see here we already have our way of grabbing note data whenever a note was cut; this will be useful for later. Let's scroll down a little bit into this large class.
+
