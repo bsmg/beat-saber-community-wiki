@@ -40,18 +40,20 @@ This mod will also have the help of some of the commonly used Libraries that are
 We will be using the following in our tutorial:
 
 * **dnSpy** to look at Beat Saber's code for what we need.
-* **ModPrefs** to store and retrieve some configuration options.
+* **Beat Saber Util** to store and retrieve some configuration options. *(You can also use **ModPrefs** if you wish)*
 * **CustomUI** to create a simple Modifiers page that will change these options in-game.
 
 # I. The Basics
 ## Config.cs
-Before we do anything else, lets start the tutorial by creating a new file. This will house our variables that we will, later in the tutorial, use ModPrefs to save and read from a file.
+Before we do anything else, lets start the tutorial by creating a new `Config.cs` file. This will house our variables that we will, later in the tutorial, use to save and read from a file.
 
 ![Config](/uploads/modding-example-v-2/02-configcreate.png "Config")
 
-We should now have an empty class. Let's create variables, and give them some temporary values for now.
+We should now have an empty class. Let's create variables, and give them some temporary values for now. Later in the tutorial, we will replace these with `get` and `set` accessors that'll tie in to ModPrefs.
 
 Just as a side note, each variable will have the `public static` keywords added on to them.
+
+![Variables](/uploads/modding-example-v-2/03-variables.png "Variables")
 
 | Variable | Description |
 |-|-|
@@ -60,5 +62,32 @@ Just as a side note, each variable will have the `public static` keywords added 
 |**displaySeparate**|Toggles the average bonus score for each left/right saber separately.|
 |**decimalPrecision**|What decimal place our average will round to.|
 
-![Variables](/uploads/modding-example-v-2/03-variables.png "Variables")
+With our new class in place, we can easily access different options in our plugin with the Config class, without having to create a new instance of it.
+
+## AccuracyLists.cs
+>If you are having trouble inheriting `MonoBehaviour`, add `using UnityEngine;` to the top of your file.
+{.is-warning}
+
+You thought you were done with creating files? Nope! We will create one more before we actually edit `Plugin.cs`. This new file, which I will call `AccuracyLists.cs`, will house the lists of bonus accuracy points for both the left and the right sabers.
+
+Because we will be using this during a song, it'll inherit `MonoBehaviour`.
+
+![04 Accuracylists](/uploads/modding-example-v-2/04-accuracylists.png "04 Accuracylists")
+
+## What's Next?
+So now we need to find a way to get the slice accuracy bonus from each note cut. We're going to have to find some sort of function or event that can help us not only by grabbing the score, but separating the points we obtain from the slice accuracy bonus.
+
+Thankfully, there is a tool used heavily by Modders that will allow us to obtain just this.
+
+## dnSpy To the Rescue!
+>If you do not have dnSpy installed, please refer to our [brand spanking new Extras page to find out how to install dnSpy and decompile Beat Saber's code.](https://wiki.assistant.moe/modding/extras#dn-spy)
+{.is-warning}
+
+*dnSpy* is a useful program that allows us to view the decompiled code for Beat Saber! We can easily find what functions and variables to use when it's actually readable!
+
+Let's select our opened `Assembly-CSharp` file and open the dropdowns until we reach an empty namespace (`{}`), then drop down that namespace.
+
+![dnSpy Example](/uploads/modding/dnspy-example.png "dnSpy Example")
+
+Hmm. That's a *lot* of classes. We're going to have to narrow down what we're looking for. Because what we are looking for is related to score, and plus it would have to be when a note is cut, my first guess will be to look in the `ScoreController` class. It'll be a little ways down, but it should have what we need.
 
