@@ -60,4 +60,5 @@ Just as a side note, each variable will have the `public static` keywords added 
 |**displaySeparate**|Toggles the average bonus score for each left/right saber separately.|
 |**decimalPrecision**|What decimal place our average will round to.|
 
+![Variables](/uploads/modding-example-v-2/03-variables.png "Variables")
 
