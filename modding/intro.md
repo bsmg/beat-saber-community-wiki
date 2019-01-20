@@ -16,7 +16,7 @@ However, if you wish to go more barebones, here is the older [Beat Saber Plugin 
 # Template setup
 Install Instructions:
 1. Open C:\Users\\<Username\>\Documents\Visual Studio 2017\Templates\ProjectTemplates.
-2. Drop in `beat-saber-plugin-template.zip`
+2. Drop in `beat-saber-plugin-template.zip`.  You do not need to extract the contents here, dropping the zipped file will work.
 
 After you have place the zip file in the correct directory, open Visual Studio 2017 and create a new project.
 You should see the Beat Saber Plugin Template in the Visual C# section.
