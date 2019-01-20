@@ -5,7 +5,7 @@
 Check out our [beginner's guide](beginners-guide)!
 
 ## More Songs
-If you don't like using beatsaver to find songs, here are some other tools to help you out!
+If you don't like using [beatsaver](https://www.beatsaver.com) to find songs, here are some other tools to help you out!
 
 ### Beast Saber
 [Beast Saber](https://www.bsaber.com) is a review site that aims to curate all of the songs on Beat Saver! You can also download playlists, follow mappers, find songs using advanced sorting methods and more. Created by elliotttate.
