@@ -120,6 +120,10 @@ You might know them for their spectacular platforms, or for more refined individ
 He'll teach you to fix your plugins and your terribly off-beat first map. We've all been there.
 **Roles:** Support, Mapper
 
+## Razor
+Literally no clue what he's doing when it comes to coding, at all, but he can fix ploogin.
+**Roles:** Support
+
 ## Steven
 Schrödinger's Support - whether he has the fancy colors or not, he's always around to lend a helping hand. Smash Bros fanatic.
 **Roles:** Support
