@@ -8,6 +8,38 @@ Here are programs and libraries that allow you to go more advanced with your plu
 
 >This is heavily unfinished! If you wish to cover a library, or an aspect of modding, please DM me on Discord `Caeden117#0117` and let me know what to add.
 {.is-danger}
+
+# Advanced Building
+If you find yourself tired of having to copy your finished builds from deep inside your project folder to the Plugins folder of your Beat Saber install, this will help you minimize the hassle needed by only just needing to Build your project, and open Beat Saber to test.
+## Symlinks
+
+A `symlink` is something that tells Windows that one file is actually linking to another directory. This is useful if you want a folder on your Desktop that goes straight to your Beat Saber directory when you open it, or in our case, have a symlink from our plugin in our Plugins folder to the latest builds in our build directory.
+
+>If any directory has spaces (Example: `cd C:\Users\Test\Hello World`), encase the path in quotations: `cd "C:\Users\Test\Hello World"`
+{.is-warning}
+
+1. Open Command Prompt as Administrator.
+2. Make sure you do not have your plugin inside your Plugins folder.
+3. Have Command Prompt point to your Beat Saber Plugins folder (`cd <Beat Saber Directory>/Plugins`)
+4. Execute the following command: `mklink <Plugin Name>.dll, <Path to your build file>`
+
+Here's an example of the `mklink` command: `mklink ExampleMod.dll, C:\Users\You\Documents\Visual Studio 2017\Projects\ExampleMod\ExampleMod\bin\Debug\ExampleMod.dll`
+
+If all is done correctly, the next time you build your plugin and launch Beat Saber, the plugins should update automatically.
+
+## Post-Build Events
+Another way to go about this is taking advantage of C#'s post-build events. This not only allows you to copy files to a directory when build is complete, but you can also do a lot more. [Here is some documentation on pre- and post-build events](https://docs.microsoft.com/en-us/visualstudio/ide/how-to-specify-build-events-csharp?view=vs-2017)
+
+1. Under `Project`, click `<Project Name> Properties...`
+2. Click `Build Events`
+3. Copy and paste the following code into the Post-build event command line: `copy /Y "$(TargetPath)" "<Path to Beat Saber Plugins folder (Including the file name and extension)>"`
+4. Save and exit.
+
+Here's an example of the post-build command: `copy /Y "$(TargetPath)" "D:\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\Plugins\ExampleMod.dll"`
+
+`$(TargetPath)` specifies the location of the file you are building, no matter where it's being built from.
+
+If all is done correctly, the next time you build your plugin, a copy will be automatically sent to your Plugins folder (Automatically overwriting any previous version), and Beat Saber is ready to play.
 # dnSpy
 dnSpy is a .NET debugger and assembly editor that allows you to import compiled `.dll`s and view them decompiled into C#.
 In the case of modding, we can use dnSpy to view the source code of Beat Saber and find methods and variables that would be handy to have for some plugins.
