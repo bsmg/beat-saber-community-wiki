@@ -6,7 +6,13 @@ Beat Saber is made in Unity 2018 using C# with .NET framework 4.6.
 For convenience, RQ has created a plugin template for Visual Studio. This guide will show you how to setup that template.
 
 Download the latest version of [Visual Studio Community.](https://visualstudio.microsoft.com/)
-Download the [Beat Saber Plugin Template](/uploads/modding/beat-saber-plugin-template.zip "Beat Saber Plugin Template") by RQ.
+
+There are multiple templates that you can choose to install.
+
+The new [BS Plugin Template](https://github.com/Kylemc1413/BS-Plugin-Template/releases/download/0.0.1/BS.Plugin.Template.zip) by Kyle1413 includes more options to guide you, as well as a basic use case of CustomUI. We will be using this for the Mod Tutorial.
+
+However, if you wish to go more barebones, here is the older [Beat Saber Plugin Template](/uploads/modding/beat-saber-plugin-template.zip "Beat Saber Plugin Template") by RQ.
+
 # Template setup
 Install Instructions:
 1. Open C:\Users\\<Username\>\Documents\Visual Studio 2017\Templates\ProjectTemplates.
@@ -17,7 +23,7 @@ You should see the Beat Saber Plugin Template in the Visual C# section.
 Create a new project using the template.
 ![Modding Plugin Template](/uploads/modding/modding-plugin-template.png "Modding Plugin Template")
 
-The default assembly name is `UnnamedAssembly`
+The default assembly name is `UnnamedAssembly` (Or `NewPlugin` depending on the template you downloaded).
 To rename the assembly:
 1. In the Solution Explorer panel, double click on Properties.
 
@@ -48,6 +54,13 @@ Most of these files will be located within `\<Beat Saber directory>\Beat Saber_D
 ![Finding References](/uploads/modding/dnspy-assembly.png "Finding References")
 
 ![References Windows](/uploads/modding-example/plugin-addreferences.png "References Windows")
+
+Some Libraries are located in the Plugins folder as well. Check there for any libraries you forgot to add.
+
+The most popular libraries located in the Plugins folder include:
+* Async Twitch
+* Beat Saber Utils
+* CustomUI
 
 **Can't find your Beat Saber directory?** See [install folder](/faq/install-folder).
 
