@@ -23,7 +23,9 @@ Plugin in question: Counter of the average accuracy of slices *(The extra 10 poi
 
 Before we begin, we'll assume you've followed the [template setup guide](https://wiki.assistant.moe/modding/intro) to create the project and add the necessary references.
 
-![Beginnings](/uploads/modding-example-v-2/00-beginnings.png "Beginnings")
+We will be using Kyle1413's template for thise tutorial, [which you can grab here.](https://github.com/Kylemc1413/BS-Plugin-Template/releases/download/0.0.1/BS.Plugin.Template.zip)
+
+![00 Kyletemplate](/uploads/modding-example-v-2/00-kyletemplate.png "00 Kyletemplate")
 
 ## Our Plugin
 
@@ -127,3 +129,5 @@ Through my own experience, and from the advice of other Modders, it is unwise to
 With our ScoreController variable in hand, we can add to the `noteWasCutEvent` and pass in a new void function that has the three required parameters. Here, we can use the static `ScoreController.ScoreWithoutMultiplier()` variable to grab our cut distance score. Because it outputs two unneeded variables, we can assign them to two filler variables.
 
 Now we need to filter out bombs and bad cuts, and then add to the according `List<int>` we created *way* in the beginning based on the note type.
+
+![09 Notecut](/uploads/modding-example-v-2/09-notecut.png "09 Notecut")
