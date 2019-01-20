@@ -45,6 +45,10 @@ To do this, right click on `References` in the Solution Explorer, and select `Ad
 This will open the Reference Manager window, and you can browse to find the DLL files that are missing.
 Most of these files will be located within `\<Beat Saber directory>\Beat Saber_Data\Managed`
 
+![References Windows](/uploads/modding-example/plugin-addreferences.png "References Windows")
+
+![Finding References](/uploads/modding/dnspy-assembly.png "Finding References")
+
 **Can't find your Beat Saber directory?** See [install folder](/faq/install-folder).
 
 # Compiling the plugin
