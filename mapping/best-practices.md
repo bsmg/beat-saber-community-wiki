@@ -3,7 +3,7 @@
 
 # Best Practices for Block Placement
 
-This guide is intended to comprise of common mistakes seen in custom maps, and will be updated continuously. To get started with custom beatmaps, visit [mapping reference](mapping). If you have any questions or comments about this guide, feel free to DM me on Discord @Awfulnaut.
+This guide is intended to comprise of common mistakes seen in custom maps, and will be updated continuously. To get started with custom beatmaps, visit [mapping reference](../mapping). If you have any questions or comments about this guide, feel free to DM me on Discord @Awfulnaut.
 
 **GOLDEN RULE:** Rigorously playtest your chart before publishing to [beatsaver](https://beatsaver.com/)! Get feedback from other players and mappers! Just because it feels right to you doesn’t mean it plays well for others. If other people say it doesn’t feel right, listen to their advice and make tweaks. DO NOT SKIP THIS STEP!
 
