@@ -3,7 +3,7 @@
 
 # Getting Started
 * [Beginner's Guide](beginners-guide)
-* [Tips](grips-and-tricks)
+* [Grips And Tricks](grips-and-tricks)
 
 # Looking to Make Your Own Stuff?
 * [Modder's Guide](modding)
