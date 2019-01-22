@@ -96,11 +96,7 @@ https://clips.twitch.tv/HealthyBillowingWitchRaccAttack
 Disable the in-song HUD in your headset or on the mirror.
 [Release and Usage](https://www.modsaber.org/mod/immersivemode/)
 
----
-
-**Immersive Mode** by bigfoot
-Disable the in-song HUD in your headset or on the mirror.
-[Release and Usage](https://www.modsaber.org/mod/immersivemode/)
+Note: There is now an option in the base game to disable the UI (as of Beat Saber v0.12.0)
 
 ---
 
