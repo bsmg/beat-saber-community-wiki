@@ -61,9 +61,9 @@ Allows you to change the platform you stand on in the game.
 
 ---
 
-**Custom Colors** by Ruirize
+**Custom Colors** by kyle1413
 Allows you to change the default red-blue color schema to anything you want.
-[Release and Usage](https://www.modsaber.org/mod/customcolors)
+[Release and Usage](https://www.modsaber.org/mod/custom-colors)
 
 ---
 
