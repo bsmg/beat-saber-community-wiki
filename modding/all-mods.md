@@ -273,7 +273,7 @@ Allows you to customize many UI and gameplay elements of the game.
 
 **Custom Menu Music** by andruzzzhka
 Changes the music that plays in the Beat Saber menu.
-[Release and Usage](https://www.modsaber.org/mod/custommenumusic)
+[Release and Usage](https://www.modsaber.org/mod/custom-menu-music)
 
 ---
 
