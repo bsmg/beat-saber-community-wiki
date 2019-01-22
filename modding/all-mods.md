@@ -4,6 +4,9 @@
 # Mods
 Many of these mods are available via the [ModSaber Installer](/beginners-guide#Modsaber-installer) and it is highly recommended to install them this way to avoid any mishaps. For the ones that aren't, refer to [FAQ](faq#how-do-i-load-other-plugins). Mods without a [Usage] link do not require or support any configuration.
 
+This list may be outdated. Make sure to check that the plugin is compatible with your version of the game before trying to install it.
+These days, most mods are posted to ModSaber, which shows the version compatibility.
+
 ## Core Plugins
 
 **Song Loader** by xyonico
@@ -242,6 +245,11 @@ For all you streamers out there who want song requests in your chat!
 
 ---
 
+**Enhanced Twitch Chat** by brian
+A rich text Twitch chat integration mod with full unicode, emote (including BetterTwitchTV and FrankerFaceZ), badge, and Emoji support.
+[Release and Usage](https://brian91292.github.io/BeatSaber-EnhancedTwitchChat//)
+---
+
 **Twitch Chat IRC** by RQ
 Display Twitch chat in-game, and allows you to send responses without taking your headset off.
 [Release and Usage](https://www.realitys.space/BeatSaber/Guides/TwitchChat/)
@@ -251,13 +259,6 @@ Display Twitch chat in-game, and allows you to send responses without taking you
 **Multi-View** by RQ
 Adds a smaller first-person "window" on top of the desktop camera to let you record both first and third person perspectives with CameraPlus.
 [Release and Usage](https://www.realitys.space/BeatSaber/Guides/MultiView/)
-
----
-
-**Enhanced Twitch Chat** by brian
-A rich text Twitch chat integration mod with full unicode, emote (including BetterTwitchTV and FrankerFaceZ), badge, and Emoji support.
-[Release and Usage](https://brian91292.github.io/BeatSaber-EnhancedTwitchChat//)
-
 
 ## Other Plugins
 
