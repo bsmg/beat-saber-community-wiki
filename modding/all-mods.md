@@ -112,9 +112,9 @@ Removes the "MISS" text when you miss a note on Beat Saber.
 
 ---
 
-**Simplest Rainbow Mod** by RQ
+**Simplest Rainbow Mod** originally by RQ, updated by oshi
 Randomizes the colors of the background lights.
-[Release](https://www.modsaber.org/mod/simplestrainbowmod)
+[Release](https://www.modsaber.org/mod/simplest-rainbow-mod)
 
 ---
 
@@ -162,7 +162,7 @@ Displays how well you hit various notes within a range.
 
 ---
 
-**Practice Plugin** by xyonico
+**Practice Plugin** by xyonico, updated by kyle1413
 Change the speed of the song in no-fail mode, and set a loop to practice.
 [Release](https://www.modsaber.org/mod/practice-plugin)
 
