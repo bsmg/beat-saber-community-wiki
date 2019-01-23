@@ -53,5 +53,8 @@ Steps:
 
 This can apply to oculus sensors too.
 
+# Touch Controller Battery Disconnect
+The force of your swings in Beat Saber can cause the spring in the touch controllers to compress and disconnect the battery for a brief moment. This is what happens when you see your saber lose positional tracking but still rotate in place. To alleviate this, ragesaq recommends adding extra springs inside the battery compartment to decrease the likelihood of battery disconnects happening, explained in this [reddit post](https://www.reddit.com/r/oculus/comments/a2h7o4/psa_adding_an_additional_spring_to_the_battery/?st=JR9Q7OEZ&sh=a7a3d091)
+
 # Also Consider
 ![Allow Adequate Room Around You During Game Play Put On 27689465](/uploads/allow-adequate-room-around-you-during-game-play-put-on-27689465.png "Allow Adequate Room Around You During Game Play Put On 27689465")
