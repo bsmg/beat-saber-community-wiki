@@ -11,9 +11,9 @@ Tino is a top 10 player in Canada who kindly wrote a very detailed guide coverin
 
 # Wrist Care
 ## Weights?
-Generally, we **do not recommend** using weights for this game. Beat Saber is already a workout and people hurt themselves all the time without weights. 
+Generally, we **do not recommend** using weights for this game. Beat Saber is already a workout and people hurt themselves all the time without weights. You're basically subjecting your wrists to constant whiplash, and adding weights is only going to make things worse.
 
-However, if you insist on using weights then at least check out [this guide](https://www.vrfitnessinsider.com/beat-saber-weighted-gear/) by VR Fitness Insider.
+However, if you insist on using weights then at least check out [this guide](https://www.vrfitnessinsider.com/beat-saber-weighted-gear/) by VR Fitness Insider to minimize the risk of injury.
 
 ## OrangeW's Guide to Wrist Care
 OrangeW is a top 10 player on the global leaderboards as well as a member of the BSMG Staff team. The following is his advice for minimizing the risk of wrist injury at any level of play.
