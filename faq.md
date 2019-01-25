@@ -4,7 +4,7 @@
 ## I just got the game, how do I get started?
 Check out our [beginner's guide](beginners-guide)!
 
-## More Songs
+## How do I get more songs?
 If you don't like using [beatsaver](https://www.beatsaver.com) to find songs, here are some other tools to help you out!
 
 ### Beast Saber
@@ -20,6 +20,10 @@ An [external search engine](http://bootleg-beatsaver.com/) that enables more adv
 Another [external search engine](https://beatsaber-songs.herokuapp.com/) with more advanced searching functionality to help you find songs on BeatSaver, by rorekk.
 
 We also have a dedicated channel on the Modding Group Discord: [`#finished-maps`](https://discordapp.com/channels/441805394323439646/442342190060929055/)
+
+## How do I make a beatmap?
+
+See [mapping](../mapping).
 
 ## How do I load plugins that aren't in the Mod Installer?
 
