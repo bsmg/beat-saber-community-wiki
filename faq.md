@@ -23,7 +23,7 @@ We also have a dedicated channel on the Modding Group Discord: [`#finished-maps`
 
 ## How do I make a beatmap?
 
-See [mapping](../mapping).
+See [mapping](../mapping)!
 
 ## How do I load plugins that aren't in the Mod Installer?
 
