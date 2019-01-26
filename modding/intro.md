@@ -15,7 +15,7 @@ However, if you wish to go more barebones, here is the older [Beat Saber Plugin 
 
 # Template setup
 Install Instructions:
-1. Open C:\Users\\<Username\>\Documents\Visual Studio 2017\Templates\ProjectTemplates.
+1. Open C:\Users\You\Documents\Visual Studio 2017\Templates\ProjectTemplates.
 2. Drop in `beat-saber-plugin-template.zip`.  You do not need to extract the contents here, dropping the zipped file will work.
 
 After you have place the zip file in the correct directory, open Visual Studio 2017 and create a new project.
@@ -32,6 +32,19 @@ To rename the assembly:
 2. Change the text in the textbox Assembly name.
 
 ![Modding Plugin Properties](/uploads/modding/modding-plugin-properties.png "Modding Plugin Properties")
+
+# Changing copy directory
+
+If you are using Kyle1413's BS Template, it comes with a built in post-build event that attempts to copy your built file to:
+
+`C:\Program Files (x86)\Steam\steamapps\common\Beat Saber\Plugins`
+
+If your Beat Saber install is located here, no worries. If not, we need to change this.
+
+1. Under `Project`, click on `<Project Name> Properties...` at the very bottom of the dropdown.
+2. In the menu that pops up, click `Build Events`
+3. Replace the last directory in the Post-build event command line *(The directory should look like the one above)* with the directory to your Plugins folder.
+4. Save and exit that menu.
 
 # Check out the code
 
