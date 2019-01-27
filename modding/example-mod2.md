@@ -126,8 +126,44 @@ Since it will halt until our `ScoreController` is found, we do not need to worry
 Through my own experience, and from the advice of other Modders, it is unwise to grab, assign, or modify Unity objects *(Hint: Almost all of them inherit `MonoBehaviour`)* inside a separate thread. Attempting to do so will, however not consistently, crash the game. It is much better to use `IEnumerators` and Coroutines for handling Unity objects, and use Tasks and separate threads for those which do not.
 
 ## Note Cut Events
-With our ScoreController variable in hand, we can add to the `noteWasCutEvent` and pass in a new void function that has the three required parameters. Here, we can use the static `ScoreController.ScoreWithoutMultiplier()` variable to grab our cut distance score. Because it outputs two unneeded variables, we can assign them to two filler variables.
+With our ScoreController variable in hand, we can add to the `noteWasCutEvent` and pass in a new void function that has the three required parameters. Here, we can use the static `ScoreController.ScoreWithoutMultiplier()` variable to grab our cut distance score. Because it outputs two unneeded variables, we can assign them to two filler variables. Because we are not using an after cut swing rating, we can simply plug in `null` for that.
 
 Now we need to filter out bombs and bad cuts, and then add to the according `List<int>` we created *way* in the beginning based on the note type.
 
 ![09 Notecut](/uploads/modding-example-v-2/09-notecut.png "09 Notecut")
+
+## Back To Plugin
+For the next section of our tutorial, we will need to find a way to take our cut ratings from our `AccuracyLists` class and output them to a different class, that will then display the averages.
+
+Let's go back to `Plugin.cs`, and copy the two `List<int>` we created from `AccuracyLists` over to that class. We will be modifying the keywords from `private` to `public static`.
+
+***IMAGE***
+
+## OnDestroy
+>If you can't seem to access `Plugin.lSaberCut` or the other list, mark the `OnDestroy` void as `static`.
+{.is-warning}
+>If you can't seem to access `lSaberCut` or the other list from the static `OnDestroy` function, mark those as `static` as well.
+{.is-warning}
+
+Let's head back to our `AccuracyLists` class, and populate those lists with our data from in-game. We will be using the built in `OnDestroy` method to clear *(Incase there's already data)* and populate the two lists in `Plugin` with the two lists from this class.
+
+***IMAGE***
+
+## Transitions To Menu
+To access the Results screen *(Or in some cases, the Failed screen)*, we need to find when the game changes scenes from `Menu` to `GameCore`. Thankfully, the plugin template we are using already has detection for entering the `Menu` scene. Let's add on to that by checking to see if the game transitioned from `GameCore`.
+
+While we're here, we can also create the GameObject that will hold our `AccuracyLists` class, since thankfully the plugin template also checks to see if we're entering `GameCore`.
+
+***IMAGE***
+
+## ResultsViewer.cs
+>If you are having trouble using `TextMeshPro`, add `using TMPro;` at the top of your file, or add it as a reference if that doesn't work.
+{.is-warning}
+
+Let's create a new class called `ResultsViewer` and have it extend from `MonoBehaviour`. This class will display the results of our accuracy points when we exit from a level. We will be using a maximum of 3 TextMeshPros to help us display our data.
+
+We should create a helper class that creates these TextMeshPros for us, so we don't have to use repeated code. It'll return a `TextMeshPro`, and it will take in a `Vector3` for positioning, a  `List<int>` for our list data, and a `string` for a label.
+
+***IMAGE***
+
+## Creating a TextMeshPro
