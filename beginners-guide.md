@@ -48,10 +48,12 @@ There are a couple more resources to help you find songs over in the [FAQ](faq#m
 | Oculus | `\hyperbolic-magnetism-beat-saber\Plugins` | 
 
 # Where to go from here
+* [Grips and tricks](grips-and-tricks)
 * [Making beatmaps](mapping)
 * [Custom sabers](models/custom-sabers)
 * [Custom avatars](models/custom-avatars)
 * [Custom platforms](models/custom-platforms)
+* [Setup multiplayer](https://bs.assistant.moe/Multiplayer/)
 * [Making mods](modding)
 
 # Have questions?
