@@ -135,40 +135,23 @@ Through my own experience, and from the advice of other Modders, it is unwise to
 ## Note Cut Events
 With our ScoreController variable in hand, we can add to the `noteWasCutEvent` and pass in a new void function that has the three required parameters. Here, we can use the static `ScoreController.ScoreWithoutMultiplier()` variable to grab our cut distance score. Because it outputs two unneeded variables, we can assign them to two filler variables. Because we are not using an after cut swing rating, we can simply plug in `null` for that.
 
-Now we need to filter out bombs and bad cuts, and then add to the according `List<int>` we created *way* in the beginning based on the note type.
+Now we need to filter out bombs and bad cuts, and then add to the according `List<int>` we created in `Plugin.cs` based on the note type.
 
 ![09 Replacement](/uploads/modding-example-v-2/09-replacement.png "09 Replacement")
-
-## Back To Plugin
-For the next section of our tutorial, we will need to find a way to take our cut ratings from our `AccuracyLists` class and output them to a different class, that will then display the averages.
-
-Let's go back to `Plugin.cs`, and copy the two `List<int>` we created from `AccuracyLists` over to that class. We will be modifying the keywords from `private` to `public static`.
-
-***IMAGE***
-
-## OnDestroy
->If you can't seem to access `Plugin.lSaberCut` or the other list, mark the `OnDestroy` void as `static`.
-{.is-warning}
->If you can't seem to access `lSaberCut` or the other list from the static `OnDestroy` function, mark those as `static` as well.
-{.is-warning}
-
-Let's head back to our `AccuracyLists` class, and populate those lists with our data from in-game. We will be using the built in `OnDestroy` method to clear *(Incase there's already data)* and populate the two lists in `Plugin` with the two lists from this class.
-
-***IMAGE***
 
 ## Transitions To Menu
 To access the Results screen *(Or in some cases, the Failed screen)*, we need to find when the game changes scenes from `Menu` to `GameCore`. Thankfully, the plugin template we are using already has detection for entering the `Menu` scene. Let's add on to that by checking to see if the game transitioned from `GameCore`.
 
 While we're here, we can also create the GameObject that will hold our `AccuracyLists` class, since thankfully the plugin template also checks to see if we're entering `GameCore`.
 
-***IMAGE***
+![12 Transitions](/uploads/modding-example-v-2/12-transitions.png "12 Transitions")
 
 ## ResultsViewer.cs
 Let's create a new class called `ResultsViewer` and have it extend from `MonoBehaviour`. This class will display the results of our accuracy points when we exit from a level. We will be using a maximum of 3 TextMeshPros to help us display our data.
 
 We should create a helper class that creates these TextMeshPros for us, so we don't have to use repeated code. It will take in a `Vector3` for positioning, a  `List<int>` for our list data, and a `string` for a label.
 
-***IMAGE***
+![13 Resultsviewer](/uploads/modding-example-v-2/13-resultsviewer.png "13 Resultsviewer")
 
 ## Creating a TextMeshPro
 >If you are having trouble using `TextMeshPro`, add `using TMPro;` at the top of your file, or add it as a reference if that doesn't work.
@@ -176,10 +159,10 @@ We should create a helper class that creates these TextMeshPros for us, so we do
 
 In this function, let's create a local `TextMeshPro` variable, and attach a `TextMeshPro` to the local gameobject. We can set the `text` value using a sneaky trick. Using a `List<int>`s built in function, we can grab the average from the list, and pass it to `ToString()`. We can also pass in a formatter into `ToString()` and format it to 2 decimal places. Let's set the `fontSize` to 4, and the alignment to `TextAlignmentOptions.Center`. Finally, let's set the position of the TextMeshPro via its `rectTransform`, and set it to our `position` parameter.
 
-***IMAGE***
+![14 Textmeshproaverages](/uploads/modding-example-v-2/14-textmeshproaverages.png "14 Textmeshproaverages")
 
 But wait! Let's add a label using our `label` parameter. We will mainly be copy and pasting our previous code, but there will be some differences.
 
 Instead of adding the component to the base gameobject, let's create a new GameObject that will hold our viewer. The `text` will be the `label` parameter, and the `fontSize` will be 3. Let's parent this GameObject to the base gameobject, and set it's parent to the `viewer` TextMeshPro. We will finally set its `localPosition` a little bit above the actual `viewer`.
 
-***IMAGE***
+![15 Textmeshprolabel](/uploads/modding-example-v-2/15-textmeshprolabel.png "15 Textmeshprolabel")
