@@ -111,7 +111,9 @@ With our newfound knowledge from dnSpy, we can now actually start writing some c
 
 Unlike the previous mod example, we will not be creating a counter, so no `TextMeshPro`s will be used here.
 
-Let's create an `Awake` void. We'll grab our ScoreController in the next section.
+Let's create an `Awake` void. We'll clear the lists we created in `Plugin.cs` here, so they don't conflict with anything we've did in a previous level.
+
+We'll grab our ScoreController in the next section.
 
 ![07 Replacementlol](/uploads/modding-example-v-2/07-replacementlol.png "07 Replacementlol")
 
