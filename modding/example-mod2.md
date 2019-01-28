@@ -46,8 +46,13 @@ We will be using the following in our tutorial:
 * **CustomUI** to create a simple Modifiers page that will change these options in-game.
 
 # I. The Basics
+## Variables
+Let's start the tutorial by creating two `List<int>` variables, marking them as `public static`. These will store our Accuracy bonus points and then read off of them.
+
+![01 Pluginvariables](/uploads/modding-example-v-2/01-pluginvariables.png "01 Pluginvariables")
+
 ## Config.cs
-Before we do anything else, lets start the tutorial by creating a new `Config.cs` file. This will house our variables that we will, later in the tutorial, use to save and read from a file.
+Before we do anything else, lets create a new `Config.cs` file. This will house our variables that we will, later in the tutorial, use to save and read from a file.
 
 ![Config](/uploads/modding-example-v-2/02-configcreate.png "Config")
 
@@ -102,13 +107,13 @@ Here we are. We can see here we already have our way of grabbing note data whene
 *Ahhh*. Jackpot. This appears to be all of what we need to set up our `AccuracyLists` file. Let's head back to Visual Studio.
 
 ## Actually Writing Code
-With our newfound knowledge from dnSpy, we can now actually start writing some code. Let's create two `List<int>`s that'll house the `cutDistanceScore`s from the `ScoreController`. Let's also create our `ScoreController` reference that will be used.
+With our newfound knowledge from dnSpy, we can now actually start writing some code. Let's create our `ScoreController` reference that will be used to plug a method into `OnNoteCut`.
 
 Unlike the previous mod example, we will not be creating a counter, so no `TextMeshPro`s will be used here.
 
 Let's create an `Awake` void. We'll grab our ScoreController in the next section.
 
-![07 Writingcode](/uploads/modding-example-v-2/07-writingcode.png "07 Writingcode")
+![07 Replacementlol](/uploads/modding-example-v-2/07-replacementlol.png "07 Replacementlol")
 
 ## Grabbing the ScoreController
 >If you are having issues with `IEnumerator`, append `using System.Collections` to the top of your file.
@@ -120,7 +125,7 @@ Let me introduce you all to `WaitUntil(predicate)`! It stops a Coroutine until t
 
 Since it will halt until our `ScoreController` is found, we do not need to worry about our variable being `null`. We can safely assign it via Resources, and move on to a brand new `Init()` void. We will then start our coroutine in the `Awake()` function.
 
-![08 Grabbingscorecontroller](/uploads/modding-example-v-2/08-grabbingscorecontroller.png "08 Grabbingscorecontroller")
+![08 Replacement](/uploads/modding-example-v-2/08-replacement.png "08 Replacement")
 
 ### Regarding Tasks and Threading
 Through my own experience, and from the advice of other Modders, it is unwise to grab, assign, or modify Unity objects *(Hint: Almost all of them inherit `MonoBehaviour`)* inside a separate thread. Attempting to do so will, however not consistently, crash the game. It is much better to use `IEnumerators` and Coroutines for handling Unity objects, and use Tasks and separate threads for those which do not.
@@ -130,7 +135,7 @@ With our ScoreController variable in hand, we can add to the `noteWasCutEvent` a
 
 Now we need to filter out bombs and bad cuts, and then add to the according `List<int>` we created *way* in the beginning based on the note type.
 
-![09 Notecut](/uploads/modding-example-v-2/09-notecut.png "09 Notecut")
+![09 Replacement](/uploads/modding-example-v-2/09-replacement.png "09 Replacement")
 
 ## Back To Plugin
 For the next section of our tutorial, we will need to find a way to take our cut ratings from our `AccuracyLists` class and output them to a different class, that will then display the averages.
