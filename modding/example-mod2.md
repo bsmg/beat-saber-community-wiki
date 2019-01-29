@@ -181,7 +181,7 @@ We want our results to appear when the user fails or succeeds in a level, and no
 
 Let's grab this `ResultsViewController` using the same way we grabbed our `ScoreController` from earlier. We'll make an `IEnumerator` and include a `WaitUntil` statement which will halt our function until it finds a `ResultsViewController`. It's OK if the User exits to the main menu, however, since our code will stop forever at this line since it can never find a `ResultsViewController`. Once we've found it, we can simply assign it to a private `ResultsViewController` variable, and move on to an `Init` void.
 
-![16 Grabbingresultsviewcontroller](/uploads/modding-example-v-2/16-grabbingresultsviewcontroller.png "16 Grabbingresultsviewcontroller")
+![16 Replacement](/uploads/modding-example-v-2/16-replacement.png "16 Replacement")
 
 Our `Init` function is where we will finally create our results. Let's first check to see if our `ResultsViewController` is active. In case our `IEnumerator` from before found one while it wasn't supposed to, we can easily check if it's actually enabled.
 
