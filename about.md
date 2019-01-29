@@ -125,6 +125,7 @@ You might know them for their spectacular platforms, or for more refined individ
 ## Kolezan
 He'll teach you to fix your plugins and your terribly off-beat first map. We've all been there.
 **Roles:** Support, Mapper
+[Twitch](https://www.twitch.tv/kolezan)
 
 ## Razor
 Literally no clue what he's doing when it comes to coding, at all, but he can fix ploogin.
@@ -134,7 +135,7 @@ Literally no clue what he's doing when it comes to coding, at all, but he can fi
 ## Steven
 Schrödinger's Support - whether he has the fancy colors or not, he's always around to lend a helping hand. Smash Bros fanatic.
 **Roles:** Support
-[Donate](https://streamlabs.com/steventhecat)
+[Twitch](https://www.twitch.tv/steventhecat) | [Donate](https://streamlabs.com/steventhecat)
 
 >See Also
 **Modders:** [Kyle1413](#Kyle1413)
