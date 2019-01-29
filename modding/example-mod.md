@@ -273,7 +273,7 @@ Saber leftSaver = pc.GetPrivateField<Saber>("_leftSaber");
 Illusion Plugin Architecture plugins automatically include a form of saving and loading user content, called `ModPrefs`.
 
 ModPrefs are saved in `/<Beat Saber Directory>/UserData/modprefs.ini`. Setting and getting preferences are now as easy as:
-```js
+```csharp
 //Sets the string in section "section" with name "name" with the value "value".
 //You can also use SetInt, SetFloat, SetBool, etc.
 ModPrefs.SetString(section, name, value);
