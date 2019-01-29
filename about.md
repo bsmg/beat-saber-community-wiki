@@ -115,7 +115,7 @@ One of the first supports and leader of the Steven fan club.
 ## 𝔅𝔯3𝔲𝔨𝔢𝔯 🎀 𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯#0001
 Poi!
 **Roles:** 3D Artist, Support
-[Twitch](https://www.twitch.tv/br3uker)
+[Twitch](https://www.twitch.tv/br3uker) | *donation link cannot be posted due to german law details, PM them on discord if you'd like to contribute*
 
 ## Emma
 You might know them for their spectacular platforms, or for more refined individuals: yeet sabers.
