@@ -149,6 +149,8 @@ While we're here, we can also create the GameObject that will hold our `Accuracy
 ## ResultsViewer.cs
 Let's create a new class called `ResultsViewer` and have it extend from `MonoBehaviour`. This class will display the results of our accuracy points when we exit from a level. We will be using a maximum of 3 TextMeshPros to help us display our data.
 
+Let's also createa  `List<GameObject>` variable that will hold each `GameObject` we create for viewing results, so we can mass delete them later.
+
 We should create a helper class that creates these TextMeshPros for us, so we don't have to use repeated code. It will take in a `Vector3` for positioning, a  `List<int>` for our list data, and a `string` for a label.
 
 ![13 Resultsviewer](/uploads/modding-example-v-2/13-resultsviewer.png "13 Resultsviewer")
@@ -157,12 +159,22 @@ We should create a helper class that creates these TextMeshPros for us, so we do
 >If you are having trouble using `TextMeshPro`, add `using TMPro;` at the top of your file, or add it as a reference if that doesn't work.
 {.is-warning}
 
-In this function, let's create a local `TextMeshPro` variable, and attach a `TextMeshPro` to the local gameobject. We can set the `text` value using a sneaky trick. Using a `List<int>`s built in function, we can grab the average from the list, and pass it to `ToString()`. We can also pass in a formatter into `ToString()` and format it to 2 decimal places. Let's set the `fontSize` to 4, and the alignment to `TextAlignmentOptions.Center`. Finally, let's set the position of the TextMeshPro via its `rectTransform`, and set it to our `position` parameter.
+In this function, let's create a new `GameObject` variable and a new `TextMeshPro` variable, and attach the TextMeshPro to our GameObject. We can set the `text` value using a sneaky trick. Using a `List<int>`s built in function, we can grab the average from the list, and pass it to `ToString()`. We can also pass in a formatter into `ToString()` and format it to 2 decimal places. Let's set the `fontSize` to3 and the alignment to `TextAlignmentOptions.Center`. Finally, let's set the position of the TextMeshPro via its `rectTransform`, and set it to our `position` parameter.
 
 ![14 Textmeshproaverages](/uploads/modding-example-v-2/14-textmeshproaverages.png "14 Textmeshproaverages")
 
 But wait! Let's add a label using our `label` parameter. We will mainly be copy and pasting our previous code, but there will be some differences.
 
-Instead of adding the component to the base gameobject, let's create a new GameObject that will hold our viewer. The `text` will be the `label` parameter, and the `fontSize` will be 3. Let's parent this GameObject to the base gameobject, and set it's parent to the `viewer` TextMeshPro. We will finally set its `localPosition` a little bit above the actual `viewer`.
+Instead of adding the component to the base gameobject, let's create a new GameObject that will hold our viewer. The `text` will be the `label` parameter, and the `fontSize` will be 2. Let's parent this TextMeshPro to the `viewer` TextMeshPro. We will finally set its `localPosition` a little bit above the actual `viewer`.
 
 ![15 Textmeshprolabel](/uploads/modding-example-v-2/15-textmeshprolabel.png "15 Textmeshprolabel")
+
+## Grabbing ResultsViewController
+>If you are having trouble using `IEnumerator`, add `using System.Collections;` to the top of your file.
+{.is-warning}
+
+We want our results to appear when the user fails or succeeds in a level, and not when they exit to the main menu. This would mean some sort of results screen will have to be present. Just like that, a `ResultsViewController` exists in Beat Saber that displays information on whether or not you have succeeded and failed, along with the map information. We can easily spawn in our own results when this `ResultsViewController` is spawned, and then delete our results when the user presses `OK` or `Restart`.
+
+Let's grab this `ResultsViewController` using the same way we grabbed our `ScoreController` from earlier. We'll make an `IEnumerator` and include a `WaitUntil` statement which will halt our function until it finds a `ResultsViewController`. It's OK if the User exits to the main menu, however, since our code will stop forever at this line since it can never find a `ResultsViewController`. Once we've found it, we can simply assign it to a private `ResultsViewController` variable, and move on to an `Init` void.
+
+***IMAGE***
