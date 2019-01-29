@@ -198,3 +198,39 @@ Instead of having you figure out where to put these things, I've went ahead and 
 Let's attach `ResultsViewController`'s two events into one void. The `continueButtonPressedEvent` and `restartButtonPressedEvent` will be fired when the respective buttons have been pressed. Let's add one `Continue` void to each of these. In our `Continue` void, we can simply loop through each GameObject in our `List<GameObject>` and call `Destroy()` on them.
 
 ![18 Resultsevents](/uploads/modding-example-v-2/18-resultsevents.png "18 Resultsevents")
+
+Before we forget, lets head back to `Plugin.cs` one final time. Let's be sure to create our GameObject and attach our `ResultsViewer` class when we enter `Menu` from the `GameCore` scene.
+
+![19 Addingtotransition](/uploads/modding-example-v-2/19-addingtotransition.png "19 Addingtotransition")
+
+# II. Saving/Loading Config
+
+We've just made a plugin. Wahoo! We're not done yet. An important part of any plugin is configuration. To achieve this, plugins need to be able to save and load settings to and from a file. Since our plugin currently doesn't do that, this section will be dedicated to getting that all set up and working using the `Beat Saber Utils` library.
+
+We will be spending 100% of our time in the `Config.cs` class for this section.
+
+## Creating a Config object
+>If you are having trouble accessing `BS_Utils.Utilities.Config`, add it as a reference, and/or add `using BS_Utils.Utilities` to the top of your file.
+{.is-warning}
+
+Let's start by creating our Config object for saving/loading to a file. Let's pass in the name of our mod into the constructor, which will generate a file over in `<Beat Saber>/UserData`.
+
+![20 Bsutilsconfig](/uploads/modding-example-v-2/20-bsutilsconfig.png "20 Bsutilsconfig")
+
+### Why not add a reference to the top of our file?
+Because we named our class `Config`, and `BS_Utils` also calls their object `Config`, C# will not understand the difference between them. If you named this class differently, you can definitely put `using BS_Utils.Utilities;` at the top of the file and reference `Config` as usual. But for now, we have to use the long way around.
+
+## ModPrefs VS Beat Saber Utils
+Illusion Plugin Architecture has a included config system called `ModPrefs`. It is a common way for mods to save and load, without having to create a new Object to do so. So why are we using Beat Saber Utils? To put stuff in a separate file.
+
+If you wish to use `ModPrefs` instead of `BS_Utils` for this section, feel free. Be sure to include `using IllusionPlugin;` at the top of your file, though.
+
+If you are undecisive, here is a list of instances where you should use `ModPrefs` over `Beat Saber Utils`, and vice versa.
+
+### Use Beat Saber Utils when:
+* You currently have, or plan on adding, a lot of configurable variables
+* You want a separate file all for your own plugin.
+
+### Use ModPrefs when:
+* You do not have many configurable variables
+* You dont mind sharing the same file with a lot of other mods.
