@@ -120,6 +120,7 @@ Poi!
 ## Emma
 You might know them for their spectacular platforms, or for more refined individuals: yeet sabers.
 **Roles:** Support, 3D Artist
+[Twitch](https://www.twitch.tv/therealkleinba)
 
 ## Kolezan
 He'll teach you to fix your plugins and your terribly off-beat first map. We've all been there.
