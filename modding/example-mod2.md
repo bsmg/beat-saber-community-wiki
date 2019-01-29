@@ -10,7 +10,7 @@ We will be using Kyle1413's template for thise tutorial, [which you can grab her
 
 ![00 Kyletemplate](/uploads/modding-example-v-2/00-kyletemplate.png "00 Kyletemplate")
 
-## Our Plugin
+### Our Plugin
 
 The plugin we will be making will keep track of the average bonus accuracy points you can get in a swing.
 
