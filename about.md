@@ -115,7 +115,7 @@ One of the first supports and leader of the Steven fan club.
 ## 𝔅𝔯3𝔲𝔨𝔢𝔯 🎀 𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯#0001
 Poi!
 **Roles:** 3D Artist, Support
-
+[Twitch](https://www.twitch.tv/br3uker)
 
 ## Emma
 You might know them for their spectacular platforms, or for more refined individuals: yeet sabers.
@@ -128,6 +128,7 @@ He'll teach you to fix your plugins and your terribly off-beat first map. We've 
 ## Razor
 Literally no clue what he's doing when it comes to coding, at all, but he can fix ploogin.
 **Roles:** Support
+[Twitch](https://www.twitch.tv/sarpest_razor) | [Donate](https://streamelements.com/sarpest_razor/tip)
 
 ## Steven
 Schrödinger's Support - whether he has the fancy colors or not, he's always around to lend a helping hand. Smash Bros fanatic.
@@ -165,7 +166,7 @@ They've got some impressive shaders and they're not afraid to use them.
 **Roles:** 3D Artist
 
 >See Also
-**Support:** [Emma](#Emma)
+**Support:** [Emma](#Emma) | [ 𝔅𝔯3𝔲𝔨𝔢𝔯 🎀 𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯](# 𝔅𝔯3𝔲𝔨𝔢𝔯 🎀 𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯)
 **Staff:** [Assistant](#Assistant) | [Klouder](#Klouder)
 
 
