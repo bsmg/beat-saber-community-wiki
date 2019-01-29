@@ -277,7 +277,6 @@ ModPrefs are saved in `/<Beat Saber Directory>/UserData/modprefs.ini`. Setting a
 //You can also use SetInt, SetFloat, SetBool, etc.
 ModPrefs.SetString("Section Name", "Variable Name", "Variable to write");
 
-//Gets the string in section "section" with name "name".
 //Overwrites the value with the third parameter if the fourth parameter is set to "true".
 //You can also use GetInt, GetFloat, GetBool, etc.
 ModPrefs.GetString("Section Name", "Variable Name", "Default value", true);
