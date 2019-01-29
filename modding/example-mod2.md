@@ -67,7 +67,6 @@ Just as a side note, each variable will have the `public static` keywords added 
 |**enabled**|Controls whether or not our plugin will be active at the end of the song.|
 |**displayBoth**|Toggles the average bonus score for both sabers.|
 |**displaySeparate**|Toggles the average bonus score for each left/right saber separately.|
-|**decimalPrecision**|What decimal place our average will round to.|
 
 With our new class in place, we can easily access different options in our plugin with the Config class, without having to create a new instance of it.
 
