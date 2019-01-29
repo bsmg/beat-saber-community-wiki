@@ -203,6 +203,26 @@ Before we forget, lets head back to `Plugin.cs` one final time. Let's be sure to
 
 ![19 Addingtotransition](/uploads/modding-example-v-2/19-addingtotransition.png "19 Addingtotransition")
 
+## Building Our Plugin
+
+When your plugin is in a testable state (No errors, little warnings, everything's ready), go under `Build`, and click on `Build <Plugin Name>`. It is as easy as that! Now go to your `Output` window and it should tell you where your built file is located.
+
+![Plugin Buildlocation](/uploads/modding-example/plugin-buildlocation.png "Plugin Buildlocation")
+*(Screenshot taken from the previous Mod Tutorial.)*
+
+You can now go to that location and copy and paste the file to your Beat Saber installation.
+
+>Tired of copy and pasting every time you build? [Check out our brand spanking new Extras page and find out how to easily copy your built file to your Beat Saber directory.](https://wiki.assistant.moe/modding/extras#advanced-building)
+{.is-warning}
+
+## Congratulations!
+
+We've finished the basics for this plugin. If you were to start the game, and all goes correctly, you should see three averages appear when you complete or fail a song.
+
+![Result](/uploads/modding-example-v-2/result.png "Result")
+
+If something is wrong, try looking back and seeing if you missed anything.
+
 # II. Saving/Loading Config
 
 We've just made a plugin. Wahoo! We're not done yet. An important part of any plugin is configuration. To achieve this, plugins need to be able to save and load settings to and from a file. Since our plugin currently doesn't do that, this section will be dedicated to getting that all set up and working using the `Beat Saber Utils` library.
@@ -234,3 +254,49 @@ If you are undecisive, here is a list of instances where you should use `ModPref
 ### Use ModPrefs when:
 * You do not have many configurable variables
 * You dont mind sharing the same file with a lot of other mods.
+
+## Get/Set Accessors
+Let's get started with implementing our config saving/loading system of choice. Let's start with the `enabled` variable, and then copy and paste our way down.
+
+Replace everything past the name with two sets of curly brackets `{}`. Let's expand these out and add in `get{}` and `set{}` accessors.
+
+![21 Getset](/uploads/modding-example-v-2/21-getset.png "21 Getset")
+
+### What are these?
+Get/Set accessors are easy ways to call functions that either set, or return a value. You can also mark each accessor with a lower privacy keyword, such as `internal get;` or a `private set;`.
+
+### What's with the error?
+Our `get` accessor expects a `bool` to be returned. We have nothing in there, so nothing can be returned. Let's changed that by utilizing ModPrefs or Beat Saber Utils.
+
+## Getting Values
+No matter which system you are choosing, the functions are the same for the both of them. We will call the `GetBool` function and pass in our name, the name of the variable, its default value, and whether or not it should be overwritten in the `get` accessor.
+
+![22 Gettingvalues](/uploads/modding-example-v-2/22-gettingvalues.png "22 Gettingvalues")
+
+### Anatomy of a Get function
+GetBool, GetString, GetInt, GetFloat, etc. all have the same 4 parameters.
+
+1. The first parameter is the name of our section. For a separate file, it doesn't matter unless you are organizing variables. For ModPrefs, you should have at least one section with the name of your plugin.
+2. The second parameter is the name of the variable. It doesn't have to be exactly the same as the variable in code, it can be anything really.
+3. The third parameter is the default value to return, in case ModPrefs/BS_Utils cannot find what we're looking for.
+4. The final parameter is the auto saving parameter. If set to `true`, it'll write the default value to the location if it is not found.
+
+For the rest of this section, we will be using BS_Utils. Pick the system you will be using, and add the `return` keyword in front of it.
+
+## Setting Values
+Setting values are as easily as adding the `SetBool` function in the `set` accessor. The parameters are very similar to the `get` accessor, except there is no fourth paremeter, and we will be replacing the third parameter with the `value` keyword, which is a local variable that represents the value that is assigned to the variable. Also, no `return` statement necessary here.
+
+![23 Settingvalues](/uploads/modding-example-v-2/23-settingvalues.png "23 Settingvalues")
+
+And that's it! That is how we tie a simple variable to a config saving/loading system. We can easily copy over the code to our other Config variables, being sure to change the name of the second parameter to match what we're going to be using it for.
+
+![24 Settingall](/uploads/modding-example-v-2/24-settingall.png "24 Settingall")
+
+## Testing In-Game
+Let's test. Build the plugin and try out a song. When you've completed (Or failed) a song, open the `UserData` folder in Beat Saber. If you've used `Beat Saber Utils`, look for a file with the name of your plugin. If you've used `ModPrefs` look for and open `modprefs.ini`.
+
+![25 Configlocation](/uploads/modding-example-v-2/25-configlocation.png "25 Configlocation")
+
+Open the file up. Our settings have saved inside this file! Users can now simply change the values from `True` to `False` and have it apply in game.
+
+![26 Openedconfig](/uploads/modding-example-v-2/26-openedconfig.png "26 Openedconfig")
