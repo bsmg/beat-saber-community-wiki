@@ -60,7 +60,7 @@ We should now have an empty class. Let's create variables, and give them some te
 
 Just as a side note, each variable will have the `public static` keywords added on to them.
 
-![Variables](/uploads/modding-example-v-2/03-variables.png "Variables")
+![03 Replacement](/uploads/modding-example-v-2/03-replacement.png "03 Replacement")
 
 | Variable | Description |
 |-|-|
