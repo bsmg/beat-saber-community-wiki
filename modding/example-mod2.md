@@ -142,9 +142,11 @@ Now we need to filter out bombs and bad cuts, and then add to the according `Lis
 ## Transitions To Menu
 To access the Results screen *(Or in some cases, the Failed screen)*, we need to find when the game changes scenes from `Menu` to `GameCore`. Thankfully, the plugin template we are using already has detection for entering the `Menu` scene. Let's add on to that by checking to see if the game transitioned from `GameCore`.
 
+We can also implement our `Config.cs` class here, by checking to see if its `enabled` variable is false, and then return the function.
+
 While we're here, we can also create the GameObject that will hold our `AccuracyLists` class, since thankfully the plugin template also checks to see if we're entering `GameCore`.
 
-![12 Transitions](/uploads/modding-example-v-2/12-transitions.png "12 Transitions")
+![12 Replacement](/uploads/modding-example-v-2/12-replacement.png "12 Replacement")
 
 ## ResultsViewer.cs
 Let's create a new class called `ResultsViewer` and have it extend from `MonoBehaviour`. This class will display the results of our accuracy points when we exit from a level. We will be using a maximum of 3 TextMeshPros to help us display our data.
@@ -153,7 +155,7 @@ Let's also createa  `List<GameObject>` variable that will hold each `GameObject`
 
 We should create a helper class that creates these TextMeshPros for us, so we don't have to use repeated code. It will take in a `Vector3` for positioning, a  `List<int>` for our list data, and a `string` for a label.
 
-![13 Resultsviewer](/uploads/modding-example-v-2/13-resultsviewer.png "13 Resultsviewer")
+![13 Replacement](/uploads/modding-example-v-2/13-replacement.png "13 Replacement")
 
 ## Creating a TextMeshPro
 >If you are having trouble using `TextMeshPro`, add `using TMPro;` at the top of your file, or add it as a reference if that doesn't work.
@@ -161,13 +163,15 @@ We should create a helper class that creates these TextMeshPros for us, so we do
 
 In this function, let's create a new `GameObject` variable and a new `TextMeshPro` variable, and attach the TextMeshPro to our GameObject. We can set the `text` value using a sneaky trick. Using a `List<int>`s built in function, we can grab the average from the list, and pass it to `ToString()`. We can also pass in a formatter into `ToString()` and format it to 2 decimal places. Let's set the `fontSize` to3 and the alignment to `TextAlignmentOptions.Center`. Finally, let's set the position of the TextMeshPro via its `rectTransform`, and set it to our `position` parameter.
 
-![14 Textmeshproaverages](/uploads/modding-example-v-2/14-textmeshproaverages.png "14 Textmeshproaverages")
+![14 Replacement](/uploads/modding-example-v-2/14-replacement.png "14 Replacement")
 
 But wait! Let's add a label using our `label` parameter. We will mainly be copy and pasting our previous code, but there will be some differences.
 
-Instead of adding the component to the base gameobject, let's create a new GameObject that will hold our viewer. The `text` will be the `label` parameter, and the `fontSize` will be 2. Let's parent this TextMeshPro to the `viewer` TextMeshPro. We will finally set its `localPosition` a little bit above the actual `viewer`.
+Let's create a new GameObject that will hold our label. The `text` will be the `label` parameter, and the `fontSize` will be 2. Let's parent this TextMeshPro to the `viewer` TextMeshPro. We will finally set its `localPosition` a little bit above the actual `viewer`.
 
-![15 Textmeshprolabel](/uploads/modding-example-v-2/15-textmeshprolabel.png "15 Textmeshprolabel")
+Let's finally add the two GameObjects we created to the `List<GameObject>` we created a little while back.
+
+![15 Replacement](/uploads/modding-example-v-2/15-replacement.png "15 Replacement")
 
 ## Grabbing ResultsViewController
 >If you are having trouble using `IEnumerator`, add `using System.Collections;` to the top of your file.
@@ -177,4 +181,21 @@ We want our results to appear when the user fails or succeeds in a level, and no
 
 Let's grab this `ResultsViewController` using the same way we grabbed our `ScoreController` from earlier. We'll make an `IEnumerator` and include a `WaitUntil` statement which will halt our function until it finds a `ResultsViewController`. It's OK if the User exits to the main menu, however, since our code will stop forever at this line since it can never find a `ResultsViewController`. Once we've found it, we can simply assign it to a private `ResultsViewController` variable, and move on to an `Init` void.
 
-***IMAGE***
+![16 Grabbingresultsviewcontroller](/uploads/modding-example-v-2/16-grabbingresultsviewcontroller.png "16 Grabbingresultsviewcontroller")
+
+Our `Init` function is where we will finally create our results. Let's first check to see if our `ResultsViewController` is active. In case our `IEnumerator` from before found one while it wasn't supposed to, we can easily check if it's actually enabled.
+
+Remember the `Config.cs` class we made way back towards the beginning of the tutorial? We'll be using it here. We'll create two seperate conditions: One where `Config.displaySeparate` is on, and one where `Config.displayBoth` is on.
+
+If `Config.displaySeparate` is on, we'll call our `CreateViewer` helper function twice: One for `Plugin.lSaberCut`, and one for `Plugin.rSaberCut`.
+
+If `Config.displayBoth` is on, we'll create a new `List<int>` based off of any one of our lists, and then use the `AddRange` function to add in the other list, and then pass that in to one singular `CreateViewer` function.
+
+Instead of having you figure out where to put these things, I've went ahead and done the work for you.
+
+![17 Resultsinit](/uploads/modding-example-v-2/17-resultsinit.png "17 Resultsinit")
+## One Final Thing
+
+Let's attach `ResultsViewController`'s two events into one void. The `continueButtonPressedEvent` and `restartButtonPressedEvent` will be fired when the respective buttons have been pressed. Let's add one `Continue` void to each of these. In our `Continue` void, we can simply loop through each GameObject in our `List<GameObject>` and call `Destroy()` on them.
+
+![18 Resultsevents](/uploads/modding-example-v-2/18-resultsevents.png "18 Resultsevents")
