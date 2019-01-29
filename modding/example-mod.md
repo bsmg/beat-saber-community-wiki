@@ -274,14 +274,13 @@ Illusion Plugin Architecture plugins automatically include a form of saving and 
 
 ModPrefs are saved in `/<Beat Saber Directory>/UserData/modprefs.ini`. Setting and getting preferences are now as easy as:
 ```csharp
-//Sets the string in section "section" with name "name" with the value "value".
 //You can also use SetInt, SetFloat, SetBool, etc.
-ModPrefs.SetString(section, name, value);
+ModPrefs.SetString("Section Name", "Variable Name", "Variable to write");
 
 //Gets the string in section "section" with name "name".
-//Overwrites the value with "defaultValue" is "autosave" is set to "true".
+//Overwrites the value with the third parameter if the fourth parameter is set to "true".
 //You can also use GetInt, GetFloat, GetBool, etc.
-ModPrefs.GetString(section, name, defaultValue, autosave);
+ModPrefs.GetString("Section Name", "Variable Name", "Default value", true);
 ```
 
 ## CustomUI
