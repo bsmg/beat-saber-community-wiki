@@ -112,6 +112,11 @@ Created by Megalon, recreated by lolPants, and personified by Rolo!
 One of the first supports and leader of the Steven fan club.
 **Roles:** Support
 
+## 𝔅𝔯3𝔲𝔨𝔢𝔯 🎀 𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯#0001
+Poi!
+**Roles:** 3D Artist, Support
+
+
 ## Emma
 You might know them for their spectacular platforms, or for more refined individuals: yeet sabers.
 **Roles:** Support, 3D Artist
@@ -127,6 +132,7 @@ Literally no clue what he's doing when it comes to coding, at all, but he can fi
 ## Steven
 Schrödinger's Support - whether he has the fancy colors or not, he's always around to lend a helping hand. Smash Bros fanatic.
 **Roles:** Support
+[Donate](https://streamlabs.com/steventhecat)
 
 >See Also
 **Modders:** [Kyle1413](#Kyle1413)
@@ -141,10 +147,6 @@ Wrote the custom saber creation guide among other fantastic contributions.
 
 ## BeigeAnimal
 TODO:
-
-## 𝔅𝔯3𝔲𝔨𝔢𝔯 🎀 𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯#0001
-TODO:
-**Roles:** 3D Artist
 
 ## Derpy Hooves
 TODO:
