@@ -300,3 +300,45 @@ Let's test. Build the plugin and try out a song. When you've completed (Or faile
 Open the file up. Our settings have saved inside this file! Users can now simply change the values from `True` to `False` and have it apply in game.
 
 ![26 Openedconfig](/uploads/modding-example-v-2/26-openedconfig.png "26 Openedconfig")
+
+# III. CustomUI Toggles
+We've just added a way to save and load our settings to/from a file. Now, we actually need a way to edit those in-game. Thankfully, Kyle1413's template includes a basic setup for UI, so we'll be editing off of that.
+
+We will be using CustomUI to create a list of toggles for our settings in the `Modifiers` section while in game.
+
+## BasicUI.cs
+If you do not have `BasicUI.cs` in your project, go ahead and create it now, and add `using CustomUI.GameplaySettings;` to the top. If you can't do that, add CustomUI as a reference.
+
+Kyle1413's template already has what we want: `CreateGameplayOptionsUI`.
+
+![27 Kyletemplate](/uploads/modding-example-v-2/27-kyletemplate.png "27 Kyletemplate")
+
+We will be keeping a large amount of these the same, however lets change the filler text first. Go ahead and replace `Plugin Name` with your plugin's name, and the last string with the hint text when you hover over it.
+
+Let's also change the example Toggle option the template gives us. I'll remove all the comment clutter to make things more readable. We will not be having any Conflicts, so we can remove that line. Let's also change the name of the variable to better reflect the option we will be creating (Ctrl-R-R works great!). We can also change the filler text.
+
+Let's change the `GetValue` option to a variable in our `Config` class. I will be doing `enabled` first, so I would set it to `Config.enabled`.
+
+The `OnToggle` option updates every time the value is toggled. We can easily assign the `value` variable that is being passed in to the lamda expression back into `Config.enabled`, which will save it to our file
+
+![28 Changing](/uploads/modding-example-v-2/28-changing.png "28 Changing")
+
+## Copy and Paste
+From this point on, it will be as easy as copy and pasting, and changing any conflicting variable names and descriptions, for the rest of our functions in `Config.cs`.
+
+![29 Settingsall](/uploads/modding-example-v-2/29-settingsall.png "29 Settingsall")
+
+## On Scene Loaded
+The last thing we need to do is to change the built-in template code in the `SceneManager_sceneLoaded` function in `Plugin.cs`. If you aren't using Kyle1413's template, it's going to be easy to add these lines of code in.
+
+All we need to do is change `UI.BasicUI.CreateUI();` to `UI.BasicUI.CreateGameplayOptionsUI();`
+
+![30 Sceneloaded](/uploads/modding-example-v-2/30-sceneloaded.png "30 Sceneloaded")
+
+## Lets Test
+That should be it! Let's go into Beat Saber and head into a song list. From the left, you should see an arrow option that points down on the left half of the Modifiers menu. Click that, and you should be able to find the option for your mod.
+
+![31 Result](/uploads/modding-example-v-2/31-result.png "31 Result")
+*(Image courtesy of the [First Person Flying Camera](https://wiki.assistant.moe/modding#launch-args))*
+
+You should now be able to toggle any of those options, play a song, and have them effect how it plays out.
