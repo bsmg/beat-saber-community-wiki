@@ -324,4 +324,18 @@ That should be it! Let's go into Beat Saber and head into a song list. From the 
 ![31 Result](/uploads/modding-example-v-2/31-result.png "31 Result")
 *(Image courtesy of the [First Person Flying Camera](https://wiki.assistant.moe/modding#launch-args))*
 
-You should now be able to toggle any of those options, play a song, and have them effect how it plays out.
+You should now be able to toggle any of those options, play a song, and have them effect how it plays out. And that's it! You have added a custom submenu with custom toggles to your mod!
+
+# Epilouge
+If you've gone this far, congratulations! You have completed a mod worthy enough to be submitted to [ModSaber](https://www.modsaber.org/).
+
+I thank you for at least reading through my mod tutorial. And for those who have attempted, I thank you even more, even if you got yourself stuck on some steps.
+
+### Suggestions? Comments? Help?
+If you have anything you would want to add, change, or remove from this tutorial, contact me on Discord and we'll get it settled: `Caeden117#0117`.
+
+If you have a general question about modding, please check out `#mod-development` in the Beat Saber Modding Discord. Either me or another fellow modder will help answer.
+
+### Credits and Thanks
+* **Kyle1413** for the template, and for forwarding this suggestion to me.
+* **d4rkpl4y3r** for the original suggestion
