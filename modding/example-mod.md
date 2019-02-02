@@ -150,9 +150,13 @@ Let's finally add the two GameObjects we created to the `List<GameObject>` we cr
 
 We want our results to appear when the user fails or succeeds in a level, and not when they exit to the main menu. This would mean some sort of results screen will have to be present. Just like that, a `ResultsViewController` exists in Beat Saber that displays information on whether or not you have succeeded and failed, along with the map information. We can easily spawn in our own results when this `ResultsViewController` is spawned, and then delete our results when the user presses `OK` or `Restart`.
 
+Unlike grabbing our `ScoreController`, which is garaunteed to spawn when we enter a song, there is no garauntee our `ResultsViewController` will spawn. Why? You can leave via the Pause menu, completely bypassing the Results screen.
+
 Let's grab this `ResultsViewController` using the method from the previous mod tutorial. We'll make an `IEnumerator` and include a `while(true)` statement which will loop until it finds a `ResultsViewController`. With a `while(true)` loop, we can return a `WaitForSeconds`, and can have it loop much slower then every frame.
 
-Because there is a possibility the user might exit to the Main Menu via the Pause menu, we do not want to use a `WaitUntil` with `Resources`, since it'll keep running every frame, and not good for preformance. Once we've found it, we can simply assign it to a private `ResultsViewController` variable. We will also include a check to see if it's activated. We will then move on to an `Init` void.
+Because there is a possibility the user might exit to the Main Menu via the Pause menu, we do not want to use a `WaitUntil` with `Resources`, since it'll keep running every frame, and not good for preformance. To also save on preformance, we will create a local `tries` count, which will increase for every failed attempt.
+
+Once we've found it, we can simply assign it to a private `ResultsViewController` variable. We will also include a check to see if it's activated, and then break the loop. If more than 20 tries have been attempted, we will also break our `while(true)` loop. We will then move on to an `Init` void if less then 20 attempts were taken (After about 2 seconds).
 
 ![Grabbing ResultsViewController](/uploads/modding-example-v-2/16-replacement-two.png "Grabbing ResultsViewController")
 
