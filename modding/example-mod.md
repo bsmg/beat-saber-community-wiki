@@ -6,7 +6,7 @@
 
 Before we begin, we'll assume you've followed the [template setup guide](https://wiki.assistant.moe/modding/intro) to create the project and add the necessary references.
 
-We will be using Kyle1413's template for thise tutorial, [which you can grab here.](https://github.com/Kylemc1413/BS-Plugin-Template/releases/download/0.0.1/BS.Plugin.Template.zip)
+We will be using Kyle1413's template for this tutorial, [which you can grab here.](https://github.com/Kylemc1413/BS-Plugin-Template/releases/download/0.0.1/BS.Plugin.Template.zip)
 
 ![Kyle Template](/uploads/modding-example-v-2/00-kyletemplate.png "Kyle Template")
 ### Our Plugin
