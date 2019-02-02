@@ -97,7 +97,7 @@ To obtain our ScoreController, let's create an `IEnumerator` called `GrabRequire
 
 Let me introduce you all to `WaitUntil(predicate)`! It stops a Coroutine until the bool `predicate` is `true`. In our case, we'll see if Resources can load a ScoreController, and pass that as a lambda expression with no extra variables to pass into.
 
-Since it will halt until our `ScoreController` is found, we do not need to worry about our variable being `null`. We can safely assign it via Resources, and move on to a brand new `Init()` void. We will then start our coroutine in the `Awake()` function.
+Since it will keep going  until our `ScoreController` is found, we do not need to worry about our variable being `null`. We can safely assign it via Resources, and move on to a brand new `Init()` void. We will then start our coroutine in the `Awake()` function.
 
 ![Grabbing ScoreController](/uploads/modding-example-v-2/08-replacement.png "Grabbing ScoreController")
 
@@ -150,9 +150,11 @@ Let's finally add the two GameObjects we created to the `List<GameObject>` we cr
 
 We want our results to appear when the user fails or succeeds in a level, and not when they exit to the main menu. This would mean some sort of results screen will have to be present. Just like that, a `ResultsViewController` exists in Beat Saber that displays information on whether or not you have succeeded and failed, along with the map information. We can easily spawn in our own results when this `ResultsViewController` is spawned, and then delete our results when the user presses `OK` or `Restart`.
 
-Let's grab this `ResultsViewController` using the same way we grabbed our `ScoreController` from earlier. We'll make an `IEnumerator` and include a `WaitUntil` statement which will halt our function until it finds a `ResultsViewController`. It's OK if the User exits to the main menu, however, since our code will stop forever at this line since it can never find a `ResultsViewController`. Once we've found it, we can simply assign it to a private `ResultsViewController` variable. We will have one more `WaitUntil` statement, which will halt until our `ResultsViewController` variable is active. We can then move on to an `Init` void.
+Let's grab this `ResultsViewController` using the method from the previous mod tutorial. We'll make an `IEnumerator` and include a `while(true)` statement which will loop until it finds a `ResultsViewController`. With a `while(true)` loop, we can return a `WaitForSeconds`, and can have it loop much slower then every frame.
 
-![Grabbing ResultsViewController](/uploads/modding-example-v-2/16-replacement.png "Grabbing ResultsViewController")
+Because there is a possibility the user might exit to the Main Menu via the Pause menu, we do not want to use a `WaitUntil` with `Resources`, since it'll keep running every frame, and not good for preformance. Once we've found it, we can simply assign it to a private `ResultsViewController` variable. We will also include a check to see if it's activated. We will then move on to an `Init` void.
+
+![Grabbing ResultsViewController](/uploads/modding-example-v-2/16-replacement-two.png "Grabbing ResultsViewController")
 
 Our `Init` function is where we will finally create our results. Let's first check to see if our `ResultsViewController` is active. In case our `IEnumerator` from before found one while it wasn't supposed to, we can easily check if it's actually enabled.
 
@@ -311,3 +313,4 @@ If you have a general question about modding, please check out `#mod-development
 ### Credits and Thanks
 * **Kyle1413** for the template, and for forwarding this suggestion to me.
 * **d4rkpl4y3r** for the original suggestion
+* **Arti** for code help because I dont code goodly.
