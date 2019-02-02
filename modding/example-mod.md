@@ -158,7 +158,7 @@ Because there is a possibility the user might exit to the Main Menu via the Paus
 
 Once we've found it, we can simply assign it to a private `ResultsViewController` variable. We will also include a check to see if it's activated, and then break the loop. If more than 20 tries have been attempted, we will also break our `while(true)` loop. We will then move on to an `Init` void if less then 20 attempts were taken (After about 2 seconds).
 
-![Grabbing ResultsViewController](/uploads/modding-example-v-2/16-replacement-two.png "Grabbing ResultsViewController")
+![Grabbing ResultsViewController](/uploads/modding-example-v-2/16-replacement-three.png "Grabbing ResultsViewController")
 
 Our `Init` function is where we will finally create our results. Let's first check to see if our `ResultsViewController` is active. In case our `IEnumerator` from before found one while it wasn't supposed to, we can easily check if it's actually enabled.
 
