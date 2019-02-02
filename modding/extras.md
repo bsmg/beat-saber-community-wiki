@@ -79,7 +79,7 @@ This is used in conjuction with [dnSpy](/modding/extras#dnspy) to search for and
 Reflection Util is available in many mods, so [here is one from Beat Saber Utils](https://github.com/Kylemc1413/Beat-Saber-Utils/blob/master/Beat%20Saber%20Utils/Utilities/ReflectionUtil.cs)
 
 ## From Beat Saber Utils
-If you haven't already, add Beat Saber Utils as a reference to your project. *(Link real soon guys)*
+If you haven't already, [add Beat Saber Utils as a reference to your project.](https://wiki.assistant.moe/modding/intro#fixing-references)
 
 From there, add `using BS_Utils.Utilities;` to the top of your file.
 
@@ -89,9 +89,6 @@ Access it using `ReflectionUtil`.
 Create a new file called `ReflectionUtil.cs`
 Copy and paste the above code to the newly created file, making sure to replace `namespace BS_Utils.Utilities` with the name of your project.
 
-In other files, objects will now include a `GetPrivateField<T>(name)` and a `SetPrivateField(name)` function. You can pass in the name of any private variable (Usually marked with the `private` protection keyword, and/or an underscore `_` before the name) into either, and either:
-* A compatible file type for `T` (Use `Saber` when trying to get a Saber set as a private field) when using `GetPrivateField<T>()`
-Or...
-* A compatible object to set `value` to when using `SetPrivateField(name, value)`.
+Here is a basic use case of `ReflectionUtil`, by grabbing the two sabers from the `PlayerController` class.
 
-You can also manually pass objects in by using `ReflectionUtil.GetPrivateField<T>(obj, name)` or `ReflectionUtil.SetPrivateField(obj, name, value)`.
+![ReflectionUtil Example](/uploads/modding-template/reflectionutilexample.png "ReflectionUtil Example")
