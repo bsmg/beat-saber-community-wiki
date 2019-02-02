@@ -7,12 +7,14 @@
 Before we begin, we'll assume you've followed the [template setup guide](https://wiki.assistant.moe/modding/intro) to create the project and add the necessary references.
 
 We will be using Kyle1413's template for thise tutorial, [which you can grab here.](https://github.com/Kylemc1413/BS-Plugin-Template/releases/download/0.0.1/BS.Plugin.Template.zip)
+
 ![Kyle Template](/uploads/modding-example-v-2/00-kyletemplate.png "Kyle Template")
 ### Our Plugin
 The plugin we will be making will keep track of the average bonus accuracy points you can get in a swing.
 
 To help explain that, here's a screenshot from the game, with the help of the [First Person Flying Camera](https://wiki.assistant.moe/modding#launch-args).
 ![Accuracy Explanation](/uploads/modding-example-v-2/01-accuracyexplanation.png "Accuracy Explanation")
+
 We will be keeping track of the last 10 points you can get for the maximum of 110.
 
 This mod will also have the help of some of the commonly used Libraries that are available on [ModSaber.](https://www.modsaber.org/).
@@ -24,9 +26,11 @@ We will be using the following in our tutorial:
 # I. The Basics
 ## Variables
 Let's start the tutorial by creating two `List<int>` variables, marking them as `public static`. These will store our Accuracy bonus points and then read off of them.
+
 ![Plugin Variables](/uploads/modding-example-v-2/01-pluginvariables.png "Plugin Variables")
 ## Config.cs
 Before we do anything else, lets create a new `Config.cs` file. This will house our variables that we will, later in the tutorial, use to save and read from a file.
+
 ![Config](/uploads/modding-example-v-2/02-configcreate.png "Config")
 
 We should now have an empty class. Let's create variables, and give them some temporary values for now. Later in the tutorial, we will replace these with `get` and `set` accessors that'll tie in to ModPrefs.
@@ -82,6 +86,7 @@ Let's create an `Awake` void. We'll clear the lists we created in `Plugin.cs` he
 We'll grab our ScoreController in the next section.
 
 ![Awake](/uploads/modding-example-v-2/07-replacementlol.png "Awake")
+
 ## Grabbing the ScoreController
 >If you are having issues with `IEnumerator`, append `using System.Collections` to the top of your file.
 {.is-warning}
@@ -91,7 +96,9 @@ To obtain our ScoreController, let's create an `IEnumerator` called `GrabRequire
 Let me introduce you all to `WaitUntil(predicate)`! It stops a Coroutine until the bool `predicate` is `true`. In our case, we'll see if Resources can load a ScoreController, and pass that as a lambda expression with no extra variables to pass into.
 
 Since it will halt until our `ScoreController` is found, we do not need to worry about our variable being `null`. We can safely assign it via Resources, and move on to a brand new `Init()` void. We will then start our coroutine in the `Awake()` function.
+
 ![Grabbing ScoreController](/uploads/modding-example-v-2/08-replacement.png "Grabbing ScoreController")
+
 ### Regarding Tasks and Threading
 Through my own experience, and from the advice of other Modders, it is unwise to grab, assign, or modify Unity objects *(Hint: Almost all of them inherit `MonoBehaviour`)* inside a separate thread. Attempting to do so will, however not consistently, crash the game. It is much better to use `IEnumerators` and Coroutines for handling Unity objects, and use Tasks and separate threads for those which do not.
 ## Note Cut Events
@@ -100,6 +107,7 @@ With our ScoreController variable in hand, we can add to the `noteWasCutEvent` a
 Now we need to filter out bombs and bad cuts, and then add to the according `List<int>` we created in `Plugin.cs` based on the note type.
 
 ![Note Cut Events](/uploads/modding-example-v-2/09-replacement.png "Note Cut Events")
+
 ## Transitions To Menu
 To access the Results screen *(Or in some cases, the Failed screen)*, we need to find when the game changes scenes from `Menu` to `GameCore`. Thankfully, the plugin template we are using already has detection for entering the `Menu` scene. Let's add on to that by checking to see if the game transitioned from `GameCore`.
 
@@ -108,6 +116,7 @@ We can also implement our `Config.cs` class here, by checking to see if its `ena
 While we're here, we can also create the GameObject that will hold our `AccuracyLists` class, since thankfully the plugin template also checks to see if we're entering `GameCore`.
 
 ![Transitions](/uploads/modding-example-v-2/12-replacement.png "Transitions")
+
 ## ResultsViewer.cs
 Let's create a new class called `ResultsViewer` and have it extend from `MonoBehaviour`. This class will display the results of our accuracy points when we exit from a level. We will be using a maximum of 3 TextMeshPros to help us display our data.
 
@@ -116,6 +125,7 @@ Let's also createa `List<GameObject>` variable that will hold each `GameObject` 
 We should create a helper class that creates these TextMeshPros for us, so we don't have to use repeated code. It will take in a `Vector3` for positioning, a `List<int>` for our list data, and a `string` for a label.
 
 ![ResultsViewer.cs](/uploads/modding-example-v-2/13-replacement.png "ResultsViewer.cs")
+
 ## Creating a TextMeshPro
 >If you are having trouble using `TextMeshPro`, add `using TMPro;` at the top of your file, or add it as a reference if that doesn't work.
 {.is-warning}
@@ -131,6 +141,7 @@ Let's create a new GameObject that will hold our label. The `text` will be the `
 Let's finally add the two GameObjects we created to the `List<GameObject>` we created a little while back.
 
 ![Helper Function 2](/uploads/modding-example-v-2/15-replacement.png "Helper Function Part 2: Electric Boogaloo")
+
 ## Grabbing ResultsViewController
 >If you are having trouble using `IEnumerator`, add `using System.Collections;` to the top of your file.
 {.is-warning}
@@ -152,6 +163,7 @@ If `Config.displayBoth` is on, we'll create a new `List<int>` based off of any o
 Instead of having you figure out where to put these things, I've went ahead and done the work for you.
 
 ![Init Results](/uploads/modding-example-v-2/17-resultsinit.png "Init Results")
+
 ## One Final Thing
 Let's attach `ResultsViewController`'s two events into one void. The `continueButtonPressedEvent` and `restartButtonPressedEvent` will be fired when the respective buttons have been pressed. Let's add one `Continue` void to each of these. In our `Continue` void, we can simply loop through each GameObject in our `List<GameObject>` and call `Destroy()` on them.
 
@@ -160,6 +172,7 @@ Let's attach `ResultsViewController`'s two events into one void. The `continueBu
 Before we forget, lets head back to `Plugin.cs` one final time. Let's be sure to create our GameObject and attach our `ResultsViewer` class when we enter `Menu` from the `GameCore` scene.
 
 ![Final Thing](/uploads/modding-example-v-2/19-addingtotransition.png "Final Thing")
+
 ## Building Our Plugin
 When your plugin is in a testable state (No errors, little warnings, everything's ready), go under `Build`, and click on `Build <Plugin Name>`. It is as easy as that! Now go to your `Output` window and it should tell you where your built file is located.
 
@@ -186,7 +199,9 @@ We will be spending 100% of our time in the `Config.cs` class for this section.
 {.is-warning}
 
 Let's start by creating our Config object for saving/loading to a file. Let's pass in the name of our mod into the constructor, which will generate a file over in `<Beat Saber>/UserData`.
+
 ![BS Utils Config](/uploads/modding-example-v-2/20-bsutilsconfig.png "BS Utils Config")
+
 ### Why not add a reference to the top of our file?
 Because we named our class `Config`, and `BS_Utils` also calls their object `Config`, C# will not understand the difference between them. If you named this class differently, you can definitely put `using BS_Utils.Utilities;` at the top of the file and reference `Config` as usual. But for now, we have to use the long way around.
 ## ModPrefs VS Beat Saber Utils
@@ -214,7 +229,9 @@ Get/Set accessors are easy ways to call functions that either set, or return a v
 Our `get` accessor expects a `bool` to be returned. We have nothing in there, so nothing can be returned. Let's changed that by utilizing ModPrefs or Beat Saber Utils.
 ## Getting Values
 No matter which system you are choosing, the functions are the same for the both of them. We will call the `GetBool` function and pass in our name, the name of the variable, its default value, and whether or not it should be overwritten in the `get` accessor.
+
 ![Get](/uploads/modding-example-v-2/22-gettingvalues.png "Get")
+
 ### Anatomy of a Get function
 GetBool, GetString, GetInt, GetFloat, etc. all have the same 4 parameters.
 
@@ -259,15 +276,19 @@ Let's change the `GetValue` option to a variable in our `Config` class. I will b
 The `OnToggle` option updates every time the value is toggled. We can easily assign the `value` variable that is being passed in to the lamda expression back into `Config.enabled`, which will save it to our file.
 
 ![Changing](/uploads/modding-example-v-2/28-changing.png "Changing Defaults")
+
 ## Copy and Paste
 From this point on, it will be as easy as copy and pasting, and changing any conflicting variable names and descriptions, for the rest of our functions in `Config.cs`.
+
 ![Copy and Paste](/uploads/modding-example-v-2/29-settingsall.png "Copy and Paste")
+
 ## On Scene Loaded
 The last thing we need to do is to change the built-in template code in the `SceneManager_sceneLoaded` function in `Plugin.cs`. If you aren't using Kyle1413's template, it's going to be easy to add these lines of code in.
 
 All we need to do is change `UI.BasicUI.CreateUI();` to `UI.BasicUI.CreateGameplayOptionsUI();`
 
 ![On Scene Loaded](/uploads/modding-example-v-2/30-sceneloaded.png "On Scene Loaded")
+
 ## Lets Test!
 That should be it! Let's go into Beat Saber and head into a song list. From the left, you should see an arrow option that points down on the left half of the Modifiers menu. Click that, and you should be able to find the option for your mod.
 
