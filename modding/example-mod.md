@@ -9,10 +9,12 @@ Before we begin, we'll assume you've followed the [template setup guide](https:/
 We will be using Kyle1413's template for this tutorial, [which you can grab here.](https://github.com/Kylemc1413/BS-Plugin-Template/releases/download/0.0.1/BS.Plugin.Template.zip)
 
 ![Kyle Template](/uploads/modding-example-v-2/00-kyletemplate.png "Kyle Template")
+
 ### Our Plugin
 The plugin we will be making will keep track of the average bonus accuracy points you can get in a swing.
 
 To help explain that, here's a screenshot from the game, with the help of the [First Person Flying Camera](https://wiki.assistant.moe/modding#launch-args).
+
 ![Accuracy Explanation](/uploads/modding-example-v-2/01-accuracyexplanation.png "Accuracy Explanation")
 
 We will be keeping track of the last 10 points you can get for the maximum of 110.
