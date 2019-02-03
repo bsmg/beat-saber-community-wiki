@@ -182,6 +182,9 @@ Before we forget, lets head back to `Plugin.cs` one final time. Let's be sure to
 ![Final Thing](/uploads/modding-example-v-2/19-addingtotransition.png "Final Thing")
 
 ## Building Our Plugin
+>Are you getting an error when building, something about a copy exiting with code -1? [Check out how to change the copy directory](https://wiki.assistant.moe/modding/intro#changing-copy-directory)
+{.is-warning}
+
 When your plugin is in a testable state (No errors, little warnings, everything's ready), go under `Build`, and click on `Build <Plugin Name>`. It is as easy as that! Now go to your `Output` window and it should tell you where your built file is located.
 
 ![Plugin Build Location](/uploads/modding-example/plugin-buildlocation.png "Plugin Build Location")
