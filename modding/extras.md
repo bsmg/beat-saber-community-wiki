@@ -89,6 +89,7 @@ Access it using `ReflectionUtil`.
 Create a new file called `ReflectionUtil.cs`
 Copy and paste the above code to the newly created file, making sure to replace `namespace BS_Utils.Utilities` with the name of your project.
 
+## Basic Use
 Here is a basic use case of `ReflectionUtil`, by grabbing the two sabers from the `PlayerController` class.
 
 ![ReflectionUtil Example](/uploads/modding-template/reflectionutilexample.png "ReflectionUtil Example")
