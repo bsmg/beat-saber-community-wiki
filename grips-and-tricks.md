@@ -3,8 +3,7 @@
 
 # Ranking Up Mega-Tutorial
 An incredible writeup by TeknozFR to help you get that PP
-https://docs.google.com/document/d/1kWUHV9DMW_Ruc45h3ibmGdW_pEtSBjH7YCwwgAS-x4c/edit
-
+https://bsaber.com/indepth-guide/
 # Scoring
 See this video by the [Cube Community YT](https://www.youtube.com/channel/UCdG9zS8jVcQIKl7plwWXUkg) about how the scoring system works.
 
