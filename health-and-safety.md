@@ -17,16 +17,7 @@ However, if you insist on using weights then at least check out [this guide](htt
 
 ## Dr Levi Harrison's Tips
 [video](https://www.youtube.com/watch?v=IoL1NOKUmoU){.youtube}
-Dr. Levi has saved the wrist of countless players with his videos, and he's made a video specifically covering some exercises to help prevent injury from playing Beat Saber! We **highly** recommend these!
-
-### Warm Ups
-
-Start with much slower maps (slower than your standard level of play) and in the space of 3-4 songs, work your way back up to your normal level of play. Apply a proper stretch in between each song.
-
-So for instance, my standard level of play (that I enjoy) is maps like TWISTSTEP, Your Voice So, etc. When I begin playing, I start on the low end, with maps like Believer, after which I take a minute or so to stretch out my arms and make sure they're actually starting to get warmer. Then I move to something a touch more intense, like Bubble Tea, and applying the same things after finishing it, and finishing with Deadly Nostalgia.
-
-### Final Words
-Regulating your gameplay is important. Burning pain = muscle development. Sharp pain = stop playing, right now.
+Dr. Levi has saved the wrist of countless players with his videos, and he's made a video specifically covering some exercises to help prevent injury from playing Beat Saber! We **highly** recommend his tips!
 
 # Safety
 
