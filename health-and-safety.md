@@ -15,18 +15,9 @@ Generally, we **do not recommend** using weights for this game. Beat Saber is al
 
 However, if you insist on using weights then at least check out [this guide](https://www.vrfitnessinsider.com/beat-saber-weighted-gear/) by VR Fitness Insider to minimize the risk of injury.
 
-## OrangeW's Guide to Wrist Care
-OrangeW is a top 10 player on the global leaderboards as well as a member of the BSMG Staff team. The following is his advice for minimizing the risk of wrist injury at any level of play.
-
-### Wrist Stretches
-
-[Dr Levi Harrison's videos](https://www.youtube.com/user/drlevifitness) are great for general warmup of muscles and making sure you don't pull muscles, and good for easing pain from existing RSI, or entirely preventing it.
-
-### Recommended Videos
-
-[video](https://youtu.be/wYGfDCGrJ4A){.youtube}
-
-[video](https://youtu.be/GRtXgm5QVIM){.youtube}
+## Dr Levi Harrison's Tips
+[video](https://www.youtube.com/watch?v=IoL1NOKUmoU){.youtube}
+Dr. Levi has saved the wrist of countless players with his videos, and he's made a video specifically covering some exercises to help prevent injury from playing Beat Saber! We **highly** recommend these!
 
 ### Warm Ups
 
