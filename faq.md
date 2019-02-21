@@ -11,7 +11,7 @@ If you don't like using [beatsaver](https://www.beatsaver.com) to find songs, he
 [Beast Saber](https://www.bsaber.com) is a review site that aims to curate all of the songs on Beat Saver! You can also download playlists, follow mappers, find songs using advanced sorting methods and more. Created by elliotttate.
 
 ### Beat Drop
-[Beat Drop](https://bsaber.com/beatdrop/) is a desktop application that allows you to download songs, and create playlists as well! Created by Stargazer.
+[Beat Drop](https://bsaber.com/beatdrop/) is a desktop application that allows you to download songs, and create playlists as well! Created by StarGazer1258.
 
 ### Bootleg BeatSaver Search
 An [external search engine](http://bootleg-beatsaver.com/) that enables more advanced searching functionality to help you find songs on BeatSaver, by Zeekin.
