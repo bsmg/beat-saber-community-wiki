@@ -16,7 +16,7 @@ It includes preview images, and one-click install links.
 
 All models are manually approved before appearing on the site.
 
-https://modelsaber.assistant.moe/
+https://modelsaber.com/
 
 
 ## Discord
