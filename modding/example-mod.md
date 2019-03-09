@@ -31,6 +31,13 @@ Let's start the tutorial by creating two `List<int>` variables, marking them as 
 
 ![Plugin Variables](/uploads/modding-example-v-2/01-pluginvariables.png "Plugin Variables")
 ## Config.cs
+### Creating New Classes
+If you're new to Visual Studio, you can easy create a class by going under `Project`, and clicking `Add Class...`.
+
+![Addingclass](/uploads/modding-example-v-2/addingclass.png "Adding Classes")
+
+---
+
 Before we do anything else, lets create a new `Config.cs` file. This will house our variables that we will, later in the tutorial, use to save and read from a file.
 
 ![Config](/uploads/modding-example-v-2/02-configcreate.png "Config")
