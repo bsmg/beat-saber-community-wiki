@@ -19,7 +19,7 @@ The new **recommended** mod installer! Both are similar in function, but this on
 * Download `modsaber-installer-setup-{version}.exe` and install it
 * Run it! Select what mods you want to install from the list!
 
-## Beat Saber Mod Manager
+## Beat Saber Mod Manager (deprecated)
 If you'd rather use the original mod manager:
 * Navigate to https://github.com/Umbranoxio/BeatSaberModInstaller/releases
 * Download `BeatSaberModManager.exe`
