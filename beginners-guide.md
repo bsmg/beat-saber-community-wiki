@@ -22,10 +22,8 @@ The new **recommended** mod installer! Both are similar in function, but this on
 ## Beat Saber Mod Manager (deprecated)
 If, god forbid, you'd rather use the original mod manager:
 * Navigate to https://github.com/Umbranoxio/BeatSaberModInstaller/releases
-* Download `BeatSaberModManager.exe`
-* Run it! Select what mods you want to install from the list!
 
-Note that the mod manager is known not to work with previous versions of the game, and may not install all dependencies correct. The support channel does not offer help for this application.
+Note that the mod manager is known not to work with previous versions of the game, and may not install all dependencies correct. **The support channel does not offer help for this application.**
 
 Mods are installed into the folder `Plugins` within your Beat Saber install directory.
 Can't find where Beat Saber is installed? See [install folder.](faq/install-folder)
