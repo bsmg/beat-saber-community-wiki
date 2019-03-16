@@ -1,5 +1,10 @@
 <!-- TITLE: The Example Mod Tutorial -->
 <!-- SUBTITLE: Learn how to make a Beat Saber Mod! -->
+
+# New Beat Saber Update
+The below mod tutorial was made during Beat Saber `0.12.2`. With the new update, changes were made that affects how text is displayed. I'll update this mod tutorial soon™.
+
+The mod tutorial *should* still work, with the only major issue being the text that fails to display when you exit a song. Sit tight for that!
 # Prelude
 >If at any point you feel overwhelmed, it probably means you do not have enough experience. In that case, consider watching some Unity and C# tutorials to get familar with Unity and how it works.
 {.is-danger}
