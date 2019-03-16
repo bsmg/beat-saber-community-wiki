@@ -50,10 +50,10 @@ You don't realize how much you appreciate SongBrowser until it's gone
 [GitHub](https://github.com/halsafar)
 
 ## Kyle1413
-Resident Kirby and mod modder. Not only does he make mods, he helps you with them in #support too.
+Resident Kirby and mod modder. Not only does he make mods, he helps you with them in #support too. One of the most active modders and a huge part in the evolution of SongLoader.
 **Roles:** Modder, Support
 **Contributions:** Progress Counter PBT Edition, Custom Colors User Friendly Edition, Intro Skip, Gameplay Modifiers Plus
-[GitHub](https://github.com/kylemc1413) | [Twitch](https://www.twitch.tv/kyle1413k) | [Donate](https://streamlabs.com/kyle1413k)
+[GitHub](https://github.com/kylemc1413) | [Twitch](https://www.twitch.tv/kyle1413k) | [Donate](https://ko-fi.com/kyle1413k)
 
 ## opl
 Creator of the fancy HTTPStatus stream tools
@@ -108,10 +108,6 @@ The bot that holds it all together.
 Created by Megalon, recreated by lolPants, and personified by Rolo!
 [Merch!](https://www.redbubble.com/people/megalon-gaming/portfolio)
 
-## ColdCurse
-One of the first supports and leader of the Steven fan club.
-**Roles:** Support
-
 ## 𝔅𝔯3𝔲𝔨𝔢𝔯 🎀 𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯#0001
 Poi!
 **Roles:** 3D Artist, Support
@@ -132,14 +128,9 @@ Literally no clue what he's doing when it comes to coding, at all, but he can fi
 **Roles:** Support
 [Twitch](https://www.twitch.tv/sarpest_razor) | [Donate](https://streamelements.com/sarpest_razor/tip)
 
-## Steven
-Schrödinger's Support - whether he has the fancy colors or not, he's always around to lend a helping hand. Smash Bros fanatic.
-**Roles:** Support
-[Twitch](https://www.twitch.tv/steventhecat) | [Donate](https://streamlabs.com/steventhecat)
-
 >See Also
 **Modders:** [Kyle1413](#Kyle1413)
-**Staff:** [Assistant](#Assistant) | [Klouder](#Klouder) | [Megalon](#Megalon) | [williums](#williums)
+**Staff:** [Assistant](#Assistant) | [Klouder](#Klouder) | [Megalon](#Megalon) | [Steven](#Steven)| [williums](#williums)
 
 # 3D Artists
 Whether you're streaming or just looking for a change of view, these guys have your back. They've spent countless hours creating sabers, platforms, and avatars to help you customize your experience to suit your needs and more.
@@ -226,6 +217,11 @@ BSMG server owner and rhythm game fanatic. We wouldn't be here today without thi
 **Roles:** Admin, Staff, Modder
 **Contributions:** Server Owner, Custom Sabers
 [GitHub](https://github.com/reaxt00)
+
+## Steven
+Schrödinger's Support - whether he has the fancy colors or not, he's always around to lend a helping hand. Smash Bros fanatic and the newest member of Staff.
+**Roles:** Support
+[Twitch](https://www.twitch.tv/steventhecat) | [Donate](https://streamlabs.com/steventhecat)
 
 ## williums
 From eggplants to Staff, our beloved recovering shitposter now helps keep the server a clean and happy place. Often takes the Initiative to improve the community by planning events among other things.
