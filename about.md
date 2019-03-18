@@ -130,7 +130,7 @@ Literally no clue what he's doing when it comes to coding, at all, but he can fi
 
 >See Also
 **Modders:** [Kyle1413](#Kyle1413)
-**Staff:** [Assistant](#Assistant) | [Klouder](#Klouder) | [Megalon](#Megalon) | [Steven](#Steven)| [williums](#williums)
+**Staff:** [Assistant](#Assistant) | [Klouder](#Klouder) | [Megalon](#Megalon) | [Steven](#Steven) | [williums](#williums)
 
 # 3D Artists
 Whether you're streaming or just looking for a change of view, these guys have your back. They've spent countless hours creating sabers, platforms, and avatars to help you customize your experience to suit your needs and more.
