@@ -169,8 +169,8 @@ The team that runs the show.
 ## Assistant
 The original Support - Assistant took over the #support channel in the earilest days back when no one else would. The support role wouldn't exist if not for their efforts.
 **Roles:** Staff, Support, 3D Artist
-**Contributions:** ModSaber Admin, Multiplayer/Saber/Avatar/Platform Creation Guides, Moderation
-[GitHub](https://github.com/Assistant) | [Donate](https://bs.assistant.moe/Donate)
+**Contributions:** ModSaber Admin, Multiplayer/Saber/Avatar/Platform Creation Guides, Moderation, ModelSaber, Runs BeatSaver
+[GitHub](https://github.com/Assistant) | [Donate](https://bs.assistant.moe/Donate) | [Patreon](https://www.patreon.com/AssistantMoe)
 
 ## Balsa
 BeatSaver creator - he's the reason we have somewhere to get our custom songs in the first place. He shows up in once in awhile to show off BeatSaver numbers, call us nerds, and present his collection of finely aged memes.
