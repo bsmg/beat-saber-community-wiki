@@ -175,7 +175,7 @@ The original Support - Assistant took over the #support channel in the earilest 
 ## Balsa
 BeatSaver creator - he's the reason we have somewhere to get our custom songs in the first place. He shows up in once in awhile to show off BeatSaver numbers, call us nerds, and present his collection of finely aged memes.
 **Roles:** Staff
-**Contributions:** BeatSaver
+**Contributions:** Created BeatSaver
 
 ## elliotttate
 Official BSMG PR Guy. Events like the 100k Contest wouldn't have been possible without his efforts and networking skills. Also runs BeastSaber to help you find the best curated maps.
