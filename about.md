@@ -220,7 +220,8 @@ BSMG server owner and rhythm game fanatic. We wouldn't be here today without thi
 
 ## Steven
 Schrödinger's Support - whether he has the fancy colors or not, he's always around to lend a helping hand. Smash Bros fanatic and the newest member of Staff.
-**Roles:** Staff, Support, THE ModelSaber Admin
+**Roles:** Staff, Support
+**Contributions:** THE ModelSaber Admin
 [Twitch](https://www.twitch.tv/steventhecat) | [Donate](https://streamlabs.com/steventhecat)
 
 ## williums
