@@ -141,7 +141,7 @@ We should create a helper class that creates these TextMeshPros for us, so we do
 
 In this function, let's create a new `GameObject` variable, and have it create a new GameObject.
 
-Next, we'll disable this gameobject. Why? The newest Beat Saber update changed how text is displayed, and text will not display when using the previous method. This is simply a workaround for it.
+Next, we'll disable this GameObject. Why? The newest Beat Saber update changed how text is displayed, and text will not display when using the previous method. This is simply a workaround for it.
 
 We'll then create our new `TextMeshPro` variable, and attach the TextMeshPro to our GameObject. We can set the `text` value using a sneaky trick. Using a `List<int>`s built in function, we can grab the average from the list, and pass it to `ToString()`. We can also pass in a formatter into `ToString()` and format it to 2 decimal places. Let's set the `fontSize` to3 and the alignment to `TextAlignmentOptions.Center`. Finally, let's set the position of the TextMeshPro via its `rectTransform`, and set it to our `position` parameter. Finally, we can reactivate our GameObject, and text should display as usual.
 
