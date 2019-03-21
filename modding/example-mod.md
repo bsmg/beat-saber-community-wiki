@@ -139,6 +139,9 @@ We should create a helper class that creates these TextMeshPros for us, so we do
 ![ResultsViewer.cs](/uploads/modding-example-v-2/13-replacement.png "ResultsViewer.cs")
 
 ## Creating a TextMeshPro
+>***Hold up!*** This section is borked. Expect this section to change quite a bit, and potentially one more section added before this one.
+{.is-danger}
+
 >If you are having trouble using `TextMeshPro`, add `using TMPro;` at the top of your file, or add it as a reference if that doesn't work.
 {.is-warning}
 
