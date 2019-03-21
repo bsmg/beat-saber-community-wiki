@@ -118,11 +118,14 @@ Now we need to filter out bombs and bad cuts, and then add to the according `Lis
 ![Note Cut Events](/uploads/modding-example-v-2/09-replacement.png "Note Cut Events")
 
 ## Transitions To Menu
-To access the Results screen *(Or in some cases, the Failed screen)*, we need to find when the game changes scenes from `Menu` to `GameCore`. Thankfully, the plugin template we are using already has detection for entering the `Menu` scene. Let's add on to that by checking to see if the game transitioned from `GameCore`.
+To access the Results screen *(Or in some cases, the Failed screen)*, we need to find when the game changes scenes from `MenuCore` to `GameCore`. Thankfully, the plugin template we are using already has detection for entering the `Menu` scene. Let's add on to that by checking to see if the game transitioned from `GameCore`.
 
 We can also implement our `Config.cs` class here, by checking to see if its `enabled` variable is false, and then return the function.
 
 While we're here, we can also create the GameObject that will hold our `AccuracyLists` class, since thankfully the plugin template also checks to see if we're entering `GameCore`.
+
+>This screenshot is outdated. To reflect the newest Beat Saber update, change `Menu` to `MenuCore`.
+{.is-danger}
 
 ![Transitions](/uploads/modding-example-v-2/12-replacement.png "Transitions")
 
@@ -188,7 +191,10 @@ Let's attach `ResultsViewController`'s two events into one void. The `continueBu
 
 ![Events](/uploads/modding-example-v-2/18-resultsevents.png "Events")
 
-Before we forget, lets head back to `Plugin.cs` one final time. Let's be sure to create our GameObject and attach our `ResultsViewer` class when we enter `Menu` from the `GameCore` scene.
+Before we forget, lets head back to `Plugin.cs` one final time. Let's be sure to create our GameObject and attach our `ResultsViewer` class when we enter `MenuCore` from the `GameCore` scene.
+
+>This screenshot is outdated. To reflect the newest Beat Saber update, change `Menu` to `MenuCore`.
+{.is-danger}
 
 ![Final Thing](/uploads/modding-example-v-2/19-addingtotransition.png "Final Thing")
 
@@ -308,6 +314,9 @@ From this point on, it will be as easy as copy and pasting, and changing any con
 The last thing we need to do is to change the built-in template code in the `SceneManager_sceneLoaded` function in `Plugin.cs`. If you aren't using Kyle1413's template, it's going to be easy to add these lines of code in.
 
 All we need to do is change `UI.BasicUI.CreateUI();` to `UI.BasicUI.CreateGameplayOptionsUI();`
+
+>This screenshot is outdated. To reflect the newest Beat Saber update, change `Menu` to `MenuCore`.
+{.is-danger}
 
 ![On Scene Loaded](/uploads/modding-example-v-2/30-sceneloaded.png "On Scene Loaded")
 
