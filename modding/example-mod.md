@@ -144,17 +144,21 @@ We should create a helper class that creates these TextMeshPros for us, so we do
 >If you are having trouble using `TextMeshPro`, add `using TMPro;` at the top of your file, or add it as a reference if that doesn't work.
 {.is-warning}
 
-In this function, let's create a new `GameObject` variable and a new `TextMeshPro` variable, and attach the TextMeshPro to our GameObject. We can set the `text` value using a sneaky trick. Using a `List<int>`s built in function, we can grab the average from the list, and pass it to `ToString()`. We can also pass in a formatter into `ToString()` and format it to 2 decimal places. Let's set the `fontSize` to3 and the alignment to `TextAlignmentOptions.Center`. Finally, let's set the position of the TextMeshPro via its `rectTransform`, and set it to our `position` parameter.
+In this function, let's create a new `GameObject` variable, and have it create a new GameObject.
 
-![Helper Function](/uploads/modding-example-v-2/14-replacement.png "Helper Function Part 1")
+Next, we'll disable this gameobject. Why? The newest Beat Saber update changed how text is displayed, and text will not display when using the previous method. This is simply a workaround for it.
+
+We'll then create our new `TextMeshPro` variable, and attach the TextMeshPro to our GameObject. We can set the `text` value using a sneaky trick. Using a `List<int>`s built in function, we can grab the average from the list, and pass it to `ToString()`. We can also pass in a formatter into `ToString()` and format it to 2 decimal places. Let's set the `fontSize` to3 and the alignment to `TextAlignmentOptions.Center`. Finally, let's set the position of the TextMeshPro via its `rectTransform`, and set it to our `position` parameter. Finally, we can reactivate our GameObject, and text should display as usual.
+
+![Helper Function](/uploads/modding-example-v-2/14-update.png "Helper Function Part 1")
 
 But wait! Let's add a label using our `label` parameter. We will mainly be copy and pasting our previous code, but there will be some differences.
 
-Let's create a new GameObject that will hold our label. The `text` will be the `label` parameter, and the `fontSize` will be 2. Let's parent this TextMeshPro to the `viewer` TextMeshPro. We will finally set its `localPosition` a little bit above the actual `viewer`.
+Let's create a new GameObject that will hold our label, again disabling it in the very next line. The `text` will be the `label` parameter, and the `fontSize` will be 2. Let's parent this TextMeshPro to the `viewer` TextMeshPro. We will finally set its `localPosition` a little bit above the actual `viewer`. Now we can re-enable it.
 
 Let's finally add the two GameObjects we created to the `List<GameObject>` we created a little while back.
 
-![Helper Function 2](/uploads/modding-example-v-2/15-replacement.png "Helper Function Part 2: Electric Boogaloo")
+![Helper Function 2](/uploads/modding-example-v-2/15-update.png "Helper Function Part 2: Electric Boogaloo")
 
 ## Grabbing ResultsViewController
 >If you are having trouble using `IEnumerator`, add `using System.Collections;` to the top of your file.
