@@ -181,6 +181,7 @@ BeatSaver creator - he's the reason we have somewhere to get our custom songs in
 Official BSMG PR Guy. Events like the 100k Contest wouldn't have been possible without his efforts and networking skills. Also runs BeastSaber to help you find the best curated maps.
 **Roles:** Staff, BSMG PR
 **Contributions:** BeastSaber, Contest Management
+[Patreon](https://www.patreon.com/beastsaber)
 
 ## Ikeiwa
 Everyone's favorite french furry. He kicked off modding early on with the original EditSaber and the earliest versions of the custom avatar plugin, among many others.
