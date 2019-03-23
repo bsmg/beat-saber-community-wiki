@@ -3,7 +3,7 @@
 
 Here is some extra content and information that will help you on your way to creating a plugin. Inspecting the source code, accessing private settings, and using external libraries are all things Beat Saber plugins do, so why leave you off with *just* the basics?
 
-Here are programs and libraries that allow you to go more advanced with your plugins an dwill help you greatly if you decide to explore new territory in Beat Saber modding. Remember, the [Beat Saber Modding group](https://discord.gg/beatsabermods) is always here for your programming help!
+Here are programs and libraries that allow you to go more advanced with your plugins and will help you greatly if you decide to explore new territory in Beat Saber modding. Remember, the [Beat Saber Modding Group](https://discord.gg/beatsabermods) is always here for your programming help!
 
 
 >This is heavily unfinished! If you wish to cover a library, or an aspect of modding, please DM me on Discord `Caeden117#0117` and let me know what to add.
@@ -23,12 +23,12 @@ A `symlink` is something that tells Windows that one file is actually linking to
 3. Have Command Prompt point to your Beat Saber Plugins folder (`cd <Beat Saber Directory>/Plugins`)
 4. Execute the following command: `mklink <Plugin Name>.dll, <Path to your build file>`
 
-Here's an example of the `mklink` command: `mklink ExampleMod.dll, C:\Users\You\Documents\Visual Studio 2017\Projects\ExampleMod\ExampleMod\bin\Debug\ExampleMod.dll`
+Here's an example of the `mklink` command: `mklink ExampleMod.dll, "C:\Users\You\Documents\Visual Studio 2017\Projects\ExampleMod\ExampleMod\bin\Debug\ExampleMod.dll"`
 
 If all is done correctly, the next time you build your plugin and launch Beat Saber, the plugins should update automatically.
 
 ## Post-Build Events
-Another way to go about this is taking advantage of C#'s post-build events. This not only allows you to copy files to a directory when build is complete, but you can also do a lot more. [Here is some documentation on pre- and post-build events](https://docs.microsoft.com/en-us/visualstudio/ide/how-to-specify-build-events-csharp?view=vs-2017)
+Another way to go about this is taking advantage of C#'s post-build events. This not only allows you to copy files to a directory when build is complete, but you can also do a lot more. [Here is some documentation on pre/post build events](https://docs.microsoft.com/en-us/visualstudio/ide/how-to-specify-build-events-csharp?view=vs-2017)
 
 1. Under `Project`, click `<Project Name> Properties...`
 2. Click `Build Events`
