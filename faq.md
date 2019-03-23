@@ -53,13 +53,6 @@ Get the installer from [Beginners Guide](beginners-guide).
 ## How does the scoring system work in Beat Saber? How does global ranking work?
 We have sections on the [grips and tricks](grips-and-tricks) page dedicated to the scoring and ranking systems, check them out!
 
-## Should I use wrist weights when I play?
-> **PLEASE DO NOT, UNLESS YOU'RE A TRAINED PROFESSIONAL**
-{.is-danger}
-
-In which you'd know why not to use wrist weights. Besides, a lightsaber wouldn't be heavy, *it's made of plasma.*
-Please read [this comment](https://www.reddit.com/r/Vive/comments/8g9jgs/beat_saber_has_now_released/dya1yl7/) for more information.
-
 ## Why are the vote buttons greyed out in game?
 
 To vote on songs, you must have an account on Beat Saver, then input your access token in the modprefs file.
