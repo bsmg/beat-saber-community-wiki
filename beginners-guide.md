@@ -23,6 +23,10 @@ Mods are installed into the folder `Plugins` within your Beat Saber install dire
 Can't find where Beat Saber is installed? See [install folder.](faq/install-folder)
 
 ## Manual Installation
+> You don't need to do this if you have the installer! The following steps are for installing mods that aren't in the installer, e.g. mods pending approval for modsaber, betas, etc 
+> ~~Or you actually want to do this the hard way for some ungodly reason, like it's 2019 we have better technology sheesh but whatever~~
+{.is-warning}
+
 If you've already used to the installer to patch the game, skip to step 4.
 1. Download [IPA](https://www.modsaber.org/mod/illusion-plugin-architecture).
 2. Navigate to your [install folder.](faq/install-folder)
