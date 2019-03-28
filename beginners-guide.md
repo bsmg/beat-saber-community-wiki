@@ -5,12 +5,11 @@
 
 Beat Saber was not designed with mod support, so you have to run one of the installers below to patch the game and enable mods.
 
-> It's not recommended to install mods without knowing what they do, this can lead to undesired behaviors and performance issues. Click the `View Selected Mod Info` button in the ModSaber Installer, or the `More Info` button in the Mod Manager to learn more about a mod.
+> It's not recommended to install mods without knowing what they do, this can lead to undesired behaviors and performance issues. Click the `View Selected Mod Info` button in the ModSaber Installer to learn more about a mod.
 {.is-danger}
 
-> The mod manager only shows mods compatible with the latest game update.
-> Every time the game updates, you will have to run the mod manager to get all compatible mods.
-> As all mods are made by volunteers, you may need to wait for your favorite mod to be fixed for the latest game update. Check the #server-announcements channel in the discord for the latest updates!
+> The installer only shows mods compatible with the selected game version in the top right corner.
+> Every time the game updates, you will have to run the installer to get all compatible mods. As all mods are made by volunteers, you may need to wait for your favorite mod to be fixed for the latest game version. Make sure to check the #server-announcements channel in the discord for the latest updates!
 {.is-warning}
 
 ## ModSaber Installer
