@@ -9,7 +9,8 @@ Beat Saber was not designed with mod support, so you have to run one of the inst
 {.is-danger}
 
 > The installer only shows mods compatible with the selected game version in the top right corner.
-> Every time the game updates, you will have to run the installer to get all compatible mods. As all mods are made by volunteers, you may need to wait for your favorite mod to be fixed for the latest game version. Make sure to check the #server-announcements channel in the discord for the latest updates!
+> Every time the game updates, you will have to run the installer to get all compatible mods. 
+> Since mods are made by volunteers, you may need to wait for your favorite mod to be fixed for the latest game version. Make sure to check the #server-announcements channel in the discord for the latest updates!
 {.is-warning}
 
 ## ModSaber Installer
