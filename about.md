@@ -127,7 +127,7 @@ Literally no clue what he's doing when it comes to coding, at all, but he can fi
 **Roles:** Support
 [Twitch](https://www.twitch.tv/sarpest_razor) | [Donate](https://streamelements.com/sarpest_razor/tip)
 
-## Radeviriot
+## Radevirot
 This guy came out of nowhere and started helping in support saying it was some kind of addiction, what a loon
 **Roles:** Support
 [Twitter](https://twitter.com/Radevirot) | [Donate](paypal.me/Radevirot)
