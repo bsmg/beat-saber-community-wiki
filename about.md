@@ -6,7 +6,7 @@ Ever wonder who made your favorite mod or answered your questions in `#support`?
 >Some people could go under multiple sections, so I tried to sort this page the best I could. If you'd like anything about your section changed, feel free to contact me - williums
 {.is-warning}
 # Modders
-Making sure our games look nothing like the original, one mod at a time.
+Making sure our games look nothing like the original, one plugin at a time. 
 
 ## andruzzzhka
 A huge contributor for the core mods, including the in-game downloader mod! He's also the creator of the unofficial multiplayer mod that's holding you over until official multiplayer arrives somday.
@@ -128,9 +128,9 @@ Literally no clue what he's doing when it comes to coding, at all, but he can fi
 [Twitch](https://www.twitch.tv/sarpest_razor) | [Donate](https://streamelements.com/sarpest_razor/tip)
 
 ## Radeviriot
-The newest recruit of the support team, he's always excited to learn more!
+This guy came out of nowhere and started helping in support saying it was some kind of addiction, what a loon
 **Roles:** Support
-[Donate](paypal.me/Radevirot)
+[Twitter](https://twitter.com/Radevirot) | [Donate](paypal.me/Radevirot)
 
 >See Also
 **Modders:** [Kyle1413](#Kyle1413)
@@ -259,7 +259,7 @@ Our newest member of staff, he's always around to lend a helping hand. He's a bi
 ## williums
 From eggplants to Staff, our beloved recovering shitposter now helps keep the server a clean and happy place. Often takes the initiative to improve the server, from starting up projects to bringing on new members of the team. A true jack of all trades but a master at none; williums tries to stay well rounded throughout the community to keep a watchful eye on a variety of groups and have opinions represented.
 **Roles:** Staff, Support
-**Contributions:** Wiki Management, Moderation, Contest Management
+**Contributions:** Wiki Management, Moderation, Contest Management, ModSaber Admin
 [Twitch](https://www.twitch.tv/williums/) | [Donate](https://ko-fi.com/williums)
 
 ## Umbranox
