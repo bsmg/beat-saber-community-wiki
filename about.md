@@ -127,6 +127,11 @@ Literally no clue what he's doing when it comes to coding, at all, but he can fi
 **Roles:** Support
 [Twitch](https://www.twitch.tv/sarpest_razor) | [Donate](https://streamelements.com/sarpest_razor/tip)
 
+## Radeviriot
+The newest recruit of the support team, he's always excited to learn more!
+**Roles:** Support
+[Donate](paypal.me/Radevirot)
+
 >See Also
 **Modders:** [Kyle1413](#Kyle1413)
 **Staff:** [Assistant](#Assistant) | [Klouder](#Klouder) | [Megalon](#Megalon) | [Steven](#Steven) | [williums](#williums)
