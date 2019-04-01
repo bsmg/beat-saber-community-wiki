@@ -51,7 +51,7 @@ You don't realize how much you appreciate SongBrowser until it's gone.
 ## Kyle1413
 Resident Kirby and mod modder. One of the most active modders and a huge part in the evolution of mods over time as the original modders stop working on them, including the likes of SongLoader and Custom Colors. SongLoader has come a long way since xyonico originally created it, and the appearance of 6 lanes, custom color and platform support, map capabilities, and much more are Kyle's doing. 
 **Roles:** Modder, Support
-**Contributions:** SongLoader, Custom Colors, Intro Skip, Notes Left Counter, Darth Maul, Gameplay Modifiers Plus, BS Utils, Ini File Parser, Beat Saber Tweaks, Leaderboard In Song, Gameplay Restrictions Plus, Mapping Extensions, ModSaber Staff
+**Contributions:** SongLoader, Custom Colors, Intro Skip, Notes Left Counter, Darth Maul, Gameplay Modifiers Plus, BS Utils, Beat Saber Tweaks, Leaderboard In Song, Gameplay Restrictions Plus, Mapping Extensions, ModSaber Staff
 [GitHub](https://github.com/kylemc1413) | [Twitch](https://www.twitch.tv/kyle1413k) | [Donate](https://ko-fi.com/kyle1413k)
 
 ## opl
