@@ -246,7 +246,7 @@ BSMG server owner and rhythm game fanatic. We wouldn't be here today without thi
 [GitHub](https://github.com/reaxt00) | [Twitch](https://twitch.tv/reaxt)
 
 ## Steven
-Our newest member of staff, he's always around to lend a helping hand. He's a big smash bros fanatic and manages ModelSaber
+Our newest member of staff, he's always around to lend a helping hand. He's a big smash bros fanatic and manages ModelSaber, and creates some very fancy shaders too.
 **Roles:** Staff, Support
 **Contributions:** THE ModelSaber Admin
 [Twitch](https://www.twitch.tv/steventhecat)  | [Twitch](https://www.twitch.tv/steventhecat) | [Donate](https://streamlabs.com/steventhecat)
