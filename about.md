@@ -216,7 +216,7 @@ Everyone's favorite french furry. He kicked off modding early on with the origin
 [GitHub](https://github.com/Ikeiwa)
 
 ## Klouder
-A shining ray of positivity when all hell breaks loose on update days, holding everything together when updates hit. Today, they've moved on to manage ScoreSaber and be a big part of the ranking process.
+A shining ray of positivity when all hell breaks loose on update days, holding everything together when updates hit. Today, they've moved on to manage ScoreSaber and be a big part of the ranking process. Very cute awoos too
 **Roles:** Staff, Support, 3D Artist
 **Contributions:** ScoreSaber Admin, Moderation
 [Twitch](https://www.twitch.tv/klouderrr) | [Donate](https://streamlabs.com/klouderrr)
