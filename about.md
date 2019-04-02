@@ -48,11 +48,18 @@ You don't realize how much you appreciate SongBrowser until it's gone.
 **Contributions:** SongBrowser
 [GitHub](https://github.com/halsafar)
 
+
 ## Kyle1413
 Resident Kirby and mod modder. One of the most active modders and a huge part in the evolution of mods over time as the original modders stop working on them, including the likes of SongLoader and Custom Colors. SongLoader has come a long way since xyonico originally created it, and the appearance of 6 lanes, custom color and platform support, map capabilities, and much more are Kyle's doing. 
 **Roles:** Modder, Support
 **Contributions:** SongLoader, Custom Colors, Intro Skip, Notes Left Counter, Darth Maul, Gameplay Modifiers Plus, BS Utils, Beat Saber Tweaks, Leaderboard In Song, Gameplay Restrictions Plus, Mapping Extensions, ModSaber Staff
 [GitHub](https://github.com/kylemc1413) | [Twitch](https://www.twitch.tv/kyle1413k) | [Donate](https://ko-fi.com/kyle1413k)
+
+## monkeymanboy
+He'll give me a bio when he's done fixing CustomUI
+**Roles:** Modder
+**Contributions:** Perfection Display, Custom Campaign, CustomUI
+[GitHub](https://github.com/monkeymanboy)
 
 ## opl
 Creator of the fancy HTTPStatus stream tools that exposes TONS of information about the game for other developers to use, often in really fancy overlays for Twitch streams!
@@ -95,6 +102,13 @@ Creator of BeatDrop, everyone's favorite desktop application for custom song man
 **Roles:** Modder
 **Contributions:** BeatDrop
 [GitHub](https://github.com/StarGazer1258) | [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MJM78VP473AK8)
+
+## vanZeben
+Fastest steam notification sending simulator developer in the West. 
+**Roles:** Modder
+**Contributions:** Beat Saber Onlilne
+[GitHub](https://github.com/vanZeben) | [Twitch](https://www.twitch.tv/vanzeben)
+
 
 >See Also:
 **Staff:** [Ikeiwa](#ikeiwa) | [Reaxt](#reaxt) | [lolPants](#lol-pants)
@@ -146,6 +160,15 @@ Wrote the custom saber creation guide among other fantastic contributions.
 ## Derpy Hooves
 **Roles:** 3D Artist
 
+## Fusion
+They've got some impressive shaders and they're not afraid to use them.
+**Roles:** 3D Artist
+
+## Ibodan
+Most well known for their incredibly flashy dance platform and space opera sabers, but it's a little known fact that they also make mods!
+**Roles:** 3D Artist, Modder
+**Contributions:** Bloom Mod
+
 ## Mordred
 Mordred went on an absolute rampage when he first appeared, flooding the avatar and saber channels like never seen before. He's one of the reasons this role exists to begin with!
 **Roles:** 3D Artist
@@ -154,9 +177,9 @@ Mordred went on an absolute rampage when he first appeared, flooding the avatar 
 In addition to models, he's also fixed the beloved Rainbow Mod whenever updates hit. Enjoy your RGB lights!
 **Roles:** 3D Artist
 
-## Fusion
-They've got some impressive shaders and they're not afraid to use them.
+## Whistl3r
 **Roles:** 3D Artist
+
 
 >See Also
 **Support:** [Emma](#Emma) | [ 𝔅𝔯3𝔲𝔨𝔢𝔯 🎀 𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯](# 𝔅𝔯3𝔲𝔨𝔢𝔯 🎀 𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯)
