@@ -24,6 +24,9 @@ Please refer to Manual Installation
 3. Double click IPA.exe to patch the game. Any mods in the `Plugins` folder will now be loaded when starting the game.
 4. Download the mod you wish to install, whether it be from GitHub or the #finished-mods tab in the Discord. Make sure to download any dependencies required by the mod.
 5. Some mods have installation instructions, some don't. Generally you can just drag and drop the zip contents into your beat saber install folder, and the files should go into the corresponding folders. 
+
+> Make sure to scroll over to the right to see the Custom Maps pack! If you don't see anything, you probably installed your mods wrong. Don't panic and don't uninstall the game - delete your Plugins folder and try again.
+
 # How to get more songs
 The installer includes the `Song Loader Plugin`, which enables you to load more songs into the game, but only includes one test song.
 
