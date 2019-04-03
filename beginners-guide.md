@@ -19,9 +19,9 @@ Please refer to Manual Installation
 
 ## Manual Installation
 
-1. Download [IPA](https://www.modsaber.org/mod/illusion-plugin-architecture).
-2. Navigate to your [install folder.](faq/install-folder)
-3. Drag Beat Saber.exe on top of IPA.exe to patch the game. Any mods in the `Plugins` folder will now be loaded when starting the game.
+1. Download [BSIPA](https://github.com/nike4613/BeatSaber-IPA-Reloaded/releases/download/3.12.4/Release.zip).
+2. Navigate to your [install folder.](faq/install-folder) and extract the contents of BSPIA into it.
+3. Double click IPA.exe to patch the game. Any mods in the `Plugins` folder will now be loaded when starting the game.
 4. Download the mod you wish to install, whether it be from GitHub or the #finished-mods tab in the Discord. Make sure to download any dependencies required by the mod.
 5. Some mods have installation instructions, some don't. Generally you can just drag and drop the zip contents into your beat saber install folder, and the files should go into the corresponding folders. 
 # How to get more songs
