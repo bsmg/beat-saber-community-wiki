@@ -12,8 +12,9 @@ Beat Saber was not designed with mod support, so you have to run one of the inst
 {.is-warning}
 
 ## ModSaber Installer
-> DO NOT USE THE MODSABER INSTALLER OR MODSABER.
+> DO NOT USE THE MODSABER INSTALLER OR MODSABER. 
 {.is-danger}
+
 Please refer to Manual Installation 
 
 ## Manual Installation
