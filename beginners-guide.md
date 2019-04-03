@@ -19,6 +19,8 @@ Please refer to Manual Installation
 
 ## Manual Installation
 
+**Run the game at least once** before trying to mod the game! This applies to reinstalling your game too. 
+
 1. Download [BSIPA](https://github.com/nike4613/BeatSaber-IPA-Reloaded/releases/download/3.12.4/Release.zip).
 2. Navigate to your [install folder.](faq/install-folder) and extract the contents of BSPIA into it.
 3. Double click IPA.exe to patch the game. Any mods in the `Plugins` folder will now be loaded when starting the game.
