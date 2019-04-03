@@ -5,29 +5,18 @@
 
 Beat Saber was not designed with mod support, so you have to run one of the installers below to patch the game and enable mods.
 
-> It's not recommended to install mods without knowing what they do, this can lead to undesired behaviors and performance issues. Click the `View Selected Mod Info` button in the ModSaber Installer to learn more about a mod.
-{.is-danger}
+> It's not recommended to install mods without knowing what they do, this can lead to undesired behaviors and performance issues. {.is-danger}
 
-> The installer only shows mods compatible with the selected game version in the top right corner.
-> Every time the game updates, you will have to run the installer to get all compatible mods. 
+> Every time the game updates, you will have to do this process again to get all compatible mods. 
 > Since mods are made by volunteers, you may need to wait for your favorite mod to be fixed for the latest game version. Make sure to check the #server-announcements channel in the discord for the latest updates!
 {.is-warning}
 
 ## ModSaber Installer
-The new **recommended** mod installer! Both are similar in function, but this one offers richer debugging capabilities if things go wrong.
-* Navigate to https://github.com/lolPants/modsaber-installer/releases
-* Download `modsaber-installer-setup-{version}.exe` and install it
-* Run it! Select what mods you want to install from the list!
-
-Mods are installed into the folder `Plugins` within your Beat Saber install directory.
-Can't find where Beat Saber is installed? See [install folder.](faq/install-folder)
+> DO NOT USE THE MODSABER INSTALLER OR MODSABER. {.is-danger}
+Please refer to Manual Installation 
 
 ## Manual Installation
-> You don't need to do this if you have the installer! The following steps are for installing mods that aren't in the installer, e.g. mods pending approval for modsaber, betas, etc 
-> ~~Or you actually want to do this the hard way for some ungodly reason, like it's 2019 we have better technology sheesh but whatever~~
-{.is-warning}
 
-If you've already used to the installer to patch the game, skip to step 4.
 1. Download [IPA](https://www.modsaber.org/mod/illusion-plugin-architecture).
 2. Navigate to your [install folder.](faq/install-folder)
 3. Drag Beat Saber.exe on top of IPA.exe to patch the game. Any mods in the `Plugins` folder will now be loaded when starting the game.
