@@ -3,7 +3,7 @@
 
 # How to install mods
 
-Beat Saber was not designed with mod support, so you have to run one of the installers below to patch the game and enable mods.
+Beat Saber was not designed with mod support, so it needs to be patchched to enable mods.
 
 > It's not recommended to install mods without knowing what they do, this can lead to undesired behaviors and performance issues. {.is-danger}
 
@@ -33,7 +33,7 @@ Please refer to Manual Installation
 The `Song Loader Plugin` enables you to load more songs into the game, but only includes one test song.
 
 ## Ingame Downloader
-The installers include the `BeatSaver Downloader` Plugin, which allows you to download beatmaps in-game using the `MORE SONGS` menu button on the main menu screen. This pulls maps directly from www.beatsaver.com
+The `BeatSaver Downloader` Plugin allows you to download maps in-game using the `MORE SONGS` menu button on the main menu screen. This pulls maps directly from www.beatsaver.com
 
 ## Beat Saver
 [Beat Saver](https://www.beatsaver.com) is the central repository that holds nearly all custom songs/maps for Beat Saber.
