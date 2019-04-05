@@ -41,6 +41,7 @@ https://wiki.assistant.moe/beginners-guide#manual-installation
 | Gameplay Modifiers Plus | https://bsaber.com/mods/gameplay-modifiers-plus-1.9.2.zip |
 | Darth Maul Mod | https://bsaber.com/mods/darthmaul-0.7.0.zip |
 | Custom Sabers | https://github.com/Kylemc1413/CustomSaberPlugin/releases/download/2.8.3/CustomSabers2.8.3.zip |
+| Custom Avatars | https://cdn.discordapp.com/attachments/466449358955741187/563812592682926100/custom-avatars-4.6.1.zip |
 | Custom Colors | https://bsaber.com/mods/custom-colors-1.11.3.zip | 
 | EnhancedStreamChat | https://cdn.discordapp.com/attachments/555803569379606529/563513516129124372/EnhancedStreamChat.zip |
 | Custom Campaigns | https://github.com/monkeymanboy/BeatSaberDailyChallenges/releases/tag/2.1.0 |
