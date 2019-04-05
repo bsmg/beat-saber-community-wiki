@@ -31,6 +31,7 @@ Until that's ready, please refer to [this link](https://pastebin.com/Bcm85dpd) f
 5. Some mods have installation instructions, some don't. Generally you can just drag and drop the zip contents into your beat saber install folder, and the files should go into the corresponding folders. 
 
 > Make sure to scroll over to the right to see the Custom Maps pack! If you don't see anything, you probably installed your mods wrong. Don't panic and don't uninstall the game - delete your Plugins folder and try again.
+
 ![Custommaps](/uploads/custommaps.png "Custommaps")
 # How to get more songs
 The `Song Loader Plugin` enables you to load more songs into the game, but only includes one test song.
