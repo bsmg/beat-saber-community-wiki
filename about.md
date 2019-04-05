@@ -249,12 +249,6 @@ A shining ray of positivity when all hell breaks loose on update days, holding e
 **Contributions:** ScoreSaber Admin, Moderation
 [Twitch](https://www.twitch.tv/klouderrr) | [Donate](https://streamlabs.com/klouderrr)
 
-## lolPants
-Constantly hard at work on the next feature to keep our discord under control - whether it's server security or plugin managment. A perfectionist at heart, he's constantly building new tools and improving upon other ones whenever he's not playing Satisfactory.
-**Roles:** Admin, Staff, Modder
-**Contributions:** ModSaber Creator, BSMG Stream Overlays, CMB, Moderation, BSMG PodCasts
-[Personal Site](https://www.jackbaron.com/) | [Twitch](https://www.twitch.tv/lolpants_) | [Donate](https://monzo.me/jackbaron)
-
 ## Megalon
 Part of the original dynamic duo along with Reaxt, he keeps a watchful eye on the server with the help of Channel Monitor Bot. He's known for his creative stream overlays and amazing ASMR voice.
 **Roles:** Admin, Staff, Support, Modder
