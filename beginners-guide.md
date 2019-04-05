@@ -12,8 +12,7 @@ Beat Saber was not designed with mod support, so it needs to be patchched to ena
 {.is-warning}
 
 ## ModSaber Installer
-> DO NOT USE THE MODSABER INSTALLER OR MODSABER. 
-{.is-danger}
+The mod repository ModSaber has shut down, and lolPants has left a [message](https://www.modsaber.org/) on the site explaining the situation. We are working on a replacement service and ask for your patience.
 
 Please refer to Manual Installation 
 
