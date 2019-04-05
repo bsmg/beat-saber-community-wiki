@@ -22,8 +22,12 @@ Until that's ready, please refer to [this link](https://pastebin.com/Bcm85dpd) f
 
 1. Download [BSIPA](https://github.com/nike4613/BeatSaber-IPA-Reloaded/releases/latest/download/Release.zip).
 2. Navigate to your [install folder.](faq/install-folder) and extract the contents of BSPIA into it.
-3. Double click IPA.exe to patch the game. Any mods in the `Plugins` folder will now be loaded when starting the game.
-4. Download the mod(s) you wish to install, whether it be from GitHub or the #finished-mods tab in the Discord. Make sure to download any dependencies required by the mod.
+![Directory Clean](/uploads/directory-clean.png "Directory Clean")
+![Directory Ipa](/uploads/directory-ipa.png "Directory Ipa")
+3. Double click IPA.exe to patch the game. A console window will pop up, and if there aren't any errors then any mods in the `Plugins` folder will now be loaded when starting the game. If there are errors, you probably didn't follow step 2 correctly.
+![Directory Patched](/uploads/directory-patched.png "Directory Patched")
+4. Download the mod(s) you wish to install, whether it be from GitHub, the #finished-mods channel, or other sources. **Make sure to download any dependencies required by the mod.**
+![Directory Plugins](/uploads/directory-plugins.png "Directory Plugins")
 5. Some mods have installation instructions, some don't. Generally you can just drag and drop the zip contents into your beat saber install folder, and the files should go into the corresponding folders. 
 
 > Make sure to scroll over to the right to see the Custom Maps pack! If you don't see anything, you probably installed your mods wrong. Don't panic and don't uninstall the game - delete your Plugins folder and try again.
