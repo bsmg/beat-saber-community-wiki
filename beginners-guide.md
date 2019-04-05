@@ -14,7 +14,7 @@ Beat Saber was not designed with mod support, so it needs to be patchched to ena
 ## ModSaber Installer
 The mod repository ModSaber has shut down, and lolPants has left a [message](https://www.modsaber.org/) on the site explaining the situation. We are working on a replacement service and ask for your patience.
 
-Please refer to Manual Installation 
+Until that's ready, please refer to [this link](https://pastebin.com/Bcm85dpd) for a list of working mods for v0.13.2, and refer to Manual Installation to install the mods. 
 
 ## Manual Installation
 
@@ -23,11 +23,10 @@ Please refer to Manual Installation
 1. Download [BSIPA](https://github.com/nike4613/BeatSaber-IPA-Reloaded/releases/latest/download/Release.zip).
 2. Navigate to your [install folder.](faq/install-folder) and extract the contents of BSPIA into it.
 3. Double click IPA.exe to patch the game. Any mods in the `Plugins` folder will now be loaded when starting the game.
-4. Download the mod you wish to install, whether it be from GitHub or the #finished-mods tab in the Discord. Make sure to download any dependencies required by the mod.
+4. Download the mod(s) you wish to install, whether it be from GitHub or the #finished-mods tab in the Discord. Make sure to download any dependencies required by the mod.
 5. Some mods have installation instructions, some don't. Generally you can just drag and drop the zip contents into your beat saber install folder, and the files should go into the corresponding folders. 
 
 > Make sure to scroll over to the right to see the Custom Maps pack! If you don't see anything, you probably installed your mods wrong. Don't panic and don't uninstall the game - delete your Plugins folder and try again.
-
 # How to get more songs
 The `Song Loader Plugin` enables you to load more songs into the game, but only includes one test song.
 
