@@ -21,7 +21,7 @@ Please refer to Manual Installation
 
 **Run the game at least once** before trying to mod the game! This applies to reinstalling your game too. 
 
-1. Download [BSIPA](https://github.com/nike4613/BeatSaber-IPA-Reloaded/releases/download/3.12.4/Release.zip).
+1. Download [BSIPA](https://github.com/nike4613/BeatSaber-IPA-Reloaded/releases/latest/download/Release.zip).
 2. Navigate to your [install folder.](faq/install-folder) and extract the contents of BSPIA into it.
 3. Double click IPA.exe to patch the game. Any mods in the `Plugins` folder will now be loaded when starting the game.
 4. Download the mod you wish to install, whether it be from GitHub or the #finished-mods tab in the Discord. Make sure to download any dependencies required by the mod.
@@ -30,7 +30,7 @@ Please refer to Manual Installation
 > Make sure to scroll over to the right to see the Custom Maps pack! If you don't see anything, you probably installed your mods wrong. Don't panic and don't uninstall the game - delete your Plugins folder and try again.
 
 # How to get more songs
-The installer includes the `Song Loader Plugin`, which enables you to load more songs into the game, but only includes one test song.
+The `Song Loader Plugin` enables you to load more songs into the game, but only includes one test song.
 
 ## Ingame Downloader
 The installers include the `BeatSaver Downloader` Plugin, which allows you to download beatmaps in-game using the `MORE SONGS` menu button on the main menu screen. This pulls maps directly from www.beatsaver.com
