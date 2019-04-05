@@ -8,19 +8,14 @@ https://wiki.assistant.moe/beginners-guide#manual-installation
  
 ## Dependencies 
 ***INSTALL ALL OF THESE***
-
-### BS IPA (dependency)
-https://github.com/nike4613/BeatSaber-IPA-Reloaded/releases/download/3.12.5/Release.zip
-### Newtonsoft JSON (dependency)
-https://bsaber.com/mods/newtonsoft-json-12.0.1.zip
-### Harmony (dependency)
-https://bsaber.com/mods/harmony-1.2.0.zip
-### CustomUI (dependency)
-https://cdn.discordapp.com/attachments/555803569379606529/563521440973062163/BeatSaberCustomUI.dll
-### ini-parser (dependency)
-https://bsaber.com/mods/ini-parser-2.5.2.zip
-### BS-Utils (dependency)
-https://bsaber.com/mods/bs-utils-1.2.2.zip
+| | |
+| --- | --- |
+| BS IPA | https://github.com/nike4613/BeatSaber-IPA-Reloaded/releases/download/3.12.5/Release.zip |
+| Newtonsoft JSON | https://bsaber.com/mods/newtonsoft-json-12.0.1.zip |
+| Harmony | https://bsaber.com/mods/harmony-1.2.0.zip |
+| CustomUI | https://cdn.discordapp.com/attachments/555803569379606529/563521440973062163/BeatSaberCustomUI.dll |
+| ini-parser | https://bsaber.com/mods/ini-parser-2.5.2.zip |
+| BS-Utils | https://bsaber.com/mods/bs-utils-1.2.2.zip |
  
 ## Mods
 SongLoader
