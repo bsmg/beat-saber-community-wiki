@@ -8,7 +8,7 @@
 
 ## Written Guides
 * [Best Practices Guide](https://bit.ly/2LjbURw), by Awfulnaut **please for the love of all things good read this**
-* [Ultimate Mapping Guide](https://docs.google.com/presentation/d/1dG-MlY4GkqcRKzf6fPkDtyFyce1BQVnDREXqnCZ3Us0/edit#slide=id.g4c98ed3226_0_187) by Skyler Wallace
+* [Ultimate Mapping Guide](https://docs.google.com/presentation/d/1dG-MlY4GkqcRKzf6fPkDtyFyce1BQVnDREXqnCZ3Us0/edit#slide=id.g4c98ed3226_0_187) by Skyler Wallace **highly recommended**
 * [Mapping Quickstart Guide](https://bsaber.com/mapping-quickstart-guide-ogg-bpm-offset-and-timing/), by SilentCaay
 * [OST Analysis Spreadsheet](https://docs.google.com/spreadsheets/d/13wyoviJAplYOrsMocOA7YNXJxVRHd74G7z4U2jhCZa4/edit#gid=0)
 * [Song/Audio Editing Guide](https://bsaber.com/custom-mapping-song-audio-editing/)by Kolezan
@@ -43,13 +43,8 @@ https://github.com/squeaksies/MediocreMapper/releases/latest
 >While __most people use this editor__ because it's by far the most feature rich of the 3, this is still first and foremost squeaksies' personal editor. It's filled to the brim with memes and inside jokes, and he doesn't give a flying heck what you think about it. 
 {.is-warning}
 
-### Edit Saber Enhanced
-A fork of Ikeiwa's Edit Saber 6v2 with a ton of additional features.
-A collaboration between permissionBRICK and squeaksies.
-https://github.com/permissionBRICK/EditSaberEnhanced/releases/latest
-
 ### Original
-The original Edit Saber by Ikeiwa.
+The original Edit Saber by Ikeiwa. Outdated and missing a ton of the features offered in MediocreMapper, but listed for reference.
 https://github.com/Ikeiwa/EditSaber/releases/latest
 
 ## MIDI Converter / Web Based Editor
