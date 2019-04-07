@@ -9,7 +9,11 @@ Download the latest version of [Visual Studio Community.](https://visualstudio.m
 
 There are multiple templates that you can choose to install.
 
-The new [BS Plugin Template](https://github.com/Kylemc1413/BS-Plugin-Template/releases/download/0.0.1/BS.Plugin.Template.zip) by Kyle1413 includes more options to guide you, as well as a basic use case of CustomUI. We will be using this for the Mod Tutorial.
+## BSIPA
+DaNike includes a [modding template](https://github.com/nike4613/BeatSaber-IPA-Reloaded/releases/latest) if you intend to make your plugin using BSIPA. Simply grab the template `.zip` from the latest release!
+
+## IPA
+If you wish to use the older IPA, the [BS Plugin Template](https://github.com/Kylemc1413/BS-Plugin-Template/releases/download/0.0.1/BS.Plugin.Template.zip) by Kyle1413 includes more options to guide you, as well as a basic use case of CustomUI. We will be using this for the Mod Tutorial, however intend to upgrade to BSIPA in the near future.
 
 However, if you wish to go more barebones, here is the older [Beat Saber Plugin Template](/uploads/modding/beat-saber-plugin-template.zip "Beat Saber Plugin Template") by RQ.
 
@@ -21,9 +25,11 @@ Install Instructions:
 After you have place the zip file in the correct directory, open Visual Studio 2017 and create a new project.
 You should see the Beat Saber Plugin Template in the Visual C# section.
 Create a new project using the template.
+
 ![Modding Plugin Template](/uploads/modding/modding-plugin-template.png "Modding Plugin Template")
 
-The default assembly name is `UnnamedAssembly` (Or `NewPlugin` depending on the template you downloaded).
+If you intend on making a mod to be published to BeatMods, you will have to rename the assembly to your mod. Using the default assembly name won't cut it!
+
 To rename the assembly:
 1. In the Solution Explorer panel, double click on Properties.
 
@@ -49,7 +55,7 @@ If your Beat Saber install is located here, no worries. If not, we need to chang
 # Check out the code
 
 In the solution explorer, double click on `Plugin.cs` to open it up.
-You should see something like this.
+You should see something like this. It'll look different depending on the template, but should look similar.
 
 ![Plugin Cs Example](/uploads/modding/plugin-cs-example.png "Plugin Cs Example")
 
@@ -63,6 +69,8 @@ To do this, right click on `References` in the Solution Explorer, and select `Ad
 
 This will open the Reference Manager window, and you can browse to find the DLL files that are missing.
 Most of these files will be located within `\<Beat Saber directory>\Beat Saber_Data\Managed`
+
+(For IPA, use `IllusionInjector` and `IllusionPlugin`. For BSIPA, `IPA.Loader` is all that you need)
 
 ![Finding References](/uploads/modding/dnspy-assembly.png "Finding References")
 
@@ -80,7 +88,7 @@ The most popular libraries located in the Plugins folder include:
 # Compiling the plugin
 If you have fixed all of the references in the project, on the top menu bar press `Build -> Build Solution` or <kbd>CTRL + SHIFT + B</kbd>
 
-Your compiled DLL should appear in the `\Bin\Debug` folder of your project.
+Your compiled DLL should appear in the `\Bin\Debug` folder of your project, or copied over to your Plugins folder, depending on what template you use.
 
 You can then copy this DLL into the `Plugins` folder within your Beat Saber directory.
 
