@@ -39,6 +39,8 @@ To rename the assembly:
 
 ![Modding Plugin Properties](/uploads/modding/modding-plugin-properties.png "Modding Plugin Properties")
 
+While you're at it, make sure your Target Framework (Shown above) is above `4.6`, if you're using BSIPA. You can just set it to the highest in that dropdown, such as `4.7.1`.
+
 # Changing copy directory
 
 If you are using Kyle1413's BS Template, it comes with a built in post-build event that attempts to copy your built file to:
