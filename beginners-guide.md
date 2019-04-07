@@ -11,7 +11,7 @@ Beat Saber was not designed with mod support, so it needs to be patchched to ena
 > Since mods are made by volunteers, you may need to wait for your favorite mod to be fixed for the latest game version. Make sure to check the #server-announcements channel in the discord for the latest updates!
 {.is-warning}
 
-## ModSaber Installer
+## Mod Installer ?
 The mod repository ModSaber has shut down, and lolPants has left a [message](https://www.modsaber.org/) on the site explaining the situation. We are working on a replacement service and ask for your patience.
 
 The [BeatSaber Mod Manager](https://github.com/beat-saber-modding-group/BeatSaberModInstaller/releases/latest) has been modified to use our new mods repository, [BeatMods](https://beatmods.com/)! There's another installer in the works, but until then feel free to use the modified Mod Manager!
