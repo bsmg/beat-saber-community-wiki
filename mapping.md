@@ -7,7 +7,8 @@
 * [Freeek's Mapping and Editor Tutorials](https://www.youtube.com/playlist?list=PLYeZR6d3zDPgDgWogOwMteL-5SQWAE14b)
 
 ## Written Guides
-* [Best Practices Guide](https://bit.ly/2LjbURw), by Awfulnaut **highly recommended**
+* [Best Practices Guide](https://bit.ly/2LjbURw), by Awfulnaut **please for the love of all things good read this**
+* [Ultimate Mapping Guide](https://docs.google.com/presentation/d/1dG-MlY4GkqcRKzf6fPkDtyFyce1BQVnDREXqnCZ3Us0/edit#slide=id.g4c98ed3226_0_187) by Skyler Wallace
 * [Mapping Quickstart Guide](https://bsaber.com/mapping-quickstart-guide-ogg-bpm-offset-and-timing/), by SilentCaay
 * [OST Analysis Spreadsheet](https://docs.google.com/spreadsheets/d/13wyoviJAplYOrsMocOA7YNXJxVRHd74G7z4U2jhCZa4/edit#gid=0)
 * [Song/Audio Editing Guide](https://bsaber.com/custom-mapping-song-audio-editing/)by Kolezan
