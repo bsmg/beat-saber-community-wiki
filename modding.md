@@ -8,10 +8,13 @@ To install other mods that you have downloaded or made, place the plugin into yo
 Can't find where Beat Saber is installed? See: [Install Folder](/faq/install-folder).
 # Making Mods
 Beat Saber does **not** have built in mod support.
-Instead, all mods within the mod installer rely on [IPA (Illusion Plugin Architecture)](https://github.com/Eusth/IPA) to inject plugins into the game.
-* [Beat Saber modding intro / template](modding/intro)
-* [Making a basic mod](modding/example-mod)
 
+Instead, most mods within the mod installer rely on [BSIPA (Beat Saber Illusion Plugin Architecture](https://github.com/nike4613/BeatSaber-IPA-Reloaded/) to inject plugins into the game, as well as providing some useful tools for us modders.
+
+Previously, we used [IPA (Illusion Plugin Architecture)](https://github.com/Eusth/IPA). Some plugins still use this, and is still temporarily supported by BSIPA. It is recommended to use BSIPA for any future modding endeavors, however.
+
+* [If you want to get started making your own mod, this gets your project setup and ready to mod.](modding/intro)
+* [Once you're ready to make a mod, here's a tutorial that'll teach you the basics of modding and using community built libraries.](modding/example-mod)
 # Launch args
 Helpful launch arguments that will make modding / debugging easier.
 
@@ -25,7 +28,7 @@ Helpful launch arguments that will make modding / debugging easier.
 We're working on getting the ModSaber archive organized, so hopefully we can have links to those mods in the future!
 
 # Other Links
-* [ModSaber](https://www.modsaber.org/)
+* [BeatMods](https://beatmods.com)
 * [Unity Scripting API](https://docs.unity3d.com/ScriptReference/index.html)
 * [dnSpy](https://github.com/0xd4d/dnSpy)
 * [Harmony](https://github.com/pardeike/Harmony)
