@@ -11,10 +11,10 @@
 * [Ultimate Mapping Guide](https://docs.google.com/presentation/d/1dG-MlY4GkqcRKzf6fPkDtyFyce1BQVnDREXqnCZ3Us0/edit#slide=id.g4c98ed3226_0_187) by Skyler Wallace **highly recommended**
 * [Mapping Quickstart Guide](https://bsaber.com/mapping-quickstart-guide-ogg-bpm-offset-and-timing/), by SilentCaay
 * [OST Analysis Spreadsheet](https://docs.google.com/spreadsheets/d/13wyoviJAplYOrsMocOA7YNXJxVRHd74G7z4U2jhCZa4/edit#gid=0)
-* [Song/Audio Editing Guide](https://bsaber.com/custom-mapping-song-audio-editing/)by Kolezan
+* [Song/Audio Editing Guide](https://bsaber.com/custom-mapping-song-audio-editing/), by Kolezan
 * [How to Map Lower Difficulties](https://docs.google.com/document/d/1F7qoKMlzqqMYKDnQ_7o41Ai3tkJYCMpR6j5DaG1Lpvw/edit), by Sykes
 * [How to Map Swing and Use Shuffle](https://docs.google.com/document/d/1j7w1X-0QtnJDFVKzyyQc_KR7RE9H3C3JFesIXGR0s1c/edit), by Sykes
-
+* [Error Checking with MediocreMapper](https://docs.google.com/document/d/1IYIMQVHK75ZG1JV2VKCTagA_ty-tnzzR7yaFPHTiswg), by Helen Carnate
 ## Ranking Criteria
 Maps that are ranked and worth PP need to adhere to the [ScoreSaber Ranking Critera](https://docs.google.com/document/d/1mtVihRO1LomyptXayoDNDTQYgX_TQPp6ZYDmtwR2jMI/edit). To learn more about the ranking process, visit the [ScoreSaber Discord](https://discord.gg/WpuDMwU).
 
