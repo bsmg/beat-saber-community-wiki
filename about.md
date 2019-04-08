@@ -120,7 +120,7 @@ Our own LIV-insider and creator of Saber Tailor and the original Custom Colors p
 Making sure we're all nice and hydrated after cutting the blocks.
 **Roles:** Modder
 **Contributions:** Custom Exit, Drink Water Mod
-[GitHub](https://github.com/Shoko84) 
+[GitHub](https://github.com/Shoko84) | [Twitch](https://www.twitch.tv/shoko84) | [Donate](https://streamlabs.com/shoko84)
 
 ## Soliel
 Mother of the original `!bsr` mod.
