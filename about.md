@@ -54,7 +54,7 @@ How many statistics could we fit into a single counters mod? A lot apparently, a
 Creator of the custom-tailored version of IPA (illusion plugin architecture) BSIPA, a mod injector to allow Beat Saber to use mods! 
 **Roles:** Modder
 **Contributions:** BSPIA
-[GitHub](https://github.com/nike4613) | 
+[GitHub](https://github.com/nike4613) 
 
 ## halsafar
 You don't realize how much you appreciate SongBrowser until it's gone.
@@ -148,7 +148,7 @@ Fastest steam notification sending simulator developer in the West. He also crea
 
 
 >See Also:
-**Staff:** [Ikeiwa](#ikeiwa) | [Reaxt](#reaxt)
+**Staff:** [Ikeiwa](#ikeiwa) | [Reaxt](#reaxt) | [Megalon](#Megalon)
 
 # Supports
 Having problems? Ask in #support. These guys have been around to help you figure out your mod problems, big or small.
