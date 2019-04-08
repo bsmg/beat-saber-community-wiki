@@ -15,6 +15,10 @@ Beat Saber was not designed with mod support, so it needs to be patchched to ena
 The mod repository ModSaber has shut down, and lolPants has left a [message](https://www.modsaber.org/) on the site explaining the situation. We are working on a replacement service and ask for your patience.
 
 The [BeatSaber Mod Manager](https://github.com/beat-saber-modding-group/BeatSaberModInstaller/releases/latest) has been modified to use our new mods repository, [BeatMods](https://beatmods.com/)! There's another installer in the works, but until then feel free to use the modified Mod Manager!
+
+> If your game is crashing upon installing mods with the Mod Manager for the first time, try verifying your files with Steam, or reinstalling the game with Oculus. Some changes had to be made regarding the way IPA works, and some users are missing important game files.
+> BSIPA is currently known incompatible with certain programs like FaceIt (cs:go matchmaking service). 
+{.is_warning}
 ## Manual Installation
 
 **Run the game at least once** before trying to mod the game! This applies to reinstalling your game too. 
