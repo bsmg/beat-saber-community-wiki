@@ -51,7 +51,7 @@ How many statistics could we fit into a single counters mod? A lot apparently, a
 [GitHub](https://github.com/caeden117) | [Donate](https://ko-fi.com/Caeden117)
 
 ## DaNike
-Creator of the custom-tailored version of IPA (illusion plugin architecture) BSIPA, a mod injector to allow Beat Saber to use mods! 
+Creator of the custom-tailored version of IPA (illusion plugin architecture) BSIPA, a mod injector to allow Beat Saber to use mods! Might have the best profile pic of all the modders.
 **Roles:** Modder
 **Contributions:** BSPIA
 [GitHub](https://github.com/nike4613) 
