@@ -16,7 +16,7 @@
 * [How to Map Swing and Use Shuffle](https://docs.google.com/document/d/1j7w1X-0QtnJDFVKzyyQc_KR7RE9H3C3JFesIXGR0s1c/edit), by Sykes
 * [Error Checking with MediocreMapper](https://docs.google.com/document/d/1IYIMQVHK75ZG1JV2VKCTagA_ty-tnzzR7yaFPHTiswg), by Helen Carnate
 
-> Take these guides with a grain of salt! They're not the holy bible of mapping - a lot of these are opinions. My advice is to follow these rules until you're comfortable with your skills, and then get creative, experiment and innovate!
+> Take these guides with a grain of salt! They're not the holy bible of mapping - a lot of these are still opinions. Not everyone's shares the same vocabulary either (what on earth is "drumsticking"?) My advice is to follow these rules until you're comfortable with your skills, and then get creative, experiment and innovate!
 
 ## Ranking Criteria
 Maps that are ranked and worth PP need to adhere to the [ScoreSaber Ranking Critera](https://docs.google.com/document/d/1mtVihRO1LomyptXayoDNDTQYgX_TQPp6ZYDmtwR2jMI/edit). To learn more about the ranking process, visit the [ScoreSaber Discord](https://discord.gg/WpuDMwU).
