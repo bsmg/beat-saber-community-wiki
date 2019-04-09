@@ -138,7 +138,7 @@ The madman behind Chroma and accuracy god on the leaderboards. He adds things to
 Creator of BeatDrop, everyone's favorite desktop application for custom song management! 
 **Roles:** Modder
 **Contributions:** BeatDrop
-[GitHub](https://github.com/StarGazer1258) | [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MJM78VP473AK8)
+[GitHub](https://github.com/StarGazer1258) | [Donate](https://www.patreon.com/bePatron?u=18487054)
 
 ## vanZeben
 Fastest steam notification sending simulator developer in the West. He also created the mod repository BeatMods!
