@@ -26,7 +26,7 @@ Keep your playspace clear of obstructions, allow adequate room around during gam
 > Beat Saber is not available for the Nintendo Wii, this image is used for informative purposes only.
 {.is-warning}
 
-# A Short Message from TammyPajammy and RQ
+# A Short Message from TammyMatty
 To reduce the risk of physical injury, always remember to stretch before and after playing Beat Saber.  Consider the following:
 
 ![Wammy](/uploads/images/wammy.gif "Wammy")
