@@ -18,8 +18,8 @@ The [BeatSaber Mod Manager](https://github.com/beat-saber-modding-group/BeatSabe
 
 **Run the game at least once** before trying to mod the game! This applies to reinstalling your game too. 
 
-> If your game is crashing upon installing mods with the Mod Manager for the first time, try verifying your files with Steam, or reinstalling the game with Oculus. Some changes had to be made regarding the way IPA works, and some users are missing important game files.
-> BSIPA is currently known incompatible with certain programs like FaceIt (cs:go matchmaking service). If you're getting any GetThreadContext failed errors, uninstall FaceIt 
+> If your game is **crashing** upon installing mods with the Mod Manager for the first time, try **verifying your files with Steam**, or **reinstalling** the game with Oculus. Some changes had to be made regarding the way IPA works, and some users are missing important game files.
+> BSIPA is currently known **incompatible** with certain programs like FaceIt (cs:go matchmaking service). If you're getting any GetThreadContext failed errors, uninstall FaceIt 
 {.is-warning}
 
 ## Manual Installation
