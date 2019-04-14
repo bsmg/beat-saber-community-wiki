@@ -22,6 +22,11 @@ The [BeatSaber Mod Manager](https://github.com/beat-saber-modding-group/BeatSabe
 > BSIPA is currently known **incompatible** with certain programs like FaceIt (cs:go matchmaking service). If you're getting any GetThreadContext failed errors, uninstall FaceIt 
 {.is-warning}
 
+
+> Make sure to scroll over to the right to see the Custom Maps pack! If you don't see anything, you probably installed your mods wrong. Don't panic and don't uninstall the game - delete your Plugins folder and try again.
+
+![Custommaps](/uploads/custommaps.png "Custommaps")
+
 ## Manual Installation
 
 **Run the game at least once** before trying to mod the game! This applies to reinstalling your game too. 
