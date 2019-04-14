@@ -28,13 +28,7 @@ The [BeatSaber Mod Manager](https://github.com/beat-saber-modding-group/BeatSabe
 > BSIPA is currently known **incompatible** with certain programs like FaceIt (cs:go matchmaking service). If you're getting any GetThreadContext failed errors, uninstall FaceIt 
 {.is-warning}
 
-
-> Make sure to scroll over to the right to see the Custom Maps pack! If you don't see anything, make sure that the following are correct:
-> a) You're scrolling right to actually see the CustomMaps songpack
-> b) There actually is a Plugins folder in your install directory
-> c) Steam/Oculus is launching Beat Saber from the same installation that mods are in, e.g. mods are on the D drive but steam is launching from the C drive
-
-![Custommaps](/uploads/custommaps.png "Custommaps")
+If it didn't seem to work, see the [section below](#It didn't work!)
 
 ## Manual Installation
 
@@ -50,11 +44,14 @@ The [BeatSaber Mod Manager](https://github.com/beat-saber-modding-group/BeatSabe
 ![Directory Plugins](/uploads/directory-plugins.png "Directory Plugins")
 5. Some mods have installation instructions, some don't. Generally you can just drag and drop the zip contents into your beat saber install folder, and the files should go into the corresponding folders. 
 
-> Make sure to scroll over to the right to see the Custom Maps pack! If you don't see anything, make sure that the following are correct:
-> a) You're scrolling right to actually see the CustomMaps songpack
-> b) There actually is a Plugins folder in your install directory
-> c) Steam/Oculus is launching Beat Saber from the same installation that mods are in, e.g. mods are on the D drive but steam is launching from the C drive
+If it didn't seem to work, see the [section below](#It didn't work!)
 
+## It didn't work!
+So you just installed some mods but they don't seem to appear in game. Don't panic and don't scream at #support just yet - make sure that the following are correct:
+a) You're scrolling right to actually see the CustomMaps songpack
+b) There actually is a Plugins folder in your install directory
+c) Steam/Oculus is launching Beat Saber from the same installation that mods are in, e.g. mods are on the D drive but steam is launching from the C drive
+d) If you installed mods manually, you included all the files from the download and put them in the correct folders.
 ![Custommaps](/uploads/custommaps.png "Custommaps")
 # How to get more songs
 The `Song Loader Plugin` enables you to load more songs into the game, but only includes one test song.
