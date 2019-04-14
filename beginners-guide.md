@@ -10,7 +10,7 @@ Beat Saber was not designed with mod support, so it needs to be patchched to ena
 > - Mods are subject to being broken by updates and that's normal - be patient and respectful when this happens, as modders are volunteers with real lives.
 > - Beat Games aren't purposefully trying to break mods. This is an Early Access game and updates can happen at any time.
 > 
-> Do not attack the devs for issues related to mods - modders and devs are two separate groups.
+> Do not attack the devs for issues related to mods, and vice versa - modders and devs are two separate groups. Just don't be a jerk ok
 {.is-danger}
 
 > Every time the game updates, you will have to do this process again to get all compatible mods. 
