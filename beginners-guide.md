@@ -5,7 +5,12 @@
 
 Beat Saber was not designed with mod support, so it needs to be patchched to enable mods.
 
-> It's not recommended to install mods without knowing what they do, this can lead to undesired behaviors and performance issues. {.is-danger}
+>By choosing to use mods, you understand that:
+> - You may experience problems that don't exist in the vanilla game. 99.9% of bugs and crashes are due to mods
+> - Mods are subject to being broken by updates and that's normal - be patient and respectful when this happens, as modders are volunteers with real lives
+> - Beat Games aren't purposefully trying to break mods.This is an Early Access game and updates can happen at any time
+> Do not attack the devs for issues related to mods - modders and devs are two separate groups.
+{.is-danger}
 
 > Every time the game updates, you will have to do this process again to get all compatible mods. 
 > Since mods are made by volunteers, you may need to wait for your favorite mod to be fixed for the latest game version. Make sure to check the #server-announcements channel in the discord for the latest updates!
