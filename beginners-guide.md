@@ -27,6 +27,7 @@ The [BeatSaber Mod Manager](https://github.com/beat-saber-modding-group/BeatSabe
 > a) You're scrolling right to actually see the CustomMaps songpack
 > b) There actually is a Plugins folder in your install directory
 > c) Steam/Oculus is launching Beat Saber from the same installation that mods are in, e.g. mods are on the D drive but steam is launching from the C drive
+
 ![Custommaps](/uploads/custommaps.png "Custommaps")
 
 ## Manual Installation
@@ -47,6 +48,7 @@ The [BeatSaber Mod Manager](https://github.com/beat-saber-modding-group/BeatSabe
 > a) You're scrolling right to actually see the CustomMaps songpack
 > b) There actually is a Plugins folder in your install directory
 > c) Steam/Oculus is launching Beat Saber from the same installation that mods are in, e.g. mods are on the D drive but steam is launching from the C drive
+
 ![Custommaps](/uploads/custommaps.png "Custommaps")
 # How to get more songs
 The `Song Loader Plugin` enables you to load more songs into the game, but only includes one test song.
