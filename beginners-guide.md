@@ -24,10 +24,6 @@ The [BeatSaber Mod Manager](https://github.com/beat-saber-modding-group/BeatSabe
 
 **Run the game at least once** before trying to mod the game! This applies to reinstalling your game too. 
 
-> If your game is **crashing** upon installing mods with the Mod Manager for the first time, try **verifying your files with Steam**, or **reinstalling** the game with Oculus. Some changes had to be made regarding the way IPA works, and some users are missing important game files.
-> BSIPA is currently known **incompatible** with certain programs like FaceIt (cs:go matchmaking service). If you're getting any GetThreadContext failed errors, uninstall FaceIt 
-{.is-warning}
-
 If it didn't seem to work, see the [section below](#it-didnt-work)
 
 ## Manual Installation
@@ -54,6 +50,11 @@ c) Steam/Oculus is launching Beat Saber from the same installation that mods are
 d) If you installed mods manually, you included all the files from the download and put them in the correct folders.
 
 ![Custommaps](/uploads/custommaps.png "Custommaps")
+
+> If your game is **crashing** upon installing mods, try **verifying your files** with Steam, or **reinstalling** the game with Oculus Home. Some changes had to be made regarding the way IPA works, and some users are missing important game files.
+{.is-warning}
+> BSIPA is currently known **incompatible** with certain programs like FaceIt (cs:go matchmaking service). If you're getting any GetThreadContext failed errors, uninstall FaceIt 
+{.is-danger}
 # How to get more songs
 The `Song Loader Plugin` enables you to load more songs into the game, but only includes one test song.
 
