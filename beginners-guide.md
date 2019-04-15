@@ -53,6 +53,7 @@ d) If you installed mods manually, you included all the files from the download 
 
 > If your game is **crashing** upon installing mods, try **verifying your files** with Steam, or **reinstalling** the game with Oculus Home. Some changes had to be made regarding the way IPA works, and some users are missing important game files.
 {.is-warning}
+
 > BSIPA is currently known **incompatible** with certain programs like FaceIt (cs:go matchmaking service). If you're getting any GetThreadContext failed errors, uninstall FaceIt 
 {.is-danger}
 # How to get more songs
