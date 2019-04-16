@@ -49,13 +49,13 @@ b) There actually is a Plugins folder in your install directory
 c) Steam/Oculus is launching Beat Saber from the same installation that mods are in, e.g. mods are on the D drive but steam is launching from the C drive
 d) If you installed mods manually, you included all the files from the download and put them in the correct folders.
 
-![Custommaps](/uploads/custommaps.png "Custommaps")
-
 > If your game is **crashing** upon installing mods, try **verifying your files** with Steam, or **reinstalling** the game with Oculus Home. Some changes had to be made regarding the way IPA works, and some users are missing important game files.
 {.is-warning}
 
 > BSIPA is currently known **incompatible** with certain programs like FaceIt (cs:go matchmaking service). If you're getting any GetThreadContext failed errors, uninstall FaceIt 
 {.is-danger}
+
+![Custommaps](/uploads/custommaps.png "Custommaps")
 # How to get more songs
 The `Song Loader Plugin` enables you to load more songs into the game, but only includes one test song.
 
