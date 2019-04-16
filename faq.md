@@ -83,18 +83,13 @@ Delete or rename the Beat Saber folder to something else. When you re-enter the 
 
 ## How did you run the invitational (2018) stream?
 
-Megalon made a writeup way back in the day, and the following messages link to his posts from early July 2018
+Megalon made a 6-part writeup in the discord in early July 2018, and the following link to those posts in the BSMG discord:
 
- Part 1: [Setup RTMP server and connections](https://discordapp.com/channels/441805394323439646/441805394323439648/463600705811251200)
-
-Part 2: [Recieve the streams in OBS](https://discordapp.com/channels/441805394323439646/441805394323439648/463603246842511362)
-
-Part 3: [OBS workflow and tips](https://discordapp.com/channels/441805394323439646/441805394323439648/463606263926751233)
-
-Part 4: [Creating the UI](https://discordapp.com/channels/441805394323439646/441805394323439648/463615913405448192)
-
-Part 5: [The Live Score display](https://discordapp.com/channels/441805394323439646/441805394323439648/463621857913077770)
-
-Part 6: [Audio and music](https://discordapp.com/channels/441805394323439646/441805394323439648/463651616235716619)
+1. [Setup RTMP server and connections](https://discordapp.com/channels/441805394323439646/441805394323439648/463600705811251200)
+2. [Recieve the streams in OBS](https://discordapp.com/channels/441805394323439646/441805394323439648/463603246842511362)
+3. [OBS workflow and tips](https://discordapp.com/channels/441805394323439646/441805394323439648/463606263926751233)
+4. [Creating the UI](https://discordapp.com/channels/441805394323439646/441805394323439648/463615913405448192)
+5. [The Live Score display](https://discordapp.com/channels/441805394323439646/441805394323439648/463621857913077770)
+6. [Audio and music](https://discordapp.com/channels/441805394323439646/441805394323439648/463651616235716619)
 
         
