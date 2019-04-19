@@ -1,5 +1,5 @@
-<!-- TITLE: Beat Saber Modding Community -->
-<!-- SUBTITLE: Welcome to the Beat Saber Modding Community Wiki! -->
+<!-- TITLE: Beat Saber Modding Group -->
+<!-- SUBTITLE: Welcome to the Beat Saber Modding Group Wiki! -->
 
 # Getting Started
 * [Beginner's Guide](beginners-guide)
