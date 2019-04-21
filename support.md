@@ -65,6 +65,7 @@ If [2.3](#2-3-the-game-is-extremely-laggy-after-installing-mods) didn't improve 
 * Turn down Render Scale, Anti-Aliasing, mirror, fog, etc in the base game settings.
 * For Oculus players: consider using 2 sensors instead of 3+.
 * Reduce your total mod and song count. 
+* Low framerate can also be caused by something going wrong in the cache at: `%AppData%\..\LocalLow\Hyperbolic Magnetism` You can fix this by either renaming or deleting the folder. (Deleting the folder will cause you to lose your local scores)
 
 VR is very CPU intensive, especially if you add mods. If you're struggling to run the game with the mods you want, consider upgrading your hardware. Note that Beat Saber doesn't utilize the GPU very much as it's a fairly simple game visually. 
 
