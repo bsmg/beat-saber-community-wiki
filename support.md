@@ -21,6 +21,13 @@ Take your pick, they all work the same way. Alternatively, consider using [BeatD
 ### 1.3 Permission errors
 Run the mod manager in admin mode if your PC's security settings have insufficient permissions to patch files by default.
 
+### 1.4 No mods in game
+So you just installed some mods but they don't seem to appear in game. Make sure that the following are correct:
+a) You're scrolling right to actually see the CustomMaps songpack
+b) There actually is a Plugins folder in your install directory
+c) Steam/Oculus is launching Beat Saber from the same installation that mods are in. 
+	*e.g. mods are on the D drive but steam is launching from the C drive*
+d) If you installed mods manually, you included all the files from the download and put them in the correct folders.
 # 2. Game has issues after installing mods
 ### 2.1 GetThreadContext Failed Error
 If a window pops up saying `GetThreadContext Failed` and/or you hear a Windows error sound, you may have software on your PC that's breaking Beat Saber mods. Many third-party anti-cheat software like ESEA and FaceIt Anti-Cheat disrupt BSIPA from applying mods to Beat Saber, even when not running. Some Anti-Virus software exhibit similar behavior. 
