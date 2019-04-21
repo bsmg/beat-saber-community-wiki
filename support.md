@@ -5,7 +5,8 @@
 1. [Installer Issues](#1-installer-problems)
 2. [In-Game Issues](#2-game-has-issues-after-installing-mods)
 3. [Common Questions](#3-common-questions)
-4. [Still Having Issues](#4-still-having-issues)
+4. [Troubleshooting](#4-Troubleshooting)
+5. [Still Having Issues](#5-still-having-issues)
 
 # 1. Installer problems
 ### 1.1 Is the mod manager a virus?
@@ -26,8 +27,8 @@ Your anti-virus program can also be the cause for permission errors make sure yo
 ### 1.4 No mods in game
 So you just installed some mods but they don't seem to appear in game. Make sure that the following are correct:
 * As stated multiple times in the [beginner's guide](/beginners-guide), **you ran the game once before installing mods**
-* You're **scrolling right **to actually see the CustomMaps songpack
-* There actually is a Plugins folder in your install directory
+* You're **scrolling right **to actually see the CustomMaps songpack.
+* There actually is a Plugins folder in your install directory.
 * Steam/Oculus is launching Beat Saber from the **same installation** that mods are in. *e.g. mods are on the D drive but steam is launching from the C drive*
 * If you installed mods manually,make sure you included all the files from the download and put them in the correct folders, as well as their dependencies.
 * Redownload the dependencies, `BSUtils`, `Harmony`, `IniParser` and `BSIPA` and extract them to the correct folders, and run the IPA.exe again.
@@ -38,14 +39,15 @@ So you just installed some mods but they don't seem to appear in game. Make sure
 If a window pops up saying `GetThreadContext Failed` and/or you hear a Windows error sound, you may have software on your PC that's breaking Beat Saber mods. Many third-party anti-cheat software like ESEA and FaceIt disrupt BSIPA from applying mods to Beat Saber, even when not running. Some Anti-Virus software also exhibit similar behavior. 
 
 We're working on a more permanent solution, but at the moment you need to do the following steps:
-1. Uninstall the anti-cheat software
-2. Reboot your PC
-3. Verify files in Steam, or reinstall the game on Oculus Home
+1. Uninstall the anti-cheat software.
+2. Reboot your PC.
+3. Verify files in Steam, or reinstall the game on Oculus Home.
 
 This should fix the problem.
 
 ### 2.2 The desktop window and headset view are completely black upon running the game, or a Unity crash window pops up on screen.
-This one is simple: verify files if you have the game on Steam, or reinstall the game on Oculus Home. This seems to happen when upgrading Beat Saber to 0.13 from 0.12 and having mods installed previously, but not to users with clean installs of the game.
+This one is simple: verify files if you have the game on Steam, or reinstall the game on Oculus Home, if you're reinstalling refer to [4.1](#4-1-backing-up-custom-content)
+This seems to happen when upgrading Beat Saber to 0.13 from 0.12 and having mods installed previously, but not to users with clean installs of the game.
 > We're trying to get to the bottom of this problem but we have insufficient data. If you got the Unity crash window and you'd like to help us, please navigate to `%AppData%\..\LocalLow\Hyperbolic Magnetism\` (copy-paste it into your address bar) and see if there's anything in the `Crashes` folder. If there is, zip it up and ping `@williums#0001` in the BSMG #support channel. Thank you!
 
 ### 2.3 The game is extremely laggy after installing mods
@@ -81,9 +83,35 @@ Click the `Home` button on your keyboard with the game in focus to toggle visibi
 ### 3.5 How do I use `x` mod?
 If you're using the Beat Saber Mod Manager, click the mod and hit the "View Selected Mod Info" button. http://beatmods.com has a "More Info" button on each mod as well.
 
-# 4. Still having issues
+### 3.6 Songs Are Broken
+If your songs are broken make sure you have the lastest version of song loader, as songs mapped for newer versions don't work well with previous versions of the game.
+If that didn't fix it then you might have a corrupted song, you can try finding it by refering to [4.2](#4-2-finding-broken-content)
+# 4. Troubleshooting
+### 4.1 Backing Up Custom Content
+Backing up your custom content is ideal so you wont lose your custom content
+mainly songs, but sabers and avatars too, although I highly recommend you install your custom content after verifying that the mods work
+as songs and avatars and platforms and sabers can break your game if they become outdated or corrupted somehow, refer to [4.2](#4-2-finding-broken-content)
+
+To back up your custom content simply move them out of the `Beat Saber Directory`
+Either to your desktop or the folder before that, your directory will usually be at
+
+>Steam: 	\steamapps\common\Beat Saber\Plugins
+
+>Oculus: 	\hyperbolic-magnetism-beat-saber\Plugins
+
+### 4.2 Finding Broken Content
+If you're on Steam you can go to Beat Saber > Properties > Set Launch Options > Add "--verbose" to the text filed that appears
+
+If you're on Oculus then you will have to 
+Right click on Beat Saber.exe and create a shortcut. Right click the shortcut and edit the Target to add "--verbose" to the end of it. Should be something like "C:\Program Files\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\Beat Saber.exe" --verbose
+
+After adding verbose to your game hopefully it will display any errors regarding your avatars, sabers, and songs although it may not show 100% of the time
+for avatars and sabers, you may have to remove all your avatars/sabers and try them one by one to see which one breaks the game.
+//add wahtever fuckin else u want in here, and please add more to this as this can get confusing.
+
+# 5. Still having issues
 If this page doesn't cover the bases, then feel free to ask a question in the discord! To increase the chance that you'll have your questions answered, consider the following:
-* Use the right channel please. `#support` for mod troubleshooting, `#model-discussion` for questions about **making** your own avatars/sabers/platforms, and `#mapping-discussion` for questions about **making** maps, and `#mod-development` for help with creating plugins.
+* Use the right channel please. `#support` for mod troubleshooting, `#model-discussion` for questions about **making** your own avatars, and `#mapping-discussion` for questions about **making** maps.
 * Be polite and respectful
 * Describe your problem in detail. "It didn't work" is about as descriptive as telling your doctor you don't feel well. What's not working, and what did you try? Are there any messages that come up on screen? Did your entire screen turn bright purple? 
 
