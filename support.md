@@ -21,7 +21,7 @@ Take your pick, they all work the same way. Alternatively, consider using [BeatD
 ### 1.3 Permission errors
 Run the mod manager in admin mode if your PC's security settings have insufficient permissions to patch files by default.
 Your anti-virus program can also be the cause for permission errors make sure you add the entire beatsaber folder to your exceptions, 
->`You could also add the beatsaber.exe and ipa.exe to your list of exceptions`
+>You could also add the `beatsaber.exe` and `ipa.exe` to your list of exceptions
 
 ### 1.4 No mods in game
 So you just installed some mods but they don't seem to appear in game. Make sure that the following are correct:
