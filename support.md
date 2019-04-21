@@ -84,13 +84,13 @@ Click the `Home` button on your keyboard with the game in focus to toggle visibi
 If you're using the Beat Saber Mod Manager, click the mod and hit the "View Selected Mod Info" button. http://beatmods.com has a "More Info" button on each mod as well.
 
 ### 3.6 Songs Are Broken
-If your songs are broken make sure you have the lastest version of song loader, as songs mapped for newer versions don't work well with previous versions of the game.
+If your songs are broken make sure you have the lastest version of the song loader plugin, as songs mapped for newer versions don't work well with previous versions of the game.
 If that didn't fix it then you might have a corrupted song, you can try finding it by refering to [Finding Broken Content](#4-2-finding-broken-content)
 # 4. Troubleshooting
 ### 4.1 Backing Up Custom Content
 Backing up your custom content is ideal so you wont lose your custom content
 mainly songs, but sabers and avatars too, although I highly recommend you install your custom content after verifying that the mods work
-as songs and avatars and platforms and sabers can break your game if they become outdated or corrupted somehow, refer to [4.2](#4-2-finding-broken-content)
+as songs and avatars and platforms and sabers can break your game if they become outdated or corrupted somehow, refer to [Finding Broken Content](#4-2-finding-broken-content)
 
 To back up your custom content simply move them out of the `Beat Saber Directory`
 Either to your desktop or the folder before that, your directory will usually be at
