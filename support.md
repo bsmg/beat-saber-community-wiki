@@ -57,7 +57,7 @@ If that didn't solve the issue, the problem could be GeForce Experience setting 
 # 3. Common Questions
 ### 3.1 Blank Menu No Buttons
 If your main window in game is blank, your save file likely got corrupted.
-To fix this refer to [Delete Beatsaber Folder Within Your App Data](#-deleting-your-locallow-beatsaber-data)
+To fix this refer to [Delete Beatsaber Folder Within Your App Data](##deleting-your-locallow-beatsaber-data)
 >Note: This will delete your local scores and statistics.
 {.is-warning}
 
