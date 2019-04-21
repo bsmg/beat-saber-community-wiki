@@ -84,6 +84,7 @@ Click the `Home` button on your keyboard with the game in focus to toggle visibi
 ### A.2
 
 ## Songloader Issues
+
 ### S.1 My Songs Are Missing
 >Make sure you read [No Mods In Game](#1-4-no-mods-in-game)
 Make sure your songs are in your CustomSongs folder, this will be located in your main beat saber folder/directory, this contains all of the custom songs you have downloaded so far.
@@ -94,11 +95,11 @@ If your songs are broken make sure you have the lastest version of the song load
 If that didn't fix it then you might have a corrupted song, you can try finding it by refering to [Finding Broken Content](#4-2-finding-broken-content)
 
 ## Camera Plus Issues
-### 3.8 Camera Plus Isn't Working
+### C.1 Camera Plus Isn't Working
 Make sure the setting for "Smooth Camera" is turned off in your ingame settings, also if that doesn't work make sure you have the mod intalled properly
 try reinstalling it, and all of its dependencies.
 
-### 3.9 My desktop view only takes up a small section of the screen
+### C.2 My desktop view only takes up a small section of the screen
 Your CameraPlus display isn't filling up your canvas. Either drag the corner to fit the screen, or right click the window and click "Fit to Canvas".
 
 # 4. Troubleshooting
