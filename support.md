@@ -143,6 +143,7 @@ To verify your game files on steam follow these steps:
 5.)Select the last option "Verify Integrity Of Game Files"
 6.)Let it finish verifying and downloading any missing files and you should be good to go.`
 
+[video](https://www.youtube.com/watch?v=EBFfT4-ZiIc){.youtube}
 
 # 5. Still having issues
 If this page doesn't cover the bases, then feel free to ask a question in the discord! To increase the chance that you'll have your questions answered, consider the following:
