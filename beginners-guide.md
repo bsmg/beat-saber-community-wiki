@@ -24,7 +24,7 @@ The [BeatSaber Mod Manager](https://github.com/beat-saber-modding-group/BeatSabe
 
 **Run the game at least once** before trying to mod the game! This applies to reinstalling your game too. 
 
-If it didn't seem to work, see the [the troubleshooting section below](#it-didnt-work)
+If it didn't seem to work, see the [support page](support#1-4-no-mods-in-game)
 
 ## Manual Installation
 
@@ -40,22 +40,7 @@ If it didn't seem to work, see the [the troubleshooting section below](#it-didnt
 ![Directory Plugins](/uploads/directory-plugins.png "Directory Plugins")
 5. Some mods have installation instructions, some don't. Generally you can just drag and drop the zip contents into your beat saber install folder, and the files should go into the corresponding folders. 
 
-If it didn't seem to work, see the [section below](#it-didnt-work)
-
-## It didn't work!
-So you just installed some mods but they don't seem to appear in game. Don't panic and don't scream at #support just yet - make sure that the following are correct:
-a) You're scrolling right to actually see the CustomMaps songpack
-b) There actually is a Plugins folder in your install directory
-c) Steam/Oculus is launching Beat Saber from the same installation that mods are in, e.g. mods are on the D drive but steam is launching from the C drive
-d) If you installed mods manually, you included all the files from the download and put them in the correct folders.
-
-> If your game is **crashing** upon installing mods, try **verifying your files** with Steam, or **reinstalling** the game with Oculus Home. Some changes had to be made regarding the way IPA works, and some users are missing important game files.
-{.is-warning}
-
-> BSIPA is currently known **incompatible** with certain programs like FaceIt (cs:go matchmaking service). If you're getting any GetThreadContext failed errors, uninstall FaceIt 
-{.is-danger}
-
-![Custommaps](/uploads/custommaps.png "Custommaps")
+If it didn't seem to work, see the [support page](support#1-4-no-mods-in-game)
 # How to get more songs
 The `Song Loader Plugin` enables you to load more songs into the game, but only includes one test song.
 
