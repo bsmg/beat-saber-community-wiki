@@ -39,6 +39,8 @@ This one is simple: verify files if you have the game on Steam, or reinstall the
 
 ### 2.3 The game is extremely laggy after installing mods
 If the game lags so badly that you can barely click the `Continue` button on the Health & Saftey screen, then verify files if you have the game on Steam, or reinstall the game on Oculus Home.
+
+If that didn't solve the issue, the problem could be GeForce Experience setting your Render Scale way too high, or see the section on [improving framerate](#framerate-is-low)
 # 3. Common Issues
 ### 3.1 My menus are completely blank in game
 If your main window in game is blank, your save file likely got corrupted. To fix it: 
@@ -47,4 +49,6 @@ If your main window in game is blank, your save file likely got corrupted. To fi
  
 When you re-enter the game, it'll recreate the save file and should load the main menu properly.
 
+### 3.2 Framerate is low
+If 
 
