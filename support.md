@@ -5,7 +5,7 @@
 1. [Installer Issues](#1-installer-problems)
 2. [In-Game Issues](#2-game-has-issues-after-installing-mods)
 3. [Common Questions](#3-common-questions)
-4. [Troubleshooting](#4-Troubleshooting)
+4. [Troubleshooting](#4-troubleshooting)
 5. [Still Having Issues](#5-still-having-issues)
 
 # 1. Installer problems
@@ -46,14 +46,14 @@ We're working on a more permanent solution, but at the moment you need to do the
 This should fix the problem.
 
 ### 2.2 The desktop window and headset view are completely black upon running the game, or a Unity crash window pops up on screen.
-This one is simple: verify files if you have the game on Steam, or reinstall the game on Oculus Home, if you're reinstalling refer to [4.1](#4-1-backing-up-custom-content)
+This one is simple: verify files if you have the game on Steam, or reinstall the game on Oculus Home, if you're reinstalling refer to [Backing Up Custom Content](#4-1-backing-up-custom-content)
 This seems to happen when upgrading Beat Saber to 0.13 from 0.12 and having mods installed previously, but not to users with clean installs of the game.
 > We're trying to get to the bottom of this problem but we have insufficient data. If you got the Unity crash window and you'd like to help us, please navigate to `%AppData%\..\LocalLow\Hyperbolic Magnetism\` (copy-paste it into your address bar) and see if there's anything in the `Crashes` folder. If there is, zip it up and ping `@williums#0001` in the BSMG #support channel. Thank you!
 
 ### 2.3 The game is extremely laggy after installing mods
 If the game lags so badly that you can barely click the `Continue` button on the Health & Saftey screen, then verify files if you have the game on Steam, or reinstall the game on Oculus Home.
 
-If that didn't solve the issue, the problem could be GeForce Experience setting your Render Scale way too high, or see the section on [improving framerate](#framerate-is-low)
+If that didn't solve the issue, the problem could be GeForce Experience setting your Render Scale way too high, or see the section on [Improving framerate](#framerate-is-low)
 # 3. Common Questions
 ### 3.1 My menus are completely blank in game
 If your main window in game is blank, your save file likely got corrupted. To fix it: 
@@ -85,7 +85,7 @@ If you're using the Beat Saber Mod Manager, click the mod and hit the "View Sele
 
 ### 3.6 Songs Are Broken
 If your songs are broken make sure you have the lastest version of song loader, as songs mapped for newer versions don't work well with previous versions of the game.
-If that didn't fix it then you might have a corrupted song, you can try finding it by refering to [4.2](#4-2-finding-broken-content)
+If that didn't fix it then you might have a corrupted song, you can try finding it by refering to [Finding Broken Content](#4-2-finding-broken-content)
 # 4. Troubleshooting
 ### 4.1 Backing Up Custom Content
 Backing up your custom content is ideal so you wont lose your custom content
