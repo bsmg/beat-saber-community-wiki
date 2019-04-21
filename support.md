@@ -74,18 +74,21 @@ If [2.3](#2-3-the-game-is-extremely-laggy-after-installing-mods) didn't improve 
 
 VR is very CPU intensive, especially if you add mods. If you're struggling to run the game with the mods you want, consider upgrading your hardware. Note that Beat Saber doesn't utilize the GPU very much as it's a fairly simple game visually. 
 
-### 3.3 My desktop view only takes up a small section of the screen
-Your CameraPlus display isn't filling up your canvas. Either drag the corner to fit the screen, or right click the window and click "Fit to Canvas".
-
-### 3.4 Custom avatars show up in my headset, how do I get rid of that?
+### 3.3 Custom avatars show up in my headset, how do I get rid of that?
 Click the `Home` button on your keyboard with the game in focus to toggle visibility in the headset.
 
-### 3.5 How do I use `x` mod?
+### 3.4 How do I use `x` mod?
 If you're using the Beat Saber Mod Manager, click the mod and hit the "View Selected Mod Info" button. http://beatmods.com has a "More Info" button on each mod as well.
 
-### 3.6 Songs Are Broken / Invisible Blocks
+### 3.5 Songs Are Broken / Invisible Blocks
 If your songs are broken make sure you have the lastest version of the song loader plugin, as songs mapped for newer versions don't work well with previous versions of the game.
 If that didn't fix it then you might have a corrupted song, you can try finding it by refering to [Finding Broken Content](#4-2-finding-broken-content)
+
+## Camera Plus Issues
+
+### 3.6 My desktop view only takes up a small section of the screen
+Your CameraPlus display isn't filling up your canvas. Either drag the corner to fit the screen, or right click the window and click "Fit to Canvas".
+
 # 4. Troubleshooting
 ### 4.1 Backing Up Custom Content
 Backing up your custom content is ideal so you wont lose your custom content
