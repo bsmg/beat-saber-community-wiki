@@ -41,12 +41,17 @@ If a window pops up saying `GetThreadContext Failed` and/or you hear a Windows e
 We're working on a more permanent solution, but at the moment you need to do the following steps:
 1. Uninstall the anti-cheat software.
 2. Reboot your PC.
-3. Verify files in Steam, or reinstall the game on Oculus Home.
+If problems persist then do the following for your respective platform.
+Steam : Do this [Verify Steam Game Files](#-verify-game-files-for-steam)
+Oculus : Perform a [Clean Installation](#-clean-installation)
 
 This should fix the problem.
 
 ### 2.2 Black screen/Evironment, Unity Crash Window
-This one is simple: verify files if you have the game on Steam, or reinstall the game on Oculus Home, if you're reinstalling refer to [Backing Up Custom Content](#4-1-backing-up-custom-content)
+This one is simple: verify files if you have the game on Steam, or reinstall the game on Oculus Home, 
+if you're reinstalling refer to these:
+[Backing Up Custom Content](#4-1-backing-up-custom-content)
+[Clean Installation](#-clean-installation)
 This seems to happen when upgrading Beat Saber to 0.13 from 0.12 and having mods installed previously, but not to users with clean installs of the game.
 > We're trying to get to the bottom of this problem but we have insufficient data. If you got the Unity crash window and you'd like to help us, please navigate to `%AppData%\..\LocalLow\Hyperbolic Magnetism\` (copy-paste it into your address bar) and see if there's anything in the `Crashes` folder. If there is, zip it up and ping `@williums#0001` in the BSMG #support channel. Thank you!
 
@@ -69,6 +74,7 @@ If [2.3](#2-3-the-game-is-extremely-laggy-after-installing-mods) didn't improve 
 * Turn down Render Scale, Anti-Aliasing, mirror, fog, etc in the base game settings.
 * For Oculus players: consider using 2 sensors instead of 3+.
 * Reduce your total mod and song count. 
+* Perform a clean reinstall of the game files. [Clean Installation](#-clean-installation)
 * Low framerate can also be caused by something going wrong within your application data folder, to fix this refer to [Deleting The Beatsaber Folder Within Your App Data](#deleting-your-local-low-beatsaber-data)
  >Note: Deleting the Appdata folder will also delete your local scores and statistics.
 {.is-warning}
@@ -152,7 +158,7 @@ To "delete" this folder you can rename it or actually delete it.
 ## Verify Game Files For Steam
 Steam Verify Game Files
 To verify your game files on steam follow these steps:
-1.)Make sure steamvr is closed as it wont let you verify your games otherwise.
+1.)Make sure steamvr is closed as it wont let you verify your games otherwise. 
 2.)Go to your steam library and find Beat Saber
 3.)Right click Beat Saber and click on Properties
 4.)Go to the "Local Files" tab in properties
