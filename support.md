@@ -1,5 +1,5 @@
 <!-- TITLE: Support -->
-<!-- SUBTITLE: Before you go yell in the #support channel, check these common issues! -->
+<!-- SUBTITLE: Common modding-related issues! -->
 
 ### Table of Contents
 1. [Installer Issues](#1-installer-problems)
@@ -7,7 +7,10 @@
 3. [Other Issues](#3-other-issues)
 4. [Common Mod Questions](#4-common-mod-questions)
 
+Please go over these common problems if you're having problems with mods. If this page doesn't cover the bases, then feel free to ask a question in the #support channel of the discord! 
 
+> Note: those with the `Support` role are volunteers that might choose to help out in their free time. It's recognition for the efforts and knowledge, but it doesn't necessarily mean that they'll be around to help just because they're online.
+{.is_warning}
 # 1. Installer problems
 ### 1.1 Is the mod manager a virus?
 BitDefender and other AV software seem to have added the Mod Manager into their database of suspicious programs. See this [GitHub issue](https://github.com/beat-saber-modding-group/BeatSaberModInstaller/issues/20) for more info, and use your best judgement.
@@ -50,5 +53,11 @@ If your main window in game is blank, your save file likely got corrupted. To fi
 When you re-enter the game, it'll recreate the save file and should load the main menu properly.
 
 ### 3.2 Framerate is low
-If 
-
+If [2.3](#2-3-the-game-is-extremely-laggy-after-installing-mods) didn't improve your framerate, then your PC might be struggling to keep up with the stress caused by mods. Here are some things you can do to improve framerate, in no particular order:
+* Use a less complex avatar.
+* The custom sabers `Plasma Katanas` have tons of custom events and are known to introduce lag if you miss.
+* CameraPlus can be very taxing, especially if you have multiple cameras and increase the FOV.
+* Turn down Render Scale, Anti-Aliasing, mirror, fog, etc in the base game settings.
+* For Oculus players: consider using 2 sensors instead of 3+.
+* Reduce your total mod and song count. 
+* 
