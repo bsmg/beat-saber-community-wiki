@@ -87,7 +87,7 @@ If you're using the Beat Saber Mod Manager, click the mod and hit the "View Sele
 If your songs are broken make sure you have the lastest version of the song loader plugin, as songs mapped for newer versions don't work well with previous versions of the game.
 If that didn't fix it then you might have a corrupted song, you can try finding it by refering to [Finding Broken Content](#4-2-finding-broken-content)
 # 4. Troubleshooting
-### 4.1 Backing Up Custom Content
+## 4.1 Backing Up Custom Content
 Backing up your custom content is ideal so you wont lose your custom content
 mainly songs, but sabers and avatars too, although I highly recommend you install your custom content after verifying that the mods work
 as songs and avatars and platforms and sabers can break your game if they become outdated or corrupted somehow, refer to [Finding Broken Content](#4-2-finding-broken-content)
