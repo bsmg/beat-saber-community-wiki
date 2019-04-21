@@ -142,9 +142,9 @@ for avatars and sabers, you may have to remove all your avatars/sabers and try t
 ## Deleting Your LocalLow Beatsaber Data
 This will delete your scores and local data but not your online scores or anything like that.
 You can find the folder here 
->"%appdata%/../locallow/hyperbolic magnetism/beat saber"
+>%appdata%/../locallow/hyperbolic magnetism/beat saber
 
-Copy and paste everything from inside the quotes to your address bar in file explorer
+Copy and paste everything from inside the bar above and paste it to your address bar in file explorer
 To "delete" this folder you can rename it or actually delete it. 
  >Note: Deleting the Appdata folder will also delete your local scores and statistics.
 {.is-warning}
