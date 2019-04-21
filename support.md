@@ -57,12 +57,7 @@ If that didn't solve the issue, the problem could be GeForce Experience setting 
 # 3. Common Questions
 ### 3.1 Blank Menu No Buttons
 If your main window in game is blank, your save file likely got corrupted.
-
-To fix it, navigate to:
->%AppData%\..\LocalLow\Hyperbolic Magnetism
-(copy and paste it to your address bar)
-
-Delete or rename the Beat Saber folder to something else. When you re-enter the game, it'll recreate the save file and should load the main menu properly.
+To fix this refer to [Delete Beatsaber Folder Within Your App Data](#deleting-your-locallow-beatsaber-data)
 >Note: This will delete your local scores and statistics.
 {.is-warning}
 
@@ -143,6 +138,16 @@ Right click on Beat Saber.exe and create a shortcut. Right click the shortcut an
 After adding verbose to your game hopefully it will display any errors regarding your avatars, sabers, and songs although it may not show 100% of the time
 for avatars and sabers, you may have to remove all your avatars/sabers and try them one by one to see which one breaks the game.
 //add wahtever fuckin else u want in here, and please add more to this as this can get confusing.
+
+## Deleting Your LocalLow Beatsaber Data
+This will delete your scores and local data but not your online scores or anything like that.
+You can find the folder here 
+>"%appdata%/../locallow/hyperbolic magnetism/beat saber"
+
+Copy and paste everything from inside the quotes to your address bar in file explorer
+To "delete" this folder you can rename it or actually delete it. 
+ >Note: Deleting the Appdata folder will also delete your local scores and statistics.
+{.is-warning}
 
 ## Verify Game Files For Steam
 Steam Verify Game Files
