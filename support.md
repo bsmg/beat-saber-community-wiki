@@ -23,6 +23,7 @@ Run the mod manager in admin mode if your PC's security settings have insufficie
 
 ### 1.4 No mods in game
 So you just installed some mods but they don't seem to appear in game. Make sure that the following are correct:
+* As stated **multiple** times in the [beginner's guide](/beginners-guide), **you ran the game once before installing mods**
 * You're scrolling right to actually see the CustomMaps songpack
 * There actually is a Plugins folder in your install directory
 * Steam/Oculus is launching Beat Saber from the same installation that mods are in. *e.g. mods are on the D drive but steam is launching from the C drive*
