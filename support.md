@@ -95,9 +95,9 @@ as songs and avatars and platforms and sabers can break your game if they become
 To back up your custom content simply move them out of the `Beat Saber Directory`
 Either to your desktop or the folder before that, your directory will usually be at
 
->Steam: 	\steamapps\common\Beat Saber\Plugins
+>Steam: 	`\steamapps\common\Beat Saber\`
 
->Oculus: 	\hyperbolic-magnetism-beat-saber\Plugins
+>Oculus: 	`\hyperbolic-magnetism-beat-saber\`
 
 ### 4.2 Finding Broken Content
 If you're on Steam you can go to Beat Saber > Properties > Set Launch Options > Add "--verbose" to the text filed that appears
