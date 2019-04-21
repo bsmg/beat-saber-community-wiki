@@ -74,7 +74,7 @@ If [2.3](#2-3-the-game-is-extremely-laggy-after-installing-mods) didn't improve 
 * Turn down Render Scale, Anti-Aliasing, mirror, fog, etc in the base game settings.
 * For Oculus players: consider using 2 sensors instead of 3+.
 * Reduce your total mod and song count. 
-* Perform a clean reinstall of the game files. [Clean Installation](#-clean-installation)
+* Perform a clean reinstall of the game files. [Clean Installation](#clean-installation)
 * Low framerate can also be caused by something going wrong within your application data folder, to fix this refer to [Deleting The Beatsaber Folder Within Your App Data](#deleting-your-local-low-beatsaber-data)
  >Note: Deleting the Appdata folder will also delete your local scores and statistics.
 {.is-warning}
