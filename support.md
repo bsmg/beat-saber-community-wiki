@@ -78,10 +78,13 @@ VR is very CPU intensive, especially if you add mods. If you're struggling to ru
 If you're using the Beat Saber Mod Manager, click the mod and hit the "View Selected Mod Info" button. http://beatmods.com has a "More Info" button on each mod as well.
 
 ## Custom Avatars Issues
-### A.1 Custom avatars show up in my headset, how do I get rid of that?
+### A.1 Custom Avatars (Not) Showing Ingame
 Click the `Home` button on your keyboard with the game in focus to toggle visibility in the headset.
 
-### A.2
+### A.2 My Avatars Are Broken
+Make sure your custom avatars plugin is installed properly and updated, also make sure your dependencies are too.
+You might have a corrupted/broken avatar, having one avatar break can break all of your avatars likewise with songs and sabers.
+Refer to [Finding Broken Content](#4-2-finding-broken-content) if you think you have corrupted avatars or if you've made sure your mods and dependencies are updated but avatars still are broken.
 
 ## Songloader Issues
 
