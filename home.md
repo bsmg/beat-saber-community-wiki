@@ -3,6 +3,7 @@
 
 # Getting Started
 * [Beginner's Guide](beginners-guide)
+* [Support](support)
 * [Grips and Tricks](grips-and-tricks)
 
 # Looking to Make Your Own Stuff?
