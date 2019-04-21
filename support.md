@@ -4,13 +4,9 @@
 ### Table of Contents
 1. [Installer Issues](#1-installer-problems)
 2. [In-Game Issues](#2-game-has-issues-after-installing-mods)
-3. [Other Issues](#3-other-issues)
-4. [Common Mod Questions](#4-common-mod-questions)
+3. [Common Questions](#4-common-questions)
+4. [Still Having Issues](#5-still-having-issues)
 
-Please go over these common problems if you're having problems with mods. If this page doesn't cover the bases, then feel free to ask a question in the #support channel of the discord! 
-
-> Note: those with the `Support` role are volunteers that might choose to help out in their free time. It's recognition for the efforts and knowledge, but it doesn't necessarily mean that they'll be around to help just because they're online.
-{.is_warning}
 # 1. Installer problems
 ### 1.1 Is the mod manager a virus?
 BitDefender and other AV software seem to have added the Mod Manager into their database of suspicious programs. See this [GitHub issue](https://github.com/beat-saber-modding-group/BeatSaberModInstaller/issues/20) for more info, and use your best judgement.
@@ -44,7 +40,7 @@ This one is simple: verify files if you have the game on Steam, or reinstall the
 If the game lags so badly that you can barely click the `Continue` button on the Health & Saftey screen, then verify files if you have the game on Steam, or reinstall the game on Oculus Home.
 
 If that didn't solve the issue, the problem could be GeForce Experience setting your Render Scale way too high, or see the section on [improving framerate](#framerate-is-low)
-# 3. Common Issues
+# 3. Common Questions
 ### 3.1 My menus are completely blank in game
 If your main window in game is blank, your save file likely got corrupted. To fix it: 
 1. Navigate to: `%AppData%\..\LocalLow\Hyperbolic Magnetism` *(copy and paste it to your address bar)*
@@ -60,4 +56,21 @@ If [2.3](#2-3-the-game-is-extremely-laggy-after-installing-mods) didn't improve 
 * Turn down Render Scale, Anti-Aliasing, mirror, fog, etc in the base game settings.
 * For Oculus players: consider using 2 sensors instead of 3+.
 * Reduce your total mod and song count. 
-* 
+
+### 3.3 My desktop view only takes up a small section of the screen
+Your CameraPlus display isn't filling up your canvas. Either drag the corner to fit the screen, or right click the window and click "Fit to Canvas".
+
+### 3.4 Custom avatars show up in my headset, how do I get rid of that?
+Click the `Home` button on your keyboard with the game in focus to toggle visibility in the headset.
+
+### 3.5 How do I use `x` mod?
+If you're using the Beat Saber Mod Manager, click the mod and hit the "View Selected Mod Info" button. http://beatmods.com has a "More Info" button on each mod as well.
+
+# 4. Still having issues
+If this page doesn't cover the bases, then feel free to ask a question in the discord! To increase the chance that you'll have your questions answered, consider the following:
+* Use the right channel please. `#support` for mod troubleshooting, `#model-discussion` for questions about **making** your own avatars, and `#mapping-discussion` for questions about **making** maps.
+* Be polite and respectful
+* Describe your problem in detail. "It didn't work" is about as descriptive as telling your doctor you don't feel well. What's not working, and what did you try? Are there any messages that come up on screen? Did your entire screen turn bright purple? 
+
+> Note: those with the `Support` role are volunteers that might choose to help out in their free time. It's recognition for the efforts and knowledge, but it doesn't necessarily mean that they'll be around to help just because they're online.
+{.is-warning}
