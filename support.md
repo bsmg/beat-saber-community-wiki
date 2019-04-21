@@ -59,7 +59,7 @@ If that didn't solve the issue, the problem could be GeForce Experience setting 
 If your main window in game is blank, your save file likely got corrupted.
 
 To fix it, navigate to:
-%AppData%\..\LocalLow\Hyperbolic Magnetism
+>%AppData%\..\LocalLow\Hyperbolic Magnetism
 (copy and paste it to your address bar)
 
 Delete or rename the Beat Saber folder to something else. When you re-enter the game, it'll recreate the save file and should load the main menu properly.
