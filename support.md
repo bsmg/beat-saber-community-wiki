@@ -89,7 +89,8 @@ Refer to [Finding Broken Content](#4-2-finding-broken-content) if you think you 
 ## Songloader Issues
 
 ### S.1 My Songs Are Missing
->Make sure you read [No Mods In Game](#1-4-no-mods-in-game).
+>Make sure you read [No Mods In Game](#1-4-no-mods-in-game) first
+
 Make sure your songs are in your CustomSongs folder, this will be located in your main beat saber folder/directory, this contains all of the custom songs you have downloaded so far.
 If its there then your plugins are probably the problem 
 
