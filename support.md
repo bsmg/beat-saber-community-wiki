@@ -133,6 +133,17 @@ After adding verbose to your game hopefully it will display any errors regarding
 for avatars and sabers, you may have to remove all your avatars/sabers and try them one by one to see which one breaks the game.
 //add wahtever fuckin else u want in here, and please add more to this as this can get confusing.
 
+## Verify Game Files For Steam
+Steam Verify Game Files
+To verify your game files on steam follow these steps:
+1.)Make sure steamvr is closed as it wont let you verify your games otherwise.
+2.)Go to your steam library and find Beat Saber
+3.)Right click Beat Saber and click on Properties
+4.)Go to the "Local Files" tab in properties
+5.)Select the last option "Verify Integrity Of Game Files"
+6.)Let it finish verifying and downloading any missing files and you should be good to go.
+
+
 # 5. Still having issues
 If this page doesn't cover the bases, then feel free to ask a question in the discord! To increase the chance that you'll have your questions answered, consider the following:
 * Use the right channel please. `#support` for mod troubleshooting, `#model-discussion` for questions about **making** your own avatars, and `#mapping-discussion` for questions about **making** maps.
