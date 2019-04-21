@@ -83,7 +83,7 @@ If you're using the Beat Saber Mod Manager, click the mod and hit the "View Sele
 
 # 4. Still having issues
 If this page doesn't cover the bases, then feel free to ask a question in the discord! To increase the chance that you'll have your questions answered, consider the following:
-* Use the right channel please. `#support` for mod troubleshooting, `#model-discussion` for questions about **making** your own avatars, and `#mapping-discussion` for questions about **making** maps.
+* Use the right channel please. `#support` for mod troubleshooting, `#model-discussion` for questions about **making** your own avatars/sabers/platforms, and `#mapping-discussion` for questions about **making** maps, and `#mod-development` for help with creating plugins.
 * Be polite and respectful
 * Describe your problem in detail. "It didn't work" is about as descriptive as telling your doctor you don't feel well. What's not working, and what did you try? Are there any messages that come up on screen? Did your entire screen turn bright purple? 
 
