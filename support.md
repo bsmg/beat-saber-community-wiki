@@ -63,6 +63,8 @@ If [2.3](#2-3-the-game-is-extremely-laggy-after-installing-mods) didn't improve 
 * For Oculus players: consider using 2 sensors instead of 3+.
 * Reduce your total mod and song count. 
 
+VR is very CPU intensive, especially if you add mods. If you're struggling to run the game with the mods you want, consider upgrading your hardware. Note that Beat Saber doesn't utilize the GPU very much as it's a fairly simple game visually. 
+
 ### 3.3 My desktop view only takes up a small section of the screen
 Your CameraPlus display isn't filling up your canvas. Either drag the corner to fit the screen, or right click the window and click "Fit to Canvas".
 
