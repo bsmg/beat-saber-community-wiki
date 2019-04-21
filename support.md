@@ -28,6 +28,8 @@ So you just installed some mods but they don't seem to appear in game. Make sure
 * There actually is a Plugins folder in your install directory
 * Steam/Oculus is launching Beat Saber from the **same installation** that mods are in. *e.g. mods are on the D drive but steam is launching from the C drive*
 * If you installed mods manually, you included all the files from the download and put them in the correct folders, as well as their dependencies.
+
+![Custommaps](/uploads/custommaps.png "Custommaps")
 # 2. Game has issues after installing mods
 ### 2.1 GetThreadContext Failed Error
 If a window pops up saying `GetThreadContext Failed` and/or you hear a Windows error sound, you may have software on your PC that's breaking Beat Saber mods. Many third-party anti-cheat software like ESEA and FaceIt disrupt BSIPA from applying mods to Beat Saber, even when not running. Some Anti-Virus software also exhibit similar behavior. 
