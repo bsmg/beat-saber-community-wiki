@@ -191,3 +191,5 @@ If this page doesn't cover the bases, then feel free to ask a question in the di
 
 > Note: those with the `Support` role are volunteers that might choose to help out in their free time. It's recognition for the efforts and knowledge, but it doesn't necessarily mean that they'll be around to help just because they're online.
 {.is-warning}
+
+Thanks!
