@@ -58,7 +58,7 @@ This seems to happen when upgrading Beat Saber to 0.13 from 0.12 and having mods
 ### 2.3 The game is extremely laggy after installing mods
 If the game lags so badly that you can barely click the `Continue` button on the Health & Saftey screen, then verify files if you have the game on Steam, or reinstall the game on Oculus Home.
 
-If that didn't solve the issue, the problem could be GeForce Experience setting your Render Scale way too high, or see the section on [Improving framerate](#framerate-is-low)
+If that didn't solve the issue, the problem could be GeForce Experience setting your Render Scale way too high, or see the section on [Improving framerate](#framerate-issues)
 # 3. Common Questions
 ### 3.1 Blank Menu No Buttons
 If your main window in game is blank, your save file likely got corrupted.
@@ -68,7 +68,7 @@ To fix this refer to [Delete Beatsaber Folder Within Your App Data](#deleting-yo
 
 VR is very CPU intensive, especially if you add mods. If you're struggling to run the game with the mods you want, consider upgrading your hardware. Note that Beat Saber doesn't utilize the GPU very much as it's a fairly simple game visually. 
 
-## Framerate is low
+## Framerate Issues
 If [2.3](#2-3-the-game-is-extremely-laggy-after-installing-mods) didn't improve your framerate, then your PC might be struggling to keep up with the stress caused by mods. Here are some things you can do to improve framerate, in no particular order:
 * Use a less complex avatar.
 * The custom sabers `Plasma Katanas` have tons of custom events and are known to introduce lag if you miss.
