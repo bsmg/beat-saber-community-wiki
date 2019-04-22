@@ -35,6 +35,8 @@ So you just installed some mods but they don't seem to appear in game. Make sure
 
 ![Custommaps](/uploads/custommaps.png "Custommaps")
 # 2. Game Issues Post-Modding
+## Crashing/Game Not Starting Issues
+
 ### 2.1 GetThreadContext Failed Error
 If a window pops up saying `GetThreadContext Failed` and/or you hear a Windows error sound, you may have software on your PC that's breaking Beat Saber mods. Many third-party anti-cheat software like ESEA and FaceIt disrupt BSIPA from applying mods to Beat Saber, even when not running. Some Anti-Virus software also exhibit similar behavior. 
 
