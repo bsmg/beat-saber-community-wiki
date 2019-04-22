@@ -59,7 +59,8 @@ This seems to happen when upgrading Beat Saber to 0.13 from 0.12 and having mods
 > We're trying to get to the bottom of this problem but we have insufficient data. If you got the Unity crash window and you'd like to help us, please navigate to `%AppData%\..\LocalLow\Hyperbolic Magnetism\` (copy-paste it into your address bar) and see if there's anything in the `Crashes` folder. If there is, zip it up and ping `@williums#0001` in the BSMG #support channel. Thank you!
 
 ### 2.3 The game is extremely laggy after installing mods, or it won't start up at all
-If the game lags so badly that you can barely click the `Continue` button on the Health & Saftey screen, then verify files if you have the game on Steam, or reinstall the game on Oculus Home. Do the same if it won't start up at all, and shows no error messages when trying to launch the game.
+If the game lags so badly that you can barely click the `Continue` button on the Health & Saftey screen, then verify files if you have the game on Steam, or reinstall the game on Oculus Home. 
+Do the same if it won't start up at all, and shows no error messages when trying to launch the game.
 
 If that didn't solve the issue, then proceed on over to here for [Improving framerate](#framerate-issues)
 
