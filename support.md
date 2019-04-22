@@ -86,7 +86,7 @@ If you're using the Beat Saber Mod Manager, click the mod and hit the "View Sele
 
 ## Custom Avatars Issues
 ### A.1 Custom Avatars (Not) Showing Ingame
-Click the `Home` button on your keyboard with the game in focus to toggle visibility in the headset.
+Click the **Home** button on your keyboard with the game in focus to toggle visibility in the headset.
 
 ### A.2 My Avatars Are Broken
 Make sure your custom avatars plugin is installed properly and updated, also make sure your dependencies are too.
