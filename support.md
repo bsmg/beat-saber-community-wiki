@@ -58,7 +58,7 @@ This seems to happen when upgrading Beat Saber to 0.13 from 0.12 and having mods
 ### 2.3 The game is extremely laggy after installing mods
 If the game lags so badly that you can barely click the `Continue` button on the Health & Saftey screen, then verify files if you have the game on Steam, or reinstall the game on Oculus Home.
 
-If that didn't solve the issue, the problem could be GeForce Experience setting your Render Scale way too high, or see the section on how to [Improving framerate](#framerate-issues)
+If that didn't solve the issue, the problem could be GeForce Experience setting your Render Scale way too high, or see the section on how to [Improve framerate](#framerate-issues)
 # 3. Common Questions
 ### 3.1 Blank Menu No Buttons
 If your main window in game is blank, your save file likely got corrupted.
