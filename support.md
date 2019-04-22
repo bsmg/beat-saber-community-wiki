@@ -3,7 +3,7 @@
 
 ### Table of Contents
 1. [Installer Issues](#1-installer-problems)
-2. [In-Game Issues](#2-game-has-issues-after-installing-mods)
+2. [In-Game Issues](#2-game-issues-post-modding)
 3. [Common Questions](#3-common-questions)
 4. [Troubleshooting](#4-troubleshooting)
 5. [Still Having Issues](#5-still-having-issues)
