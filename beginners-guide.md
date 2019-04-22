@@ -24,7 +24,7 @@ The [BeatSaber Mod Manager](https://github.com/beat-saber-modding-group/BeatSabe
 
 **Run the game at least once** before trying to mod the game! This applies to reinstalling your game too. 
 
-If it didn't seem to work, see the [support page](support#1-4-no-mods-in-game)
+If it didn't seem to work, see the [support page](support#1-4-no-mods-in-game).
 
 ## Manual Installation
 
