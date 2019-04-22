@@ -63,15 +63,6 @@ If the game lags so badly that you can barely click the `Continue` button on the
 
 If that didn't solve the issue, then proceed on over to here for [Improving framerate](#framerate-issues)
 
-# 3. Common Questions
-### 3.1 Blank Menu No Buttons
-If your main window in game is blank, your save file likely got corrupted.
-To fix this refer to [Delete Beatsaber Folder Within Your App Data](#deleting-your-local-low-beatsaber-data)
->Note: This will delete your local scores and statistics.
-{.is-warning}
-
-VR is very CPU intensive, especially if you add mods. If you're struggling to run the game with the mods you want, consider upgrading your hardware. Note that Beat Saber doesn't utilize the GPU very much as it's a fairly simple game visually. 
-
 ## Framerate Issues
 If [2.3](#2-3-the-game-is-extremely-laggy-after-installing-mods) didn't improve your framerate, then your PC might be struggling to keep up with the stress caused by mods. Here are some things you can do to improve framerate, in no particular order:
 * Use a less complex avatar.
@@ -85,6 +76,15 @@ If [2.3](#2-3-the-game-is-extremely-laggy-after-installing-mods) didn't improve 
  >Note: Deleting the Appdata folder will also delete your local scores and statistics.
 {.is-warning}
 
+
+# 3. Common Questions
+### 3.1 Blank Menu No Buttons
+If your main window in game is blank, your save file likely got corrupted.
+To fix this refer to [Delete Beatsaber Folder Within Your App Data](#deleting-your-local-low-beatsaber-data)
+>Note: This will delete your local scores and statistics.
+{.is-warning}
+
+VR is very CPU intensive, especially if you add mods. If you're struggling to run the game with the mods you want, consider upgrading your hardware. Note that Beat Saber doesn't utilize the GPU very much as it's a fairly simple game visually. 
 ### 3.2 How do I use `x` mod?
 If you're using the Beat Saber Mod Manager, click the mod and hit the "View Selected Mod Info" button. http://beatmods.com has a "More Info" button on each mod as well.
 
