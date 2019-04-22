@@ -152,6 +152,13 @@ You can find the folder here
 
 Copy and paste everything from inside the bar above and paste it to your address bar in file explorer
 To "delete" this folder you can rename it or actually delete it. 
+
+You can also get to this folder by showing hidden items and navigating to your
+>Users > "USER" > AppData > Local Low > Hyperbolic-magnetism
+
+Refer to this video [video](https://youtu.be/ONxJcD3Ir3Q){.youtube}
+
+
  >Note: Deleting the Appdata folder will also delete your local scores and statistics.
 {.is-warning}
 
