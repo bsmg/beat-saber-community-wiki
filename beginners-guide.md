@@ -30,7 +30,7 @@ If it didn't seem to work, see the [support page](support#1-4-no-mods-in-game).
 
 **Run the game at least once** before trying to mod the game! This applies to reinstalling your game too. 
 
-1. Download [BSIPA](https://github.com/nike4613/BeatSaber-IPA-Reloaded/releases/latest/download/Release.zip).
+1. Download [BSIPA](https://github.com/nike4613/BeatSaber-IPA-Reloaded/releases/latest/download/BSIPA.zip).
 2. Navigate to your [install folder.](faq/install-folder) and extract the contents of BSPIA into it.
 ![Directory Clean](/uploads/directory-clean.png "Directory Clean")
 ![Directory Ipa](/uploads/directory-ipa.png "Directory Ipa")
