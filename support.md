@@ -189,7 +189,9 @@ may break your game or mods, Oculus just deletes the folder as is, but this may 
 
 ## Watch Videos On Installing
 Here are videos I made showing the two methods for the entire modding process. I did both methods, using the installer, and doing it manually.
-[video](https://youtu.be/nbWNwwWFGKg){.youtube} 
+Also I apologize for the small end bit in the manual install, I've never used playlists before and I'm still not sure on how to use them.
+[video](https://youtu.be/nbWNwwWFGKg){.youtube} [video](https://youtu.be/4OH7CniNsUg){.youtube}
+
     
 
 
