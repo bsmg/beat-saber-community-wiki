@@ -189,7 +189,7 @@ may break your game or mods, Oculus just deletes the folder as is, but this may 
 
 ## Watch Videos On Installing
 Here are videos I made showing the two methods for the entire modding process. I did both methods, using the installer, and doing it manually.
-[video](https://youtu.be/nbWNwwWFGKg){.youtube}   [video](https://youtu.be/zQxYoVXdT7I){.youtube}
+[video](https://youtu.be/nbWNwwWFGKg){.youtube} 
     
 
 
