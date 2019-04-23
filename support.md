@@ -187,6 +187,13 @@ Then you'll have to go to whichever directory you had beatsaber installed and **
 may break your game or mods, Oculus just deletes the folder as is, but this may but highly unlikely break or not work, but better safe than sorry!
 **Now if you really want to have a CLEAN** Installation `Refer To:`[Deleting The Beatsaber Folder Within Your App Data](#deleting-your-local-low-beatsaber-data)
 
+## Watch Videos On Installing
+Here are videos I made showing the two methods for the entire modding process.
+Installer:                                                                          Manual:
+[video](https://youtu.be/nbWNwwWFGKg){.youtube}   [video](https://youtu.be/zQxYoVXdT7I){.youtube}
+    
+
+
 # 5. Still having issues
 If this page doesn't cover the bases, then feel free to ask a question in the discord! To increase the chance that you'll have your questions answered, consider the following:
 * Use the right channel please. `#support` for mod troubleshooting, `#model-discussion` for questions about **making** your own avatars, and `#mapping-discussion` for questions about **making** maps.
