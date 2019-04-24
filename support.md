@@ -46,7 +46,7 @@ We're working on a more permanent solution, but at the moment you need to do the
 2. Reboot your PC.
 3. Make sure your anti-virus is turned off for the mean time, and possibly consider adding your `Beat Saber` folder to your exceptions.
 If problems persist then do the following for your respective platform.
-Steam : Do this [Verify Steam Game Files](#-verify-game-files-for-steam)
+Steam : Do this [Verify Steam Game Files](#verify-game-files-for-steam)
 Oculus : Perform a [Clean Installation](#clean-installation)
 
 This should fix the problem.
