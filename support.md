@@ -31,7 +31,7 @@ So you just installed some mods but they don't seem to appear in game. Make sure
 * There actually is a Plugins folder in your install directory.
 * Steam/Oculus is launching Beat Saber from the **same installation** that mods are in. *e.g. mods are on the D drive but steam is launching from the C drive*
 * If you installed mods manually,make sure you included all the files from the download and put them in the correct folders, as well as their dependencies.
-* Redownload the dependencies, `BSUtils`, `Harmony`, `IniParser` and `BSIPA` and extract them to the correct folders, and run the IPA.exe again.
+* Redownload the dependencies, `BSUtils`, `Harmony`, `IniParser` , `CustomUI`, `BSIPA` and extract them to the correct folders, and run the IPA.exe again.
 
 ![Custommaps](/uploads/custommaps.png "Custommaps")
 # 2. Game Issues Post-Modding
