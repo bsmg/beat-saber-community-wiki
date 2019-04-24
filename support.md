@@ -149,7 +149,6 @@ If you're on Oculus then you will have to Right click on Beat Saber.exe and crea
 
 After adding verbose to your game hopefully it will display any errors regarding your avatars, sabers, and songs although it may not show 100% of the time
 for avatars and sabers, you may have to remove all your avatars/sabers and try them one by one to see which one breaks the game.
-//add wahtever fuckin else u want in here, and please add more to this as this can get confusing.
 
 ## Deleting Your LocalLow Beatsaber Data
 This will delete your scores and local data but not your online scores or anything like that.
