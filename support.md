@@ -68,7 +68,7 @@ If that didn't solve the issue, then proceed on over to here for [Improving fram
 ## Framerate Issues
 If [2.3](#2-3-the-game-is-extremely-laggy-after-installing-mods-or-it-wont-start-up-at-all) didn't improve your framerate, then your PC might be struggling to keep up with the stress caused by mods. Here are some things you can do to improve framerate, in no particular order:
 * Use a less complex avatar.
-* The custom sabers `Plasma Katanas` have tons of custom events and are known to introduce lag if you miss.
+* The custom saber **Plasma Katanas** have tons of custom events and are known to introduce lag if you miss.
 * CameraPlus can be very taxing, especially if you have multiple cameras and increase the FOV.
 * Turn down Render Scale, Anti-Aliasing, mirror, fog, etc in the base game settings.
 * For Oculus players: consider using 2 sensors instead of 3+.
