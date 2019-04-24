@@ -157,7 +157,7 @@ You can find the folder here
 >%appdata%/../locallow/hyperbolic magnetism/beat saber
 
 Copy and paste everything from inside the bar above and paste it to your address bar in file explorer
-To "delete" this folder you can rename it or actually delete it. 
+To "delete" this folder `(the beatsaber folder in locallow)` you can rename it or actually delete it. 
 
 You can also get to this folder by showing hidden items and navigating to your
 >Users > "USER" > AppData > Local Low > Hyperbolic-magnetism
