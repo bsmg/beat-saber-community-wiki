@@ -144,8 +144,8 @@ Either to your desktop or the folder before that, your directory will usually be
 If you're on Steam you can go to 
 >Beat Saber > Properties > Set Launch Options > `Add "--verbose" to the text filed that appears`
 
-If you're on Oculus then you will have to 
-Right click on Beat Saber.exe and create a shortcut. Right click the shortcut and edit the Target to add "--verbose" to the end of it. Should be something like "C:\Program Files\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\Beat Saber.exe" --verbose
+If you're on Oculus then you will have to Right click on Beat Saber.exe and create a shortcut. 
+>Right click the shortcut and edit the Target to add "--verbose" to the end of it. Should be something like "C:\Program Files\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\Beat Saber.exe" --verbose
 
 After adding verbose to your game hopefully it will display any errors regarding your avatars, sabers, and songs although it may not show 100% of the time
 for avatars and sabers, you may have to remove all your avatars/sabers and try them one by one to see which one breaks the game.
