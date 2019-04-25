@@ -67,6 +67,9 @@ If that didn't solve the issue, then proceed on over to here for [Improving fram
 
 ## Framerate Issues
 If [2.3](#2-3-the-game-is-extremely-laggy-after-installing-mods-or-it-wont-start-up-at-all) didn't improve your framerate, then your PC might be struggling to keep up with the stress caused by mods. Here are some things you can do to improve framerate, in no particular order:
+
+**NVDIA GEFORCE EXPERIENCE NOW OPTIMIZES BEATSABER, IT USUALLY SETS YOUR GAMES `ENDERING SCALE PAST 1.0, USUALLY 1.4 or 1.8`THIS IS THE COMMON REASON FOR LAG RECENTLY**
+
 * Use a less complex avatar.
 * The custom saber **Plasma Katanas** have tons of custom events and are known to introduce lag if you miss.
 * CameraPlus can be very taxing, especially if you have multiple cameras and increase the FOV.
@@ -143,7 +146,7 @@ Either to your desktop or the folder before that, your directory will usually be
 
 ### 4.2 Finding Broken Content
 If you're on Steam you can go to 
->Beat Saber > Properties > Set Launch Options > `Add "--verbose" to the text filed that appears`
+>Beat Saber > Properties > Set Launch Options > `Add "--verbose" to the text field that appears`
 
 If you're on Oculus then you will have to Right click on Beat Saber.exe and create a shortcut. 
 >Right click the shortcut and edit the Target to add "--verbose" to the end of it. Should be something like "C:\Program Files\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\Beat Saber.exe" --verbose
