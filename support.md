@@ -201,7 +201,7 @@ Refer to [Clean Install](#clean-installation) basically, uninstalling your game,
 it would be best to [Delete The Beatsaber Folder Within Your App Data](#deleting-your-local-low-beatsaber-data) and with this all the files related to beatsaber would be deleted by now,
 from here please verify the following.
 * Make sure your current user **is an administrator**
-* Your anti-virus is **Completely Off** (fr the meantime at least)
+* Your anti-virus is **Completely Off** (for the meantime at least)
 * You have permission to create folders and edit files within the disk drive/your pc, (from what I heard a windows update recently caused problems for people)
 * Your drivers are up to date
 * That the problem doesn't lie within your headset, or operating system, or your hardware/software
@@ -210,7 +210,7 @@ from here please verify the following.
 
 # 6. Still having issues
 If this page doesn't cover the bases, then feel free to ask a question in the discord! To increase the chance that you'll have your questions answered, consider the following:
-* Use the right channel please. `#support` for mod troubleshooting, `#model-discussion` for questions about **making** your own avatars, and `#mapping-discussion` for questions about **making** maps.
+* Use the right channel please. `#support` for mod troubleshooting, `#model-discussion` for questions about **making your own avatars**, and `#mapping-discussion` for questions about **making maps.**
 * Be polite and respectful
 * Describe your problem in detail. "It didn't work" is about as descriptive as telling your doctor you don't feel well. What's not working, and what did you try? Are there any messages that come up on screen? Did your entire screen turn bright purple? 
 
