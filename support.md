@@ -51,7 +51,7 @@ Oculus : Perform a [Clean Installation](#clean-installation)
 
 This should fix the problem.
 
-### 2.2 Black screen/Evironment, Unity Crash Window
+### 2.2 Black screen/Environment, Unity Crash Window
 This one is simple: verify files if you have the game on Steam, or reinstall the game on Oculus Home, 
 if you're reinstalling refer to these:
 [Backing Up Custom Content](#4-1-backing-up-custom-content)
