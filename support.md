@@ -110,9 +110,11 @@ Refer to [Finding Broken Content](#4-2-finding-broken-content) if you think you 
 Make sure your songs are in your CustomSongs folder, this will be located in your main beat saber folder/directory, this contains all of the custom songs you have downloaded so far.
 If its there then your plugins are probably the problem 
 
-### S.2 Songs Are Broken/Invisible Blocks
+### S.2 Songs Are Broken/Invisible Blocks/Red Play Button
 If your songs are broken make sure you have the lastest version of the song loader plugin, as songs mapped for newer versions don't work well with previous versions of the game.
 If that didn't fix it then you might have a corrupted song, you can try finding it by refering to [Finding Broken Content](#4-2-finding-broken-content)
+
+Also try re-installing the plugin again, if that doesn't work reinstall your game, [Clean Install](#clean-install)
 
 ## Camera Plus Issues
 ### C.1 Camera Plus Isn't Working
