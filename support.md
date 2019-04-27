@@ -114,7 +114,7 @@ If its there then your plugins are probably the problem
 If your songs are broken make sure you have the lastest version of the song loader plugin, as songs mapped for newer versions don't work well with previous versions of the game.
 If that didn't fix it then you might have a corrupted song, you can try finding it by refering to [Finding Broken Content](#4-2-finding-broken-content)
 
-Also try re-installing the plugin again, if that doesn't work reinstall your game, [Clean Install](#clean-install)
+Also try re-installing the plugin again, if that doesn't work reinstall your game, [Clean Install](#clean-installation)
 
 ## Camera Plus Issues
 ### C.1 Camera Plus Isn't Working
