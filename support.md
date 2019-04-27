@@ -191,6 +191,7 @@ may break your game or mods, Oculus just deletes the folder as is, but this may 
 **Now if you really want to have a CLEAN** Installation `Refer To:`[Deleting The Beatsaber Folder Within Your App Data](#deleting-your-local-low-beatsaber-data)
 
 ## Watch Videos On Installing
+**QUICK NOTE THE PLUGINS WILL SHOW UP IN YOUR PLUGINS FOLDER AFTER LAUNCHING THE GAME IF YOU USE THE INSTALLER**
 Here are videos I made showing the two methods for the entire modding process. I did both methods, using the installer, and doing it manually.
 Also I apologize for the small end bit in the manual install, I've never used playlists before and I'm still not sure on how to use them.
 [video](https://youtu.be/nbWNwwWFGKg){.youtube} [video](https://youtu.be/4OH7CniNsUg){.youtube}
