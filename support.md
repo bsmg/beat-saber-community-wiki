@@ -2,13 +2,14 @@
 <!-- SUBTITLE: Common modding-related issues! -->
 
 ### Table of Contents
-1. [Installer Issues](#1-installer-problems)
+1. [Installer Issues](#1-installer-issues)
 2. [In-Game Issues](#2-game-issues-post-modding)
 3. [Common Questions](#3-common-questions)
 4. [Troubleshooting](#4-troubleshooting)
-5. [Still Having Issues](#5-still-having-issues)
+5. [If All Else Fails](#5-if-all-else-fails)
+6. [Still Having Issues](#6-still-having-issues)
 
-# 1. Installer problems
+# 1. Installer Issues
 ### 1.1 Is the mod manager a virus?
 BitDefender and other AV software seem to have added the Mod Manager into their database of suspicious programs. See this [GitHub issue](https://github.com/beat-saber-modding-group/BeatSaberModInstaller/issues/20) for more info, and use your best judgement.
 
