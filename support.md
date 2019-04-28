@@ -14,7 +14,7 @@
 ## The mod manager isnt installing any plugins
 The plugins will appear in your plugins folder after you launch the game. if your game plugins folder still is empty please
 run `ipa.exe` again and make sure that nothing is preventing it from running, `Anti-viruses, Admin permissions, etc.`
-you can try running the installerr again also `try running the ipa.exe a few times` then launch your game.
+you can try running the installer again also `try running the ipa.exe a few times` then launch your game.
 
 # 1. Installer Issues
 ### 1.1 Is the mod manager a virus?
