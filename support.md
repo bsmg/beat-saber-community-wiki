@@ -59,7 +59,7 @@ Oculus : Perform a [Clean Installation](#clean-installation)
 
 This should fix the problem.
 
-### 2.2 Black screen/Environment, Unity Crash Window
+### 2.2 Black screen/Environment, Unity crash window, game won't start at all
 This one is simple: verify files if you have the game on Steam, or reinstall the game on Oculus Home, 
 if you're reinstalling refer to these:
 [Backing Up Custom Content](#4-1-backing-up-custom-content)
@@ -67,14 +67,15 @@ if you're reinstalling refer to these:
 This seems to happen when upgrading Beat Saber to 0.13 from 0.12 and having mods installed previously, but not to users with clean installs of the game.
 > We're trying to get to the bottom of this problem but we have insufficient data. If you got the Unity crash window and you'd like to help us, please navigate to `%AppData%\..\LocalLow\Hyperbolic Magnetism\` (copy-paste it into your address bar) and see if there's anything in the `Crashes` folder. If there is, zip it up and ping `@williums#0001` in the BSMG #support channel. Thank you!
 
-### 2.3 The game is extremely laggy after installing mods, or it won't start up at all
+## Framerate Issues
+### 2.3 The game is extremely laggy after installing mods
 If the game lags so badly that you can barely click the `Continue` button on the Health & Saftey screen, then verify files if you have the game on Steam, or reinstall the game on Oculus Home. 
 Do the same if it won't start up at all, and shows no error messages when trying to launch the game.
 
 If that didn't solve the issue, then proceed on over to here for [Improving framerate](#framerate-issues)
 
-## 2.4 General Framerate Issues
-If [2.3](#2-3-the-game-is-extremely-laggy-after-installing-mods-or-it-wont-start-up-at-all) didn't improve your framerate, then your PC might be struggling to keep up with the stress caused by mods. Here are some things you can do to improve framerate, in no particular order:
+### 2.4 General FPS issues/Microstuttering
+If [2.3](#2-3-the-game-is-extremely-laggy-after-installing-mods-or-it-wont-start-up-at-all) didn't improve your framerate, then your PC might simply be struggling to keep up with the stress caused by mods. Here are some things you can do to improve framerate, in no particular order:
 
 **NVDIA GEFORCE EXPERIENCE NOW OPTIMIZES BEATSABER, IT USUALLY SETS YOUR GAMES RENDERING SCALE PAST 1.0, USUALLY 1.4 or 1.8 THIS IS THE COMMON REASON FOR LAG RECENTLY**
 
