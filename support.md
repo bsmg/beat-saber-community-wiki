@@ -73,7 +73,7 @@ Do the same if it won't start up at all, and shows no error messages when trying
 
 If that didn't solve the issue, then proceed on over to here for [Improving framerate](#framerate-issues)
 
-## Framerate Issues
+## 2.4 General Framerate Issues
 If [2.3](#2-3-the-game-is-extremely-laggy-after-installing-mods-or-it-wont-start-up-at-all) didn't improve your framerate, then your PC might be struggling to keep up with the stress caused by mods. Here are some things you can do to improve framerate, in no particular order:
 
 **NVDIA GEFORCE EXPERIENCE NOW OPTIMIZES BEATSABER, IT USUALLY SETS YOUR GAMES RENDERING SCALE PAST 1.0, USUALLY 1.4 or 1.8 THIS IS THE COMMON REASON FOR LAG RECENTLY**
