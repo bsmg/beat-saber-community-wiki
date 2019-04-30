@@ -11,6 +11,11 @@
 6. [Still Having Issues](#6-still-having-issues)
 
 # 0. Important Notes
+### If You're Modding Again (From A Previously Modded Copy)
+Then we recommend you perform a clean install,[Clean Installation](#clean-installation) before modding,
+Basically just cut out/copy your `CustomSongs` folder elsewhere, and delete the games folder and uninstall from your platform.
+Then reinstall the game and launch it once without mods, so it generates whatever it needs to, before you mod it or else itll treat mods installed as incompatible.
+
 ## The mod manager isnt installing any plugins
 The plugins will appear in your plugins folder after you launch the game. if your game plugins folder still is empty please
 run `ipa.exe` again and make sure that nothing is preventing it from running, `Anti-viruses, Admin permissions, etc.`
@@ -199,6 +204,7 @@ To perform a clean installation youre going to have to make sure that all of the
 **First make sure you've backed up all of your custom content!** `Refer To :`[Backing Up Custom Content](#4-1-backing-up-custom-content) 
 Then you'll have to go to whichever directory you had beatsaber installed and **Delete the ENTIRE Beat Saber Folder** to make sure you have no files left over which
 may break your game or mods, Oculus just deletes the folder as is, but this may but highly unlikely break or not work, but better safe than sorry!
+`This Next Part Is Optional`
 **Now if you really want to have a CLEAN** Installation `Refer To:`[Deleting The Beatsaber Folder Within Your App Data](#deleting-your-local-low-beatsaber-data)
 
 ## Watch Videos On Installing
