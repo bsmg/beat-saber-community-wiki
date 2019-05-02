@@ -92,10 +92,11 @@ If [2.3](#2-3-the-game-is-extremely-laggy-after-installing-mods-or-it-wont-start
 * Reduce your total mod and song count. 
 * Perform a clean reinstall of the game files. [Clean Installation](#clean-installation)
 * Low framerate can also be caused by something going wrong within your application data folder, to fix this refer to [Deleting The Beatsaber Folder Within Your App Data](#deleting-your-local-low-beatsaber-data)
+* CountersPlus' scorecounter is fairly expensive, consider turning it off
  >Note: Deleting the Appdata folder will also delete your local scores and statistics.
 {.is-warning}
 
-
+VR is very CPU intensive, especially if you add mods. If you're struggling to run the game with the mods you want, consider upgrading your hardware. Note that Beat Saber doesn't utilize the GPU very much as it's a fairly simple game visually. 
 # 3. Common Questions
 ### 3.1 Blank Menu No Buttons
 If your main window in game is blank, your save file likely got corrupted.
@@ -103,7 +104,6 @@ To fix this refer to [Delete Beatsaber Folder Within Your App Data](#deleting-yo
 >Note: This will delete your local scores and statistics.
 {.is-warning}
 
-VR is very CPU intensive, especially if you add mods. If you're struggling to run the game with the mods you want, consider upgrading your hardware. Note that Beat Saber doesn't utilize the GPU very much as it's a fairly simple game visually. 
 ### 3.2 How do I use `x` mod?
 If you're using the Beat Saber Mod Manager, click the mod and hit the "View Selected Mod Info" button. http://beatmods.com has a "More Info" button on each mod as well.
 
