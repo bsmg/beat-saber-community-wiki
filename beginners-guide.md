@@ -20,9 +20,9 @@ Beat Saber was not designed with mod support, so it needs to be patched to enabl
 ## Installer
 The mod repository ModSaber has shut down, and lolPants has left a [message](https://www.modsaber.org/) on the site explaining the situation. 
 
-The [BeatSaber Mod Manager](https://github.com/beat-saber-modding-group/BeatSaberModInstaller/releases/latest) has been modified to use our new mods repository, [BeatMods](https://beatmods.com/)! 
-
 **Run the game at least once** before trying to mod the game! This applies to reinstalling your game too. 
+
+The [BeatSaber Mod Manager](https://github.com/beat-saber-modding-group/BeatSaberModInstaller/releases/latest) has been modified to use our new mods repository, [BeatMods](https://beatmods.com/)! Simply check off the mods you want to be installed, and they'll be downloaded to `IPA/Pending` until you launch the game. If there are any permission errors, try running the application in admin mode.
 
 If it didn't seem to work, see the [support page](support#1-4-no-mods-in-game).
 
