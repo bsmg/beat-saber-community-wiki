@@ -18,9 +18,9 @@ Beat Saber was not designed with mod support, so it needs to be patched to enabl
 {.is-warning}
 
 ## Mod Installer
-The mod repository ModSaber has shut down, and lolPants has left a [message](https://www.modsaber.org/) on the site explaining the situation. We are working on a replacement service and ask for your patience.
+The mod repository ModSaber has shut down, and lolPants has left a [message](https://www.modsaber.org/) on the site explaining the situation. 
 
-The [BeatSaber Mod Manager](https://github.com/beat-saber-modding-group/BeatSaberModInstaller/releases/latest) has been modified to use our new mods repository, [BeatMods](https://beatmods.com/)! There's another installer in the works, but until then feel free to use the modified Mod Manager!
+The [BeatSaber Mod Manager](https://github.com/beat-saber-modding-group/BeatSaberModInstaller/releases/latest) has been modified to use our new mods repository, [BeatMods](https://beatmods.com/)! 
 
 **Run the game at least once** before trying to mod the game! This applies to reinstalling your game too. 
 
@@ -45,6 +45,24 @@ There are a couple more resources to help you find songs over in the [FAQ](faq#m
 | Steam | `\steamapps\common\Beat Saber\Plugins` |
 | Oculus | `\hyperbolic-magnetism-beat-saber\Plugins` | 
 
+
+# Manual Installation
+Only resort to this if you absolutely know what you're doing, the installer is the recommended way to install mods.
+
+**Run the game at least once** before trying to mod the game! This applies to reinstalling your game too. 
+
+1. Download [BSIPA](https://github.com/nike4613/BeatSaber-IPA-Reloaded/releases/latest/download/BSIPA.zip).
+2. Navigate to your [install folder.](faq/install-folder) and extract the contents of BSPIA into it.
+![Directory Clean](/uploads/directory-clean.png "Directory Clean")
+![Directory Ipa](/uploads/directory-ipa.png "Directory Ipa")
+3. Double click IPA.exe to patch the game. Any mods in the `Plugins` folder will now be loaded when starting the game. If there are errors, you probably didn't follow step 2 correctly.
+![Directory Patched](/uploads/directory-patched.png "Directory Patched")
+4. Download the mod(s) you wish to install, whether it be from GitHub, the #finished-mods channel, or other sources. **Make sure to download any dependencies required by the mod.**
+![Directory Plugins](/uploads/directory-plugins.png "Directory Plugins")
+5. Some mods have installation instructions, some don't. Generally you can just drag and drop the zip contents into your beat saber install folder, and the files should go into the corresponding folders. 
+
+If it didn't seem to work, see the [support page](support#1-4-no-mods-in-game)
+
 # Where to go from here
 * [Grips and tricks](grips-and-tricks)
 * [Making beatmaps](mapping)
@@ -53,22 +71,6 @@ There are a couple more resources to help you find songs over in the [FAQ](faq#m
 * [Custom platforms](models/custom-platforms)
 * [Setup multiplayer](https://bs.assistant.moe/Multiplayer/)
 * [Making mods](modding)
-
-## Manual Installation
-
-**Run the game at least once** before trying to mod the game! This applies to reinstalling your game too. 
-
-1. Download [BSIPA](https://github.com/nike4613/BeatSaber-IPA-Reloaded/releases/latest/download/BSIPA.zip).
-2. Navigate to your [install folder.](faq/install-folder) and extract the contents of BSPIA into it.
-![Directory Clean](/uploads/directory-clean.png "Directory Clean")
-![Directory Ipa](/uploads/directory-ipa.png "Directory Ipa")
-3. Double click IPA.exe to patch the game. A console window will pop up, and if there aren't any errors then any mods in the `Plugins` folder will now be loaded when starting the game. If there are errors, you probably didn't follow step 2 correctly.
-![Directory Patched](/uploads/directory-patched.png "Directory Patched")
-4. Download the mod(s) you wish to install, whether it be from GitHub, the #finished-mods channel, or other sources. **Make sure to download any dependencies required by the mod.**
-![Directory Plugins](/uploads/directory-plugins.png "Directory Plugins")
-5. Some mods have installation instructions, some don't. Generally you can just drag and drop the zip contents into your beat saber install folder, and the files should go into the corresponding folders. 
-
-If it didn't seem to work, see the [support page](support#1-4-no-mods-in-game)
 
 # Have questions?
 Visit the [FAQ](faq) or drop by the #support tab in the [discord](https://discord.gg/beatsabermods)!
