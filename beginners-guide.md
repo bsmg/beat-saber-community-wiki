@@ -17,7 +17,7 @@ Beat Saber was not designed with mod support, so it needs to be patched to enabl
 > Since mods are made by volunteers, you may need to wait for your favorite mod to be fixed for the latest game version. Make sure to check the #server-announcements channel in the discord for the latest updates!
 {.is-warning}
 
-## Mod Installer
+## Installer
 The mod repository ModSaber has shut down, and lolPants has left a [message](https://www.modsaber.org/) on the site explaining the situation. 
 
 The [BeatSaber Mod Manager](https://github.com/beat-saber-modding-group/BeatSaberModInstaller/releases/latest) has been modified to use our new mods repository, [BeatMods](https://beatmods.com/)! 
@@ -60,8 +60,6 @@ Only resort to this if you absolutely know what you're doing, the installer is t
 4. Download the mod(s) you wish to install, whether it be from GitHub, the #finished-mods channel, or other sources. **Make sure to download any dependencies required by the mod.**
 ![Directory Plugins](/uploads/directory-plugins.png "Directory Plugins")
 5. Some mods have installation instructions, some don't. Generally you can just drag and drop the zip contents into your beat saber install folder, and the files should go into the corresponding folders. 
-
-If it didn't seem to work, see the [support page](support#1-4-no-mods-in-game)
 
 # Where to go from here
 * [Grips and tricks](grips-and-tricks)
