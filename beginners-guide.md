@@ -24,7 +24,10 @@ The mod repository ModSaber has shut down, and lolPants has left a [message](htt
 
 The [BeatSaber Mod Manager](https://github.com/beat-saber-modding-group/BeatSaberModInstaller/releases/latest) has been modified to use our new mods repository, [BeatMods](https://beatmods.com/)! Simply check off the mods you want to be installed, and they'll be downloaded to `IPA/Pending` until you launch the game. If there are any permission errors, try running the application in admin mode.
 
-If it didn't seem to work, see the [support page](support#1-4-no-mods-in-game).
+> If you're updating the game from 0.12 to 0.13, you'll likely need to do a clean install if you own the game on the Oculus Home store, or verify your files if you own the game on Steam. The process is described more in the [support page](support#2-2-black-screen-environment-unity-crash-window-game-wont-start-at-all).
+{.is-warning}
+
+If you ran into any problems, see the [support page](support#1-4-no-mods-in-game).
 
 # How to get more songs
 The `Song Loader Plugin` enables you to load more songs into the game, but only includes one test song.
