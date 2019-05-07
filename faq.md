@@ -25,6 +25,9 @@ We also have a dedicated channel on the Modding Group Discord: [`#finished-maps`
 
 See [mapping](../mapping)!
 
+## How do I install playlists?
+Place the playlist file into `Beat Saber/Playlists` and select it in-game, then hit download. You can create playlists using BeatDrop.
+
 ## How do I load plugins that aren't in the Mod Installer?
 
 After you have run the ModSaber Installer, you can then add/delete other mods in the following directory:
@@ -45,10 +48,10 @@ Here is a guide to set up the multiplayer mod: https://bs.assistant.moe/Multipla
 Each time the game updates it is possible *(and very likely)* that your existing will stop working and need to be updated.
 The devs realized this, so when the game updates and you run it for the first time, everything in the `Plugins` folder is moved into the `Incompatible Plugins` folder. **Leave those plugins in there!**
 
-To get mods back, simply **run the installer again.**
-Both the modsaber installer and the mod manager only includes mods that have been confirmed to work on the latest version of the game!
+To get mods back, simply **run the installer again**
+The BeatMods repository only includes mods that have been confirmed to work on the latest version of the game!
 
-Get the installer from [Beginners Guide](beginners-guide).
+If you're confused by any of this, visit [Beginners Guide](beginners-guide).
 
 ## How does the scoring system work in Beat Saber? How does global ranking work?
 We have sections on the [grips and tricks](grips-and-tricks) page dedicated to the scoring and ranking systems, check them out!
@@ -64,14 +67,6 @@ Change the value for: `apiAccessToken=replace-this-with-your-api-token`
 Use the value from your beatsaver account by going to the access tokens page on your profile.
 https://gyazo.com/46da60331d8bfabd4833ab85bcb73535
 
-## "Failed to get version info!" in the Mod Manager
-
-This error means that the Mod Manager could not connect to https://modsaber.org
-* Check your internet connection
-* Check if the website is reachable for you (click the link above)
-* Check that your firewall isn't blocking the Mod Manager from accessing the internet
-
-![Mod Manager Error](/uploads/faq/mod-manager-error.png "Mod Manager Error")
 
 ## My menus are blank and I have nothing to click on!
 If the main window in your game is blank, your save file likely got corrupted.
@@ -92,4 +87,4 @@ Megalon made a 6-part writeup in the discord in early July 2018, and the followi
 5. [The Live Score display](https://discordapp.com/channels/441805394323439646/441805394323439648/463621857913077770)
 6. [Audio and music](https://discordapp.com/channels/441805394323439646/441805394323439648/463651616235716619)
 
-        
+       
