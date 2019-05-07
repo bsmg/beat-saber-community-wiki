@@ -30,7 +30,7 @@ Place the playlist file into `Beat Saber/Playlists` and select it in-game, then 
 
 ## How do I load plugins that aren't in the Mod Installer?
 
-After you have run the ModSaber Installer, you can then add/delete other mods in the following directory:
+You can then add/delete other mods in the following directory:
 
 `.dll` plugins go in the directory:
 |  |  |
@@ -38,6 +38,7 @@ After you have run the ModSaber Installer, you can then add/delete other mods in
 | Steam | `steamapps\common\Beat Saber\Plugins` |
 | Oculus | `hyperbolic-magnetism-beat-saber\Plugins` |
 
+Note that you'll still need BSIPA to inject mods into the game, as well as the mod's dependencies. Installers handle this for you, so take care not to miss anything if you're installing mods manually!
 
 ## How does the multiplayer mod work?
 
