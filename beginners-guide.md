@@ -3,6 +3,8 @@
 
 # How to install mods
 
+## Preface
+
 Beat Saber was not designed with mod support, so it needs to be patched to enable mods.
 
 >By choosing to use mods, you understand that:
@@ -13,21 +15,35 @@ Beat Saber was not designed with mod support, so it needs to be patched to enabl
 > Do not attack the devs for issues related to mods, and vice versa - modders and devs are two separate groups. Just don't be a jerk ok
 {.is-danger}
 
-> Every time the game updates, you will have to do this process again to get all compatible mods. 
-> Since mods are made by volunteers, you may need to wait for your favorite mod to be fixed for the latest game version. Make sure to check the #server-announcements channel in the discord for the latest updates!
-{.is-warning}
+Every time the game updates, you will have to do this process again to get all compatible mods. 
+Since mods are made by volunteers, you may need to wait for your favorite mod to be fixed for the latest game version. Make sure to check the #server-announcements channel in the discord for the latest updates!
 
-## Installer
+If you run into problems at any point, please head to the [support page](support#1-4-no-mods-in-game) and see if you can identify what went wrong before asking in the discord server. Chances are, your answer is on that page!
+
+## Installers
 The mod repository ModSaber has shut down, and lolPants has left a [message](https://www.modsaber.org/) on the site explaining the situation. 
-
-**Run the game at least once** before trying to mod the game! This applies to reinstalling your game too. 
-
-The [BeatSaber Mod Manager](https://github.com/beat-saber-modding-group/BeatSaberModInstaller/releases/latest) has been modified to use our new mods repository, [BeatMods](https://beatmods.com/)! Simply check off the mods you want to be installed, and they'll be downloaded to `IPA/Pending` until you launch the game. If there are any permission errors, try running the application in admin mode.
 
 > If you're updating the game from 0.12 to 0.13, you'll likely need to do a clean install if you own the game on the Oculus Home store, or verify your files if you own the game on Steam. The process is described more in the [support page](support#2-2-black-screen-environment-unity-crash-window-game-wont-start-at-all).
 {.is-warning}
 
-If you ran into any problems, see the [support page](support#1-4-no-mods-in-game).
+### Beat Saber Mod Manager
+
+**Run the game at least once** before trying to mod the game! This applies to reinstalling your game too. 
+
+The Beat Saber Mod Manager has been revived and modified to use our new mods repository, [BeatMods](https://beatmods.com/)! Simply check off the mods you want to be installed, and they'll be downloaded to `IPA/Pending` until you launch the game. Created by Umbranox and Megalon, and available via the [BSMG GitHub!](https://github.com/beat-saber-modding-group/BeatSaberModInstaller/releases/latest)
+
+If there are any permission errors, try running the application in admin mode.
+
+### BeatDrop
+
+BeatDrop 2 is an iTunes / Spotify-like song manager, downloader, playlist creator and mod installer / manager for Beat Saber, all rolled up into a single beautiful and easy to use app. [Get it over on StarGazer's GitHub!](https://github.com/StarGazer1258/BeatDrop/releases). Here's a [short tutorial](https://www.notion.so/BeatDrop-2-Tutorial-e6a98d87b14a4621bd0941c5f8953be9) that explains how it works.!
+[Beatdrop](/uploads/beatdrop.jpg "Beatdrop")
+
+Note that BeatDrop is still in development and currently lacks mod updating functionality, but it's highly recommended for song and playlist management. Stay tuned for the addition of more features! To update mods, simply uninstall the mod and redownload it to get the latest version, or use an alternative method to update your mods.
+
+### Mod Assistant
+
+A simple Beat Saber Mod Installer similar to the mod manager, but has features such as 
 
 # How to get more songs
 The `Song Loader Plugin` enables you to load more songs into the game, but only includes one test song.
