@@ -64,7 +64,7 @@ The `BeatSaver Downloader` Plugin allows you to download maps in-game using the 
 
 ## Beat Saver
 [Beat Saver](https://www.beatsaver.com) is the central repository that holds nearly all custom songs/maps for Beat Saber.
-You can manually place the zip files downloaded from Beat Saver into the `CustomSongs` folder in your Beat Saber directory, use the In-Game Downloader Plugin, or use the OneClick Install button if you're using the [ModSaber Installer](https://www.modsaber.org/).
+You can manually place the zip files downloaded from Beat Saver into the `CustomSongs` folder in your Beat Saber directory, use the In-Game Downloader Plugin, or use the OneClick Install button, which is compatible with all 3 installers listed above.
 
 There are a couple more resources to help you find songs over in the [FAQ](faq#more-songs)
 
