@@ -33,11 +33,14 @@ The mod repository ModSaber has shut down, and lolPants has left a [message](htt
 
 The Beat Saber Mod Manager has been revived and modified to use our new mods repository, [BeatMods](https://beatmods.com/)! Simply check off the mods you want to be installed, and they'll be downloaded to `IPA/Pending` until you launch the game. Created by Umbranox and Megalon, and available via the [BSMG GitHub!](https://github.com/beat-saber-modding-group/BeatSaberModInstaller/releases/latest)
 
+![Bsmm](/uploads/bsmm.png "Bsmm")
+
 If there are any permission errors, try running the application in admin mode.
 
 ### BeatDrop
 
 BeatDrop 2 is an iTunes / Spotify-like song manager, downloader, playlist creator and mod installer / manager for Beat Saber, all rolled up into a single beautiful and easy to use app. [Get it over on StarGazer's GitHub!](https://github.com/StarGazer1258/BeatDrop/releases). Here's a [short tutorial](https://www.notion.so/BeatDrop-2-Tutorial-e6a98d87b14a4621bd0941c5f8953be9) that explains how it works.
+
 ![Beatdrop 800](/uploads/beatdrop-800.jpg "Beatdrop 800")
 
 Note that BeatDrop is still in development and currently lacks mod updating functionality, but it's highly recommended for song and playlist management. Stay tuned for the addition of more features! To update mods, simply uninstall the mod and redownload it to get the latest version, or use an alternative method to update your mods.
