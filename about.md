@@ -240,7 +240,7 @@ He make models and he make puns
 [Twitch](https://www.twitch.tv/deejayvr)
 
 ## joelseph
-\+ joelseph!
+\+ joelseph
 **Roles:** Moderator
 [Twitch](https://www.twitch.tv/tehjoelseph)
 
