@@ -59,6 +59,7 @@ We're working on a more permanent solution, but at the moment you need to do the
 2. Reboot your PC.
 3. Make sure your anti-virus is turned off for the mean time, and possibly consider adding your `Beat Saber` folder to your exceptions.
 If problems persist then do the following for your respective platform.
+`Additional Note:The problem can continue to persist due to lacking permissions or exceptions, any program that can block bsipa,or programs marked suspicious can make this problem persist`
 Steam : Do this [Verify Steam Game Files](#verify-game-files-for-steam)
 Oculus : Perform a [Clean Installation](#clean-installation)
 
@@ -106,6 +107,10 @@ To fix this refer to [Delete Beatsaber Folder Within Your App Data](#deleting-yo
 ### 3.2 How do I use `x` mod?
 If you're using the Beat Saber Mod Manager, click the mod and hit the "View Selected Mod Info" button. http://beatmods.com has a "More Info" button on each mod as well.
 
+### 3.3 Crashing (Multiplayer Mod + Rumble Enchancer)
+There's a issue between certain versions of the multiplayer mod and the rumble enchancer mod, if both are installed the game will crash and such, uninstall either. and if anything do a clean install of your game to
+be on the safe side. [Clean Installation](#clean-installation)
+
 ## Custom Avatars Issues
 ### A.1 Custom Avatars (Not) Showing Ingame
 Click the **Home** button on your keyboard with the game in focus to toggle visibility in the headset.
@@ -130,9 +135,9 @@ If that didn't fix it then you might have a corrupted song, you can try finding 
 Also try re-installing the plugin again, if that doesn't work reinstall your game, [Clean Install](#clean-installation)
 
 ## Camera Plus Issues
-### C.1 Camera Plus Isn't Working
-Make sure the setting for "Smooth Camera" is turned off in your ingame settings, also if that doesn't work make sure you have the mod intalled properly
-try reinstalling it, and all of its dependencies.
+### C.1 Camera Plus Isn't Working/Past Health Screen
+Make sure the setting for "Smooth Camera" is turned off in your ingame settings,
+If that doesn't work make sure you have the mod installed properly try reinstalling it, and all of its dependencies.
 
 ### C.2 My desktop view only takes up a small section of the screen
 Your CameraPlus display isn't filling up your canvas. Either drag the corner to fit the screen, or right click the window and click "Fit to Canvas".
@@ -154,6 +159,7 @@ as songs and avatars and platforms and sabers can break your game if they become
 
 To back up your custom content simply move them out of the `Beat Saber Directory`
 Either to your desktop or the folder before that, your directory will usually be at
+*The fastest way I found was to just cut it and paste it into the directory just before beatsaber, a.k.a a nearby/previous directory it takes only a few seconds to cut and paste.*
 
 >Steam: 	`\steamapps\common\Beat Saber\`
 
@@ -223,8 +229,15 @@ from here please verify the following.
 * Your drivers are up to date
 * That the problem doesn't lie within your headset, or operating system, or your hardware/software
 * Your internet connection is completely fine, not blocking nor lacking access to anything related to beatsaber modding and steam etc.
-
-
+### Desperate Measures
+* Reinstalling all things related to VR.
+* Reinstalling all the programs and such Unity uses. *DirectX, etc.*
+### If Everything Fails
+* Reinstall your os and format your drive.
+The reason this is listed cause this would make sure that everything listed above software side would be eliminated as a variable, and could help determine if it is a hardware issue,
+By installing steam and the games they should re-download the things they depend on, I personally dont recommend this unless you have no other choice, dont forget to back up your important files elsewhere either to a
+external drive, or a different drive that you do not plan to format, although if youre formatting you have to at least make sure you format the main things as mentioned earlier, such as the things VR related and basically
+anything that software would use.
 # 6. Still having issues
 If this page doesn't cover the bases, then feel free to ask a question in the discord! To increase the chance that you'll have your questions answered, consider the following:
 * Use the right channel please. `#support` for mod troubleshooting, `#model-discussion` for questions about **making your own avatars**, and `#mapping-discussion` for questions about **making maps.**
