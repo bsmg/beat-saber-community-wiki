@@ -33,7 +33,9 @@ Make sure you're using the one from the [BSMG GitHub](https://github.com/beat-sa
 Take your pick, they all work the same way. Alternatively, consider using [BeatDrop](https://bsaber.com/beatdrop/) instead.
 You can also refer to [Videos On Installer Usage, And Manual Installation](#watch-videos-on-installing)
 
-### 1.3 Permission errors
+### 1.3 Permission/Exception Errors
+For a quick summary on what the exceptions specifically mean then give this a quick read if you want to go into the specifics
+[Exceptions](https://bsmg.wiki/support/exceptions) 
 Run the mod manager in admin mode if your PC's security settings have insufficient permissions to patch files by default.
 Your anti-virus program can also be the cause for permission errors make sure you add the entire beatsaber folder to your exceptions, 
 >You could also add the `beatsaber.exe` and `ipa.exe` to your list of exceptions
