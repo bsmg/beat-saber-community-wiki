@@ -1,6 +1,6 @@
 # Exceptions
 Quick explanation on exception errors which usually occur whilst modding the game
-Numbered explanations means it could be one of the listed issues,
+Numbered explanations means it could be one of the listed issues.
 
 ### ArgumentException
 path is a zero-length string, contains only white space, or contains one or more invalid characters as defined by InvalidPathChars.
