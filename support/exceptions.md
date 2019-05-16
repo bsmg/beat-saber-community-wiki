@@ -14,7 +14,7 @@ The specified path is invalid (for example, it is on an unmapped drive).
 ### IOException
 1.The specified file is in use.
 
-2.There is an open handle on the file, and the operating system is Windows XP or earlier. This open handle can result from enumerating directories and files. For more information, see How to: Enumerate Directories and Files.
+2.There is an open handle on the file, and the operating system is Windows XP or earlier. This open handle can result from enumerating directories and files.
 
 ### NotSupportedException
 path is in an invalid format.
