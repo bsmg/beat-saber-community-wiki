@@ -114,42 +114,42 @@ There's a issue between certain versions of the multiplayer mod and the rumble e
 be on the safe side. [Clean Installation](#clean-installation)
 
 ## Custom Avatars Issues
-### A.1 Custom Avatars (Not) Showing Ingame
+### 3.4 Custom Avatars (Not) Showing Ingame
 Click the **Home** button on your keyboard with the game in focus to toggle visibility in the headset.
 
-### A.2 My Avatars Are Broken
+### 3.22 My Avatars Are Broken
 Make sure your custom avatars plugin is installed properly and updated, also make sure your dependencies are too.
 You might have a corrupted/broken avatar, having one avatar break can break all of your avatars likewise with songs and sabers.
 Refer to [Finding Broken Content](#4-2-finding-broken-content) if you think you have corrupted avatars or if you've made sure your mods and dependencies are updated but avatars still are broken.
 
 ## Songloader Issues
 
-### S.1 My Songs Are Missing
+### 3.5 My Songs Are Missing
 >Make sure you read [No Mods In Game](#1-4-no-mods-in-game) first.
 
 Make sure your songs are in your CustomSongs folder, this will be located in your main beat saber folder/directory, this contains all of the custom songs you have downloaded so far.
 If its there then your plugins are probably the problem 
 
-### S.2 Songs Are Broken/Invisible Blocks/Red Play Button
+### 3.6 Songs Are Broken/Invisible Blocks/Red Play Button
 If your songs are broken make sure you have the lastest version of the song loader plugin, as songs mapped for newer versions don't work well with previous versions of the game.
 If that didn't fix it then you might have a corrupted song, you can try finding it by refering to [Finding Broken Content](#4-2-finding-broken-content)
 
 Also try re-installing the plugin again, if that doesn't work reinstall your game, [Clean Install](#clean-installation)
 
 ## Camera Plus Issues
-### C.1 Camera Plus Isn't Working/Past Health Screen
+### 3.7 Camera Plus Isn't Working/Past Health Screen
 Make sure the setting for "Smooth Camera" is turned off in your ingame settings,
 If that doesn't work make sure you have the mod installed properly try reinstalling it, and all of its dependencies.
 
-### C.2 My desktop view only takes up a small section of the screen
+### 3.8 My desktop view only takes up a small section of the screen
 Your CameraPlus display isn't filling up your canvas. Either drag the corner to fit the screen, or right click the window and click "Fit to Canvas".
 
 ## Beatsaver Downloader Issues
-### D.1 Beatsaver Downloader More Songs Button
+### 3.9 Beatsaver Downloader More Songs Button
 The **More Songs button is located in the Mods button in the main menu**, if the button for More Songs is greyed out then make sure all your songs loaded first, as seen in the bar on the main menu
 if your mods button isnt there then kindly make sure your plugins and dependencies are working and installed properly, refer to [No Mods In Game](#1-4-no-mods-in-game).
 
-### D.2 Nothing Showing Up In The More Songs Menu
+### 3.10 Nothing Showing Up In The More Songs Menu
 The probable causes for beatsaber downloader not working are these, firstly make sure all of your songs have loaded in before, or else the More Songs button
 will be greyed out. if theres nothing loading within the More Songs, this might be your anti-virus or firewall blocking access to beatsaver,
 
