@@ -13,9 +13,10 @@
 # 0. Important Notes
 ### Steam Vr Loading Issue
 Theres a small issue regarding beatsaber and the new steamvr update, open your steamvr and open its settings
-**Under Developer Settings**
-**Turn On**
-**Do Not Fade To Grid When App Hangs**
+1.**Under Developer Settings**
+2.**Turn On**
+3.**Do Not Fade To Grid When App Hangs**
+`By checking this it should fix the issue of when you load a song it loads and causes you to miss/die`
 
 ### If You're Modding Again (From A Previously Modded Copy)
 Then we recommend you perform a clean install,[Clean Installation](#clean-installation) before modding,
