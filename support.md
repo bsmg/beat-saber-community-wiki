@@ -11,6 +11,12 @@
 6. [Still Having Issues](#6-still-having-issues)
 
 # 0. Important Notes
+### Steam Vr Loading Issue
+Theres a small issue regarding beatsaber and the new steamvr update, open your steamvr and open its settings
+**Under Developer Settings**
+**Turn On**
+**Do Not Fade To Grid When App Hangs**
+
 ### If You're Modding Again (From A Previously Modded Copy)
 Then we recommend you perform a clean install,[Clean Installation](#clean-installation) before modding,
 Basically just cut out/copy your `CustomSongs` folder elsewhere, and delete the games folder and uninstall from your platform.
