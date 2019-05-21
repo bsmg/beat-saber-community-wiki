@@ -33,21 +33,15 @@ When you're ready to release your map to the public, upload it to https://beatsa
 All custom maps are being made using the community built map editors.
 There are currently 3 editors. All export the same files, but offer different workflows.
 
-## Edit Saber
-A robust 3D track editor made in Unreal Engine by Ikeiwa!
-*Most people use a version of this editor.*
-
-There are several forks of Edit Saber, listed below.
-
-### Mediocre Mapper
-A fork of Edit Saber Enhanced made by squeaksies.
-This version adds even more features to Edit Saber Enhanced. 
+## Mediocre Mapper
+A fork of Edit Saber made by squeaksies, and the only known editor that is still being maintained and developed.
 https://github.com/squeaksies/MediocreMapper/releases/latest
 >While __most people use this editor__ because it's by far the most feature rich of the 3, this is still first and foremost squeaksies' personal editor. It's filled to the brim with memes and inside jokes, and he doesn't give a flying heck what you think about it. 
 {.is-warning}
 
-### Original
-The original Edit Saber by Ikeiwa. Outdated and missing a ton of the features offered in MediocreMapper, but listed for reference.
+### EditSaber
+A robust 3D track editor made in Unreal Engine by Ikeiwa!
+Outdated and missing a ton of the features offered in MediocreMapper, but listed for reference.
 https://github.com/Ikeiwa/EditSaber/releases/latest
 
 ## MIDI Converter / Web Based Editor
