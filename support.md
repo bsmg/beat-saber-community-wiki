@@ -17,7 +17,7 @@ Theres a small issue regarding beatsaber and the new steamvr update, open your s
 2.**Turn On**
 3.**Do Not Fade To Grid When App Hangs**
 `By checking this it should fix the issue of when you load a song it loads and causes you to miss/die`
-
+>Refer To This Gif.
 https://media.discordapp.net/attachments/442696229508612096/580271306461806640/fix_game_not_responding.gif
 
 ### If You're Modding Again (From A Previously Modded Copy)
