@@ -81,7 +81,7 @@ This one is simple: verify files if you have the game on Steam, or reinstall the
 if you're reinstalling refer to these:
 [Backing Up Custom Content](#4-1-backing-up-custom-content)
 [Clean Installation](#clean-installation)
-This seems to happen when upgrading Beat Saber to 0.13 from 0.12 and having mods installed previously, but not to users with clean installs of the game.
+This seems to happen when updating Beat Saber and having mods installed previously, but not to users with clean installs of the game.
 
 ## Framerate Issues
 ### 2.3 The game is extremely laggy after installing mods
