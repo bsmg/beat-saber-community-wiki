@@ -11,6 +11,10 @@
 6. [Still Having Issues](#6-still-having-issues)
 
 # 0. Important Notes
+### New Update, Cant Click Solo, Campaign Etc.
+This is caused due to your outdated files remaining within your game folder, and causes the issue
+a [Clean Installation](#clean-installation) should fix it. and reinstall your mods.
+
 ### Can't Fail Glitch
 Simply update your mods, perhaps do a 
 [Clean Installation](#clean-installation)
