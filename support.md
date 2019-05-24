@@ -112,6 +112,14 @@ If [2.3](#2-3-the-game-is-extremely-laggy-after-installing-mods-or-it-wont-start
 {.is-warning}
 
 VR is very CPU intensive, especially if you add mods. If you're struggling to run the game with the mods you want, consider upgrading your hardware. Note that Beat Saber doesn't utilize the GPU very much as it's a fairly simple game visually. 
+
+### 2.5 Can't click on the Solo Button
+
+This happens when you have outdated mods from 0.13.2 in your plugins folder. Wipe out your mods, and reinstall mods for 1.0.0 only. 
+
+>Mod Assistant and Beat Saber Mod Manager should only show mods for the particular version, but BeatDrop currently has problems with game versioning and may show mods from all game versions.
+{.is-warning}
+
 # 3. Common Questions
 ### 3.1 Blank Menu No Buttons
 If your main window in game is blank, your save file likely got corrupted.
