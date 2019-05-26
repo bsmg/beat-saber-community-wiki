@@ -310,7 +310,7 @@ BSMG server owner and rhythm game fanatic. We wouldn't be here today without thi
 **Contributions:** Server Owner, Custom Sabers, BSMG PodCasts
 [GitHub](https://github.com/reaxt00) | [Twitch](https://twitch.tv/reaxt)
 
-## Steven
+## Steven 🎀
 The manager of many, Steven's always around to lend a helping hand as long as you don't mess with the blue haired cute girls.
 **Roles:** Staff, Support
 **Contributions:** THE ModelSaber Admin
