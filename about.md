@@ -129,7 +129,7 @@ Mother of the original `!bsr` mod.
 [GitHub](https://github.com/soliel) | [Donate](https://streamlabs.com/soliela)
 
 ## SkyKiwi
-The madman behind Chroma and accuracy god on the leaderboards. He adds things to the game that suggests that his head isn't screwed on right, and I'd like to think that he's also responsible for creating the monster that is Kyle1413.
+The madman behind Chroma and accuracy god on the leaderboards. He adds things to the game that suggests that his head isn't screwed on right.
 **Roles:** Modder
 **Contributions:** Chroma
 [GitHub](https://github.com/BinaryElement) | [Twitch](https://www.twitch.tv/skykiwitv) | [Donate](https://streamelements.com/skykiwitv/tip)
@@ -173,6 +173,11 @@ He'll teach you to fix your plugins and your terribly off-beat first map. We've 
 **Roles:** Support, Mapper
 [Twitch](https://www.twitch.tv/kolezan)
 
+## Melopod ƸӜƷ
+Likes pies, tartes, and helping people fix their mods!
+**Roles:** Support
+[Twitch](https://www.twitch.tv/mamamelo) | [Donate](https://streamlabs.com/mamamelo)
+
 ## Razor
 Literally no clue what he's doing when it comes to coding, at all, but he can fix ploogin.
 **Roles:** Support
@@ -183,9 +188,6 @@ This guy came out of nowhere and started helping in support saying it was some k
 **Roles:** Support
 [Twitter](https://twitter.com/Radevirot) | [Donate](paypal.me/Radevirot)
 
-## Saber-Chan
-Addicted to shrug emotes, zip files, and anime, but can fix them mods real good good.
-[Twitch](https://www.twitch.tv/marshymallowy) | [Donate](https://streamlabs.com/marshymallowy)
 
 >See Also
 **Modders:** [Kyle1413](#Kyle1413)
@@ -309,10 +311,10 @@ BSMG server owner and rhythm game fanatic. We wouldn't be here today without thi
 [GitHub](https://github.com/reaxt00) | [Twitch](https://twitch.tv/reaxt)
 
 ## Steven
-Our newest member of staff, he's always around to lend a helping hand. He's a big smash bros fanatic and manages ModelSaber, and creates some very fancy shaders too.
+The manager of many, Steven's always around to lend a helping hand as long as you don't mess with the blue haired cute girls.
 **Roles:** Staff, Support
 **Contributions:** THE ModelSaber Admin
-[Twitch](https://www.twitch.tv/steventhecat)  | [Twitch](https://www.twitch.tv/steventhecat) | [Donate](https://streamlabs.com/steventhecat)
+[Github](https://github.com/DeadlyKitten) | [Twitch](https://www.twitch.tv/steventhecat)  | [Donate](https://streamlabs.com/steventhecat)
 
 ## williums
 From eggplants to Staff, our beloved recovering shitposter now helps keep the server a clean and happy place. Often takes the initiative to improve the server, from starting up projects to bringing on new members of the team. A true jack of all trades but a master at none; williums tries to stay well rounded throughout the community to keep a watchful eye on a variety of groups and have opinions represented.
