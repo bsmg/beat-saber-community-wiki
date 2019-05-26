@@ -169,9 +169,9 @@ You might know them for their spectacular platforms, or for more refined individ
 [Twitch](https://www.twitch.tv/therealkleinba)
 
 ## Kolezan
-He'll teach you to fix your plugins and your terribly off-beat first map. We've all been there.
+He'll teach you to fix your plugins and your terribly off-beat first map. We've all been there. 
 **Roles:** Support, Mapper
-[Twitch](https://www.twitch.tv/kolezan)
+[Twitch](https://www.twitch.tv/kolezan) | [Donate](https://paypal.me/kolezan)
 
 ## Melopod ƸӜƷ
 Likes pies, tartes, and helping people fix their mods!
