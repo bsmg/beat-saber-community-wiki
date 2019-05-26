@@ -132,7 +132,7 @@ Mother of the original `!bsr` mod.
 The madman behind Chroma and accuracy god on the leaderboards. He adds things to the game that suggests that his head isn't screwed on right, and I'd like to think that he's also responsible for creating the monster that is Kyle1413.
 **Roles:** Modder
 **Contributions:** Chroma
-[GitHub](https://github.com/BinaryElement) | [Twitch](https://www.twitch.tv/skykiwitv) | [Donate](https://streamlabs.com/SkyKiwiTV)
+[GitHub](https://github.com/BinaryElement) | [Twitch](https://www.twitch.tv/skykiwitv) | [Donate](https://streamelements.com/skykiwitv/tip)
 
 ## StarGazer1258 
 Creator of BeatDrop, everyone's favorite desktop application for custom song management! 
