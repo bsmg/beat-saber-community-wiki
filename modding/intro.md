@@ -3,7 +3,6 @@
 
 # Intro
 Beat Saber is made in Unity 2018 using C# with .NET framework 4.6.
-DaNike has created a BSIPA plugin template for Visual Studio . This guide will show you how to setup that template.
 
 Download the latest version of [Visual Studio Community.](https://visualstudio.microsoft.com/)
 
@@ -27,7 +26,7 @@ You should see the Beat Saber Plugin Template in the Visual C# section.
 Create a new project using the template.
 
 ![Modding Plugin Template](/uploads/modding/modding-plugin-template.png "Modding Plugin Template")
-
+[ADD IMAGE SOON]
 
 If you intend on making a mod to be published to BeatMods, you will have to rename the assembly to your mod. Using the default assembly name won't cut it!
 
@@ -55,6 +54,7 @@ If your Beat Saber install is located here, no worries. If not, we need to chang
 3. Replace the last directory in the Post-build event command line *(The directory should look like the one above)* with the directory to your Plugins folder.
 4. Save and exit that menu.
 
+If the template you're using does not have a build event, add `copy /Y "$(TargetDir)$(TargetName).dll" "C:\Program Files (x86)\Steam\steamapps\common\Beat Saber\Plugins\$(TargetName).dll"` to the Post-build event. Match your Beat Saber install folder if you have a different one.
 # Check out the code
 
 In the solution explorer, double click on `Plugin.cs` to open it up.
