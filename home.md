@@ -14,7 +14,7 @@
 # Other Resources
 * [About Us](about)
 * [Health and Safety](health-and-safety)
-* [List of All Mods](modding/all-mods)
+* [Mod History](https://docs.google.com/spreadsheets/d/1eVRbCUyaXjKUJRSNPZWERUO9tULK415buU0q-H7Z0dY/edit#gid=0) by Slaynash
 * [FAQ](faq)
 
 # External Links
