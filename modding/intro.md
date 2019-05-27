@@ -25,8 +25,7 @@ After you have place the zip file in the correct directory, open Visual Studio 2
 You should see the Beat Saber Plugin Template in the Visual C# section.
 Create a new project using the template.
 
-![Modding Plugin Template](/uploads/modding/modsetup1.png "Modding Plugin Template")
-[ADD IMAGE SOON]
+![Modding Plugin Template](/uploads/modding/modding-plugin-template.png "Modding Plugin Template")
 
 If you intend on making a mod to be published to BeatMods, you will have to rename the assembly to your mod. Using the default assembly name won't cut it!
 
