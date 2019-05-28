@@ -26,6 +26,13 @@ The mod repository ModSaber has shut down, and lolPants has left a [message](htt
 > If you're updating the game from 0.12 to 0.13, you'll likely need to do a clean install if you own the game on the Oculus Home store, or verify your files if you own the game on Steam. The process is described more in the [support page](support#2-2-black-screen-environment-unity-crash-window-game-wont-start-at-all).
 {.is-warning}
 
+### Mod Assistant
+
+**Run the game at least once** before trying to mod the game! This applies to reinstalling your game too. 
+
+A simple Beat Saber Mod Installer similar to the mod manager, but with additional features such as mod removal and version checking! Get it on [Assistant's GitHub](https://github.com/Assistant/ModAssistant/releases/latest)
+
+![Modassistant](/uploads/modassistant.png "Modassistant")
 
 ### Beat Saber Mod Manager
 
@@ -46,15 +53,6 @@ BeatDrop 2 is an iTunes / Spotify-like song manager, downloader, playlist creato
 ![Beatdrop 800](/uploads/beatdrop-800.jpg "Beatdrop 800")
 
 Note that BeatDrop is still in development and currently lacks mod updating functionality, but it's highly recommended for song and playlist management. Stay tuned for the addition of more features! To update mods, simply uninstall the mod and redownload it to get the latest version, or use an alternative method to update your mods.
-
-### Mod Assistant
-
-**Run the game at least once** before trying to mod the game! This applies to reinstalling your game too. 
-
-A simple Beat Saber Mod Installer similar to the mod manager, but with additional features such as mod removal and version checking! Get it on [Assistant's GitHub](https://github.com/Assistant/ModAssistant/releases/latest)
-
-![Modassistant](/uploads/modassistant.png "Modassistant")
-
 
 # How to get more songs
 The `Song Loader Plugin` enables you to load more songs into the game, but only includes one test song.
