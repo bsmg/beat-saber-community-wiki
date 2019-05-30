@@ -34,16 +34,6 @@ A simple Beat Saber Mod Installer similar to the mod manager, but with additiona
 
 ![Modassistant](/uploads/modassistant.png "Modassistant")
 
-### Beat Saber Mod Manager
-
-**Run the game at least once** before trying to mod the game! This applies to reinstalling your game too. 
-
-The Beat Saber Mod Manager has been revived and modified to use our new mods repository, [BeatMods](https://beatmods.com/)! Simply check off the mods you want to be installed, and they'll be downloaded to `IPA/Pending` until you launch the game. Created by Umbranox and Megalon, and available via the [BSMG GitHub!](https://github.com/beat-saber-modding-group/BeatSaberModInstaller/releases/latest)
-
-![Bsmm](/uploads/bsmm.png "Bsmm")
-
-If there are any permission errors, try running the application in admin mode.
-
 ### BeatDrop
 
 **Run the game at least once** before trying to mod the game! This applies to reinstalling your game too. 
@@ -53,6 +43,18 @@ BeatDrop 2 is an iTunes / Spotify-like song manager, downloader, playlist creato
 ![Beatdrop 800](/uploads/beatdrop-800.jpg "Beatdrop 800")
 
 Note that BeatDrop is still in development and currently lacks mod updating functionality, but it's highly recommended for song and playlist management. Stay tuned for the addition of more features! To update mods, simply uninstall the mod and redownload it to get the latest version, or use an alternative method to update your mods.
+
+### Beat Saber Mod Manager
+
+> Note: BSMM is getting increasingly difficult to maintain and has several underlying problems that have never been fixed. It does not support dependencies (a mod relying on another mod) nor does it support uninstalling. It will be deprecated in the future, so consider switching to one of the above installers.
+
+**Run the game at least once** before trying to mod the game! This applies to reinstalling your game too. 
+
+The Beat Saber Mod Manager has been revived and modified to use our new mods repository, [BeatMods](https://beatmods.com/)! Simply check off the mods you want to be installed, and they'll be downloaded to `IPA/Pending` until you launch the game. Created by Umbranox and Megalon, and available via the [BSMG GitHub!](https://github.com/beat-saber-modding-group/BeatSaberModInstaller/releases/latest)
+
+![Bsmm](/uploads/bsmm.png "Bsmm")
+
+If there are any permission errors, try running the application in admin mode.
 
 # How to get more songs
 The `Song Loader Plugin` enables you to load more songs into the game, but only includes one test song.
