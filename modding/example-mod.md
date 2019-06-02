@@ -143,9 +143,6 @@ In order to display text, we first need to create a Canvas. A Canvas is what Uni
 ![ResultsViewer.cs](/uploads/modding-example-v-2/13-replacement.png "ResultsViewer.cs")
 
 ## Creating a TextMeshPro
->***Hold up!*** This section is borked. Expect this section to change quite a bit, and potentially one more section added before this one.
-{.is-danger}
-
 >If you are having trouble using `TextMeshProUGUI` or `BeatSaberUI.CreateText`, add `using TMPro;` and `using CustomUI.BeatSaber` at the top of your file, or add them as a reference if that doesn't work.
 {.is-warning}
 
