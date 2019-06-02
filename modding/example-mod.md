@@ -115,7 +115,9 @@ Since it will keep going  until our `ScoreController` is found, we do not need t
 ### Regarding Tasks and Threading
 Through my own experience, and from the advice of other Modders, it is unwise to grab, assign, or modify Unity objects *(Hint: Almost all of them inherit `MonoBehaviour`)* inside a separate thread. Attempting to do so will, however not consistently, crash the game. It is much better to use `IEnumerators` and Coroutines for handling Unity objects, and use Tasks and separate threads for those which do not.
 ## Note Cut Events
-With our ScoreController variable in hand, we can add to the `noteWasCutEvent` and pass in a new void function that has the three required parameters. Here, we can use the static `ScoreController.ScoreWithoutMultiplier()` variable to grab our cut distance score. Because it outputs two unneeded variables, we can assign them to two filler variables. Because we are not using an after cut swing rating, we can simply plug in `null` for that.
+With our ScoreController variable in hand, we can add to the `noteWasCutEvent` and pass in a new void function that has the three required parameters. Let's not forget to unsubscribe from that event, which we can do so in MonoBehaviour's `OnDestroy` function.
+
+In our `NoteCut` function, we can use the static `ScoreController.RawScoreWithoutMultiplier()` function to grab our cut distance score. Because it outputs two unneeded variables, we can assign them to two filler variables. Because we are not using an after cut swing rating, we can simply plug in `null` for that.
 
 Now we need to filter out bombs and bad cuts, and then add to the according `List<int>` we created in `Plugin.cs` based on the note type.
 
@@ -136,9 +138,9 @@ While we're here, we can also create the GameObject that will hold our `Accuracy
 ## ResultsViewer.cs
 Let's create a new class called `ResultsViewer` and have it extend from `MonoBehaviour`. This class will display the results of our accuracy points when we exit from a level. We will be using a maximum of 3 TextMeshPros to help us display our data.
 
-Let's also createa `List<GameObject>` variable that will hold each `GameObject` we create for viewing results, so we can mass delete them later.
+Let's also create a `List<GameObject>` variable that will hold each `GameObject` we create for viewing results, so we can mass delete them later.
 
-We should create a helper class that creates these TextMeshPros for us, so we don't have to use repeated code. It will take in a `Vector3` for positioning, a `List<int>` for our list data, and a `string` for a label.
+In order to display text, we first need to create a Canvas. A Canvas is what Unity uses to place UI elements. Create a Canvas object, and then create a simple `Start` function. In here, we'll create our GameObject to hold our Canvas, and then add the Canvas component. We'll set the render mode to World Space, so our text can appear as if part of the world instead of attached to a camera, and change the position so it's against the center screen. In order to make the text not seem gigantic, we need to decrease the `localScale` to a tenth of what it usually is.
 
 ![ResultsViewer.cs](/uploads/modding-example-v-2/13-replacement.png "ResultsViewer.cs")
 
@@ -146,22 +148,22 @@ We should create a helper class that creates these TextMeshPros for us, so we do
 >***Hold up!*** This section is borked. Expect this section to change quite a bit, and potentially one more section added before this one.
 {.is-danger}
 
->If you are having trouble using `TextMeshPro`, add `using TMPro;` at the top of your file, or add it as a reference if that doesn't work.
+>If you are having trouble using `TextMeshProUGUI` or `BeatSaberUI.CreateText`, add `using TMPro;` and `using CustomUI.BeatSaber` at the top of your file, or add them as a reference if that doesn't work.
 {.is-warning}
 
-In this function, let's create a new `GameObject` variable, and have it create a new GameObject.
+Now we will create a helper function to create viewers for our data. It'll have a Vector2 position variable, a `List<int>` that holds our cut scores, and a `label` string as our parameters.
 
-Next, we'll disable this GameObject. Why? The newest Beat Saber update changed how text is displayed, and text will not display when using the previous method. This is simply a workaround for it.
+Let's start with the data first. We will utilize CustomUI's `CreateText` function to automatically create text, and assign that to a `TextMeshProUGUI` variable. We'll assign the Canvas we made before as our RectTransform (We can safely cast `Transform` to `RectTransform`). We'll not give it any text for now, and then give it the `Vector2` position. Remember, since we had to scale down our Canvas object to make text not appear large, we'll have to scale the position variable up by 10.
 
-We'll then create our new `TextMeshPro` variable, and attach the TextMeshPro to our GameObject. We can set the `text` value using a sneaky trick. Using a `List<int>`s built in function, we can grab the average from the list, and pass it to `ToString()`. We can also pass in a formatter into `ToString()` and format it to 2 decimal places. Let's set the `fontSize` to3 and the alignment to `TextAlignmentOptions.Center`. Finally, let's set the position of the TextMeshPro via its `rectTransform`, and set it to our `position` parameter. Finally, we can reactivate our GameObject, and text should display as usual.
+We can set the `text` value using a sneaky trick. Using a `List<int>`s built in function, we can grab the average from the list, and pass it to `ToString()`. We can also pass in a formatter into `ToString()` and format it to 2 decimal places, like so: `ToString("0:00")`. Let's set the `fontSize` to 3 and the alignment to `TextAlignmentOptions.Center`.
 
 ![Helper Function](/uploads/modding-example-v-2/14-update.png "Helper Function Part 1")
 
 But wait! Let's add a label using our `label` parameter. We will mainly be copy and pasting our previous code, but there will be some differences.
 
-Let's create a new GameObject that will hold our label, again disabling it in the very next line. The `text` will be the `label` parameter, and the `fontSize` will be 2. Let's parent this TextMeshPro to the `viewer` TextMeshPro. We will finally set its `localPosition` a little bit above the actual `viewer`. Now we can re-enable it.
+We can simply pass in the `label` parameter into `BeatSaberUI.CreateText`. As for  `fontSize`, let's decrease that down to 2. Let's add a little bit of an offset to this text, so lets add a `Vector2` to our position parameter before scaling it up.
 
-Let's finally add the two GameObjects we created to the `List<GameObject>` we created a little while back.
+Let's finally add the GameObjects we created to the `List<GameObject>` we created a little while back by doing `viewer.gameObject` and `labelTMPro.gameObject`.
 
 ![Helper Function 2](/uploads/modding-example-v-2/15-update.png "Helper Function Part 2: Electric Boogaloo")
 
@@ -177,7 +179,7 @@ Let's grab this `ResultsViewController` using the method from the previous mod t
 
 Because there is a possibility the user might exit to the Main Menu via the Pause menu, we do not want to use a `WaitUntil` with `Resources`, since it'll keep running every frame, and not good for preformance. To also save on preformance, we will create a local `tries` count, which will increase for every failed attempt.
 
-Once we've found it, we can simply assign it to a private `ResultsViewController` variable. We will also include a check to see if it's activated, and then break the loop. If more than 20 tries have been attempted, we will also break our `while(true)` loop. We will then move on to an `Init` void if less then 20 attempts were taken (After about 2 seconds).
+Once we've found it, we can simply assign it to a private `ResultsViewController` variable. We will also include a check to see if it's activated, and then break the loop. If more than 20 tries have been attempted, we will also break our `while(true)` loop. We will then move on to an `Init` void if less then 20 attempts were taken (After about 2 seconds). Let's then add code to our `Start` function to start this `IEnumerator`
 
 ![Grabbing ResultsViewController](/uploads/modding-example-v-2/16-replacement-three.png "Grabbing ResultsViewController")
 
@@ -195,6 +197,8 @@ Instead of having you figure out where to put these things, I've went ahead and 
 
 ## One Final Thing
 Let's attach `ResultsViewController`'s two events into one void. The `continueButtonPressedEvent` and `restartButtonPressedEvent` will be fired when the respective buttons have been pressed. Let's add one `Continue` void to each of these. In our `Continue` void, we can simply loop through each GameObject in our `List<GameObject>` and call `Destroy()` on them.
+
+We also need to unsubscribe from these events when we are done. We can simply unsubscribe from the events in a `OnDestroy` function.
 
 ![Events](/uploads/modding-example-v-2/18-resultsevents.png "Events")
 
