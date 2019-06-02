@@ -1,9 +1,7 @@
 <!-- TITLE: The Example Mod Tutorial -->
 <!-- SUBTITLE: Learn how to make a Beat Saber Mod! -->
-# Sounds Like A Redo!
-With our transition over to [BSIPA](https://github.com/nike4613/BeatSaber-IPA-Reloaded/) instead of regular IPA, plus some changes since 0.13.0 (Accuracy Average text not displaying- everything else is fine!), I feel like it might be better if I make a third version of this mod tutorial.
-
-PM me on Discord (`Caeden117#0117`) if you want to voice your opinion.
+# Update!
+The mod tutorial has now been updated for Beat Saber 1.0.1. If you had any issues beforehand, they should be fixed now!
 # Prelude
 >If at any point you feel overwhelmed, it probably means you do not have enough experience. In that case, consider watching some Unity and C# tutorials to get familar with Unity and how it works.
 {.is-danger}
