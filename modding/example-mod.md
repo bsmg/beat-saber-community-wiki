@@ -119,7 +119,7 @@ In our `NoteCut` function, we can use the static `ScoreController.RawScoreWithou
 
 Now we need to filter out bombs and bad cuts, and then add to the according `List<int>` we created in `Plugin.cs` based on the note type.
 
-![Note Cut Events](/uploads/modding-example-v-2/09-replacement.png "Note Cut Events")
+![Note Cut Events](/uploads/bs-update/09-replacement.png "Note Cut Events")
 
 ## Transitions To Menu
 To access the Results screen *(Or in some cases, the Failed screen)*, we need to find when the game changes scenes from `MenuCore` to `GameCore`. Thankfully, the plugin template we are using already has detection for entering the `Menu` scene. Let's add on to that by checking to see if the game transitioned from `GameCore`.
@@ -140,7 +140,7 @@ Let's also create a `List<GameObject>` variable that will hold each `GameObject`
 
 In order to display text, we first need to create a Canvas. A Canvas is what Unity uses to place UI elements. Create a Canvas object, and then create a simple `Start` function. In here, we'll create our GameObject to hold our Canvas, and then add the Canvas component. We'll set the render mode to World Space, so our text can appear as if part of the world instead of attached to a camera, and change the position so it's against the center screen. In order to make the text not seem gigantic, we need to decrease the `localScale` to a tenth of what it usually is.
 
-![ResultsViewer.cs](/uploads/modding-example-v-2/13-replacement.png "ResultsViewer.cs")
+![ResultsViewer.cs](/uploads/bs-update/13-replacement.png "ResultsViewer.cs")
 
 ## Creating a TextMeshPro
 >If you are having trouble using `TextMeshProUGUI` or `BeatSaberUI.CreateText`, add `using TMPro;` and `using CustomUI.BeatSaber` at the top of your file, or add them as a reference if that doesn't work.
@@ -152,7 +152,7 @@ Let's start with the data first. We will utilize CustomUI's `CreateText` functio
 
 We can set the `text` value using a sneaky trick. Using a `List<int>`s built in function, we can grab the average from the list, and pass it to `ToString()`. We can also pass in a formatter into `ToString()` and format it to 2 decimal places, like so: `ToString("0:00")`. Let's set the `fontSize` to 3 and the alignment to `TextAlignmentOptions.Center`.
 
-![Helper Function](/uploads/modding-example-v-2/14-update.png "Helper Function Part 1")
+![Helper Function](/uploads/bs-update/14-update.png "Helper Function Part 1")
 
 But wait! Let's add a label using our `label` parameter. We will mainly be copy and pasting our previous code, but there will be some differences.
 
@@ -160,7 +160,7 @@ We can simply pass in the `label` parameter into `BeatSaberUI.CreateText`. As fo
 
 Let's finally add the GameObjects we created to the `List<GameObject>` we created a little while back by doing `viewer.gameObject` and `labelTMPro.gameObject`.
 
-![Helper Function 2](/uploads/modding-example-v-2/15-update.png "Helper Function Part 2: Electric Boogaloo")
+![Helper Function 2](/uploads/bs-update/15-update.png "Helper Function Part 2: Electric Boogaloo")
 
 ## Grabbing ResultsViewController
 >If you are having trouble using `IEnumerator`, add `using System.Collections;` to the top of your file.
@@ -176,7 +176,7 @@ Because there is a possibility the user might exit to the Main Menu via the Paus
 
 Once we've found it, we can simply assign it to a private `ResultsViewController` variable. We will also include a check to see if it's activated, and then break the loop. If more than 20 tries have been attempted, we will also break our `while(true)` loop. We will then move on to an `Init` void if less then 20 attempts were taken (After about 2 seconds). Let's then add code to our `Start` function to start this `IEnumerator`
 
-![Grabbing ResultsViewController](/uploads/modding-example-v-2/16-replacement-three.png "Grabbing ResultsViewController")
+![Grabbing ResultsViewController](/uploads/bs-update/16-replacement-three.png "Grabbing ResultsViewController")
 
 Our `Init` function is where we will finally create our results. Let's first check to see if our `ResultsViewController` is active. In case our `IEnumerator` from before found one while it wasn't supposed to, we can easily check if it's actually enabled.
 
@@ -188,14 +188,14 @@ If `Config.displayBoth` is on, we'll create a new `List<int>` based off of any o
 
 Instead of having you figure out where to put these things, I've went ahead and done the work for you.
 
-![Init Results](/uploads/modding-example-v-2/17-resultsinit.png "Init Results")
+![Init Results](/uploads/bs-update/17-resultsinit.png "Init Results")
 
 ## One Final Thing
 Let's attach `ResultsViewController`'s two events into one void. The `continueButtonPressedEvent` and `restartButtonPressedEvent` will be fired when the respective buttons have been pressed. Let's add one `Continue` void to each of these. In our `Continue` void, we can simply loop through each GameObject in our `List<GameObject>` and call `Destroy()` on them.
 
 We also need to unsubscribe from these events when we are done. We can simply unsubscribe from the events in a `OnDestroy` function.
 
-![Events](/uploads/modding-example-v-2/18-resultsevents.png "Events")
+![Events](/uploads/bs-update/18-resultsevents.png "Events")
 
 Before we forget, lets head back to `Plugin.cs` one final time. Let's be sure to create our GameObject and attach our `ResultsViewer` class when we enter `MenuCore` from the `GameCore` scene.
 
