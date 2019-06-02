@@ -334,7 +334,7 @@ That should be it! Let's go into Beat Saber and head into a song list. From the 
 
 You should now be able to toggle any of those options, play a song, and have them effect how it plays out. And that's it! You have added a custom submenu with custom toggles to your mod!
 # Epilouge
-If you've gone this far, congratulations! You have completed a mod worthy enough to be submitted to [ModSaber](https://www.modsaber.org/).
+If you've gone this far, congratulations! You have completed a mod worthy enough to be submitted to [BeatMods](https://www.beatmods.com/).
 
 I thank you for at least reading through my mod tutorial. And for those who have attempted, I thank you even more, even if you got yourself stuck on some steps.
 
