@@ -12,12 +12,8 @@
 
 # 0. Important Notes
 ### New Update, Cant Click Solo, Campaign Etc.
-This is caused due to your outdated files remaining within your game folder, and causes the issue
-a [Clean Installation](#clean-installation) should fix it. and reinstall your mods.
-
-### Can't Fail Glitch
-Simply update your mods, perhaps do a 
-[Clean Installation](#clean-installation)
+This is caused by having outdated files remaining within your game folder from previous game versions
+A [Clean Installation](#clean-installation) should fix it. Then reinstall your mods.
 
 ### Steam Vr Loading Issue
 Theres a small issue regarding beatsaber and the new steamvr update, open your steamvr and open its settings
@@ -28,15 +24,13 @@ Theres a small issue regarding beatsaber and the new steamvr update, open your s
 >Refer To This Gif.
 https://media.discordapp.net/attachments/442696229508612096/580271306461806640/fix_game_not_responding.gif
 
-### If You're Modding Again (From A Previously Modded Copy)
+### If You're Updating From A Previously Modded Copy
 Then we recommend you perform a clean install,[Clean Installation](#clean-installation) before modding,
-Basically just cut out/copy your `CustomSongs` folder elsewhere, and delete the games folder and uninstall from your platform.
+Essentially, just cut out/copy your `CustomSongs` folder elsewhere, and delete the game's folder.
 Then reinstall the game and launch it once without mods, so it generates whatever it needs to, before you mod it or else itll treat mods installed as incompatible.
 
-## The mod manager isnt installing any plugins
-The plugins will appear in your plugins folder after you launch the game. if your game plugins folder still is empty please
-run `ipa.exe` again and make sure that nothing is preventing it from running, `Anti-viruses, Admin permissions, etc.`
-you can try running the installer again also `try running the ipa.exe a few times` then launch your game.
+## The installers aren't installing any plugins
+The installers download mods to `Beat Saber/IPA/Pending`, and these files are moved to your plugins folder when you launch the game. If your game Plugins folder still is empty afterwards, run `ipa.exe` again and make sure that nothing is preventing it from running, e.g. `Anti-viruses, Admin permissions, etc.`
 
 # 1. Installer Issues
 ### 1.1 Is the mod manager a virus?
@@ -50,7 +44,7 @@ You can also refer to [Videos On Installer Usage, And Manual Installation](#watc
 For a quick summary on what the exceptions specifically mean then give this a quick read if you want to go into the specifics
 [Exceptions](https://bsmg.wiki/support/exceptions) 
 Run the mod manager in admin mode if your PC's security settings have insufficient permissions to patch files by default.
-Your anti-virus program can also be the cause for permission errors make sure you add the entire beatsaber folder to your exceptions, 
+Your anti-virus program can also be the cause for permission errors. Add the entire beatsaber folder to your exceptions. 
 >You could also add the `beatsaber.exe` and `ipa.exe` to your list of exceptions
 
 ### 1.4 No mods in game
@@ -171,8 +165,7 @@ The **More Songs button is located in the Mods button in the main menu**, if the
 if your mods button isnt there then kindly make sure your plugins and dependencies are working and installed properly, refer to [No Mods In Game](#1-4-no-mods-in-game).
 
 ### 3.10 Nothing Showing Up In The More Songs Menu
-The probable causes for beatsaber downloader not working are these, firstly make sure all of your songs have loaded in before, or else the More Songs button
-will be greyed out. if theres nothing loading within the More Songs, this might be your anti-virus or firewall blocking access to beatsaver,
+The probable causes for beatsaber downloader not working are these, firstly make sure all of your songs have loaded in before, or else the More Songs button will be greyed out. If it still doesn't appear, this might be your anti-virus or firewall blocking access to beatsaver.
 
 # 4. Troubleshooting
 ### 4.1 Backing Up Custom Content
@@ -198,10 +191,10 @@ If you're on Oculus then you will have to Right click on Beat Saber.exe and crea
 After adding verbose to your game hopefully it will display any errors regarding your avatars, sabers, and songs although it may not show 100% of the time
 for avatars and sabers, you may have to remove all your avatars/sabers and try them one by one to see which one breaks the game.
 
-## Deleting Your LocalLow Beatsaber Data
+## Deleting Your Beat Saber saves in AppData
 This will delete your scores and local data but not your online scores or anything like that.
 You can find the folder here 
->%appdata%/../locallow/hyperbolic magnetism/beat saber
+>`%appdata%/../locallow/hyperbolic magnetism/beat saber`
 
 Copy and paste everything from inside the bar above and paste it to your address bar in file explorer
 To "delete" this folder `(the beatsaber folder in locallow)` you can rename it or actually delete it. 
