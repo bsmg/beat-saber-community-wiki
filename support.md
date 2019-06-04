@@ -43,9 +43,7 @@ BitDefender and other AV software seem to have added the Mod Manager into their 
 You're probably trying to run the old mod managers, just use mod assistant instead. [ModAssistant Github](https://github.com/Assistant/ModAssistant/releases/latest).
 You can also refer to [Videos On Installer Usage, And Manual Installation](#watch-videos-on-installing)
 
-### 1.3 Permission/Exception Errors
-For a quick summary on what the exceptions specifically mean then give this a quick read if you want to go into the specifics
-[Exceptions](https://bsmg.wiki/support/exceptions) 
+### 1.3 Permission Errors
 Run the mod manager in admin mode if your PC's security settings have insufficient permissions to patch files by default.
 Your anti-virus program can also be the cause for permission errors. Add the entire beatsaber folder to your exceptions. 
 >You could also add the `beatsaber.exe` and `ipa.exe` to your list of exceptions
@@ -159,6 +157,8 @@ If that doesn't work make sure you have the mod installed properly try reinstall
 ### 3.8 My desktop view only takes up a small section of the screen
 Your CameraPlus display isn't filling up your canvas. Either drag the corner to fit the screen, or right click the window and click "Fit to Canvas".
 
+> Note that CameraPlus' context menu has been disabled as of 1.0.0 due to compatibility issues. Edit the config file manually or use the hotkeys to edit settings, you can find a full list of options on the [GitHub](https://github.com/Kylemc1413/CameraPlus)
+
 ## Beatsaver Downloader Issues
 ### 3.9 Beatsaver Downloader More Songs Button
 The **More Songs button is located in the Mods button in the main menu**, if the button for More Songs is greyed out then make sure all your songs loaded first, as seen in the bar on the main menu
@@ -181,15 +181,19 @@ Either to your desktop or the folder before that, your directory will usually be
 
 >Oculus: 	`\hyperbolic-magnetism-beat-saber\`
 
-### 4.2 Finding Broken Content
+### 4.2 Understanding Logs
 If you're on Steam you can go to 
->Beat Saber > Properties > Set Launch Options > `Add "--verbose" to the text field that appears`
+>Beat Saber > Properties > Set Launch Options > Add `--verbose` to the text field that appears
 
 If you're on Oculus then you will have to Right click on Beat Saber.exe and create a shortcut. 
->Right click the shortcut and edit the Target to add "--verbose" to the end of it. Should be something like "C:\Program Files\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\Beat Saber.exe" --verbose
+>Right click the shortcut and edit the Target to add "--verbose" to the end of it. Should be something like `C:\Program Files\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\Beat Saber.exe" --verbose`
 
-After adding verbose to your game hopefully it will display any errors regarding your avatars, sabers, and songs although it may not show 100% of the time
-for avatars and sabers, you may have to remove all your avatars/sabers and try them one by one to see which one breaks the game.
+After adding verbose to your game hopefully it will display any errors regarding your avatars, sabers, and songs 
+* This may not show 100% of the time for avatars and sabers, and you may have to remove all your avatars/sabers and try them one by one to see which one breaks the game.
+
+These messages are also written to `Beat Saber/Logs`.
+
+A list of common exceptions can be found [here](https://bsmg.wiki/support/exceptions).
 
 ## Deleting Your Beat Saber saves in AppData
 This will delete your scores and local data but not your online scores or anything like that.
