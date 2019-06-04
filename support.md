@@ -10,10 +10,10 @@
 5. [If All Else Fails](#5-if-all-else-fails)
 6. [Still Having Issues](#6-still-having-issues)
 
-# 0. Important Notes
+# 0. Recent FAQs
 ### New Update, Cant Click Solo, Campaign Etc.
-This is caused by having outdated files remaining within your game folder from previous game versions
-A [Clean Installation](#clean-installation) should fix it. Then reinstall your mods.
+This is caused by having outdated mods for previous game versions in your installation.
+Delete your `Plugins` folder and reinstall your mods.
 
 ### Steam Vr Loading Issue
 Theres a small issue regarding beatsaber and the new steamvr update, open your steamvr and open its settings
@@ -25,9 +25,10 @@ Theres a small issue regarding beatsaber and the new steamvr update, open your s
 https://media.discordapp.net/attachments/442696229508612096/580271306461806640/fix_game_not_responding.gif
 
 ### If You're Updating From A Previously Modded Copy
-Then we recommend you perform a clean install,[Clean Installation](#clean-installation) before modding,
-Essentially, just cut out/copy your `CustomSongs` folder elsewhere, and delete the game's folder.
-Then reinstall the game and launch it once without mods, so it generates whatever it needs to, before you mod it or else itll treat mods installed as incompatible.
+Delete your Plugins folder and **run the game once** on the new update. Then, reinstall your mods using an installer linked on the [beginner's guide](/beginners-guide). 
+
+If the game boots with no mods installed, check the Plugins folder for mods. If none exist, simply rerun the manager - you likely didn't run the game once before reinstalling mods.
+If the game seems unplayable, check [section 2](#2-game-issues-post-modding)
 
 ## The installers aren't installing any plugins
 The installers download mods to `Beat Saber/IPA/Pending`, and these files are moved to your plugins folder when you launch the game. If your game Plugins folder still is empty afterwards, run `ipa.exe` again and make sure that nothing is preventing it from running, e.g. `Anti-viruses, Admin permissions, etc.`
@@ -37,7 +38,7 @@ The installers download mods to `Beat Saber/IPA/Pending`, and these files are mo
 BitDefender and other AV software seem to have added the Mod Manager into their database of suspicious programs. See this [GitHub issue](https://github.com/beat-saber-modding-group/BeatSaberModInstaller/issues/20) for more info, and use your best judgement.
 
 ### 1.2 I can't download the mod manager, or it closes as soon as I start it up|
-You're probably trying to run the old mod managers, just use mod assistant instead.[Modassistant Github](https://github.com/Assistant/ModAssistant/releases/latest).
+You're probably trying to run the old mod managers, just use mod assistant instead. [ModAssistant Github](https://github.com/Assistant/ModAssistant/releases/latest).
 You can also refer to [Videos On Installer Usage, And Manual Installation](#watch-videos-on-installing)
 
 ### 1.3 Permission/Exception Errors
@@ -61,16 +62,17 @@ So you just installed some mods but they don't seem to appear in game. Make sure
 ## Crashing/Game Not Starting Issues
 
 ### 2.1 GetThreadContext Failed Error
-If a window pops up saying `GetThreadContext Failed` and/or you hear a Windows error sound, you may have software on your PC that's breaking Beat Saber mods. Many third-party anti-cheat software like ESEA and FaceIt disrupt BSIPA from applying mods to Beat Saber, even when not running. Some Anti-Virus software also exhibit similar behavior. 
+If a window pops up saying `GetThreadContext Failed` and/or you hear a Windows error sound, you may have software on your PC that breaks Beat Saber mods. Many third-party anti-cheat software like ESEA and FaceIt disrupt BSIPA from applying mods to Beat Saber, even when not running. Some Anti-Virus software also exhibit similar behavior. 
 
-We're working on a more permanent solution, but at the moment you need to do the following steps:
+To solve this problem:
 1. Uninstall the anti-cheat software.
 2. Reboot your PC.
-3. Make sure your anti-virus is turned off for the mean time, and possibly consider adding your `Beat Saber` folder to your exceptions.
-If problems persist then do the following for your respective platform.
-`Additional Note:The problem can continue to persist due to lacking permissions or exceptions, any program that can block bsipa,or programs marked suspicious can make this problem persist`
-Steam : Do this [Verify Steam Game Files](#verify-game-files-for-steam)
-Oculus : Perform a [Clean Installation](#clean-installation)
+3. Check if any remnants of the software still exist in your `AppData` folders.
+4. Run the game.
+If problems persist then try the following:
+`Additional Note:The problem can continue to persist due to lacking permissions or exceptions, any program that can block bsipa, or programs marked suspicious can make this problem persist`
+Steam: [Verify Steam Game Files](#verify-game-files-for-steam)
+Oculus: Perform a [Clean Installation](#clean-installation)
 
 This should fix the problem.
 
@@ -82,18 +84,18 @@ if you're reinstalling refer to these:
 This seems to happen when updating Beat Saber and having mods installed previously, but not to users with clean installs of the game.
 
 ## Framerate Issues
-### 2.3 The game is extremely laggy after installing mods
+### 2.3 The game is unbearably laggy after installing mods
 If the game lags so badly that you can barely click the `Continue` button on the Health & Saftey screen, then verify files if you have the game on Steam, or reinstall the game on Oculus Home. 
 Do the same if it won't start up at all, and shows no error messages when trying to launch the game.
 
-If that didn't solve the issue, then proceed on over to here for [Improving framerate](#framerate-issues)
+If that didn't solve the issue, then check section [2.4 Improving framerate](#framerate-issues)
 
-### 2.4 General FPS issues/Microstuttering
-If [2.3](#2-3-the-game-is-extremely-laggy-after-installing-mods-or-it-wont-start-up-at-all) didn't improve your framerate, then your PC might simply be struggling to keep up with the stress caused by mods. Here are some things you can do to improve framerate, in no particular order:
+### 2.4 Improving Framerate
+If [2.3](#2-3-the-game-is-extremely-laggy-after-installing-mods-or-it-wont-start-up-at-all) didn't improve your fps, then your PC might simply be struggling to keep up with the stress caused by mods. Here are some things you can do to improve framerate, in no particular order:
 
 **NVDIA GEFORCE EXPERIENCE NOW OPTIMIZES BEATSABER, IT USUALLY SETS YOUR GAMES RENDERING SCALE PAST 1.0, USUALLY 1.4 or 1.8 THIS IS THE COMMON REASON FOR LAG RECENTLY**
 
-* Use a less complex avatar.
+* Use a less complex custom avatar.
 * The custom saber **Plasma Katanas** have tons of custom events and are known to introduce lag if you miss.
 * CameraPlus can be very taxing, especially if you have multiple cameras and increase the FOV.
 * Turn down Render Scale, Anti-Aliasing, mirror, fog, etc in the base game settings.
@@ -101,7 +103,7 @@ If [2.3](#2-3-the-game-is-extremely-laggy-after-installing-mods-or-it-wont-start
 * Reduce your total mod and song count. 
 * Perform a clean reinstall of the game files. [Clean Installation](#clean-installation)
 * Low framerate can also be caused by something going wrong within your application data folder, to fix this refer to [Deleting The Beatsaber Folder Within Your App Data](#deleting-your-local-low-beatsaber-data)
-* CountersPlus' scorecounter is fairly expensive. [See this github wiki page on performance with Counters+](https://github.com/Caeden117/CountersPlus/wiki/Performance-and-Optimization)
+* CountersPlus counters like scorecounter and swing speed can be expensive. [See this github wiki page on performance with Counters+](https://github.com/Caeden117/CountersPlus/wiki/Performance-and-Optimization)
  >Note: Deleting the Appdata folder will also delete your local scores and statistics.
 {.is-warning}
 
