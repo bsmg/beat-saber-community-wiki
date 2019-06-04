@@ -24,7 +24,7 @@ Maps that are ranked and worth PP need to adhere to the [ScoreSaber Ranking Crit
 # Publishing Songs
 When you're ready to release your map to the public, upload it to https://beatsaver.com.
 
-> Please do not upload WIPs to BeatSaver! It's hard to tell which maps aren't finished in game, and anyone who plays your WIP without practice mode will create a new leaderboard for that map. Uploading to BeatSaver should be akin to putting it on store shelves - that is, it's your final product. To share for playtesting, we encourage you to use the #testplays channel in the discord and get feedback to improve your map!
+Please** do not** upload WIPs to BeatSaver! It's hard to tell which maps aren't finished in game, and anyone who plays your WIP without practice mode will create a new leaderboard for that map. Uploading to BeatSaver should be akin to putting it on store shelves - that is, it's your final product. To share for playtesting, we encourage you to use the #testplays channel in the discord and get feedback to improve your map!
 {.is-warning}
 
 # Editors
@@ -72,11 +72,11 @@ https://www.youtube.com/watch?v=nIX0koHzW8c&t
 Elliotttate's tool for finding the BPM of a song
 https://bsaber.com/bpmsaber/
 
-## BPM Changer
-A [tool](https://github.com/zevdg/bpm-saber) for changing the BPM of a beatsaber track without changing the position of the boxes and walls relative to the music.
-
 # Legacy Tools
 These tools have been deprecated by MediocreMapper, but you might find these helpful if you are using older tools.
+
+## BPM Changer
+A [tool](https://github.com/zevdg/bpm-saber) for changing the BPM of a beatsaber track without changing the position of the boxes and walls relative to the music.
 
 ## VARIABLE BPM
 Currently variable BPM isn't supported by the game, but you can fake it by offsetting notes to fit the grid. TehSuperToilet made a guide on how to do this. [It is included in this zip file.](https://cdn.discordapp.com/attachments/443569023951568906/459771392054001664/bpm_changer.zip)
@@ -87,6 +87,7 @@ Normally, lighting events cannot be copy pasted but this [tutorial](https://bsab
 # "Mappers" role on the Beat Saber Modding Group Discord
 If you'd like to apply for the Mappers role on the Beat Saber Modding Group Discord, use the following google form.
 https://goo.gl/forms/KM71UKjQpbCesWNg2
+You will be contacted when your application is looked at, but due to the limited staff and higher priority tasks to get to, the wait could be long.
 
 # Frequently Asked Questions
 ## Do I need Beat Saber installed to use the editors?
@@ -101,7 +102,7 @@ Example track file: https://pastebin.com/rkZVSmte
 Custom maps are saved to the `CustomSongs` folder in your Beat Saber install folder.
 **Where is Beat Saber installed?** See [install folder.](faq/install-folder)
 
-## "Your audio file name is wrong" message in the Edit Saber
+## "Your audio file name is wrong" message in the editor
 The 3D Editor only supports `.ogg` files. You have to convert your file to Ogg Vorbis using a converter, such as [Audacity](https://www.audacityteam.org/).
 If you simply change the file extension to `.ogg`, it will not work.
 
