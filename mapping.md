@@ -21,7 +21,6 @@
 ## Ranking Criteria
 Maps that are ranked and worth PP need to adhere to the [ScoreSaber Ranking Critera](https://docs.google.com/document/d/1mtVihRO1LomyptXayoDNDTQYgX_TQPp6ZYDmtwR2jMI/edit). To learn more about the ranking process, visit the [ScoreSaber Discord](https://discord.gg/WpuDMwU).
 
-
 # Publishing Songs
 When you're ready to release your map to the public, upload it to https://beatsaver.com.
 
@@ -29,9 +28,10 @@ When you're ready to release your map to the public, upload it to https://beatsa
 {.is-warning}
 
 # Editors
-**The official editor has not been released.**
-All custom maps are being made using the community built map editors.
-There are currently 3 editors. All export the same files, but offer different workflows.
+Most custom maps are being made using the community built map editors.
+
+> Currently, the community editors use a different format than the official one. The formats will be unified in the future, but the community editors don't support the official format and thus community-made songs cannot be loaded using the native game song loader yet.
+{.is_warning}
 
 ## Mediocre Mapper
 A fork of Edit Saber made by squeaksies, and the only known editor that is still being maintained and developed.
