@@ -15,12 +15,14 @@
 This is caused by having outdated mods for previous game versions in your installation.
 Delete your `Plugins` folder and reinstall your mods.
 
+### Installers only show mods for 1.0.0
+Anything for 1.0.0 works for 1.0.1. If anyone has spare time and wants to reupload all the 1.0.0 mods for 1.0.1 on BeatMods let us know, I'm only half joking.
+
 ### Steam Vr Loading Issue
-Theres a small issue regarding beatsaber and the new steamvr update, open your steamvr and open its settings
+The new SteamVR update causes the game to hang upon loading into a map, sometimes so long that you've missed blocks by the time the game loads.
 1.**Under Developer Settings**
 2.**Turn On**
 3.**Do Not Fade To Grid When App Hangs**
-`By checking this it should fix the issue of when you load a song it loads and causes you to miss/die`
 >Refer To This Gif.
 https://media.discordapp.net/attachments/442696229508612096/580271306461806640/fix_game_not_responding.gif
 
