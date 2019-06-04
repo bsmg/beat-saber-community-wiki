@@ -52,14 +52,11 @@ Your anti-virus program can also be the cause for permission errors. Add the ent
 
 ### 1.4 No mods in game
 So you just installed some mods but they don't seem to appear in game. Make sure that the following are correct:
-* As stated multiple times in the [beginner's guide](/beginners-guide), **make sure that you ran the game once before installing mods**
-* You're **scrolling right** to actually see the CustomMaps songpack.
-* There actually is a Plugins folder in your install directory.
-* Steam/Oculus is launching Beat Saber from the **same installation** that mods are in. *e.g. mods are on the D drive but steam is launching from the C drive*
-* If you installed mods manually,make sure you included all the files from the download and put them in the correct folders, as well as their dependencies.
+* **Make sure that you ran the game once before installing mods**. If you didn't, there likely isn't a Plugins folder in your install directory as BSIPA removes all mods on the first run of a fresh update. Reinstall mods again if this is the case.
+* Steam/Oculus is launching Beat Saber from the **same installation** that mods are in. *e.g. mods are on the D drive but steam is launching from the C drive.* Set the correct install location in your choice of installer.
+* If you installed mods manually, make sure you included all the files from the download and put them in the correct folders, as well as their dependencies.
 * Redownload the dependencies, `BSUtils`, `Harmony`, `IniParser` , `CustomUI`, `BSIPA` and extract them to the correct folders, and run the IPA.exe again.
 
-![Custommaps](/uploads/custommaps.png "Custommaps")
 # 2. Game Issues Post-Modding
 ## Crashing/Game Not Starting Issues
 
@@ -126,11 +123,10 @@ To fix this refer to [Delete Beatsaber Folder Within Your App Data](#deleting-yo
 {.is-warning}
 
 ### 3.2 How do I use `x` mod?
-If you're using the Beat Saber Mod Manager, click the mod and hit the "View Selected Mod Info" button. http://beatmods.com has a "More Info" button on each mod as well.
+If you're using Mod Assistant or Beat Saber Mod Manager, click the mod and hit the "View Selected Mod Info" button. http://beatmods.com has a "More Info" button on each mod as well.
 
 ### 3.3 Crashing (Multiplayer Mod + Rumble Enchancer)
-There's a issue between certain versions of the multiplayer mod and the rumble enchancer mod, if both are installed the game will crash and such, uninstall either. and if anything do a clean install of your game to
-be on the safe side. [Clean Installation](#clean-installation)
+There's a issue between certain versions of the multiplayer mod and the rumble enchancer mod, if both are installed the game will crash and such, uninstall either. 
 
 ## Custom Avatars Issues
 ### 3.4 Custom Avatars (Not) Showing Ingame
@@ -251,7 +247,7 @@ Refer to [Clean Install](#clean-installation) basically, uninstalling your game,
 it would be best to [Delete The Beatsaber Folder Within Your App Data](#deleting-your-local-low-beatsaber-data) and with this all the files related to beatsaber would be deleted by now,
 from here please verify the following.
 * Make sure your current user **is an administrator**
-* Your anti-virus is **Completely Off** (for the meantime at least)
+* Your anti-virus is **Off** (for the meantime at least)
 * You have permission to create folders and edit files within the disk drive/your pc, (from what I heard a windows update recently caused problems for people)
 * Your drivers are up to date
 * That the problem doesn't lie within your headset, or operating system, or your hardware/software
@@ -259,12 +255,10 @@ from here please verify the following.
 ### Desperate Measures
 * Reinstalling all things related to VR.
 * Reinstalling all the programs and such Unity uses. *DirectX, etc.*
-### If Everything Fails
+### REALLY DESPERATE MEASURES
 * Reinstall your os and format your drive.
-The reason this is listed cause this would make sure that everything listed above software side would be eliminated as a variable, and could help determine if it is a hardware issue,
-By installing steam and the games they should re-download the things they depend on, I personally dont recommend this unless you have no other choice, dont forget to back up your important files elsewhere either to a
-external drive, or a different drive that you do not plan to format, although if youre formatting you have to at least make sure you format the main things as mentioned earlier, such as the things VR related and basically
-anything that software would use.
+This is an absolute last ditch effort that would make sure that everything software related is eliminated as a variable, and could help determine if it is a hardware issue,
+I personally dont recommend this unless you have no other choice. Don't forget to back up your important files elsewhere either to an external drive or cloud storage. 
 # 6. Still having issues
 If this page doesn't cover the bases, then feel free to ask a question in the discord! To increase the chance that you'll have your questions answered, consider the following:
 * Use the right channel please. `#support` for mod troubleshooting, `#model-discussion` for questions about **making your own avatars**, and `#mapping-discussion` for questions about **making maps.**
@@ -275,3 +269,5 @@ If this page doesn't cover the bases, then feel free to ask a question in the di
 {.is-warning}
 
 Thank you!
+
+> Thank you to Saber-Chan for their hard work on this page.
