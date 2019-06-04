@@ -36,8 +36,9 @@ Most custom maps are being made using the community built map editors.
 ## Mediocre Mapper
 A fork of Edit Saber made by squeaksies, and the only known editor that is still being maintained and developed.
 https://github.com/squeaksies/MediocreMapper/releases/latest
->While __most people use this editor__ because it's by far the most feature rich of the 3, this is still first and foremost squeaksies' personal editor. It's filled to the brim with memes and inside jokes, and he doesn't give a flying heck what you think about it. 
-{.is-warning}
+>While __most people use this editor__ because it's by far the most feature rich of the 3, this is still first and foremost squeaksies' personal editor. 
+> It's filled to the brim with memes and inside jokes, and he doesn't give a flying heck what you think about it. 
+{.is_warning}
 
 ### EditSaber
 A robust 3D track editor made in Unreal Engine by Ikeiwa!
