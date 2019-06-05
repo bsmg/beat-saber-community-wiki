@@ -63,7 +63,8 @@ You don't realize how much you appreciate SongBrowser until it's gone.
 [GitHub](https://github.com/halsafar)
 
 ## Ikeiwa
-Everyone's favorite french furry. He kicked off modding early on with the original EditSaber and the earliest versions of the custom avatar plugin, among many others.
+Everyone's favorite french furry. He kicked off modding early on with the original EditSaber and the earliest versions of the custom avatar plugin, among many others. 
+"C'est pain au chocolat"
 **Roles:** Modder, 3D Artist, ~~Staff~~ (retired)
 **Contributions:** EditSaber, Custom Avatars, Custom Sabers, many more legacy plugins
 [GitHub](https://github.com/Ikeiwa)
