@@ -62,6 +62,12 @@ You don't realize how much you appreciate SongBrowser until it's gone.
 **Contributions:** SongBrowser
 [GitHub](https://github.com/halsafar)
 
+## Ikeiwa
+Everyone's favorite french furry. He kicked off modding early on with the original EditSaber and the earliest versions of the custom avatar plugin, among many others.
+**Roles:** Modder, 3D Artist, ~~Staff~~ (retired)
+**Contributions:** EditSaber, Custom Avatars, Custom Sabers, many more legacy plugins
+[GitHub](https://github.com/Ikeiwa)
+
 ## ItsNovaHere
 Creator of a variety of mods, as well as the super spiffy HitOverlay that some streamers use to show you how to cut bloq properly. 
 **Roles:** Modder
@@ -279,12 +285,6 @@ Official BSMG PR Guy. Events like the 100k Contest wouldn't have been possible w
 **Roles:** Staff, BSMG PR
 **Contributions:** BeastSaber, Contest Management
 [Patreon](https://www.patreon.com/beastsaber)
-
-## Ikeiwa
-Everyone's favorite french furry. He kicked off modding early on with the original EditSaber and the earliest versions of the custom avatar plugin, among many others.
-**Roles:** Staff, Modder, 3D Artist
-**Contributions:** EditSaber, Custom Avatars, Custom Sabers, many more legacy plugins
-[GitHub](https://github.com/Ikeiwa)
 
 ## Klouder
 A shining ray of positivity when all hell breaks loose on update days, holding everything together when updates hit. Today, they've moved on to manage ScoreSaber and be a big part of the ranking process. Very cute awoos too
