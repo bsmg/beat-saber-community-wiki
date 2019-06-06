@@ -99,7 +99,7 @@ If [2.3](#2-3-the-game-is-extremely-laggy-after-installing-mods-or-it-wont-start
 * For Oculus players: consider using 2 sensors instead of 3+.
 * Reduce your total mod and song count. 
 * Perform a clean reinstall of the game files. [Clean Installation](#clean-installation)
-* Low framerate can also be caused by something going wrong within your application data folder, to fix this refer to [Deleting The Beatsaber Folder Within Your App Data](#deleting-your-local-low-beatsaber-data)
+* Low framerate can also be caused by something going wrong within your application data folder, to fix this refer to [Deleting The Beatsaber Folder Within Your App Data](#deleting-your-beat-saber-saves-in-app-data)
 * CountersPlus counters like scorecounter and swing speed can be expensive. [See this github wiki page on performance with Counters+](https://github.com/Caeden117/CountersPlus/wiki/Performance-and-Optimization)
  >Note: Deleting the Appdata folder will also delete your local scores and statistics.
 {.is-warning}
