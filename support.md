@@ -116,7 +116,7 @@ This happens when you have outdated mods from 0.13.2 in your plugins folder. Wip
 # 3. Common Questions
 ### 3.1 Blank Menu No Buttons
 If your main window in game is blank, your save file likely got corrupted.
-To fix this refer to [Delete Beatsaber Folder Within Your App Data](#deleting-your-local-low-beatsaber-data)
+To fix this refer to [Delete Beatsaber Folder Within Your App Data](#deleting-your-beat-saber-saves-in-app-data)
 >Note: This will delete your local scores and statistics.
 {.is-warning}
 
@@ -237,7 +237,7 @@ To perform a clean installation youre going to have to make sure that all of the
 Then you'll have to go to whichever directory you had beatsaber installed and **Delete the ENTIRE Beat Saber Folder** to make sure you have no files left over which
 may break your game or mods, Oculus just deletes the folder as is, but this may but highly unlikely break or not work, but better safe than sorry!
 `This Next Part Is Optional`
-**Now if you really want to have a CLEAN** Installation `Refer To:`[Deleting The Beatsaber Folder Within Your App Data](#deleting-your-local-low-beatsaber-data)
+**Now if you really want to have a CLEAN** Installation `Refer To:`[Deleting The Beatsaber Folder Within Your App Data](#deleting-your-beat-saber-saves-in-app-data)
 
 ## Watch Videos On Installing
 **QUICK NOTE THE PLUGINS WILL SHOW UP IN YOUR PLUGINS FOLDER AFTER LAUNCHING THE GAME IF YOU USE THE INSTALLER**
@@ -248,7 +248,7 @@ Also I apologize for the small end bit in the manual install, I've never used pl
 # 5. If All Else Fails
 If none of these solutions worked for you then I'd recommend a complete purge of your beatsaber files, this would include your game and the data it saves inside your appdata folder
 Refer to [Clean Install](#clean-installation) basically, uninstalling your game, then deleting all the remaining files if any files remain after uninstalling, after doing a complete game uninstall,
-it would be best to [Delete The Beatsaber Folder Within Your App Data](#deleting-your-local-low-beatsaber-data) and with this all the files related to beatsaber would be deleted by now,
+it would be best to [Delete The Beatsaber Folder Within Your App Data](#deleting-your-beat-saber-saves-in-app-data) and with this all the files related to beatsaber would be deleted by now,
 from here please verify the following.
 * Make sure your current user **is an administrator**
 * Your anti-virus is **Off** (for the meantime at least)
