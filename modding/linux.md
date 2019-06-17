@@ -7,6 +7,7 @@
 
 Beat Saber mod installers weren't built to run on Linux, so we have to do some small things to get it to work.
 It is very similar to a Windows install, but you will need some workarounds.
+
 >Using mods in Linux isn't supported by mod developers, so you might encounter bugs.
 {is-warning}
 
@@ -28,13 +29,17 @@ Make sure you have [Wine](https://wiki.winehq.org/Download) and [Winetricks](htt
 > There will be multiple install prompts you will have to go through, this is normal.
 {.is-warning}
 
-3. Download a [mod installer](beginners-guide#installers) and put it in your [install folder](faq/install-folder).
+3. Download a [mod installer](https://bsmg.wiki/beginners-guide#installers) and put it in your [install folder](https://bsmg.wiki/faq/install-folder).
+
 ![Install Folder](https://i.imgur.com/ap2ofvE.png)
+
 4. Move your Beat Saber folder onto your desktop and open a terminal
 5. Navigate to your Beat Saber folder in a terminal and run your installer in Wine.
+
 >  $ cd Desktop
 >  $ cd "Beat Saber"
 >  $ wine BeatSaberModManager.exe
+
 ![BeatSaberModManager](https://i.imgur.com/sXUhA8x.png)
 
 4. Direct the installer to your Beat Saber directory
@@ -44,7 +49,7 @@ Make sure you have [Wine](https://wiki.winehq.org/Download) and [Winetricks](htt
 6. Close out of the installer and put the Beat Saber folder back into common.
 ![Beat Saber folder](https://i.imgur.com/xWeN0TT.png)
 
-7. Start Beat Saber and check if the mods are installed. If they aren't you may need to [do a Dll override](modding/linux#dll-override)
+7. Start Beat Saber and check if the mods are installed. If they aren't you may need to [do a Dll override](linux#dll-override)
 
 ## Using a Virtual Machine
 
@@ -64,11 +69,13 @@ Make sure you have [VirtualBox](https://www.virtualbox.org/wiki/Linux_Downloads)
 
 5. Make a shared folder by going to 'Devices > Shared Folders > Shared Folder Settings...'.
 Make a new shared folder with the common folder '/.local/share/Steam/steamapps/common/' and turn Auto-mount on.
+
 ![Shared Folder](https://i.imgur.com/FoV8BE3.png)
+
 ![Shared Folder](https://i.imgur.com/rcpnROc.png)
 
 6. Run the mod installer you have downloaded, and manually select your Beat Saber folder, then install your mods.
-7. Exit the VM and start Beat Saber. Your mods should be installed. If they aren't, go to [Dll Override](modding/linux#dll-override)
+7. Exit the VM and start Beat Saber. Your mods should be installed. If they aren't, go to [Dll Override](linux#dll-override)
 
 ## Dll Override
 
@@ -82,6 +89,7 @@ Wine doesn’t use DLLs the same way Windows does, so you have to change a few t
 1. Navigate to '/.local/share/Steam/steamapps/compatdata/620980/pfx/' and open 'user.reg'
 2. Inside the file, navigate to [Software\\Wine\\DllOverrides]. Try Ctrl + F and type DllOverrides to get there quicker
 3. Paste '"winhttp"="native,builtin"' on the bottom below the others, and save the file.
+
 ![DllOverrides](https://i.imgur.com/dgemtef.png)
 
 # Have questions?
