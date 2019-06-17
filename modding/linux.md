@@ -85,7 +85,7 @@ Wine doesn’t use DLLs the same way Windows does, so you have to change a few t
 
 1. Navigate to '/.local/share/Steam/steamapps/compatdata/620980/pfx/' and open 'user.reg'
 2. Inside the file, navigate to [Software\\Wine\\DllOverrides]. Try Ctrl + F and type DllOverrides to get there quicker
-3. Paste '"winhttp"="native,builtin"' on the bottom below the others, and save the file.
+3. Paste `"winhttp"="native,builtin"` on the bottom below the others, and save the file.
 
 ![DllOverrides](https://i.imgur.com/dgemtef.png)
 
