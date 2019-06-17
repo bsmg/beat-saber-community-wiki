@@ -41,7 +41,8 @@ Make sure you have [Wine](https://wiki.winehq.org/Download) and [Winetricks](htt
 ```bash
 >  $ cd Desktop
 >  $ cd "Beat Saber"
->  $ wine BeatSaberModManager.exe```
+>  $ wine BeatSaberModManager.exe
+```
 
 ![BeatSaberModManager](https://i.imgur.com/sXUhA8x.png)
 
