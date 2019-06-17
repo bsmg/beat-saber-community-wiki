@@ -6,6 +6,10 @@ If you have no mods installed, visit the [Beginners Guide.](beginners-guide)
 
 To install other mods that you have downloaded or made, place the plugin into your `Plugins` folder within the Beat Saber install directory.
 Can't find where Beat Saber is installed? See: [Install Folder](/faq/install-folder).
+
+### Linux?
+If you happen to use Linux for gaming, and want to install mods on your Linux system, don't worry. [We've got a guide set up for you!](https://bsmg.wiki/modding/linux)
+
 # Making Mods
 Beat Saber does **not** have built in mod support.
 
