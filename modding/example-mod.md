@@ -1,7 +1,7 @@
 <!-- TITLE: The Example Mod Tutorial -->
 <!-- SUBTITLE: Learn how to make a Beat Saber Mod! -->
 # Update!
-The mod tutorial has now been updated for Beat Saber 1.0.1. If you had any issues beforehand, they should be fixed now!
+The mod tutorial has now been updated for Beat Saber 1.1.0. If you had any issues beforehand, they should be fixed now!
 # Prelude
 >If at any point you feel overwhelmed, it probably means you do not have enough experience. In that case, consider watching some Unity and C# tutorials to get familar with Unity and how it works.
 {.is-danger}
