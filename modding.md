@@ -15,7 +15,9 @@ Beat Saber does **not** have built in mod support.
 
 Instead, most mods within the mod installer rely on [BSIPA (Beat Saber Illusion Plugin Architecture)](https://github.com/nike4613/BeatSaber-IPA-Reloaded/) to inject plugins into the game, as well as providing some useful tools for us modders.
 
-Previously, we used [IPA (Illusion Plugin Architecture)](https://github.com/Eusth/IPA). Some plugins still use this, and is still temporarily supported by BSIPA. It is recommended to use BSIPA for any future modding endeavors, however.
+Previously, we used [IPA (Illusion Plugin Architecture)](https://github.com/Eusth/IPA). Some plugins still use this, and is temporarily supported by BSIPA. We still use IPA for the mod tutorial, however it is recommended to use BSIPA for any future modding endeavors.
+
+For those of you who prefer [BepInEx](https://github.com/BepInEx/BepInEx) over either of these options, Bepis is supposedly working on a BSIPA emulator for BepInEx, and already has one available for regular IPA plugins. As for developing Beat Saber plugins for BepInEx, well, you're kinda on your own.
 
 * [If you want to get started making your own mod, this gets your project setup and ready to mod.](modding/intro)
 * [Once you're ready to make a mod, here's a tutorial that'll teach you the basics of modding and using community built libraries.](modding/example-mod)
