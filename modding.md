@@ -27,9 +27,9 @@ Helpful launch arguments that will make modding / debugging easier.
 | `--verbose`  | Enables the output log window for IPA. This will show the debug console that mods use.  |
 | `fpfc` | "First Person Flight Controller" This allows you to use WASD and the mouse to navigate around the menu in game. This makes testing much easier, because you don't have to put on your headset! |
 | `-vrmode oculus` | If you are running Beat Saber through Steam, this allows you to play the game on an Oculus headset. |
-# Mods Index
+<!-- # Mods Index
 [Slaynash](https://www.twitch.tv/Slaynash) created an incredible spreadsheet of mods - you can [view it here.](https://docs.google.com/spreadsheets/d/1eVRbCUyaXjKUJRSNPZWERUO9tULK415buU0q-H7Z0dY)
-We're working on getting the ModSaber archive organized, so hopefully we can have links to those mods in the future!
+We're working on getting the ModSaber archive organized, so hopefully we can have links to those mods in the future! -->
 
 # Other Links
 * [BeatMods](https://beatmods.com)
