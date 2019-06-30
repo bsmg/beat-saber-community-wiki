@@ -47,6 +47,7 @@ Note that BeatDrop is still in development and currently lacks mod updating func
 ### Beat Saber Mod Manager
 
 > Note: BSMM is getting increasingly difficult to maintain and has several underlying problems that have never been fixed. It does not support dependencies (a mod relying on another mod) nor does it support uninstalling. It will be deprecated in the future, so consider switching to one of the above installers.
+{.is-warning}
 
 **Run the game at least once** before trying to mod the game! This applies to reinstalling your game too. 
 
