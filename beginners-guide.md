@@ -57,14 +57,13 @@ The Beat Saber Mod Manager has been revived and modified to use our new mods rep
 If there are any permission errors, try running the application in admin mode.
 
 # How to get more songs
-The `Song Loader Plugin` enables you to load more songs into the game, but only includes one test song.
-
+Beat Saber natively supports custom songs, so if that's all you're looking for, you don't require more mods! It's a wise idea to install `SongCore` though, as this mod expands upon the base game functionality to improve loading times and provide functionality for other mods like the in-game downloader, playlists, etc.
 ## Ingame Downloader
-The `BeatSaver Downloader` Plugin allows you to download maps in-game using the `MORE SONGS` menu button on the main menu screen. This pulls maps directly from www.beatsaver.com
+The `BeatSaver Downloader` Plugin allows you to download maps in-game using the `MORE SONGS` menu button on the `MODS` menu screen. This pulls maps directly from www.beatsaver.com
 
 ## Beat Saver
 [Beat Saver](https://www.beatsaver.com) is the central repository that holds nearly all custom songs/maps for Beat Saber.
-You can manually place the zip files downloaded from Beat Saver into the `CustomSongs` folder in your Beat Saber directory, use the In-Game Downloader Plugin, or use the OneClick Install button, which is compatible with all 3 installers listed above.
+To install songs downloaded from the site, unzip them into a folder and place it into `Beat Saber/Beat Saber_Data/CustomLevels`.  You can also use the In-Game Downloader plugin.
 
 There are a couple more resources to help you find songs over in the [FAQ](faq#more-songs)
 
