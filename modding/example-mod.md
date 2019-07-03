@@ -255,14 +255,15 @@ Let's get started with implementing our config saving/loading system of choice. 
 
 Replace everything past the name with two sets of curly brackets `{}`. Let's expand these out and add in `get{}` and `set{}` accessors.
 
+### Should I use these often?
+If you plan on having these variables called on/saved to frequently, it is not a good idea to be using get/set accessors. Instead, create a static Load function that sets these variables from our config object, and a static Save function which saves our variables to our config object.
+
 ![Get and Set](/uploads/modding-example-v-2/21-getset.png "Get and Set")
 
 ### What are these?
 Get/Set accessors are easy ways to call functions that either set, or return a value. You can also mark each accessor with a lower privacy keyword, such as `internal get;` or a `private set;`.
 ### What's with the error?
-Our `get` accessor expects a `bool` to be returned. We have nothing in there, so nothing can be returned. Let's changed that by utilizing ModPrefs or Beat Saber Utils.
-### Should I use these often?
-If you plan on having these variables called on/saved to frequently, it is not a good idea to be using get/set accessors. Instead, create a static Load function that sets these variables from our config object, and a static Save function which saves our variables to our config object.
+Our `get` accessor expects a `bool` to be returned, because `bool` is the type for our variable. We have nothing in there, so nothing can be returned. Let's change that by utilizing ModPrefs or Beat Saber Utils.
 ## Getting Values
 No matter which system you are choosing, the functions are the same for the both of them. We will call the `GetBool` function and pass in our name, the name of the variable, its default value, and whether or not it should be overwritten in the `get` accessor.
 
