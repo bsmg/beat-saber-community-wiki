@@ -101,17 +101,8 @@ If [2.3](#2-3-the-game-is-extremely-laggy-after-installing-mods-or-it-wont-start
 * Perform a clean reinstall of the game files. [Clean Installation](#clean-installation)
 * Low framerate can also be caused by something going wrong within your application data folder, to fix this refer to [Deleting The Beatsaber Folder Within Your App Data](#deleting-your-beat-saber-saves-in-app-data)
 * CountersPlus counters like scorecounter and swing speed can be expensive. [See this github wiki page on performance with Counters+](https://github.com/Caeden117/CountersPlus/wiki/Performance-and-Optimization)
- >Note: Deleting the Appdata folder will also delete your local scores and statistics.
-{.is-warning}
 
-VR is very CPU intensive, especially if you add mods. If you're struggling to run the game with the mods you want, consider upgrading your hardware. Note that Beat Saber doesn't utilize the GPU very much as it's a fairly simple game visually. 
-
-### 2.5 Can't click on the Solo Button
-
-This happens when you have outdated mods from 0.13.2 in your plugins folder. Wipe out your mods, and reinstall mods for 1.0.0 only. 
-
->Mod Assistant and Beat Saber Mod Manager should only show mods for the particular version, but BeatDrop currently has problems with game versioning and may show mods from all game versions.
-{.is-warning}
+VR is very CPU intensive, especially if you add mods. If you're struggling to run the game with the mods you want, consider upgrading your hardware. Note that Beat Saber doesn't utilize the GPU very much as it's a fairly simple game visually.
 
 # 3. Common Questions
 ### 3.1 Blank Menu No Buttons
@@ -140,7 +131,7 @@ Refer to [Finding Broken Content](#4-2-finding-broken-content) if you think you 
 ### 3.5 My Songs Are Missing
 >Make sure you read [No Mods In Game](#1-4-no-mods-in-game) first.
 
-Make sure your songs are in your CustomSongs folder, this will be located in your main beat saber folder/directory, this contains all of the custom songs you have downloaded so far.
+Make sure your songs are in your CustomLevels folder, this will be located in *Beat Saber/Beat Saber_Data/*, this contains all of the custom songs you have downloaded so far.
 If its there then your plugins are probably the problem 
 
 ### 3.6 Songs Are Broken/Invisible Blocks/Red Play Button
@@ -165,7 +156,9 @@ The **More Songs button is located in the Mods button in the main menu**, if the
 if your mods button isnt there then kindly make sure your plugins and dependencies are working and installed properly, refer to [No Mods In Game](#1-4-no-mods-in-game).
 
 ### 3.10 Nothing Showing Up In The More Songs Menu
-The probable causes for beatsaber downloader not working are these, firstly make sure all of your songs have loaded in before, or else the More Songs button will be greyed out. If it still doesn't appear, this might be your anti-virus or firewall blocking access to beatsaver.
+The probable causes for beatsaver downloader not working are:
+1. Make sure all of your songs have loaded in before, or else the More Songs button will be greyed out.
+2. Your anti-virus or firewall blocking access to beatsaver.
 
 # 4. Troubleshooting
 ### 4.1 Backing Up Custom Content
@@ -175,7 +168,7 @@ as songs and avatars and platforms and sabers can break your game if they become
 
 To back up your custom content simply move them out of the `Beat Saber Directory`
 Either to your desktop or the folder before that, your directory will usually be at
-*The fastest way I found was to just cut it and paste it into the directory just before beatsaber, a.k.a a nearby/previous directory it takes only a few seconds to cut and paste.*
+*The fastest way I found was to just copy it and paste it into the directory just before beatsaber, a.k.a a nearby/previous directory it takes only a few seconds to copy and paste.*
 
 >Steam: 	`\steamapps\common\Beat Saber\`
 
@@ -232,7 +225,7 @@ Basically:
 4. Reinstall the game
 5. Before Modding Launch The Game Once `Vanilla Or Without Mods **FIRST**`
 
-To perform a clean installation youre going to have to make sure that all of the files related to beatsaber have been deleted "Application Data being a separate thing"
+To perform a clean installation you're going to have to make sure that all of the files related to beatsaber have been deleted "Application Data being a separate thing"
 **First make sure you've backed up all of your custom content!** `Refer To :`[Backing Up Custom Content](#4-1-backing-up-custom-content) 
 Then you'll have to go to whichever directory you had beatsaber installed and **Delete the ENTIRE Beat Saber Folder** to make sure you have no files left over which
 may break your game or mods, Oculus just deletes the folder as is, but this may but highly unlikely break or not work, but better safe than sorry!
@@ -265,11 +258,11 @@ This is an absolute last ditch effort that would make sure that everything softw
 I personally dont recommend this unless you have no other choice. Don't forget to back up your important files elsewhere either to an external drive or cloud storage. 
 # 6. Still having issues
 If this page doesn't cover the bases, then feel free to ask a question in the discord! To increase the chance that you'll have your questions answered, consider the following:
-* Use the right channel please. `#support` for mod troubleshooting, `#model-discussion` for questions about **making your own avatars**, and `#mapping-discussion` for questions about **making maps.**
+* Use the right channel please. `#support` for mod troubleshooting, `#model-discussion` for questions about **making your own avatars or sabers**, and `#mapping-discussion` for questions about **making maps.**
 * Be polite and respectful
 * Describe your problem in detail. "It didn't work" is about as descriptive as telling your doctor you don't feel well. What's not working, and what did you try? Are there any messages that come up on screen? Did your entire screen turn bright purple? 
 
-> Note: those with the `Support` role are volunteers that might choose to help out in their free time. It's recognition for the efforts and knowledge, but it doesn't necessarily mean that they'll be around to help just because they're online.
+> Note: those with the `Support` role are volunteers that might choose to help out in their free time. The support role is in recognition of the knowledge and effort they have put forth, but it doesn't necessarily mean that they'll be around to help just because they're online.
 {.is-warning}
 
 Thank you!
