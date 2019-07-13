@@ -5,7 +5,7 @@
 
 ## Preface
 
-Beat Saber was not designed with mod support, so it needs to be patched to enable mods.
+Beat Saber natively supports custom songs, so if that's all you're looking for, you don't require more mods! It's a wise idea to install `SongCore` though, as this mod expands upon the base game functionality to improve loading times and provide functionality for other mods like the in-game downloader, custom leaderboards, playlists, etc.
 
 >By choosing to use mods, you understand that:
 > - You may experience problems that don't exist in the vanilla game. 99.9% of bugs, crashes, and lag are due to mods.
@@ -21,12 +21,10 @@ Since mods are made by volunteers, you may need to wait for your favorite mod to
 If you run into problems at any point, please head to the [support page](support#1-4-no-mods-in-game) and see if you can identify what went wrong before asking in the discord server. Chances are, your answer is on that page!
 
 ## Installers
-The mod repository ModSaber has shut down, and lolPants has left a [message](https://www.modsaber.org/) on the site explaining the situation. 
-
-> If you're updating the game from 0.12 to 0.13, you'll likely need to do a clean install if you own the game on the Oculus Home store, or verify your files if you own the game on Steam. The process is described more in the [support page](support#2-2-black-screen-environment-unity-crash-window-game-wont-start-at-all).
-{.is-warning}
 
 ### Mod Assistant
+
+This is the current recommended installer for mods.
 
 **Run the game at least once** before trying to mod the game! This applies to reinstalling your game too. 
 
@@ -58,7 +56,6 @@ The Beat Saber Mod Manager has been revived and modified to use our new mods rep
 If there are any permission errors, try running the application in admin mode.
 
 # How to get more songs
-Beat Saber natively supports custom songs, so if that's all you're looking for, you don't require more mods! It's a wise idea to install `SongCore` though, as this mod expands upon the base game functionality to improve loading times and provide functionality for other mods like the in-game downloader, playlists, etc.
 ## Ingame Downloader
 The `BeatSaver Downloader` Plugin allows you to download maps in-game using the `MORE SONGS` menu button on the `MODS` menu screen. This pulls maps directly from www.beatsaver.com
 
