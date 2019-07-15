@@ -73,6 +73,8 @@ Add Harmony as a reference ([Click here if you forget how to add a reference to 
 > Plugins that utilize Harmony ***require*** the `0Harmony.dll` file inside of `/<Beat Saber Directory>\Beat Saber_Data\Managed`. Add a try-catch statement when you patch the game so the plugin doesn't crash when starting without Harmony.
 {.is-warning}
 
+## Basic Tutorial
+Coming soon™, I'm gonna try to not have this be Mod Tutorial long, but should let you get a basic idea of how to use Harmony.
 # Reflection Util
 ReflectionUtil is a simple file that allows grabbing and setting private variables inside of files.
 This is used in conjuction with [dnSpy](/modding/extras#dnspy) to search for and set private variables in code.
