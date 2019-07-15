@@ -23,7 +23,7 @@ For those of you who prefer [BepInEx](https://github.com/BepInEx/BepInEx) over e
 If you are interested in creating a Beat Saber mod, but do not have a template or Visual Studio template set up, [follow the Intro guide to get your project all set up](modding/intro).
 
 ### Ready to go?
-If you have a plugin template ready to go, and don't know how exactly to program a Beat Saber mod, [follow the example Modding Tutorial to get a basic grasp on Beat Saeber modding](modding/example-mod).
+If you have a plugin template ready to go, and don't know how exactly to program a Beat Saber mod, [follow the example Modding Tutorial to get a basic grasp on Beat Saber modding](modding/example-mod).
 
 ### Want more?
 If you've completed the modding tutorial, and still want more ways to improve your mod development experience, [check out the Extras page](modding/extras).
