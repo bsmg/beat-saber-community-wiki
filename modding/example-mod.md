@@ -2,6 +2,8 @@
 <!-- SUBTITLE: Learn how to make a Beat Saber Mod! -->
 ### Update!
 The mod tutorial has now been updated for Beat Saber 1.1.0. If you had any issues beforehand, they should be fixed now!
+
+If you're wondering why this mod tutorial uses IPA, when we recommend developing for BSIPA, it's because this was started way back in 0.12.2 (Around November/December), where BSIPA was still in development, and pretty much every Beat Saber mod used IPA.
 # Prelude
 >If at any point you feel overwhelmed, it probably means you do not have enough experience. In that case, consider watching some Unity and C# tutorials to get familar with Unity and how it works.
 {.is-danger}
