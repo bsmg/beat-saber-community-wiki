@@ -19,8 +19,14 @@ Previously, we used [IPA (Illusion Plugin Architecture)](https://github.com/Eust
 
 For those of you who prefer [BepInEx](https://github.com/BepInEx/BepInEx) over either of these options, Bepis is supposedly working on a BSIPA emulator for BepInEx, and already has one available for regular IPA plugins. As for developing Beat Saber plugins for BepInEx, well, you're kinda on your own.
 
-* [If you want to get started making your own mod, this gets your project setup and ready to mod.](modding/intro)
-* [Once you're ready to make a mod, here's a tutorial that'll teach you the basics of modding and using community built libraries.](modding/example-mod)
+### Need to setup a project?
+If you are interested in creating a Beat Saber mod, but do not have a template or Visual Studio template set up, [follow the Intro guide to get your project all set up](modding/intro).
+
+### Ready to go?
+If you have a plugin template ready to go, and don't know how exactly to program a Beat Saber mod, [follow the example Modding Tutorial to get a basic grasp on Beat Saeber modding](modding/example-mod).
+
+### Want more?
+If you've completed the modding tutorial, and still want more ways to improve your mod development experience, [check out the Extras page](modding/extras).
 # Launch args
 Helpful launch arguments that will make modding / debugging easier.
 
