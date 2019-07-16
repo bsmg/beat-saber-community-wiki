@@ -18,8 +18,9 @@
 * [FAQ](faq)
 
 # External Links
-* [Discord](https://discord.gg/beatsabermods)
-* [BeatSaver](https://beatsaver.com/)
-* [BeastSaber](https://bsaber.com/)
-* [ScoreSaber](https://scoresaber.com/)
+* [Join the Discord server!](https://discord.gg/beatsabermods)
+* [BeatMods] - the repository of mods that are reflected in installers like ModAssistant
+* [BeatSaver](https://beatsaver.com/) - download custom songs here
+* [BeastSaber](https://bsaber.com/) - reviews, articles, playlists, and more!
+* [ScoreSaber](https://scoresaber.com/) - custom leaderboards
 * [Steam Store Page](https://store.steampowered.com/app/620980/Beat_Saber/) | [Oculus Store Page](https://www.oculus.com/experiences/rift/1304877726278670/)
