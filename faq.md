@@ -13,16 +13,7 @@ If you don't like using [beatsaver](https://www.beatsaver.com) to find songs, he
 ### Beat Drop
 [Beat Drop](https://bsaber.com/beatdrop/) is a desktop application that allows you to download songs, and create playlists as well! Created by StarGazer1258.
 
-### Bootleg BeatSaver Search
-An [external search engine](http://bootleg-beatsaver.com/) that enables more advanced searching functionality to help you find songs on BeatSaver, by Zeekin.
-
-### Beat Saber Songs
-Another [external search engine](https://beatsaber-songs.herokuapp.com/) with more advanced searching functionality to help you find songs on BeatSaver, by rorekk.
-
-We also have a dedicated channel on the Modding Group Discord: [`#finished-maps`](https://discordapp.com/channels/441805394323439646/442342190060929055/)
-
-## How do I make a beatmap?
-
+## How do I make my own custom levels?
 See [mapping](../mapping)!
 
 ## How do I install playlists?
@@ -56,17 +47,6 @@ If you're confused by any of this, visit [Beginners Guide](beginners-guide).
 
 ## How does the scoring system work in Beat Saber? How does global ranking work?
 We have sections on the [grips and tricks](grips-and-tricks) page dedicated to the scoring and ranking systems, check them out!
-
-## Why are the vote buttons greyed out in game?
-
-To vote on songs, you must have an account on Beat Saver, then input your access token in the modprefs file.
-
-`\Beat Saber\UserData\modprefs.ini`
-
-Change the value for: `apiAccessToken=replace-this-with-your-api-token`
-
-Use the value from your beatsaver account by going to the access tokens page on your profile.
-https://gyazo.com/46da60331d8bfabd4833ab85bcb73535
 
 
 ## My menus are blank and I have nothing to click on!
