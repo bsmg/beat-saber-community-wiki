@@ -19,7 +19,7 @@
 
 # External Links
 * [Join the Discord server!](https://discord.gg/beatsabermods)
-* [BeatMods] - the repository of mods that are reflected in installers like ModAssistant
+* [BeatMods](https://beatmods.com) - the repository of mods that are reflected in installers like ModAssistant
 * [BeatSaver](https://beatsaver.com/) - download custom songs here
 * [BeastSaber](https://bsaber.com/) - reviews, articles, playlists, and more!
 * [ScoreSaber](https://scoresaber.com/) - custom leaderboards
