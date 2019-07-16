@@ -22,4 +22,4 @@
 * [BeatSaver](https://beatsaver.com/)
 * [BeastSaber](https://bsaber.com/)
 * [ScoreSaber](https://scoresaber.com/)
-* **Store Page**[Steam](https://store.steampowered.com/app/620980/Beat_Saber/) | [Oculus](https://www.oculus.com/experiences/rift/1304877726278670/)
+* [Steam Store Page](https://store.steampowered.com/app/620980/Beat_Saber/) | [Oculus Store Page](https://www.oculus.com/experiences/rift/1304877726278670/)
