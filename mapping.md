@@ -5,6 +5,7 @@
 ## Video Guides
 * [BennyDaBeast's Mapping Tutorials](https://bsaber.com/benny-custom-mapping/) **highly recommended**
 * [Freeek's Mapping and Editor Tutorials](https://www.youtube.com/playlist?list=PLYeZR6d3zDPgDgWogOwMteL-5SQWAE14b)
+* [Megalon's Official Editor Tutorial](https://www.youtube.com/watch?v=5Ex6sOEVgrM)
 
 ## Written Guides
 * [Best Practices Guide](https://bit.ly/2LjbURw), by Awfulnaut **please for the love of all things good read this**
@@ -30,7 +31,7 @@ Please** do not** upload WIPs to BeatSaver! It's hard to tell which maps aren't 
 # Editors
 Most custom maps are being made using the community built map editors.
 
-> Currently, the community editors use a different format than the official one. The formats will be unified in the future, but the community editors don't support the official format and thus community-made songs cannot be loaded using the native game song loader yet.
+> Currently, the community editors use a different format than the official one. The formats will be unified in the future, but the community editors don't support the official format and thus community-made songs cannot be loaded using the native game song loader yet. To convert your map into a format that the game and BeatSaver will recognize, use [Songe Converter](https://github.com/lolPants/songe-converter).
 {.is_warning}
 
 ## Mediocre Mapper
