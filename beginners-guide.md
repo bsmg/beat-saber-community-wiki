@@ -4,7 +4,9 @@
 # How to install mods
 
 ## Preface
-> This guide is for PC-modding. If you have a quest, check out the tutorial on [BeastSaber](https://bsaber.com/beaton/).
+> This guide is for PC-modding on Windows. 
+> If you have a quest, check out the tutorial on [BeastSaber](https://bsaber.com/beaton/).
+> If you're on Linux, head to the [Linux guide](https://bsmg.wiki/modding/linux)
 
 
 Beat Saber natively supports custom songs, so if that's all you're looking for, you don't require more mods! It's a wise idea to install `SongCore` though, as this mod expands upon the base game functionality to improve loading times and provide functionality for other mods like the in-game downloader, custom leaderboards, playlists, etc.
