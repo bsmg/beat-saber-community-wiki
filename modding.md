@@ -1,5 +1,5 @@
 <!-- TITLE: Modding -->
-<!-- SUBTITLE: Instructions for modding Beat Saber -->
+<!-- SUBTITLE: Instructions for getting started making mods for Beat Saber. -->
 
 # Making Mods
 Beat Saber does **not** have built in mod support.
