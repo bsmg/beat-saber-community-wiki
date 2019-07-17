@@ -37,11 +37,13 @@ Here is another site by [DuoVR](https://duovr.github.io/BigPP/) where you can in
 
 >Songs are ranked/unranked by a ranking team in the [ScoreSaber discord](https://discord.gg/WpuDMwU). You can follow along in this server to see what changes happen!
 # Grips
-A grip compilation by Emperor of the Internet
+Cube Community made some videos showing off some of the more popular grips for Oculus Touch controllers (CV1) and Vive Wands.
 
-![Oculus Grips Guide](/uploads/oculus-grips-guide.png "Oculus Grips Guide")
+[video](https://www.youtube.com/watch?v=G7x_wb7RrgU){.youtube}
 
-![Vive Grips Guide](/uploads/vive-grips-guide.png "Vive Grips Guide")
+[video](https://www.youtube.com/watch?v=XFt90q69aEA){.youtube}
+
+A video has not yet been made for Index controllers, but you can find some examples in their #tips-and-grips channel! [CC Discord](https://discord.gg/dwe8mbC)
 
 # Improve VIVE controller tracking
 Your body may be blocking one lighthouse from seeing one of your controllers.
