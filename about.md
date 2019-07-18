@@ -72,8 +72,8 @@ Everyone's favorite french furry. He kicked off modding early on with the origin
 ## ItsNovaHere
 Creator of a variety of mods, as well as the super spiffy HitOverlay that some streamers use to show you how to cut bloq properly. 
 **Roles:** Modder
-**Contributions:** HitOverlay, Mega Jump, Random Notes
-[GitHub](https://github.com/ItsNovaHere)
+**Contributions:** HitOverlay, Mega Jump, Random Notes, Nova's Fuckery
+[GitHub](https://github.com/ItsNovaHere) | [Ko-Fi](https://ko-fi.com/itsnovahere)
 
 ## Kyle1413
 Resident Kirby and mod modder. One of the most active modders and a huge part in the evolution of mods over time as the original modders stop working on them, including the likes of SongLoader and Custom Colors. SongLoader has come a long way since xyonico originally created it, and the appearance of 6 lanes, custom color and platform support, map capabilities, and much more are Kyle's doing. 
