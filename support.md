@@ -14,8 +14,8 @@
 ### New Update, Mods are not showing up in Game!
 This is caused because modAssistant doesn´t run your `IPA.exe` after mod installation.
 
-To fix that, just go into your game installation folder, and drag your `BeatSaber.exe` onto the `IPA.exe` inside your game folder.
-A command window should show up and patch your game again. When that is finished you should be good to go!
+To fix that, just go into your game installation folder and drag your `BeatSaber.exe` onto the `IPA.exe`.
+A command window should pop up and patch your game again. When that is finished you should be good to go!
 
 ### Installers only show mods for 1.0.0
 Anything for 1.0.0 works for 1.0.1. If anyone has spare time and wants to reupload all the 1.0.0 mods for 1.0.1 on BeatMods let us know, I'm only half joking.
