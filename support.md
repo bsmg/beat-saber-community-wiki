@@ -11,9 +11,10 @@
 6. [Still Having Issues](#6-still-having-issues)
 
 # 0. Recent FAQs
-### New Update, Cant Click Solo, Campaign Etc.
-This is caused by having outdated mods for previous game versions in your installation.
-Delete your `Plugins` folder and reinstall your mods.
+### New Update, Mods are not showing up in Game!
+This is caused because modAssistant doesnt run your `IPA.exe` after mod installation.
+To fix that, just go into your game installation folder, and drag your `BeatSaber.exe` onto the `IPA.exe` inside your game folder.
+A command window should show up and patch your game again. When that is finished you should be good to go!
 
 ### Installers only show mods for 1.0.0
 Anything for 1.0.0 works for 1.0.1. If anyone has spare time and wants to reupload all the 1.0.0 mods for 1.0.1 on BeatMods let us know, I'm only half joking.
