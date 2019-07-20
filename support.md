@@ -114,7 +114,7 @@ To fix this refer to [Delete Beatsaber Folder Within Your App Data](#deleting-yo
 {.is-warning}
 
 ### 3.2 How do I use `x` mod?
-If you're using Mod Assistant or Beat Saber Mod Manager, click the mod and hit the "View Selected Mod Info" button. http://beatmods.com has a "More Info" button on each mod as well.
+If you're using Mod Assistant or Beat Saber Mod Manager, click the mod and hit the "Mod Info" button. http://beatmods.com has a "More Info" button on each mod as well.
 
 ### 3.3 Crashing (Multiplayer Mod + Rumble Enchancer)
 There's a issue between certain versions of the multiplayer mod and the rumble enchancer mod, if both are installed the game will crash and such, uninstall either. 
