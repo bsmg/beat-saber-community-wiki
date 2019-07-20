@@ -12,7 +12,8 @@
 
 # 0. Recent FAQs
 ### New Update, Mods are not showing up in Game!
-This is caused because modAssistant doesnt run your `IPA.exe` after mod installation.
+This is caused because modAssistant doesn´t run your `IPA.exe` after mod installation.
+
 To fix that, just go into your game installation folder, and drag your `BeatSaber.exe` onto the `IPA.exe` inside your game folder.
 A command window should show up and patch your game again. When that is finished you should be good to go!
 
