@@ -179,17 +179,17 @@ A list of common exceptions can be found [here](https://bsmg.wiki/support/except
 ## Verify Game Files For Steam
 Steam Verify Game Files
 To verify your game files on steam follow these steps:
-1.)Make sure steamvr is closed as it wont let you verify your games otherwise. 
-2.)Go to your steam library and find Beat Saber
-3.)Right click Beat Saber and click on Properties
-4.)Go to the "Local Files" tab in properties
-5.)Select the last option "Verify Integrity Of Game Files"
-6.)Let it finish verifying and downloading any missing files and you should be good to go.
+1. Make sure steamvr is closed as it wont let you verify your games otherwise. 
+2. Go to your steam library and find Beat Saber
+3. Right click Beat Saber and click on Properties
+4. Go to the "Local Files" tab in properties
+5. Select the last option "Verify Integrity Of Game Files"
+6. Let it finish verifying and downloading any missing files and you should be good to go.
 
 [video](https://www.youtube.com/watch?v=EBFfT4-ZiIc){.youtube}
 
 ## Clean Installation
-1.[Backing Up Custom Content](#4-1-backing-up-custom-content) 
+1. [Backing Up Custom Content](#4-1-backing-up-custom-content) 
 2. Uninstall Beat Saber
 3. Delete your "Beat Saber" folder
 4. Reinstall the game
