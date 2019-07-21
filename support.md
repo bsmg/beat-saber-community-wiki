@@ -71,10 +71,7 @@ Oculus: Perform a [Clean Installation](#clean-installation)
 This should fix the problem.
 
 ### 2.2 Black screen, Unity crash window, Avatar standing in Black environment
-This one is simple: verify files if you have the game on Steam, or reinstall the game on Oculus Home, 
-if you're reinstalling refer to these:
-[Backing Up Custom Content](#4-1-backing-up-custom-content)
-[Clean Installation](#clean-installation)
+This one is simple: [verify files](#verify-game-files-for-steam) if you have the game on Steam, or reinstall the game on Oculus Home. Refer to [Clean Installation](#clean-installation)
 This seems to happen when updating Beat Saber and having mods installed previously, but not to users with clean installs of the game.
 
 ## Framerate Issues
