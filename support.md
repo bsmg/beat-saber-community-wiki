@@ -29,18 +29,23 @@ If the game seems unplayable, check [section 2](#2-game-issues-post-modding)
 The installers download mods to `Beat Saber/IPA/Pending`, BSIPA moves these files to root folder when you launch the game. If your game Plugins folder still is empty afterwards, run `IPA.exe` again and make sure that nothing is preventing it from running, e.g. `Anti-viruses, Admin permissions, etc.`
 
 # 1. No mods are showing up in game
-Try the solutions below, in descending order.
+First, make sure that the following are correct:
+* **You ran the game once before installing mods**. BSIPA removes all mods on the first run of a fresh update to prevent broken old mods from loading on a new version. Reinstall mods again if this is the case.
+* Steam/Oculus is launching Beat Saber from the **same installation** that mods are in. *e.g. mods are on the D drive but steam is launching from the C drive.* Set the correct install location in your choice of installer.
+* If you installed mods manually, make sure you included all the files from the download and put them in the correct folders, as well as their dependencies.
+
+If the above are correct, try the solutions below, in descending order.
 
 **Solution 1**
-- Update BSIPA to the latest version
+- Update BSIPA to the latest version (in ModAssistant or manually)
 - Go into your Beat Saber folder
-- Run IPA.exe
+- Run `IPA.exe`
 
 **Solution 2.**
 -  [Verify your game files](#verify-game-files-for-steam) (Steam only, oculus users refer to Solution 4)
 - Update BSIPA to the latest version
 - Go into your Beat Saber folder
-- Run IPA.exe
+- Run `IPA.exe`
 
 **Solution 3.**
 - Go into your Beat Saber folder
@@ -51,13 +56,6 @@ Try the solutions below, in descending order.
 
 **Solution 4.**
 - Perform a [Clean Installation](#clean-installation)
-
-
-
-Make sure that the following are correct:
-* **Make sure that you ran the game once before installing mods**. If you didn't, there likely isn't a Plugins folder in your install directory as BSIPA removes all mods on the first run of a fresh update. Reinstall mods again if this is the case.
-* Steam/Oculus is launching Beat Saber from the **same installation** that mods are in. *e.g. mods are on the D drive but steam is launching from the C drive.* Set the correct install location in your choice of installer.
-* If you installed mods manually, make sure you included all the files from the download and put them in the correct folders, as well as their dependencies.
 
 # 2. Game Issues Post-Modding
 ## Crashing/Game Not Starting Issues
@@ -85,14 +83,14 @@ if you're reinstalling refer to these:
 This seems to happen when updating Beat Saber and having mods installed previously, but not to users with clean installs of the game.
 
 ## Framerate Issues
-### 2.3 The game is unbearably laggy after installing mods
+### 2.3 The game stutters unbearably after installing mods
 If the game lags so badly that you can barely click the `Continue` button on the Health & Saftey screen, then verify files if you have the game on Steam, or reinstall the game on Oculus Home. 
 Do the same if it won't start up at all, and shows no error messages when trying to launch the game.
 
 If that didn't solve the issue, then check section [2.4 Improving framerate](#framerate-issues)
 
 ### 2.4 Improving Framerate
-If [2.3](#2-3-the-game-is-extremely-laggy-after-installing-mods-or-it-wont-start-up-at-all) didn't improve your fps, then your PC might simply be struggling to keep up with the stress caused by mods. Here are some things you can do to improve framerate, in no particular order:
+If [2.3](#2-3-the-game-stutters-unbearably-after-installing-mods) didn't improve your fps, then your PC might simply be struggling to keep up with the stress caused by mods. Here are some things you can do to improve framerate, in no particular order:
 
 **NVDIA GEFORCE EXPERIENCE NOW OPTIMIZES BEATSABER, IT USUALLY SETS YOUR GAMES RENDERING SCALE PAST 1.0, USUALLY 1.4 or 1.8 THIS IS THE COMMON REASON FOR LAG RECENTLY**
 
@@ -106,7 +104,8 @@ If [2.3](#2-3-the-game-is-extremely-laggy-after-installing-mods-or-it-wont-start
 * Low framerate can also be caused by something going wrong within your application data folder, to fix this refer to [Deleting The Beatsaber Folder Within Your App Data](#deleting-your-beat-saber-saves-in-app-data)
 * CountersPlus counters like scorecounter and swing speed can be expensive. [See this github wiki page on performance with Counters+](https://github.com/Caeden117/CountersPlus/wiki/Performance-and-Optimization)
 
-VR is very CPU intensive, especially if you add mods. If you're struggling to run the game with the mods you want, consider upgrading your hardware. Note that Beat Saber doesn't utilize the GPU very much as it's a fairly simple game visually.
+VR is very CPU intensive, especially if you add mods. If you're struggling to run the game with the mods you want, consider upgrading your hardware. 
+Note that Beat Saber doesn't utilize the GPU very much as visually it's a fairly simple game.
 
 # 3. Common Questions
 ### 3.1 Blank Menu, No Buttons
