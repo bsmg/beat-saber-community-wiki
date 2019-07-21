@@ -12,30 +12,19 @@
 
 # 0. Recent FAQs
 ### New Update, Mods are not showing up in Game!
-This is caused because modAssistant doesn´t run your `IPA.exe` after mod installation.
+BSIPA required an update, and ModAssistant doesn´t run it each time. 
 
-To fix that, just go into your game installation folder and drag your `BeatSaber.exe` onto the `IPA.exe`.
+To fix that, just go into your game installation folder and drag your `BeatSaber.exe` onto `IPA.exe`.
 A command window should pop up and patch your game again. When that is finished you should be good to go!
-
-### Installers only show mods for 1.0.0
-Anything for 1.0.0 works for 1.0.1. If anyone has spare time and wants to reupload all the 1.0.0 mods for 1.0.1 on BeatMods let us know, I'm only half joking.
-
-### Steam Vr Loading Issue
-The new SteamVR update causes the game to hang upon loading into a map, sometimes so long that you've missed blocks by the time the game loads.
-1.**Under Developer Settings**
-2.**Turn On**
-3.**Do Not Fade To Grid When App Hangs**
->Refer To This Gif.
-https://media.discordapp.net/attachments/442696229508612096/580271306461806640/fix_game_not_responding.gif
 
 ### If You're Updating From A Previously Modded Copy
 Delete your Plugins folder and **run the game once** on the new update. Then, reinstall your mods using an installer linked on the [beginner's guide](/beginners-guide). 
 
-If the game boots with no mods installed, check the Plugins folder for mods. If none exist, simply rerun the manager - you likely didn't run the game once before reinstalling mods.
+If the game boots with no mods installed, check the Plugins folder for mods. If none exist, simply rerun the installer - you likely didn't run the game once before reinstalling mods.
 If the game seems unplayable, check [section 2](#2-game-issues-post-modding)
 
-## The installers aren't installing any plugins
-The installers download mods to `Beat Saber/IPA/Pending`, and these files are moved to your plugins folder when you launch the game. If your game Plugins folder still is empty afterwards, run `ipa.exe` again and make sure that nothing is preventing it from running, e.g. `Anti-viruses, Admin permissions, etc.`
+## Mod Assistant doesn't seem to be installing any plugins
+The installers download mods to `Beat Saber/IPA/Pending`, BSIPA moves these files to root folder when you launch the game. If your game Plugins folder still is empty afterwards, run `IPA.exe` again and make sure that nothing is preventing it from running, e.g. `Anti-viruses, Admin permissions, etc.`
 
 # 1. Installer Issues
 ### 1.1 Is the mod manager a virus?
