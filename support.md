@@ -11,7 +11,7 @@
 6. [Still Having Issues](#6-still-having-issues)
 
 # 0. Recent FAQs
-### New Update, Mods are not showing up in Game!
+## Mods are not showing up in Game!
 BSIPA required an update, and ModAssistant doesn´t run it each time. 
 
 To fix that, just go into your game installation folder and drag your `BeatSaber.exe` onto `IPA.exe`.
@@ -28,17 +28,36 @@ If the game seems unplayable, check [section 2](#2-game-issues-post-modding)
 ## Mod Assistant doesn't seem to be installing any plugins
 The installers download mods to `Beat Saber/IPA/Pending`, BSIPA moves these files to root folder when you launch the game. If your game Plugins folder still is empty afterwards, run `IPA.exe` again and make sure that nothing is preventing it from running, e.g. `Anti-viruses, Admin permissions, etc.`
 
-# 1. Installer Issues
-### 1.1 I can't download the mod manager, or it closes as soon as I start it up|
-You're probably trying to run the old mod managers, just use mod assistant instead. [ModAssistant Github](https://github.com/Assistant/ModAssistant/releases/latest).
+# 1. No mods are showing up in game
+Try the solutions below, in descending order.
+
+**Solution 1**
+- Update BSIPA to the latest version
+- Go into your Beat Saber folder
+- Run IPA.exe
+
+**Solution 2.**
+-  [Verify your game files](#verify-game-files-for-steam) (Steam only, oculus users refer to Solution 4)
+- Update BSIPA to the latest version
+- Go into your Beat Saber folder
+- Run IPA.exe
+
+**Solution 3.**
+- Go into your Beat Saber folder
+- Make a backup of the `UserData` folder (optional)
+- Delete UserData
+>This will reset all plugin settings!
+{.is-warning}
+
+**Solution 4.**
+- Perform a [Clean Installation](#clean-installation)
 
 
-### 1.2 No mods in game
-So you just installed some mods but they don't seem to appear in game. Make sure that the following are correct:
+
+Make sure that the following are correct:
 * **Make sure that you ran the game once before installing mods**. If you didn't, there likely isn't a Plugins folder in your install directory as BSIPA removes all mods on the first run of a fresh update. Reinstall mods again if this is the case.
 * Steam/Oculus is launching Beat Saber from the **same installation** that mods are in. *e.g. mods are on the D drive but steam is launching from the C drive.* Set the correct install location in your choice of installer.
 * If you installed mods manually, make sure you included all the files from the download and put them in the correct folders, as well as their dependencies.
-* Redownload the dependencies, `BSUtils`, `Harmony`, `IniParser` , `CustomUI`, `BSIPA` and extract them to the correct folders, and run the IPA.exe again.
 
 # 2. Game Issues Post-Modding
 ## Crashing/Game Not Starting Issues
@@ -143,21 +162,8 @@ The probable causes for beatsaver downloader not working are:
 1. Make sure all of your songs have loaded in before, or else the More Songs button will be greyed out.
 2. Your anti-virus or firewall blocking access to beatsaver.
 
-# 4. Troubleshooting
-### 4.1 Backing Up Custom Content
-Backing up your custom content is ideal so you wont lose your custom content
-mainly songs, but sabers and avatars too, although I highly recommend you install your custom content after verifying that the mods work
-as songs and avatars and platforms and sabers can break your game if they become outdated or corrupted somehow, refer to [Finding Broken Content](#4-2-finding-broken-content)
-
-To back up your custom content simply move them out of the `Beat Saber Directory`
-Either to your desktop or the folder before that, your directory will usually be at
-*The fastest way I found was to just copy it and paste it into the directory just before beatsaber, a.k.a a nearby/previous directory it takes only a few seconds to copy and paste.*
-
->Steam: 	`\steamapps\common\Beat Saber\`
-
->Oculus: 	`\hyperbolic-magnetism-beat-saber\`
-
-### 4.2 Understanding Logs
+# 4. Miscellaneous Troubleshooting
+## Understanding Logs
 If you're on Steam you can go to 
 >Beat Saber > Properties > Set Launch Options > Add `--verbose` to the text field that appears
 
@@ -170,23 +176,6 @@ After adding verbose to your game hopefully it will display any errors regarding
 These messages are also written to `Beat Saber/Logs`.
 
 A list of common exceptions can be found [here](https://bsmg.wiki/support/exceptions).
-
-## Deleting Your Beat Saber saves in AppData
-This will delete your scores and local data but not your online scores or anything like that.
-You can find the folder here 
->`%appdata%/../locallow/hyperbolic magnetism/beat saber`
-
-Copy and paste everything from inside the bar above and paste it to your address bar in file explorer
-To "delete" this folder `(the beatsaber folder in locallow)` you can rename it or actually delete it. 
-
-You can also get to this folder by showing hidden items and navigating to your
->Users > "USER" > AppData > Local Low > Hyperbolic-magnetism
-
-[video](https://youtu.be/ONxJcD3Ir3Q){.youtube}
-
-
- >Note: Deleting the Appdata folder will also delete your local scores and statistics.
-{.is-warning}
 
 ## Verify Game Files For Steam
 Steam Verify Game Files
@@ -201,47 +190,64 @@ To verify your game files on steam follow these steps:
 [video](https://www.youtube.com/watch?v=EBFfT4-ZiIc){.youtube}
 
 ## Clean Installation
-Basically:
 1.[Backing Up Custom Content](#4-1-backing-up-custom-content) 
 2. Uninstall Beat Saber
 3. Delete your "Beat Saber" folder
 4. Reinstall the game
 5. Before Modding Launch The Game Once `Vanilla Or Without Mods **FIRST**`
 
-To perform a clean installation you're going to have to make sure that all of the files related to beatsaber have been deleted "Application Data being a separate thing"
-**First make sure you've backed up all of your custom content!** `Refer To :`[Backing Up Custom Content](#4-1-backing-up-custom-content) 
-Then you'll have to go to whichever directory you had beatsaber installed and **Delete the ENTIRE Beat Saber Folder** to make sure you have no files left over which
-may break your game or mods, Oculus just deletes the folder as is, but this may but highly unlikely break or not work, but better safe than sorry!
-`This Next Part Is Optional`
-**Now if you really want to have a CLEAN** Installation `Refer To:`[Deleting The Beatsaber Folder Within Your App Data](#deleting-your-beat-saber-saves-in-app-data)
+(Optional) Back up your downloaded custom content by making a copy of the following folders:
+`
+Beat Saber\Beat Saber_Data\CustomLevels
+Beat Saber\CustomSabers
+Beat Saber\CustomPlatforms
+Beat Saber\CustomNotes
+Beat Saber\CustomAvatars
+`
 
-## Watch Videos On Installing
-**QUICK NOTE THE PLUGINS WILL SHOW UP IN YOUR PLUGINS FOLDER AFTER LAUNCHING THE GAME IF YOU USE THE INSTALLER**
-Here are videos I made showing the two methods for the entire modding process. I did both methods, using the installer, and doing it manually.
-Also I apologize for the small end bit in the manual install, I've never used playlists before and I'm still not sure on how to use them.
-[video](https://youtu.be/nbWNwwWFGKg){.youtube} [video](https://youtu.be/4OH7CniNsUg){.youtube}
+Simply move or copy them out of the `Beat Saber Directory`
+*The fastest way I found was to just copy it and paste it into the directory just before beatsaber, a.k.a a nearby/previous directory it takes only a few seconds to copy and paste.*
+
+>Steam: 	`\steamapps\common\Beat Saber\`
+
+>Oculus: 	`\hyperbolic-magnetism-beat-saber\`
+
+Now, **Delete the ENTIRE Beat Saber Folder.** This is different from uninstalling the game on steam, as it will not remove files that did not come with the game. 
+
+(Optional) If you want to take it one step further, refer To: [Deleting The Beatsaber Folder Within Your App Data](#deleting-your-save-in-app-data)
+
+## Deleting Your Save in AppData
+This will delete your scores and local data, but not your custom leaderboard/ScoreSaber stats. You can find the folder at 
+>`%appdata%/../locallow/hyperbolic magnetism/beat saber`
+
+Copy and paste everything from inside the bar above and paste it to your address bar in file explorer and delete it.
+
+You can also get to this folder by showing hidden items and navigating to your
+>Users > "USER" > AppData > Local Low > Hyperbolic-magnetism
+
+[video](https://youtu.be/ONxJcD3Ir3Q){.youtube}
+
+ >Note: Deleting the Appdata folder will also delete your local scores and statistics.
+{.is-warning}
 
 # 5. If All Else Fails
 If none of these solutions worked for you then I'd recommend a complete purge of your beatsaber files, this would include your game and the data it saves inside your appdata folder
 Refer to [Clean Install](#clean-installation) basically, uninstalling your game, then deleting all the remaining files if any files remain after uninstalling, after doing a complete game uninstall,
 it would be best to [Delete The Beatsaber Folder Within Your App Data](#deleting-your-beat-saber-saves-in-app-data) and with this all the files related to beatsaber would be deleted by now,
 from here please verify the following.
-* Make sure your current user **is an administrator**
-* Your anti-virus is **Off** (for the meantime at least)
-* You have permission to create folders and edit files within the disk drive/your pc, (from what I heard a windows update recently caused problems for people)
-* Your drivers are up to date
-* That the problem doesn't lie within your headset, or operating system, or your hardware/software
-* Your internet connection is completely fine, not blocking nor lacking access to anything related to beatsaber modding and steam etc.
+
+* 
 ### Desperate Measures
-* Reinstalling all things related to VR.
-* Reinstalling all the programs and such Unity uses. *DirectX, etc.*
-### REALLY DESPERATE MEASURES
-* Reinstall your os and format your drive.
-This is an absolute last ditch effort that would make sure that everything software related is eliminated as a variable, and could help determine if it is a hardware issue,
-I personally dont recommend this unless you have no other choice. Don't forget to back up your important files elsewhere either to an external drive or cloud storage. 
+* Make sure your current user **is an administrator**
+* Turn your anti-virus **Off** (for the meantime at least)
+* Ensure that you have permission to create folders and edit files within the disk drive/your pc, (from what I heard a windows update recently caused problems for people)
+* Ensure that your drivers are up to date
+* Check that the problem doesn't lie within your headset, or operating system, or your hardware/software
+* Check your internet connection, and that nothing is blocking anything related to beatsaber modding and steam etc.
+
 # 6. Still having issues
 If this page doesn't cover the bases, then feel free to ask a question in the discord! To increase the chance that you'll have your questions answered, consider the following:
-* Use the right channel please. `#support` for mod troubleshooting, `#model-discussion` for questions about **making your own avatars or sabers**, and `#mapping-discussion` for questions about **making maps.**
+* Use the correct channels please, most likely one of the 2 `#support` channels for mod troubleshooting. Use  `#model-discussion` for questions about **making your own avatars, platforms, notes, or sabers**, and `#mapping-discussion` for questions about **making maps.**
 * Be polite and respectful
 * Describe your problem in detail. "It didn't work" is about as descriptive as telling your doctor you don't feel well. What's not working, and what did you try? Are there any messages that come up on screen? Did your entire screen turn bright purple? 
 
