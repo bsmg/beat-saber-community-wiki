@@ -20,6 +20,8 @@ A command window should pop up and patch your game again. When that is finished 
 ### If You're Updating From A Previously Modded Copy
 Delete your Plugins folder and **run the game once** on the new update. Then, reinstall your mods using an installer linked on the [beginner's guide](/beginners-guide). 
 
+If the game doesn't boot, [verify your game files](#verify-game-files-for-steam) in Steam or reinstall the game. 
+
 If the game boots with no mods installed, check the Plugins folder for mods. If none exist, simply rerun the installer - you likely didn't run the game once before reinstalling mods.
 If the game seems unplayable, check [section 2](#2-game-issues-post-modding)
 
