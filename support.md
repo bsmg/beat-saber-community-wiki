@@ -10,31 +10,23 @@
 5. [If All Else Fails](#5-if-all-else-fails)
 6. [Still Having Issues](#6-still-having-issues)
 
-# 0. Recent FAQs
-## Mods are not showing up in Game!
-BSIPA required an update, and ModAssistant doesn´t run it each time. 
+# 0. Updates
+After an update, the BSMG discord `#server-announcements` channel should have the most up to date instructions on the status of mods. The following are more detailed instructions of the most common procedure.
 
-To fix that, just go into your game installation folder and drag your `BeatSaber.exe` onto `IPA.exe`.
-A command window should pop up and patch your game again. When that is finished you should be good to go!
+### Update broke my mods
+**Run the game once** on the new update. Then, reinstall your mods using an installer linked on the [beginner's guide](/beginners-guide), preferably Mod Assistant.
 
-### If You're Updating From A Previously Modded Copy
-Delete your Plugins folder and **run the game once** on the new update. Then, reinstall your mods using an installer linked on the [beginner's guide](/beginners-guide). 
+# 1. No mods?
 
-If the game doesn't boot, [verify your game files](#verify-game-files-for-steam) in Steam or reinstall the game. 
-
-If the game boots with no mods installed, check the Plugins folder for mods. If none exist, simply rerun the installer - you likely didn't run the game once before reinstalling mods.
-If the game seems unplayable, check [section 2](#2-game-issues-post-modding)
-
-## Mod Assistant doesn't seem to be installing any plugins
-The installers download mods to `Beat Saber/IPA/Pending`, BSIPA moves these files to root folder when you launch the game. If your game Plugins folder still is empty afterwards, run `IPA.exe` again and make sure that nothing is preventing it from running, e.g. `Anti-viruses, Admin permissions, etc.`
-
-# 1. No mods are showing up in game
+### 1.1 No mods appear on a fresh copy of the game
 First, make sure that the following are correct:
 * **You ran the game once before installing mods**. BSIPA removes all mods on the first run of a fresh update to prevent broken old mods from loading on a new version. Reinstall mods again if this is the case.
 * Steam/Oculus is launching Beat Saber from the **same installation** that mods are in. *e.g. mods are on the D drive but steam is launching from the C drive.* Set the correct install location in your choice of installer.
 * If you installed mods manually, make sure you included all the files from the download and put them in the correct folders, as well as their dependencies.
 
-If the above are correct, try the solutions below, in descending order.
+### 1.2 I had mods installed on an older version, but nothing loads after an update
+
+If the details in section 1.1 above are correct, try the solutions below, in descending order.
 
 **Solution 1**
 - Update BSIPA to the latest version (in ModAssistant or manually)
@@ -57,8 +49,11 @@ If the above are correct, try the solutions below, in descending order.
 **Solution 4.**
 - Perform a [Clean Installation](#clean-installation)
 
+### 1.2 Mod Assistant doesn't seem to be installing any plugins
+The installers download mods to `Beat Saber/IPA/Pending`, BSIPA moves these files to root folder when you launch the game. If your game Plugins folder still is empty afterwards, run `IPA.exe` again and make sure that nothing is preventing it from running, e.g. `Anti-viruses, Admin permissions, etc.`
+
 # 2. Game Issues Post-Modding
-## Crashing/Game Not Starting Issues
+## Game Won't Start
 
 ### 2.1 GetThreadContext Failed Error
 If a window pops up saying `GetThreadContext Failed` and/or you hear a Windows error sound, you may have software on your PC that breaks Beat Saber mods. Many third-party anti-cheat software like ESEA and FaceIt disrupt BSIPA from applying mods to Beat Saber, even when not running. Some Anti-Virus software also exhibit similar behavior. 
@@ -120,7 +115,7 @@ If you're using Mod Assistant, click the mod and hit the "Mod Info" button. http
 ### 3.3 Crashing (Multiplayer Mod + Rumble Enchancer)
 There's a issue between certain versions of the multiplayer mod and the rumble enchancer mod, if both are installed the game will crash and such, uninstall either. 
 
-## Custom Avatars Issues
+## Custom Avatars
 ### 3.4 Custom Avatars (Not) Showing Ingame
 Click the **Home** button on your keyboard with the game in focus to toggle visibility in the headset.
 
@@ -129,7 +124,7 @@ Make sure your custom avatars plugin is installed properly and updated, also mak
 You might have a corrupted/broken avatar, having one avatar break can break all of your avatars likewise with songs and sabers.
 Refer to [Finding Broken Content](#4-2-finding-broken-content) if you think you have corrupted avatars or if you've made sure your mods and dependencies are updated but avatars still are broken.
 
-## Song Loading Issues
+## Custom Songs
 
 ### 3.5 My Songs Are Missing
 Make sure your songs are in your `CustomLevels` folder, located at `Beat Saber/Beat Saber_Data/`. This is where the game natively reads custom songs from.
@@ -143,7 +138,7 @@ Also try re-installing the plugin again, if that doesn't work reinstall your gam
 ### 3.7 Map details are infinitely loading
 If this only happens on particular maps, those song files are probably broken. If it happens to all of your maps, delete your `Plugins` folder and reinstall fresh ones.
 
-## Camera Plus Issues
+## Camera Plus
 ### 3.7 Camera Plus Isn't Working/Past Health Screen
 Make sure the setting for "Smooth Camera" is turned off in your ingame settings,
 If that doesn't work make sure you have the mod installed properly try reinstalling it, and all of its dependencies.
@@ -151,7 +146,7 @@ If that doesn't work make sure you have the mod installed properly try reinstall
 ### 3.8 My desktop view only takes up a small section of the screen
 Your CameraPlus display isn't filling up your canvas. Either drag the corner to fit the screen, or right click the window and click "Fit to Canvas".
 
-## Beatsaver Downloader Issues
+## Beatsaver Downloader
 ### 3.9 Beatsaver Downloader More Songs Button
 The **More Songs button is located in the Mods button in the main menu**, if the button for More Songs is greyed out then make sure all your songs loaded first, as seen in the bar on the main menu
 if your mods button isnt there then kindly make sure your plugins and dependencies are working and installed properly, refer to [No Mods In Game](#1-4-no-mods-in-game).
@@ -229,13 +224,6 @@ You can also get to this folder by showing hidden items and navigating to your
  >Note: Deleting the Appdata folder will also delete your local scores and statistics.
 {.is-warning}
 
-# 5. If All Else Fails
-If none of these solutions worked for you then I'd recommend a complete purge of your beatsaber files, this would include your game and the data it saves inside your appdata folder
-Refer to [Clean Install](#clean-installation) basically, uninstalling your game, then deleting all the remaining files if any files remain after uninstalling, after doing a complete game uninstall,
-it would be best to [Delete The Beatsaber Folder Within Your App Data](#deleting-your-beat-saber-saves-in-app-data) and with this all the files related to beatsaber would be deleted by now,
-from here please verify the following.
-
-* 
 ### Desperate Measures
 * Make sure your current user **is an administrator**
 * Turn your anti-virus **Off** (for the meantime at least)
@@ -244,7 +232,7 @@ from here please verify the following.
 * Check that the problem doesn't lie within your headset, or operating system, or your hardware/software
 * Check your internet connection, and that nothing is blocking anything related to beatsaber modding and steam etc.
 
-# 6. Still having issues
+# 5. Still having issues
 If this page doesn't cover the bases, then feel free to ask a question in the discord! To increase the chance that you'll have your questions answered, consider the following:
 * Use the correct channels please, most likely one of the 2 `#support` channels for mod troubleshooting. Use  `#model-discussion` for questions about **making your own avatars, platforms, notes, or sabers**, and `#mapping-discussion` for questions about **making maps.**
 * Be polite and respectful
