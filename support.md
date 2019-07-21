@@ -132,9 +132,9 @@ Refer to [Finding Broken Content](#4-2-finding-broken-content) if you think you 
 ## Song Loading Issues
 
 ### 3.5 My Songs Are Missing
-Make sure your songs are in your CustomLevels folder, located at `Beat Saber/Beat Saber_Data/`. This is where the game natively reads custom songs from.
+Make sure your songs are in your `CustomLevels` folder, located at `Beat Saber/Beat Saber_Data/`. This is where the game natively reads custom songs from.
 
-Do not place songs in the old `Beat Saber/CustomSongs` folder. This location is deprecated as the format for custom songs has changed. If you have maps in the old format (`.json` and `.ogg` files instead of `.dat` and `.egg`), convert them first using [Songe Converter](https://github.com/lolPants/songe-converter)
+**Do not** place songs in the old `Beat Saber/CustomSongs` folder. This location is deprecated as the format for custom songs has changed. If you have maps in the old format (`.json` and `.ogg` files instead of `.dat` and `.egg`), convert them first using [Songe Converter](https://github.com/lolPants/songe-converter)
 
 ### 3.6 Red Play Button
 Click the red (?) button in the top right corner. This should tell you what mods are required to play the song, which you are missing.
@@ -166,8 +166,8 @@ The probable causes for beatsaver downloader not working are:
 If you're on Steam you can go to 
 >Beat Saber > Properties > Set Launch Options > Add `--verbose` to the text field that appears
 
-If you're on Oculus then you will have to Right click on Beat Saber.exe and create a shortcut. 
->Right click the shortcut and edit the Target to add "--verbose" to the end of it. Should be something like `C:\Program Files\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\Beat Saber.exe" --verbose`
+If you're on Oculus then you will have to Right click on Beat Saber.exe and create a shortcut. Edit the Target to add "--verbose" to the end of it. 
+e.g. `C:\Program Files\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\Beat Saber.exe" --verbose`
 
 After adding verbose to your game hopefully it will display any errors regarding your avatars, sabers, and songs 
 * This may not show 100% of the time for avatars and sabers, and you may have to remove all your avatars/sabers and try them one by one to see which one breaks the game.
