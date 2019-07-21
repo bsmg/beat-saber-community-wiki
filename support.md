@@ -29,19 +29,11 @@ If the game seems unplayable, check [section 2](#2-game-issues-post-modding)
 The installers download mods to `Beat Saber/IPA/Pending`, BSIPA moves these files to root folder when you launch the game. If your game Plugins folder still is empty afterwards, run `IPA.exe` again and make sure that nothing is preventing it from running, e.g. `Anti-viruses, Admin permissions, etc.`
 
 # 1. Installer Issues
-### 1.1 Is the mod manager a virus?
-BitDefender and other AV software seem to have added the Mod Manager into their database of suspicious programs. See this [GitHub issue](https://github.com/beat-saber-modding-group/BeatSaberModInstaller/issues/20) for more info, and use your best judgement.
-
-### 1.2 I can't download the mod manager, or it closes as soon as I start it up|
+### 1.1 I can't download the mod manager, or it closes as soon as I start it up|
 You're probably trying to run the old mod managers, just use mod assistant instead. [ModAssistant Github](https://github.com/Assistant/ModAssistant/releases/latest).
-You can also refer to [Videos On Installer Usage, And Manual Installation](#watch-videos-on-installing)
 
-### 1.3 Permission Errors
-Run the mod manager in admin mode if your PC's security settings have insufficient permissions to patch files by default.
-Your anti-virus program can also be the cause for permission errors. Add the entire beatsaber folder to your exceptions. 
->You could also add the `beatsaber.exe` and `ipa.exe` to your list of exceptions
 
-### 1.4 No mods in game
+### 1.2 No mods in game
 So you just installed some mods but they don't seem to appear in game. Make sure that the following are correct:
 * **Make sure that you ran the game once before installing mods**. If you didn't, there likely isn't a Plugins folder in your install directory as BSIPA removes all mods on the first run of a fresh update. Reinstall mods again if this is the case.
 * Steam/Oculus is launching Beat Saber from the **same installation** that mods are in. *e.g. mods are on the D drive but steam is launching from the C drive.* Set the correct install location in your choice of installer.
@@ -66,7 +58,7 @@ Oculus: Perform a [Clean Installation](#clean-installation)
 
 This should fix the problem.
 
-### 2.2 Black screen/Environment, Unity crash window, Avatar standing in Black environment
+### 2.2 Black screen, Unity crash window, Avatar standing in Black environment
 This one is simple: verify files if you have the game on Steam, or reinstall the game on Oculus Home, 
 if you're reinstalling refer to these:
 [Backing Up Custom Content](#4-1-backing-up-custom-content)
@@ -89,7 +81,7 @@ If [2.3](#2-3-the-game-is-extremely-laggy-after-installing-mods-or-it-wont-start
 * The custom saber **Plasma Katanas** have tons of custom events and are known to introduce lag if you miss.
 * CameraPlus can be very taxing, especially if you have multiple cameras and increase the FOV.
 * Turn down Render Scale, Anti-Aliasing, mirror, fog, etc in the base game settings.
-* For Oculus players: consider using 2 sensors instead of 3+.
+* For Oculus players: consider using 2 sensors instead of 3+. 
 * Reduce your total mod and song count. 
 * Perform a clean reinstall of the game files. [Clean Installation](#clean-installation)
 * Low framerate can also be caused by something going wrong within your application data folder, to fix this refer to [Deleting The Beatsaber Folder Within Your App Data](#deleting-your-beat-saber-saves-in-app-data)
@@ -98,14 +90,14 @@ If [2.3](#2-3-the-game-is-extremely-laggy-after-installing-mods-or-it-wont-start
 VR is very CPU intensive, especially if you add mods. If you're struggling to run the game with the mods you want, consider upgrading your hardware. Note that Beat Saber doesn't utilize the GPU very much as it's a fairly simple game visually.
 
 # 3. Common Questions
-### 3.1 Blank Menu No Buttons
+### 3.1 Blank Menu, No Buttons
 If your main window in game is blank, your save file likely got corrupted.
 To fix this refer to [Delete Beatsaber Folder Within Your App Data](#deleting-your-beat-saber-saves-in-app-data)
 >Note: This will delete your local scores and statistics.
 {.is-warning}
 
 ### 3.2 How do I use `x` mod?
-If you're using Mod Assistant or Beat Saber Mod Manager, click the mod and hit the "Mod Info" button. http://beatmods.com has a "More Info" button on each mod as well.
+If you're using Mod Assistant, click the mod and hit the "Mod Info" button. http://beatmods.com has a "More Info" button on each mod as well.
 
 ### 3.3 Crashing (Multiplayer Mod + Rumble Enchancer)
 There's a issue between certain versions of the multiplayer mod and the rumble enchancer mod, if both are installed the game will crash and such, uninstall either. 
@@ -119,19 +111,19 @@ Make sure your custom avatars plugin is installed properly and updated, also mak
 You might have a corrupted/broken avatar, having one avatar break can break all of your avatars likewise with songs and sabers.
 Refer to [Finding Broken Content](#4-2-finding-broken-content) if you think you have corrupted avatars or if you've made sure your mods and dependencies are updated but avatars still are broken.
 
-## Songloader Issues
+## Song Loading Issues
 
 ### 3.5 My Songs Are Missing
->Make sure you read [No Mods In Game](#1-4-no-mods-in-game) first.
+Make sure your songs are in your CustomLevels folder, located at `Beat Saber/Beat Saber_Data/`. This is where the game natively reads custom songs from.
 
-Make sure your songs are in your CustomLevels folder, this will be located in *Beat Saber/Beat Saber_Data/*, this contains all of the custom songs you have downloaded so far.
-If its there then your plugins are probably the problem 
+Do not place songs in the old `Beat Saber/CustomSongs` folder. This location is deprecated as the format for custom songs has changed. If you have maps in the old format (`.json` and `.ogg` files instead of `.dat` and `.egg`), convert them first using [Songe Converter](https://github.com/lolPants/songe-converter)
 
-### 3.6 Songs Are Broken/Invisible Blocks/Red Play Button
-If your songs are broken make sure you have the lastest version of the song loader plugin, as songs mapped for newer versions don't work well with previous versions of the game.
-If that didn't fix it then you might have a corrupted song, you can try finding it by refering to [Finding Broken Content](#4-2-finding-broken-content)
-
+### 3.6 Red Play Button
+Click the red (?) button in the top right corner. This should tell you what mods are required to play the song, which you are missing.
 Also try re-installing the plugin again, if that doesn't work reinstall your game, [Clean Install](#clean-installation)
+
+### 3.7 Map details are infinitely loading
+If this only happens on particular maps, those song files are probably broken. If it happens to all of your maps, delete your `Plugins` folder and reinstall fresh ones.
 
 ## Camera Plus Issues
 ### 3.7 Camera Plus Isn't Working/Past Health Screen
@@ -140,8 +132,6 @@ If that doesn't work make sure you have the mod installed properly try reinstall
 
 ### 3.8 My desktop view only takes up a small section of the screen
 Your CameraPlus display isn't filling up your canvas. Either drag the corner to fit the screen, or right click the window and click "Fit to Canvas".
-
-> Note that CameraPlus' context menu has been disabled as of 1.0.0 due to compatibility issues. Edit the config file manually or use the hotkeys to edit settings, you can find a full list of options on the [GitHub](https://github.com/Kylemc1413/CameraPlus)
 
 ## Beatsaver Downloader Issues
 ### 3.9 Beatsaver Downloader More Songs Button
