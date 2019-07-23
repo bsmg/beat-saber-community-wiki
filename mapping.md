@@ -66,9 +66,7 @@ You will be contacted when your application is looked at, but due to the limited
 Offical editor, yes. Community editors, no. MediocreMapper will ask for the Beat Saber directory, but it can be any folder.
 
 ## What if I want to make my own editor / converter?
-Understanding the track JSON file: https://pastebin.com/cTPGrxWY
-Understanding the events data: https://docs.google.com/spreadsheets/d/1vCTlDvx0ZW8NkkZBYW6ecvXaVRxDUKX7QIoah9PCp_c/htmlview
-Example track file: https://pastebin.com/rkZVSmte
+Take a look at the SongCore documentation on [Kyle 1413's GitHub](https://github.com/Kylemc1413/SongCore)
 
 ## Where are custom maps saved?
 Custom maps are read from the `Beat Saber/Beat Saber_Data/CustomLevels` folder in your Beat Saber install folder. If your song isn't complete, place it in `CustomWIPLevels` to prevent custom leaderboards from being made for it.
