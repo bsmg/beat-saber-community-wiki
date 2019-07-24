@@ -38,9 +38,8 @@ Has large feet, maybe??
 **Contributions:** Full Combo Display, Immersive Mode, StreamInfo
 [GitHub](https://github.com/bigfoott) | [Twitch](https://www.twitch.tv/bigfooott) | [Donate](https://streamlabs.com/bigfooott)
 
-## brian
+## brian (retired)
 Creator of CustomUI, making the creation of new UI components a breeze for modders. He's also created some of the most useful streaming tools used today, including taking over CameraPlus in xyonico's absence and the widely used Enhanced Stream Chat mod. This man wants more hip hop songs, get on it people!
-**Roles:** Modder
 **Contributions:** CustomUI, CameraPlus, Enhanced Stream Chat, StreamCore, SongRequestManager, Hidden Blocks, SyncSaber
 [GitHub](https://github.com/brian91292) | [Donate](https://ko-fi.com/brian91292)
 
