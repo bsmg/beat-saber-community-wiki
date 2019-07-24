@@ -81,6 +81,12 @@ Resident Kirby and mod modder. One of the most active modders and a huge part in
 **Contributions:** SongLoader, Custom Colors, Intro Skip, Notes Left Counter, Darth Maul, Gameplay Modifiers Plus, BS Utils, Beat Saber Tweaks, Leaderboard In Song, Gameplay Restrictions Plus, Mapping Extensions, BeatMods Approval Staff
 [GitHub](https://github.com/kylemc1413) | [Twitch](https://www.twitch.tv/kyle1413k) | [Donate](https://ko-fi.com/kyle1413k)
 
+## lolPants
+One hell of a developer and a lover of socks. lolPants laid the groundwork for many of the policies and procedures during his time as Staff, and continues to help out when his services are needed.
+**Roles:** Modder, Staff (Retired)
+**Contributions** CMB, ModSaber, Moderation, BeatSaver Reloaded
+[GitHub](https://github.com/lolPants) | [Twitch](https://twitch.tv/lolpants_) | [Donate](https://www.paypal.me/jackmbaron)
+
 ## monkeymanboy
 He'll give me a bio when he's done fixing CustomUI
 **Roles:** Modder
@@ -290,11 +296,6 @@ A shining ray of positivity when all hell breaks loose on update days, holding e
 **Roles:** Staff, Support, 3D Artist
 **Contributions:** ScoreSaber Admin, Moderation
 [Twitch](https://www.twitch.tv/klouderrr) | [Donate](https://streamlabs.com/klouderrr)
-
-## lolPants (retired)
-One hell of a developer and a lover of socks. lolPants laid the groundwork for many of the policies and procedures during his time as Staff, and continues to help out when his services are needed.
-**Contributions** CMB, ModSaber, Moderation, BeatSaver Reloaded
-[GitHub](https://github.com/lolPants) | [Twitch](https://twitch.tv/lolpants_) 
 
 ## Megalon
 Part of the original dynamic duo along with Reaxt, he keeps a watchful eye on the server with the help of Channel Monitor Bot. He's known for his creative stream overlays and amazing ASMR voice.
