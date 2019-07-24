@@ -159,7 +159,6 @@ Fastest steam notification sending simulator developer in the West. He also crea
 **Contributions:** Beat Saber Online, BeatMods Creator
 [GitHub](https://github.com/vanZeben) | [Twitch](https://www.twitch.tv/vanzeben)
 
-
 >See Also:
 **Staff:** [Ikeiwa](#ikeiwa) | [Reaxt](#reaxt) | [Megalon](#Megalon)
 
@@ -170,11 +169,6 @@ Having problems? Ask in #support. These guys have been around to help you figure
 The bot that holds it all together.
 Created by Megalon, recreated by lolPants, and personified by Rolo!
 [Merch!](https://www.redbubble.com/people/megalon-gaming/portfolio)
-
-## 𝔅𝔯3𝔲𝔨𝔢𝔯 🎀 𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯#0001
-Poi!
-**Roles:** 3D Artist, Support
-[Twitch](https://www.twitch.tv/br3uker) | *donation link cannot be posted due to german law details, PM them on discord if you'd like to contribute*
 
 ## Emma
 You might know them for their spectacular platforms, or for more refined individuals: yeet sabers.
@@ -224,6 +218,11 @@ They've got some impressive shaders and they're not afraid to use them.
 Most well known for their incredibly flashy dance platform and space opera sabers, but it's a little known fact that they also make mods!
 **Roles:** 3D Artist, Modder
 **Contributions:** Bloom Mod
+
+## 𝔅𝔯3𝔲𝔨𝔢𝔯 🎀 𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯#0001
+Poi!
+**Roles:** 3D Artist, Support (retired)
+[Twitch](https://www.twitch.tv/br3uker)
 
 ## Mordred
 Mordred went on an absolute rampage when he first appeared, flooding the avatar and saber channels like never seen before. He's one of the reasons this role exists to begin with!
