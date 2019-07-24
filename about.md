@@ -339,7 +339,7 @@ Original creator of SongLoader and CameraPlus, and a contributor to the custom a
 [GitHub](https://github.com/xyonico/) [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RRQ2MBEEEW63A)
 
 # Mappers
-Each of your favorite maps is carefully crafted and tested over many hours by a talented mapper. As much as we'd love to include them here too, there are WAY too many of them. If you like someone's maps, give it a thumbs up in game, review it on [BeastSaber](https://bsaber.com), or tell them personally! They'll really appreciate it. If you ever want to commission a map, we encourage you to contact them outside of the server as well.
+Each of your favorite maps is carefully crafted and tested over many hours by a talented mapper. As much as we'd love to include them here too, there are WAY too many of them. If you like someone's maps, give it a thumbs up in game, review it on [BeastSaber](https://bsaber.com), or tell them personally! They'll really appreciate it. If you ever want to commission a map, we encourage you to contact them in the [Beat Saber Commissions server!](https://discord.gg/4RbcH5G)
 
 # About This Wiki
 
