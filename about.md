@@ -253,9 +253,8 @@ He make models and he make puns
 **Roles:** Moderator
 [Twitch](https://www.twitch.tv/tehjoelseph)
 
-## Monty
-He's come a long way from the only user in the entire server that we accidentally banned not once, but *twice,* to becoming a server moderator.
-**Roles:** Moderator
+## Monty (retired)
+He's come a long way from the only user in the entire server that we accidentally banned not once, but *twice.*
 
 ## RangeValley
 My dad worked for years as an admin, but he got laid off when bots took over. He came home that night and told me we had to move into the van, since we couldn't afford rent anymore, then he beat the shit out of me with jumper cables. Shitposting should be legal.
@@ -278,7 +277,6 @@ The original Support - Assistant took over the #support channel in the earilest 
 
 ## Balsa (retired)
 BeatSaver creator - he's the reason we have somewhere to get our custom songs in the first place. He shows up in once in awhile to show off BeatSaver numbers, call us nerds, and present his collection of finely aged memes. He's since stepped down from the staff team but we wouldn't be here without him.
-**Roles:** Staff
 **Contributions:** BeatSaver Creator.
 
 ## elliotttate
@@ -293,7 +291,7 @@ A shining ray of positivity when all hell breaks loose on update days, holding e
 **Contributions:** ScoreSaber Admin, Moderation
 [Twitch](https://www.twitch.tv/klouderrr) | [Donate](https://streamlabs.com/klouderrr)
 
-## lolPants
+## lolPants (retired)
 One hell of a developer and a lover of socks. lolPants laid the groundwork for many of the policies and procedures during his time as Staff, and continues to help out when his services are needed.
 **Contributions** CMB, ModSaber, Moderation, BeatSaver Reloaded
 [GitHub](https://github.com/lolPants) | [Twitch](https://twitch.tv/lolpants_) 
