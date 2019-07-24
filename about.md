@@ -1,7 +1,7 @@
 <!-- TITLE: About -->
 <!-- SUBTITLE: Who are we? -->
 
-Ever wonder who made your favorite mod or answered your questions in `#support`? This page tells you a little bit about some of the major Beat Saber Modding Community contributors. The community wouldn't exist without the blood, sweat, and tears of these amazing volunteers.
+Ever wonder who made your favorite mod or created the mod installer? This page tells you a little bit about some of the major Beat Saber Modding Community contributors. The community wouldn't exist without the blood, sweat, and tears of these amazing volunteers.
 
 >Some people could go under multiple sections, so I tried to sort this page the best I could. If you'd like anything about your section changed, feel free to contact me - williums
 {.is-warning}
@@ -274,9 +274,9 @@ He's either talking about Steven or being way too patriotic in chat (BS Nordic A
 The team that runs the show at the forefront and behind the scenes. Whether it comes to project management, plugin approval, paying for the servers (RIP our wallets), event coordination, or many of the other secret projects, there's always lots of work to be done! The community wouldn't be around without the countless hours contributed by these incredible individuals, so please give them a virtual round of applause!
 
 ## Assistant
-The original Support - Assistant took over the #support channel in the earilest days back when no one else would. The support role wouldn't exist if not for their efforts. They've created ModelSaber as a repository for custom avatars, sabers, platforms, and also run BeatSaver after Balsa stepped down. 
+The original Support - Assistant took over the #support channel in the earilest days and answered everyone's questions back when no one else would. They've since moved on to creating resources to help people, like ModelSaber: a repository for custom avatars, sabers, platforms; as well as ModAssistant: the currently recommended mod installer. 
 **Roles:** Staff, Support, 3D Artist
-**Contributions:** BeatMods Approval Staff, Multiplayer/Saber/Avatar/Platform Creation Guides, Moderation, ModelSaber, Runs BeatSaver, BSMG PodCasts
+**Contributions:** BeatMods Approval Staff, Multiplayer/Saber/Avatar/Platform Creation Guides, Moderation, ModelSaber, BeatSaver Admin, BSMG PodCasts
 [GitHub](https://github.com/Assistant) | [Donate](https://bs.assistant.moe/Donate) | [Patreon](https://www.patreon.com/AssistantMoe)
 
 ## Balsa (retired)
@@ -298,19 +298,19 @@ A shining ray of positivity when all hell breaks loose on update days, holding e
 ## Megalon
 Part of the original dynamic duo along with Reaxt, he keeps a watchful eye on the server with the help of Channel Monitor Bot. He's known for his creative stream overlays and amazing ASMR voice.
 **Roles:** Admin, Staff, Support, Modder
-**Contributions:** CMB, BeatMods Approval Admin, BSMG Stream Overlays, Moderation, BSMG PodCasts, Wiki Management
+**Contributions:** CMB, BeatMods Approval, Stream Overlays, Moderation, PodCasts, Wiki
 [GitHub](https://github.com/megalon) | [Twitch](https://twitch.tv/megalonttv) | [Donate](https://ko-fi.com/megalon)
 
 ## OrangeW
 The first professional Beat Saber player, representing Team Gravity. Represents the pro players in staff, major contributor to the ranking system and reeeeeeeeeaally good at the game.
 **Roles:** Staff
-**Contributions:** ScoreSaber Admin, Moderation
+**Contributions:** ScoreSaber Staff, Moderation
 [Twitch](https://twitch.tv/orangew2) | [Donate](https://streamlabs.com/orangew2)
 
 ## Reaxt
 BSMG server owner and rhythm game fanatic. We wouldn't be here today without this very special boy.
 **Roles:** Admin, Staff, Modder
-**Contributions:** Server Owner, Custom Sabers, BSMG PodCasts
+**Contributions:** Server Owner, Custom Sabers, PodCasts
 [GitHub](https://github.com/reaxt00) | [Twitch](https://twitch.tv/reaxt)
 
 ## Steven 🎀
