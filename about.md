@@ -293,6 +293,11 @@ A shining ray of positivity when all hell breaks loose on update days, holding e
 **Contributions:** ScoreSaber Admin, Moderation
 [Twitch](https://www.twitch.tv/klouderrr) | [Donate](https://streamlabs.com/klouderrr)
 
+## lolPants
+One hell of a developer and a lover of socks. lolPants laid the groundwork for many of the policies and procedures during his time as Staff, and continues to help out when his services are needed.
+**Contributions** CMB, ModSaber, Moderation, BeatSaver Reloaded
+[GitHub](https://github.com/lolPants) | [Twitch](https://twitch.tv/lolpants_) 
+
 ## Megalon
 Part of the original dynamic duo along with Reaxt, he keeps a watchful eye on the server with the help of Channel Monitor Bot. He's known for his creative stream overlays and amazing ASMR voice.
 **Roles:** Admin, Staff, Support, Modder
