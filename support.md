@@ -14,7 +14,7 @@
 After an update, the BSMG discord `#server-announcements` channel should have the most up to date instructions on the status of mods. The following are more detailed instructions of the most common procedure.
 
 ### Update broke my mods
-**Run the game once** on the new update. Then, reinstall your mods using an installer linked on the [beginner's guide](/beginners-guide), preferably Mod Assistant.
+**Run the game once** on the new update. Then, reinstall your mods using an installer linked in the [beginner's guide](/beginners-guide), preferably Mod Assistant.
 
 # 1. No mods?
 
@@ -116,14 +116,14 @@ There's a issue between certain versions of the multiplayer mod and the rumble e
 ### 3.4 Custom Avatars (Not) Showing Ingame
 Click the **Home** button on your keyboard with the game in focus to toggle visibility in the headset.
 
-### 3.22 My Avatars Are Broken
+### 3.5 My Avatars Are Broken
 Make sure your custom avatars plugin is installed properly and updated, also make sure your dependencies are too.
 You might have a corrupted/broken avatar, having one avatar break can break all of your avatars likewise with songs and sabers.
 Refer to [Finding Broken Content](#4-2-finding-broken-content) if you think you have corrupted avatars or if you've made sure your mods and dependencies are updated but avatars still are broken.
 
 ## Custom Songs
 
-### 3.5 My Songs Are Missing
+### 3.6 My Songs Are Missing
 Make sure your songs are in your `CustomLevels` folder, located at `Beat Saber/Beat Saber_Data/`. This is where the game natively reads custom songs from.
 
 **Do not** place songs in the old `Beat Saber/CustomSongs` folder. This location is deprecated as the format for custom songs has changed. If you have maps in the old format (`.json` and `.ogg` files instead of `.dat` and `.egg`), convert them first using [Songe Converter](https://github.com/lolPants/songe-converter)
@@ -136,19 +136,19 @@ Also try re-installing the plugin again, if that doesn't work reinstall your gam
 If this only happens on particular maps, those song files are probably broken. If it happens to all of your maps, delete your `Plugins` folder and reinstall fresh ones.
 
 ## Camera Plus
-### 3.7 Camera Plus Isn't Working/Past Health Screen
+### 3.8 Camera Plus Isn't Working/Past Health Screen
 Make sure the setting for "Smooth Camera" is turned off in your ingame settings,
 If that doesn't work make sure you have the mod installed properly try reinstalling it, and all of its dependencies.
 
-### 3.8 My desktop view only takes up a small section of the screen
+### 3.9 My desktop view only takes up a small section of the screen
 Your CameraPlus display isn't filling up your canvas. Either drag the corner to fit the screen, or right click the window and click "Fit to Canvas".
 
 ## Beatsaver Downloader
-### 3.9 Beatsaver Downloader More Songs Button
+### 3.10 Beatsaver Downloader More Songs Button
 The **More Songs button is located in the Mods button in the main menu**, if the button for More Songs is greyed out then make sure all your songs loaded first, as seen in the bar on the main menu
 if your mods button isnt there then kindly make sure your plugins and dependencies are working and installed properly, refer to [No Mods In Game](#1-4-no-mods-in-game).
 
-### 3.10 Nothing Showing Up In The More Songs Menu
+### 3.11 Nothing Showing Up In The More Songs Menu
 The probable causes for beatsaver downloader not working are:
 1. Make sure all of your songs have loaded in before, or else the More Songs button will be greyed out.
 2. Your anti-virus or firewall blocking access to beatsaver.
