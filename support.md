@@ -188,13 +188,13 @@ To verify your game files on steam follow these steps:
 5. Before Modding Launch The Game Once `Vanilla Or Without Mods **FIRST**`
 
 (Optional) Back up your downloaded custom content by making a copy of the following folders:
-`
-* Beat Saber\Beat Saber_Data\CustomLevels
-* Beat Saber\CustomSabers
-* Beat Saber\CustomPlatforms
-* Beat Saber\CustomNotes
-* Beat Saber\CustomAvatars
-`
+
+* `Beat Saber\Beat Saber_Data\CustomLevels`
+* `Beat Saber\CustomSabers`
+* `Beat Saber\CustomPlatforms`
+* `Beat Saber\CustomNotes`
+* `Beat Saber\CustomAvatars`
+
 
 Simply move or copy them out of the `Beat Saber Directory`
 *The fastest way I found was to just copy it and paste it into the directory just before beatsaber, a.k.a a nearby/previous directory it takes only a few seconds to copy and paste.*
