@@ -189,11 +189,11 @@ To verify your game files on steam follow these steps:
 
 (Optional) Back up your downloaded custom content by making a copy of the following folders:
 `
-Beat Saber\Beat Saber_Data\CustomLevels
-Beat Saber\CustomSabers
-Beat Saber\CustomPlatforms
-Beat Saber\CustomNotes
-Beat Saber\CustomAvatars
+* Beat Saber\Beat Saber_Data\CustomLevels
+* Beat Saber\CustomSabers
+* Beat Saber\CustomPlatforms
+* Beat Saber\CustomNotes
+* Beat Saber\CustomAvatars
 `
 
 Simply move or copy them out of the `Beat Saber Directory`
