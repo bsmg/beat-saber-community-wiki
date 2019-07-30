@@ -102,7 +102,7 @@ Note that Beat Saber doesn't utilize the GPU very much as visually it's a fairly
 # 3. Common Questions
 ### 3.1 Blank Menu, No Buttons
 If your main window in game is blank, your save file likely got corrupted.
-To fix this refer to [Delete Beatsaber Folder Within Your App Data](#deleting-your-saves-in-app-data)
+To fix this refer to [Delete Beatsaber Folder Within Your App Data](#deleting-your-save-in-app-data)
 >Note: This will delete your local scores and statistics.
 {.is-warning}
 
