@@ -181,7 +181,7 @@ To verify your game files on steam follow these steps:
 [video](https://www.youtube.com/watch?v=EBFfT4-ZiIc){.youtube}
 
 ## Clean Installation
-1. [Backing Up Custom Content](#4-1-backing-up-custom-content) 
+1. Back up your custom content, as seen below
 2. Uninstall Beat Saber
 3. Delete your "Beat Saber" folder
 4. Reinstall the game
