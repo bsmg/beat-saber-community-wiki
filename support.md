@@ -109,8 +109,20 @@ To fix this refer to [Delete Beatsaber Folder Within Your App Data](#deleting-yo
 ### 3.2 How do I use `x` mod?
 If you're using Mod Assistant, click the mod and hit the "Mod Info" button. http://beatmods.com has a "More Info" button on each mod as well.
 
-### 3.3 Crashing (Multiplayer Mod + Rumble Enchancer)
-There's a issue between certain versions of the multiplayer mod and the rumble enchancer mod, if both are installed the game will crash and such, uninstall either. 
+### 3.3 Rumble Issues
+Gameplay Modifiers Plus adds a toggle to enable/disable controller rumble. If you disabled it then removed the mod, you'll need to modify the configuration file that it writes to manually. Open `%appdata%/../locallow/hyperbolic magnetism/beat saber` and set `controllerRumbleEnabled` to `true`.
+
+If this isn't the cause of your rumble issues and the following are true regarding your haptics:
+* haptics are miniscule
+* there is no vibration when hitting multiple blocks
+* there is a slight delay when touching sabers together
+* you are using oculus touch controllers
+
+Then there is a good chance that Beat Saber is overloading your motherboard's USB controller. Oculus devours your USB controller bandwidth, and Beat Saber pushes it harder than any other game, which is why other games and menus might be fine. There is no clear-cut solution, so try the following:
+* Shuffle the sensor and HMD USB cables around in different ports
+* Unplug unecessary USB devices
+* Buy a PCI-E USB hub
+* Use `-vrmode oculus` if you're using SteamVR to bypass it and use the oculus SDK instead
 
 ## Custom Avatars
 ### 3.4 Custom Avatars (Not) Showing Ingame
