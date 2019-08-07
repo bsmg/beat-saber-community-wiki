@@ -118,7 +118,7 @@ If this isn't the cause of your rumble issues and the following are true regardi
 * there is a slight delay when touching sabers together
 * you are using oculus touch controllers
 
-Then there is a good chance that Beat Saber is overloading your motherboard's USB controller. Oculus devours your USB controller bandwidth and the average motherboard comes with a very cheap controller. Beat Saber pushes it harder than any other game, which is why other games and menus might be fine. There is no clear-cut solution, so try the following:
+Then there is a good chance that Beat Saber is overloading your motherboard's USB controller. Oculus devours your USB controller bandwidth and most motherboards come with a very cheap controller. Beat Saber pushes it harder than any other game, which is why other games and menus might be fine. There is no clear-cut solution, so try the following:
 * Shuffle the sensor and HMD USB cables around in different ports
 * Unplug unecessary USB devices
 * Buy a PCI-E USB hub
