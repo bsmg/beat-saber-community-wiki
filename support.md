@@ -193,29 +193,20 @@ To verify your game files on steam follow these steps:
 [video](https://www.youtube.com/watch?v=EBFfT4-ZiIc){.youtube}
 
 ## Clean Installation
-1. Back up your custom content, as seen below
-2. Uninstall Beat Saber
-3. Delete your "Beat Saber" folder
-4. Reinstall the game
-5. Before Modding Launch The Game Once `Vanilla Or Without Mods **FIRST**`
-
-(Optional) Back up your downloaded custom content by making a copy of the following folders:
-
+1. (Optional) Back up your downloaded custom content by making a copy of the following folders:
 * `Beat Saber\Beat Saber_Data\CustomLevels`
 * `Beat Saber\CustomSabers`
 * `Beat Saber\CustomPlatforms`
 * `Beat Saber\CustomNotes`
 * `Beat Saber\CustomAvatars`
 
-
-Simply move or copy them out of the `Beat Saber Directory`
-*The fastest way I found was to just copy it and paste it into the directory just before beatsaber, a.k.a a nearby/previous directory it takes only a few seconds to copy and paste.*
-
+2. **Delete the ENTIRE Beat Saber Folder.** This is different from uninstalling the game on steam, as those methods will not remove files that did not come with the game. 
 >Steam: 	`\steamapps\common\Beat Saber\`
-
 >Oculus: 	`\hyperbolic-magnetism-beat-saber\`
 
-Now, **Delete the ENTIRE Beat Saber Folder.** This is different from uninstalling the game on steam, as it will not remove files that did not come with the game. 
+3. Reinstall the game via the Steam or Oculus store
+4. **Before modding, launch the game once** 
+5. Run Mod Assistant, install your mods, and boot up the game.
 
 (Optional) If you want to take it one step further, refer To: [Deleting The Beatsaber Folder Within Your App Data](#deleting-your-save-in-app-data)
 
