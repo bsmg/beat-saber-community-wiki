@@ -4,7 +4,7 @@
 # Getting Started
 * [PC Modding](beginners-guide)
 * [Quest Modding](quest-modding)
-* [Support](support)
+* [Common Problems and Solutions](support)
 * [Grips and Tricks](grips-and-tricks)
 
 # Looking to Make Your Own Stuff?
