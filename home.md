@@ -2,7 +2,8 @@
 <!-- SUBTITLE: Welcome to the Beat Saber Modding Group Wiki! -->
 
 # Getting Started
-* [Beginner's Guide](beginners-guide)
+* [PC Modding](beginners-guide)
+* [Quest Modding](quest-modding)
 * [Support](support)
 * [Grips and Tricks](grips-and-tricks)
 
