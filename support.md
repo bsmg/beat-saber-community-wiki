@@ -70,8 +70,8 @@ Oculus: Perform a [Clean Installation](#clean-installation)
 
 This should fix the problem.
 
-### 2.2 Black screen, Unity crash window, Avatar standing in Black environment
-This one is simple: [verify files](#verify-game-files-for-steam) if you have the game on Steam, or reinstall the game on Oculus Home. Refer to [Clean Installation](#clean-installation)
+### 2.2 Frozen on Startup
+If the game is frozen at the Health and Safety screen, or you see an avatar T-posing with no control of the game, [verify your files](#verify-game-files-for-steam) if you have the game on Steam, or reinstall the game on Oculus Home. Refer to [Clean Installation](#clean-installation)
 This seems to happen when updating Beat Saber and having mods installed previously, but not to users with clean installs of the game.
 
 ## Framerate Issues
