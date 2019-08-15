@@ -89,5 +89,16 @@ Wine doesn’t use DLLs the same way Windows does, so you have to change a few t
 
 ![DllOverrides](https://i.imgur.com/dgemtef.png)
 
+## SongCore breaks custom songs
+
+If loading SongCore causes you to be unable to play any custom songs, try creating a folder that isn't done automatically:
+
+```bash
+>  $ cd "~/.local/share/Steam/steamapps/compatdata/620980/pfx/drive_c/users/steamuser/Local Settings"
+>  $ mkdir -p "LocalLow/Hyperbolic Magnetism/Beat Saber"
+```
+
+Of course, change `~/.local/share/Steam/steamapps/` to the location of the Steam library that you have installed Beat Saber to.
+
 # Have questions?
 Visit the [FAQ](faq) or drop by the #support tab in the [discord](https://discord.gg/beatsabermods)!
