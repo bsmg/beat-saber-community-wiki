@@ -42,6 +42,9 @@ https://github.com/squeaksies/MediocreMapper/releases/latest
 > It's filled to the brim with memes and inside jokes, and he doesn't give a flying heck what you think about it. You have been warned!
 {.is-warning}
 
+## BeatMapper.app
+A new web-based beat saber editor. Runs in the browser so it's platform agnostic. Check it out at https://beatmapper.app/
+
 # Other Resources
 ## Lightmap
 A tool to automatically generate lighting events for a custom song by Freeek and Recrudesce!
