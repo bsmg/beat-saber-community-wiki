@@ -17,6 +17,6 @@ He make models and he make puns
 [Twitch](https://www.twitch.tv/rangevalley)
 
 ## Sam
-He's either talking about Steven or being way too patriotic in chat (BS Nordic Admin btw). Don't call him cute, he hates that. 
+He's either talking about Steven or being way too patriotic in chat (BS Nordic Admin btw). Don't call him cute, he hates that. He also makes maps, check them out below.
 **Roles:** Moderator
 [Twitch](https://twitch.tv/sagittariusfam) | [Maps](https://beatsaver.com/browse/byuser/7161)
