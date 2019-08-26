@@ -21,6 +21,12 @@ A massive contributor to the development of quest mods.
 A massive contributor to the development of quest mods.
 **Roles:** Modder
 
+## bobbie
+Remind him to watch his glucose.
+**Roles:** Modder, 3D Artist
+**Contributions:** Custom Notes, ModelSaber Admin
+[Github](https://github.com/legoandmars/) 
+
 ## andruzzzhka
 A huge contributor for the in-game downloader mod, and developer of the unofficial multiplayer plugin.
 **Roles:** Modder
