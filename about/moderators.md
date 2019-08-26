@@ -8,7 +8,7 @@ We had to whip this boy into a bit of shape but he's now one of the most effecti
 [Twitch](https://www.twitch.tv/beigeanimaltv) | [Paypal](https://paypal.me/beigeanimal)
 
 ## DeeJay
-He make models and he make puns
+Pepega
 **Roles:** Moderator
 [Twitch](https://www.twitch.tv/deejayvr)
 
@@ -20,9 +20,8 @@ He make models and he make puns
 ## RangeValley
 "My dad worked for years as an admin, but he got laid off when bots took over. He came home that night and told me we had to move into the van, since we couldn't afford rent anymore, then he beat the shit out of me with jumper cables. Shitposting should be legal."
 **Roles:** Moderator
-[Twitch](https://www.twitch.tv/rangevalley)
 
 ## Sam
 He's either talking about Steven or being way too patriotic in chat (BS Nordic Admin btw). Don't call him cute, he hates that. He also makes maps, check them out below.
 **Roles:** Moderator
-[Twitch](https://twitch.tv/sagittariusfam) | [Maps](https://beatsaver.com/browse/byuser/7161)
+[Twitch](https://twitch.tv/bs_samuel ) | [Maps](https://beatsaver.com/uploader/5cff0b7498cc5a672c850326)
