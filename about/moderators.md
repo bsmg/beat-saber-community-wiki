@@ -1,6 +1,12 @@
 <!-- TITLE: Moderators -->
 <!-- SUBTITLE: A quick summary of Moderators -->
 
+
+## BeigeAnimal
+We had to whip this boy into a bit of shape but he's now one of the most effective moderators. He's not really specialized in any field but he's willing to lend a helping **provided they ask in the right channel.** Also hates sketchfab links.
+**Roles:** Moderator, 3D Artist
+[Twitch](https://www.twitch.tv/beigeanimaltv) | [Paypal](https://paypal.me/beigeanimal)
+
 ## DeeJay
 He make models and he make puns
 **Roles:** Moderator
