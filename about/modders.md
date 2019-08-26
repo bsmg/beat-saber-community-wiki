@@ -1,5 +1,5 @@
 <!-- TITLE: Modders -->
-<!-- SUBTITLE: A quick summary of Modders -->
+<!-- SUBTITLE: Making sure our games look the way we want them to, one plugin at a time. -->
 
 # Modders
 ## andruzzzhka
