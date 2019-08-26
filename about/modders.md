@@ -75,6 +75,13 @@ monkey
 **Contributions:** Perfection Display, Custom Campaign, CustomUI
 [GitHub](https://github.com/monkeymanboy) | [Twitch](https://www.twitch.tv/monkeymanboy) | [Donate](https://ko-fi.com/monkeymanboy)
 
+## raftario
+The closest thing we have to a beatmods maintainer.
+**Roles:** Modder
+**Contributions:** BeatMods
+[GitHub](https://github.com/raftario)
+
+
 ## Shadnix
 Current maintainer of Saber Tailor
 **Roles:** Modder
