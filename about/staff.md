@@ -40,19 +40,19 @@ The manager of many, Steven's always around to lend a helping hand as long as yo
 [Github](https://github.com/DeadlyKitten) | [Twitch](https://www.twitch.tv/steventhecat)  | [Donate](https://streamlabs.com/steventhecat)
 
 ## williums
-Project manager and wiki maintainer. 
+Project manager, wiki maintainer, bread baker. Disregard what everyone says, I like girls.
 **Roles:** Staff, Support
 **Contributions:** Wiki Management, Moderation, Contest Management, BeatMods Approvals
 [Twitch](https://www.twitch.tv/williums/) | [Donate](https://ko-fi.com/williums)
 
 ## Umbranox
-ScoreSaber Supreme Leader and creator of the custom leaderboards/ranked system and official developer for Beat Games. Always trying to do way too much work with not enough rest. Remember to pat your Umbranox once a day!
+ScoreSaber Supreme Leader, creator of the custom leaderboards/ranked system and official developer for Beat Games. Always trying to do way too much work with not enough rest. Remember to pat your Umbranox once a day!
 **Roles:** Staff, Offical Dev
 **Contributions:** ScoreSaber
 [Linkkle](https://linkkle.com/umbranoxus)
 
 ## OrangeW
-The first professional Beat Saber player, representing Team Gravity. Represents the pro players in staff, major contributor to the ranking system and reeeeeeeeeaally good at the game.
+The first professional Beat Saber player, representing Team Gravity. Admin of the ScoreSaber global leaderboards.
 **Roles:** Staff
 **Contributions:** ScoreSaber
 [Twitch](https://twitch.tv/orangew2) | [Donate](https://streamlabs.com/orangew2)
