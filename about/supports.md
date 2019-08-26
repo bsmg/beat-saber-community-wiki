@@ -18,6 +18,11 @@ Literally no clue what he's doing when it comes to coding, at all, but he can fi
 **Roles:** Support
 [Twitch](https://www.twitch.tv/sarpest_razor) | [Donate](https://streamelements.com/sarpest_razor/tip)
 
+## 𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯
+Poi!
+**Roles:** 3D Artist, Support
+[Twitch](https://www.twitch.tv/br3uker)
+
 ## Radevirot
 This guy came out of nowhere and started helping in support saying it was some kind of addiction, what a loon
 **Roles:** Support
@@ -35,6 +40,5 @@ Created by Megalon, recreated by lolPants, and personified by Rolo!
 
 >See Also
 **Modders:** [Kyle1413](#Kyle1413)
-**3D Artists:** [Jenny](/about/3-d-artists#𝔍-𝔢-𝔫-𝔫-𝔦-𝔣-𝔢-𝔯)
 **Staff:** [Assistant](#Assistant) | [Klouder](#Klouder) | [Megalon](#Megalon) | [Steven](#Steven) | [williums](#williums)
 
