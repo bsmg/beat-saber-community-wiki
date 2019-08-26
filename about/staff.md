@@ -40,7 +40,7 @@ The manager of many, Steven's always around to lend a helping hand as long as yo
 [Github](https://github.com/DeadlyKitten) | [Twitch](https://www.twitch.tv/steventhecat)  | [Donate](https://streamlabs.com/steventhecat)
 
 ## williums
-Project manager, wiki maintainer, bread baker. Disregard what everyone says, I like girls.
+Project manager, wiki maintainer, bread baker. Despite what everyone says, I like girls.
 **Roles:** Staff, Support
 **Contributions:** Wiki Management, Moderation, Contest Management, BeatMods Approvals
 [Twitch](https://www.twitch.tv/williums/) | [Donate](https://ko-fi.com/williums)
