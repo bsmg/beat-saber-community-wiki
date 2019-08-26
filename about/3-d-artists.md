@@ -4,9 +4,13 @@
 From sabers to notes, custom models have always been a popular aspect of modded beat saber which wouldn't be possible without them. 
 
 ## RedBrumbler
-Creator of the Quest saber creation guide and a huge contributor to the quest asset modding scene.
+"The guy who made giant glowing dicks in beat saber" ~Emulamer 12th of July 2019
+
+As you can read I make sabers for quest, but generally I've been active in the asset modding part of beat saber, I've also done some for other games but Beat saber is my main love.
+If you ever need help making sabers specifically for quest you can always ask me over in the quest modeling channel (until we get that qsaber mod anyways)
+keep on sabering that meat till it's real tender!
 **Roles:** 3D Artist
-[Github](https://github.com/RedBrumbler)
+[Paypal](https://paypal.me/RedBrumblerOfficial?locale.x=nl_NL) | [Patreon](https://www.patreon.com/RedBrumbler) | [Ko-Fi](https://ko-fi.com/redbrumbler) | [Youtube](https://www.youtube.com/channel/UCYmzlDob8BQYWrOQWkHtCpQ) | [Facebook](https://www.facebook.com/red.brumbler.7) | [Twitter](https://twitter.com/RedBrumbler) | [Github](https://github.com/RedBrumbler/BeatOnCustomSabers) | [Reddit](https://www.reddit.com/user/RedBrumbler/)
 
 ## Yuuki
 **Roles:** 3D Artist
@@ -55,5 +59,6 @@ Mordred went on an absolute rampage when he first appeared, flooding the avatar 
 
 
 >See Also
+**Modders:** [bobbie](
 **Support:** [Emma](#Emma) | [ 𝔅𝔯3𝔲𝔨𝔢𝔯 🎀 𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯](/about/supports#𝔍-𝔢-𝔫-𝔫-𝔦-𝔣-𝔢-𝔯)
 **Staff:** [Assistant](#Assistant) | [Klouder](#Klouder)
