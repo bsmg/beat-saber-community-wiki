@@ -9,42 +9,9 @@ Ever wonder who made your favorite mod or created the mod installer? This page t
 **[Modders](/about/modders)**
 The game as we know it wouldn't exist if people didn't want to add their own spin to it. These are the modders who have spent countless of their own hours to help us personalize the the game.
 # Supports
-Having problems? Ask in #support. These guys have been around to help you figure out your mod problems, big or small.
-
-## Channel Monitor Bot
-The bot that holds it all together.
-Created by Megalon, recreated by lolPants, and personified by Rolo!
-[Merch!](https://www.redbubble.com/people/megalon-gaming/portfolio)
-
-## Emma
-You might know them for their spectacular platforms, or for more refined individuals: yeet sabers.
-**Roles:** Support, 3D Artist
-[Twitch](https://www.twitch.tv/therealkleinba)
-
-## Kolezan
-He'll teach you to fix your plugins and your terribly off-beat first map. We've all been there. 
-**Roles:** Support, Mapper
-[Twitch](https://www.twitch.tv/kolezan) | [Donate](https://paypal.me/kolezan)
-
-## Melopod ƸӜƷ
-Likes pies, tartes, and helping people fix their mods!
-**Roles:** Support
-[Twitch](https://www.twitch.tv/mamamelo) | [Donate](https://streamlabs.com/mamamelo)
-
-## Razor
-Literally no clue what he's doing when it comes to coding, at all, but he can fix ploogin.
-**Roles:** Support
-[Twitch](https://www.twitch.tv/sarpest_razor) | [Donate](https://streamelements.com/sarpest_razor/tip)
-
-## Radevirot
-This guy came out of nowhere and started helping in support saying it was some kind of addiction, what a loon
-**Roles:** Support
-[Twitter](https://twitter.com/Radevirot) | [Donate](paypal.me/Radevirot)
+The Support role is a symbol of thanks. Thanks for the thousands of messages sent in the support channels to help people sort out their mods, and for for building a knowledge of troubleshooting base through macros and the wiki. 
 
 
->See Also
-**Modders:** [Kyle1413](#Kyle1413)
-**Staff:** [Assistant](#Assistant) | [Klouder](#Klouder) | [Megalon](#Megalon) | [Steven](#Steven) | [williums](#williums)
 
 # 3D Artists
 Whether you're streaming or just looking for a change of view, these guys have your back. They've spent countless hours creating sabers, platforms, and avatars to help you customize your experience to suit your needs and more.
