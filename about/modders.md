@@ -1,7 +1,7 @@
 <!-- TITLE: Modders -->
 <!-- SUBTITLE: Making sure our games look the way we want them to, one plugin at a time. -->
 
-# Modders
+
 ## andruzzzhka
 A huge contributor for the core mods, including the in-game downloader mod! He's also the creator of the unofficial multiplayer mod that's holding you over until official multiplayer arrives somday.
 **Roles:** Modder
