@@ -19,11 +19,12 @@ From sabers to notes, custom models have always been a popular aspect of modded 
 With a server so large, a lot of moderation is required to keep everything under control. You can thank this team for keeping the streets clean.
 
 [Staff](/about/staff)
-The team that runs the show at the forefront and behind the scenes. Whether it comes to project management, plugin approval, managing the core services, event coordination, or many of the other secret projects, there's always lots of work to be done. The community wouldn't exist without the countless hours contributed by these incredible individuals, so please give them a virtual round of applause (and help pay for the services if you can 😭)
+The team that runs the show at the forefront and behind the scenes. Whether it comes to project management, plugin approval, managing the core services, event coordination, or many of the other secret projects, there's always lots of work to be done. The community wouldn't exist without the countless hours contributed by these incredible individuals, so please give them a virtual round of applause (and help pay for the services if you can...)
 
+__Mappers__
+Each of your favorite maps is carefully crafted and tested over many hours by a talented mapper. As much as we'd love to include them here too, there are WAY too many of them. If you like someone's maps, give it a thumbs up in game, review it on [BeastSaber](https://bsaber.com), or tell them personally! They'll really appreciate it. 
 
-# Mappers
-Each of your favorite maps is carefully crafted and tested over many hours by a talented mapper. As much as we'd love to include them here too, there are WAY too many of them. If you like someone's maps, give it a thumbs up in game, review it on [BeastSaber](https://bsaber.com), or tell them personally! They'll really appreciate it. If you ever want to commission a map, we encourage you to contact them in the [Beat Saber Commissions server!](https://discord.gg/4RbcH5G)
+Furthermore, there is a community run discord to help connect mappers/artists with clients if you would like to commission something. We encourage you to reach out in the [Beat Saber Commissions server.](https://discord.gg/4RbcH5G)
 
 # About This Wiki
 
