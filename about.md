@@ -3,8 +3,8 @@
 
 Ever wonder who made your favorite mod or created the mod installer? This page tells you a little bit about some of the major Beat Saber modding community contributors. The community wouldn't exist without the blood, sweat, and tears of these amazing volunteers.
 
->Some people could go under multiple sections, so I tried to sort these pages the best I could. If you'd like anything about your section changed, feel free to contact me - williums
-{.is-warning}
+*Note: some people could go under multiple sections, so I tried to sort these pages the best I could. If you'd like anything about your section changed, feel free to contact me - williums*
+
 
 [Modders](/about/modders)
 The game as we know it wouldn't exist if people didn't want to add their own spin to it. These are the modders who have spent countless of their own hours to help us personalize the the game.
