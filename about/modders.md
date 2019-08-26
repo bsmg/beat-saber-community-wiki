@@ -64,10 +64,10 @@ One hell of a developer and a lover of socks. lolPants laid the groundwork for m
 [GitHub](https://github.com/lolPants) | [Twitch](https://twitch.tv/lolpants_) | [Donate](https://monzo.me/jackbaron)
 
 ## monkeymanboy
-He'll give me a bio when he's done fixing CustomUI
+monkey
 **Roles:** Modder
 **Contributions:** Perfection Display, Custom Campaign, CustomUI
-[GitHub](https://github.com/monkeymanboy)
+[GitHub](https://github.com/monkeymanboy) | [Twitch](https://www.twitch.tv/monkeymanboy) | [Donate](https://ko-fi.com/monkeymanboy)
 
 ## Shadnix
 Current maintainer of Saber Tailor
