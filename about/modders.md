@@ -13,6 +13,14 @@ Creator of the custom-tailored version of IPA (illusion plugin architecture) BSI
 **Contributions:** BSPIA
 [GitHub](https://github.com/nike4613) | [Donate](https://ko-fi.com/danike)
 
+## emulamer
+A massive contributor to the development of quest mods.
+**Roles:** Modder
+
+## Trishume
+A massive contributor to the development of quest mods.
+**Roles:** Modder
+
 ## andruzzzhka
 A huge contributor for the in-game downloader mod, and developer of the unofficial multiplayer plugin.
 **Roles:** Modder
@@ -20,7 +28,7 @@ A huge contributor for the in-game downloader mod, and developer of the unoffici
 [GitHub](https://github.com/andruzzzhka) | [Donate](http://ko-fi.com/andruzzzhka)
 
 ## angturil
-A massive part in the evolution and development of Enhanced Twitch Chat, which is now Enhanced Stream Chat! 
+Creator of the Song Request Manager, which makes twitch requests possible. Check out his [wife's stream](https://www.twitch.tv/sehria_k)
 **Roles:** Modder
 **Contributions:** Enhanced Stream Chat, StreamCore, SongRequestManager 
 [Github](https://github.com/angturil)
@@ -92,7 +100,7 @@ Does a lot of work with community plugins, like the BS Community Discord event p
 [GitHub](https://github.com/)
 
 ## opl
-Creator of the fancy HTTPStatus stream tools that exposes TONS of information about the game for other developers to use, often in really fancy overlays for Twitch streams!
+Creator of the HTTPStatus tool that exposes tons of information about the game for other developers to use, often in fancy overlays for Twitch streams!
 **Roles:** Modder
 **Contributions:** HTTPStatus
 [GitHub](https://github.com/opl-)
@@ -102,7 +110,6 @@ Has large feet, maybe??
 **Roles:** Modder
 **Contributions:** Full Combo Display, Immersive Mode, StreamInfo
 [GitHub](https://github.com/bigfoott) | [Twitch](https://www.twitch.tv/bigfooott) | [Donate](https://streamlabs.com/bigfooott)
-
 
 ## PlasmaPower
 A big part of the development for the Chroma suite, and a major contributor for updating plugins to 0.13!
