@@ -37,7 +37,7 @@ A huge contributor for the in-game downloader mod, and developer of the unoffici
 Creator of the Song Request Manager, which makes twitch requests possible. Check out his [wife's stream](https://www.twitch.tv/sehria_k)
 **Roles:** Modder
 **Contributions:** Enhanced Stream Chat, StreamCore, SongRequestManager 
-[Github](https://github.com/angturil)
+[Github](https://github.com/angturil) | [Donate](https://paypal.me/sehria)
 
 ## Caeden117
 How many statistics could we fit into a single counters mod? A lot apparently. He's also responsible for the modding tutorials on this wiki and Chromapper, a soon to be released mapping software with Chroma RGB light support.
