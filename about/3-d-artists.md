@@ -1,4 +1,4 @@
-<!-- TITLE: 3 D Artists -->
+<!-- TITLE: 3D Artists -->
 <!-- SUBTITLE: A quick summary of 3 D Artists -->
 
 ## angeloid0103
