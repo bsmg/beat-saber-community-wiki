@@ -23,6 +23,11 @@ Poi!
 **Roles:** 3D Artist, Support
 [Twitch](https://www.twitch.tv/br3uker)
 
+## Pespiri
+He'll give me his bio later today
+**Roles:** Support, Modder
+[Github](https://github.com/pespiri)
+
 ## Radevirot
 This guy came out of nowhere and started helping in support saying it was some kind of addiction, what a loon
 **Roles:** Support
