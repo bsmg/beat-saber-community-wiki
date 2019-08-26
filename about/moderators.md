@@ -1,5 +1,5 @@
 <!-- TITLE: Moderators -->
-<!-- SUBTITLE: A quick summary of Moderators -->
+<!-- SUBTITLE: With a server so large, a lot of moderation is required to keep everything under control. You can thank this team for keeping the streets clean. -->
 
 
 ## BeigeAnimal
