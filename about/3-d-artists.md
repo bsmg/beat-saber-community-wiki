@@ -11,8 +11,8 @@ As you can read I make sabers for quest, but generally I've been active in the a
 
 ## Yuuki
 **Roles:** 3D Artist
-A major contributor to the developments in quest asset creation.
-[Patreon](https://www.patreon.com/yuukisaves) | [Ko-Fi](https://ko-fi.com/supportyuuki)
+3D Artist and Quest Modder. Supporting the VR community in any way that I can! Primarily focusing on offering niche Beat Saber mods for the Quest and helping enhance gameplay through 3D models.
+[Youtube](https://www.youtube.com/channel/UCIH4NTKdVNjnJpfuMrk71Fw) | [Patreon](https://www.patreon.com/yuukisaves) | [Ko-Fi](https://ko-fi.com/supportyuuki)
 
 ## MissRaynor
 **Roles:** 3D Artist
