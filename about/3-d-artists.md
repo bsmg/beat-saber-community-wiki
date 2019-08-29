@@ -27,9 +27,14 @@ Developer of ModelSaber 2.0 (which launches soon™) and crafter of many sabers.
 ## Tachrayonic
 **Roles:** 3D Artist
 
-## Oshi
-In addition to models, he's also fixed the beloved Rainbow Mod whenever updates hit. Enjoy your RGB lights!
+## 72
+Tons and tons of fullbody tracking support!
 **Roles:** 3D Artist
+
+
+## Oshi
+**Roles:** 3D Artist
+[Donate](paypal.me/theseventytwo)
 
 ## angeloid0103
 Wrote the custom saber creation guide among other fantastic contributions.
@@ -48,7 +53,7 @@ Most well known for their incredibly flashy dance platform and space opera saber
 **Contributions:** Bloom Mod
 
 ## Mordred
-Mordred went on an absolute rampage when he first appeared, flooding the avatar and saber channels like never seen before. He's one of the reasons this role exists to begin with!
+One of the first creators to mass produce avatars, and thus give birth to this role.
 **Roles:** 3D Artist
 
 ## Whistl3r
