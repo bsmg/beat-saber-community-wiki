@@ -28,7 +28,7 @@ Developer of ModelSaber 2.0 (which launches soon™) and crafter of many sabers.
 **Roles:** 3D Artist
 
 ## SeventyTwo
-Tons and tons of fullbody tracking support!
+Tons and tons of Full Body Tracking support!
 **Roles:** 3D Artist
 [Donate](paypal.me/theseventytwo)
 
