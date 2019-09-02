@@ -30,11 +30,11 @@ Developer of ModelSaber 2.0 (which launches soon™) and crafter of many sabers.
 ## 72
 Tons and tons of fullbody tracking support!
 **Roles:** 3D Artist
+[Donate](paypal.me/theseventytwo)
 
 
 ## Oshi
 **Roles:** 3D Artist
-[Donate](paypal.me/theseventytwo)
 
 ## angeloid0103
 Wrote the custom saber creation guide among other fantastic contributions.
