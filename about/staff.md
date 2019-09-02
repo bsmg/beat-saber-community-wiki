@@ -49,7 +49,7 @@ Project manager, wiki maintainer, bread baker. Despite what everyone says, I lik
 ScoreSaber Supreme Leader, creator of the custom leaderboards/ranked system and official developer for Beat Games. Always trying to do way too much work with not enough rest. Remember to pat your Umbranox once a day!
 **Roles:** Staff, Offical Dev
 **Contributions:** ScoreSaber
-[Linkkle](https://linkkle.com/umbranoxus)
+[Twitch](https://www.twitch.tv/umbranoxius) | [Twitter](https://twitter.com/Umbranoxus) | [Donate](https://www.patreon.com/scoresaber)
 
 ## OrangeW
 The first professional Beat Saber player, representing Team Gravity. Admin of the ScoreSaber global leaderboards.
