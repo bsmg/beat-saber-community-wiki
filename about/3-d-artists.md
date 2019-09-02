@@ -30,7 +30,7 @@ Developer of ModelSaber 2.0 (which launches soon™) and crafter of many sabers.
 ## SeventyTwo
 Tons and tons of Full Body Tracking support!
 **Roles:** 3D Artist
-[Donate](paypal.me/theseventytwo)
+[Donate](https://paypal.me/theseventytwo)
 
 
 ## Oshi
