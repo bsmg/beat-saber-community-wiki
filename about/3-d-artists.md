@@ -27,7 +27,7 @@ Developer of ModelSaber 2.0 (which launches soon™) and crafter of many sabers.
 ## Tachrayonic
 **Roles:** 3D Artist
 
-## 72
+## SeventyTwo
 Tons and tons of fullbody tracking support!
 **Roles:** 3D Artist
 [Donate](paypal.me/theseventytwo)
