@@ -18,11 +18,11 @@ The following are programs to be used on the desktop to help you download custom
 * [BeatDrop](https://bsaber.com/beatdrop/) allows you to download songs, create playlists, and also serves as a mod installer, by StarGazer1258.
 * [BeatList]((https://github.com/Alaanor/beatlist)) is a similar app to BeatDrop to manage playlists for beatsaber, by Alaanor. 
 
+## How do I install playlists?
+Place the playlist file into `Beat Saber/Playlists` and select it in-game, then hit download. You can create playlists using one of the programs above.
+
 ## How do I make my own custom levels?
 See [mapping](../mapping)!
-
-## How do I install playlists?
-Place the playlist file into `Beat Saber/Playlists` and select it in-game, then hit download. You can create playlists using BeatDrop.
 
 ## How do I load plugins that aren't in the Mod Installer?
 
