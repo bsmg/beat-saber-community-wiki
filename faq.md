@@ -5,17 +5,16 @@
 Check out our [beginner's guide](beginners-guide)!
 
 ## How do I get more songs?
-If you don't like using [beatsaver](https://www.beatsaver.com) to find songs, here are some other tools to help you out!
+> [Beatsaver](https://www.beatsaver.com) is the master repository of custom songs made by the community. Many other tools and sites enhance the experience of downloading custom songs, but this site is the source of truth.
 
-### Beast Saber
-[Beast Saber](https://www.bsaber.com) is a review site that aims to curate all of the songs on Beat Saver! You can also download playlists, follow mappers, find songs using advanced sorting methods and more. Created by elliotttate.
+### BeastSaber
+[Beast Saber](https://www.bsaber.com) is a review site that aims to curate all of the songs on BeatSaver. You can also download playlists, follow mappers, find songs using advanced sorting methods and more.
 
-### Beat Drop
-[Beat Drop](https://bsaber.com/beatdrop/) is a desktop application that allows you to download songs, and create playlists as well! Created by StarGazer1258.
-
-### BeatList
-An app to manage playlist for beatsaber. Made by Alaanor, [get it here](https://github.com/Alaanor/beatlist)!
-
+### Song Downloading Tools
+The following are programs to be used on the desktop to help you download custom songs, with some other features as well.
+* [Beat Saber Dowloader](https://drive.google.com/file/d/1QWedF77hWYbqcigIWa2UcpXlhqGTjwR1/view) a map downloader by Sturdyfool0.
+* [BeatDrop](https://bsaber.com/beatdrop/) allows you to download songs, create playlists, and also serves as a mod installer, by StarGazer1258.
+* [BeatList]((https://github.com/Alaanor/beatlist)) is a similar app to BeatDrop to manage playlists for beatsaber, by Alaanor. 
 
 ## How do I make my own custom levels?
 See [mapping](../mapping)!
