@@ -7,6 +7,8 @@ Check out our [beginner's guide](beginners-guide)!
 ## How do I get more songs?
 > [Beatsaver](https://www.beatsaver.com) is the master repository of custom songs made by the community. Many other tools and sites enhance the experience of downloading custom songs, but this site is the source of truth.
 
+If you download maps manually from BeatSaver, extract them into a folder and place the files in `Beat Saber/Beat Saber_Data/CustomLevels`. This is the directory that the game natively reads custom maps from.
+
 ### BeastSaber
 [Beast Saber](https://www.bsaber.com) is a review site that aims to curate all of the songs on BeatSaver. You can also download playlists, follow mappers, find songs using advanced sorting methods and more.
 
