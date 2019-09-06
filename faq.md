@@ -13,6 +13,10 @@ If you don't like using [beatsaver](https://www.beatsaver.com) to find songs, he
 ### Beat Drop
 [Beat Drop](https://bsaber.com/beatdrop/) is a desktop application that allows you to download songs, and create playlists as well! Created by StarGazer1258.
 
+### BeatList
+An app to manage playlist for beatsaber. Made by Alaanor, [get it here](https://github.com/Alaanor/beatlist)!
+
+
 ## How do I make my own custom levels?
 See [mapping](../mapping)!
 
