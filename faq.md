@@ -12,7 +12,7 @@ If you download maps manually from BeatSaver, extract them into a folder and pla
 ### BeastSaber
 [Beast Saber](https://www.bsaber.com) is a review site that aims to curate all of the songs on BeatSaver. You can also download playlists, follow mappers, find songs using advanced sorting methods and more.
 
-### Song Downloading Tools
+### Song Management Tools
 The following are programs to be used on the desktop to help you download custom songs, with some other features as well.
 * [Beat Saber Dowloader](https://drive.google.com/file/d/1QWedF77hWYbqcigIWa2UcpXlhqGTjwR1/view) a map downloader by Sturdyfool0.
 * [BeatDrop](https://bsaber.com/beatdrop/) allows you to download songs, create playlists, and also serves as a mod installer, by StarGazer1258.
