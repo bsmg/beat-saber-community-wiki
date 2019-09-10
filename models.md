@@ -22,6 +22,6 @@ https://modelsaber.com/
 ## Discord
 You can also find an uncurated list (with potentially more items) in the following channels on the Beat Saber Modding Group Discord server.
 
-[#finished-sabers](https://discordapp.com/channels/441805394323439646/446478074125746176/)
+[#pc-models](https://discordapp.com/channels/441805394323439646/616686905819398150/)
 [#finished-avatars](https://discordapp.com/channels/441805394323439646/450344263453245440/)
 [#finished-platforms](https://discordapp.com/channels/441805394323439646/452948292641488897/)
