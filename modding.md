@@ -32,6 +32,7 @@ We're working on getting the ModSaber archive organized, so hopefully we can hav
 
 # Other Links
 * [BeatMods](https://beatmods.com)
+* [BeatMods Approval Guidelines](https://docs.google.com/document/d/15RBVesZdS-U94AvesJ2DJqcnAtgh9E2PZOcbjrQle5Y/edit?usp=sharing)
 * [Unity Scripting API](https://docs.unity3d.com/ScriptReference/index.html)
 * [dnSpy](https://github.com/0xd4d/dnSpy)
 * [Harmony](https://github.com/pardeike/Harmony)
