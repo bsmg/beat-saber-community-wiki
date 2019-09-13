@@ -66,12 +66,9 @@ Harmony is a library for patching compiled .NET and Mono methods during runtime.
 This allows editing of core Beat Saber functions and allows plugins to achieve things way beyond what basic Illusion Plugin Architecture can achieve.
 Read more about it [here.](https://github.com/pardeike/Harmony)
 
-Download the [latest release of Harmony](https://github.com/pardeike/Harmony/releases)
-Extract `0Harmony.dll` to `/<Beat Saber Directory>\Beat Saber_Data\Managed`.
-Add Harmony as a reference ([Click here if you forget how to add a reference to your project](/modding/example-mod#references-and-text-mesh-pro)).
+Harmony is already included with BSIPA, so you just need to add it as a reference ([Click here if you forget how to add a reference to your project](/modding/example-mod#references-and-text-mesh-pro)). It is located in `Beat Saber/Libs`.
 
-> Plugins that utilize Harmony ***require*** the `0Harmony.dll` file inside of `/<Beat Saber Directory>\Beat Saber_Data\Managed`. Add a try-catch statement when you patch the game so the plugin doesn't crash when starting without Harmony.
-{.is-warning}
+Because of this, it is highly frowned upon to include Harmony as a dependency when finalizing your mod. In fact, [it is a revokable offense in the BeatMods Approval Guidelines](https://docs.google.com/document/d/15RBVesZdS-U94AvesJ2DJqcnAtgh9E2PZOcbjrQle5Y/edit?usp=sharing), see Guideline `3.1.b`.
 
 ## Basic Tutorial
 Coming soon™, I'm gonna try to not have this be Mod Tutorial long, but should let you get a basic idea of how to use Harmony.
