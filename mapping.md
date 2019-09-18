@@ -25,7 +25,8 @@ Maps that are ranked and worth PP need to adhere to the [ScoreSaber Ranking Crit
 # Publishing Songs
 When you're ready to release your map to the public, upload it to https://beatsaver.com.
 
-Please** do not** upload WIPs to BeatSaver! It's hard to tell which maps aren't finished in game, and anyone who plays your WIP without practice mode will create a new leaderboard for that map. Uploading to BeatSaver should be akin to putting it on store shelves - that is, it's your final product. To share for playtesting, we encourage you to use the #testplays channel in the discord and get feedback to improve your map!
+>Please** do not** upload WIPs to BeatSaver! It's hard to tell which maps aren't finished in game, and anyone who plays your WIP without practice mode will create a new leaderboard for that map.
+>Uploading to BeatSaver should be akin to putting it on store shelves - that is, it's your final product. To share for playtesting, we encourage you to use the #testplays channel in the discord and get feedback to improve your map!
 {.is-warning}
 
 # Community Editor
