@@ -31,9 +31,6 @@ Please** do not** upload WIPs to BeatSaver! It's hard to tell which maps aren't 
 # Community Editor
 Most custom maps are being made using the community built map editors.
 
-> Currently, the community editors use a different format than the official one. The formats will be unified in the future, but the community editors don't support the official format and thus community-made songs cannot be loaded using the native game song loader yet. To convert your map into a format that the game and BeatSaver will recognize, use [Songe Converter](https://github.com/lolPants/songe-converter).
-{.is-warning}
-
 ## Mediocre Mapper
 This is the editor used by the vast majority of the community. It is recommended to use either this or the official editor to make custom maps.
 https://github.com/squeaksies/MediocreMapper/releases/latest
