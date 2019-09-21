@@ -22,33 +22,36 @@
 ## Ranking Criteria
 Maps that are ranked and worth PP need to adhere to the [ScoreSaber Ranking Critera](https://docs.google.com/document/d/1mtVihRO1LomyptXayoDNDTQYgX_TQPp6ZYDmtwR2jMI/edit). To learn more about the ranking process, visit the [ScoreSaber Discord](https://discord.gg/WpuDMwU).
 
-# Official Editor 
+# Map Editing Resources
+There are both official and community-developed editors available and preference is highly personal and frequently shifting as new official and community-developed tools come and go.
+## Official Editor 
 The official editor is developed and supported by Beat Games and pre-installed with the Steam VR or Oculus PC versions of the game. It makes playtesting very convenient with one-click access to your work-in-progress in-game. The official editor is 2D and requires good visualization skills to translate well to a 3D play space, which can be challenging for new mappers. The vast majority of mappers use a [Community Editor](https://bsmg.wiki/mapping#community-editors).
 
 * **To access:** Launch the editor from within Beat Saber in your HMD or use fpfc launch parameters to open directly from your PC
 * Megalon's [Official Editor Tutorial Video](https://www.youtube.com/watch?v=5Ex6sOEVgrM)
-# Community Editors
+## Community Editors
 Community editors are often a source of innovation with a lot of beneficial quality of life features for mappers, and can be used by mappers without VR. However, they may also be incomplete, unstable, or unpredictable at times so use with caution.
 
-## BeatMapper.app
+### BeatMapper.app
 A new web-based 3D beat saber editor using the new 2.0 song format. Runs in the browser so it's platform agnostic. [BeatMapper Website](https://beatmapper.app/)
 
-## EditSaber Enhanced
+### EditSaber Enhanced
 An older 3D map editor using the old 1.0 song format (maps must be converted before being playable). [EditSaber Enhanced Download](https://github.com/permissionBRICK/EditSaberEnhanced/releases)
 
+## Additional Mapping Resources
+* A utility developed for other rhythm games that detects the BPM and offset of song files
+* [BeatMapperTools](https://monroeworld.com/beatmapper-tools/) by Darkuni
+A utility for users of Mediocre Mapper Mk4.0 and earlier to easily convert, test, and package their maps.
+* [BPM Saber](https://github.com/zevdg/bpm-saber), by Zevdg
+A utility for mappers who need to change the BPM of their entire map that will correctly shift block placements.
+* [BPM Saber](https://bsaber.com/bpmsaber/), by Elliotttate
+A utility for finding the BPM of a song
+* Fayhe's [osu! Editor Timing Tutorial](https://www.youtube.com/watch?v=nIX0koHzW8c&t)
 # Other Resources
 ## Lightmap
 A tool to automatically generate lighting events for a custom song by Freeek and Recrudesce!
 Get it here: https://github.com/recrudesce/lightmap/releases
 Explanation video and examples: https://www.youtube.com/watch?v=ImO9cFW5vyQ&t
-
-## THE OSU! EDITOR
-You can use the osu! editor to help you with timing when creating your map. Here is a video tutorial by Fayhe 
-https://www.youtube.com/watch?v=nIX0koHzW8c&t
-
-## BPM Saber
-Elliotttate's tool for finding the BPM of a song
-https://bsaber.com/bpmsaber/
 
 # Playtesting
 Testing your work is a critical part of mapping. Playing your own maps as you work helps you adjust for major playability issues and get a feel for your map. Third-party or “outside” playtesting is when someone other than yourself tests your pre-release map and provides constructive feedback.
