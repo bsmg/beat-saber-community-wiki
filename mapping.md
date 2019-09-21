@@ -39,7 +39,6 @@ A new web-based 3D beat saber editor using the new 2.0 song format. Runs in the 
 An older 3D map editor using the old 1.0 song format (maps must be converted before being playable). [EditSaber Enhanced Download](https://github.com/permissionBRICK/EditSaberEnhanced/releases)
 
 ## Additional Mapping Resources
-* A utility developed for other rhythm games that detects the BPM and offset of song files
 * [BeatMapperTools](https://monroeworld.com/beatmapper-tools/) by Darkuni
 A utility for users of Mediocre Mapper Mk4.0 and earlier to easily convert, test, and package their maps.
 * [BPM Saber](https://github.com/zevdg/bpm-saber), by Zevdg
