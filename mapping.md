@@ -26,7 +26,7 @@ Maps that are ranked and worth PP need to adhere to the [ScoreSaber Ranking Crit
 The official editor is developed and supported by Beat Games and pre-installed with the Steam VR or Oculus PC versions of the game. It makes playtesting very convenient with one-click access to your work-in-progress in-game. The official editor is 2D and requires good visualization skills to translate well to a 3D play space, which can be challenging for new mappers. The vast majority of mappers use a [Community Editor](https://bsmg.wiki/mapping#community-editors).
 
 * **To access:** Launch the editor from within Beat Saber in your HMD or use fpfc launch parameters to open directly from your PC
-* Megalon's [Official Editor Tutorial Video](https://www.youtube.com/watch?v=5Ex6sOEVgrM){.youtube}
+* Megalon's [Official Editor Tutorial Video](https://www.youtube.com/watch?v=5Ex6sOEVgrM)
 # Community Editors
 Community editors are often a source of innovation with a lot of beneficial quality of life features for mappers, and can be used by mappers without VR. However, they may also be incomplete, unstable, or unpredictable at times so use with caution.
 
