@@ -28,16 +28,12 @@ When you're ready to release your map to the public, upload it to https://beatsa
 >Please **do not** upload WIPs to BeatSaver! It's hard to tell which maps aren't finished in game, and anyone who plays your WIP without practice mode will create a new leaderboard for that map. Uploading to BeatSaver should be akin to putting it on store shelves - that is, it's your final product. To share for playtesting, we encourage you to use the #testplays channel in the discord and get feedback to improve your map!
 {.is-warning}
 
-# Community Editor
+# Official Editor 
+Here's a tutorial by Megalon for the official beat saber editor 
+[video](https://www.youtube.com/watch?v=5Ex6sOEVgrM){.youtube}
+
+# Community Editors
 Most custom maps are being made using the community built map editors.
-
-## Mediocre Mapper
-This is the editor used by the vast majority of the community. It is recommended to use either this or the official editor to make custom maps.
-https://github.com/squeaksies/MediocreMapper/releases/latest
-
-> The __vast majority__ of the community uses this editor, because it's by far the most feature rich and most recently updated. However, this is still first and foremost squeaksies' personal editor. 
-> It's filled to the brim with memes and inside jokes, and he doesn't give a flying heck what you think about it. You have been warned!
-{.is-warning}
 
 ## BeatMapper.app
 A new web-based beat saber editor. Runs in the browser so it's platform agnostic. Check it out at https://beatmapper.app/
