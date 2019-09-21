@@ -89,7 +89,7 @@ The #testplays channel in the Beat Saber Modding Group discord makes it easy to 
 # Publishing Songs
 One your song has been mapped, lighted, and playtested and it’s a finished product you’re ready to release it to the world on [BeatSaver](https://beatsaver.com).
 
->Please **do not** upload an incomplete WIP map to BeatSaver. Anyone who plays your WIP without practice mode will create a new leaderboard for that map. See the [Playtesting](http://www.bsmg.wiki/mapping#playtesting) section for instructions.
+>Please **do not** upload an incomplete WIP map to BeatSaver. Anyone who plays your WIP without practice mode will create a new leaderboard for that map. See the [Playtesting](https://bsmg.wiki/mapping#playtesting) section for instructions.
 {.is-danger}
 
 ## BeatSaver
