@@ -40,6 +40,7 @@ He's either talking about Steven or being way too patriotic in chat (BS Nordic A
 
 ## InfJager
 **Roles:** Moderator
+[Twitch](https://www.twitch.tv/infjager)
 
 ## Melopod ƸӜƷ
 Likes pies, tartes, and helping people fix their mods!
