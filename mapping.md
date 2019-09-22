@@ -88,7 +88,8 @@ The #testplays channel in the Beat Saber Modding Group discord makes it easy to 
 3. Testers will usually look at your map within 24-48 hours and will use a number of reaction emojis (listed in #testplays pinned posts) to track testing status.
 
 You can use the following code to copy and paste into Discord:
-```**Map:**
+```
+**Map:**
 **Length:**
 **BPM:**
 **Difficulty:**
