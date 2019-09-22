@@ -8,7 +8,8 @@ We had to whip this boy into a bit of shape but he's now one of the most effecti
 [Twitch](https://www.twitch.tv/beigeanimaltv) | [Paypal](https://paypal.me/beigeanimal)
 
 ## Bobbie
-Make sure he watches his glucose level
+Make sure he watches his glucose
+**Roles:** Moderator, 3D Artist
 [Important](https://i.imgur.com/w5Vx8hi.jpg)
 
 ## DeeJay
