@@ -31,5 +31,5 @@ Created by Megalon, recreated by lolPants, and personified by Rolo!
 >See Also
 **Modders:** [Kyle1413](#Kyle1413)
 **Staff:** [Assistant](#Assistant) | [Klouder](#Klouder) | [Megalon](#Megalon) | [Steven](#Steven) | [williums](#williums)
-**Moderators:** [Melopod ƸӜƷ](https://bsmg.wiki/about/moderators#Melopod ƸӜƷ)
+**Moderators:** Melopod ƸӜƷ | Razor | 𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯
 
