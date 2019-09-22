@@ -53,7 +53,7 @@ Get it here: https://github.com/recrudesce/lightmap/releases
 Explanation video and examples: https://www.youtube.com/watch?v=ImO9cFW5vyQ&t
 
 # Playtesting
-Testing your work is a critical part of mapping. Playing your own maps as you work helps you adjust for major playability issues and get a feel for your map. Third-party or “outside” playtesting is when someone other than yourself tests your pre-release map and provides constructive feedback.
+Testing your work is a critical part of mapping. Playing your own maps as you work helps you adjust for major playability issues and get a feel for your map. Third-party or “outside” playtesting is when someone other than yourself tests your pre-release map and provides constructive feedback and is helpful in highlighting issues to which you may be "map blind."
 >You **do not** need to upload your map to Beat Saver in order for you or anyone else to test.
 {.is-warning}
 
