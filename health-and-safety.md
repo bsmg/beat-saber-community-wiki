@@ -30,6 +30,6 @@ Keep your playspace clear of obstructions, allow adequate room around during gam
 {.is-warning}
 
 # A Short Message from TammyMatty
-To reduce the risk of physical injury, always remember to stretch before and after playing Beat Saber.  Consider the following:
+To reduce the risk of physical injury, always remember to stretch before and after playing Beat Saber. Please consider the following:
 
 ![Wammy](/uploads/images/wammy.gif "Wammy")
