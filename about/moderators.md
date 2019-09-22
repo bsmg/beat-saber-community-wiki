@@ -7,10 +7,12 @@ We had to whip this boy into a bit of shape but he's now one of the most effecti
 **Roles:** Moderator, 3D Artist
 [Twitch](https://www.twitch.tv/beigeanimaltv) | [Paypal](https://paypal.me/beigeanimal)
 
-## Bobbie
+## bobbie
+Remind him to watch his glucose.
+**Roles:** Modder, 3D Artist, Moderator
+**Contributions:** Custom Notes, ModelSaber Admin
 Make sure he watches his glucose
-**Roles:** Moderator, 3D Artist
-[Important](https://i.imgur.com/w5Vx8hi.jpg)
+[Important](https://i.imgur.com/w5Vx8hi.jpg) | [Github](https://github.com/legoandmars/) 
 
 ## DeeJay
 Pepega
