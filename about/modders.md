@@ -21,11 +21,6 @@ A massive contributor to the development of quest mods.
 A massive contributor to the development of quest mods.
 **Roles:** Modder
 
-## bobbie
-Remind him to watch his glucose.
-**Roles:** Modder, 3D Artist
-**Contributions:** Custom Notes, ModelSaber Admin
-[Github](https://github.com/legoandmars/) 
 
 ## andruzzzhka
 A huge contributor for the in-game downloader mod, and developer of the unofficial multiplayer plugin.
@@ -41,7 +36,7 @@ Creator of the Song Request Manager, which makes twitch requests possible. Check
 
 ## Caeden117
 How many statistics could we fit into a single counters mod? A lot apparently. He's also responsible for the modding tutorials on this wiki and Chromapper, a soon to be released mapping software with Chroma RGB light support.
-**Roles:** Modder
+**Roles:** Modder, Moderator
 **Contributions:** CountersPlus, wiki modding tutorials
 [GitHub](https://github.com/caeden117) | [Donate](https://ko-fi.com/Caeden117)
 
@@ -67,7 +62,7 @@ Creator of a variety of mods, as well as the super spiffy HitOverlay that some s
 One hell of a developer and a lover of socks. lolPants laid the groundwork for many of the policies and procedures during his time as Staff, and continues to help out when his services are needed.
 **Roles:** Modder, Staff (Retired)
 **Contributions** CMB, ModSaber, Moderation, BeatSaver Reloaded
-[GitHub](https://github.com/lolPants) | [Twitch](https://twitch.tv/lolpants_) | [Donate](https://monzo.me/jackbaron)
+[GitHub](https://github.com/lolPants) | [Twitch](https://twitch.tv/lolpants_) | [Donate](https://www.paypal.me/jackmbaron)
 
 ## monkeymanboy
 monkey
