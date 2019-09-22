@@ -12,7 +12,7 @@ Remind him to watch his glucose.
 **Roles:** Modder, 3D Artist, Moderator
 **Contributions:** Custom Notes, ModelSaber Admin
 Make sure he watches his glucose
-[Important](https://i.imgur.com/w5Vx8hi.jpg) | [Github](https://github.com/legoandmars/) 
+[Important](https://i.imgur.com/REWmoI9.jpg) | [Github](https://github.com/legoandmars/) | [Twitter](https://twitter.com/vrbobbie) | [Youtube](https://www.youtube.com/channel/UCdpHoaYSHm2GwgvapMsXgsQ)
 
 ## DeeJay
 Pepega
