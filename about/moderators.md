@@ -52,3 +52,15 @@ Literally no clue what he's doing when it comes to coding, at all, but he can fi
 Poi!
 **Roles:** 3D Artist, Support, Moderator
 [Twitch](https://www.twitch.tv/br3uker)
+
+## lolPants
+One hell of a developer and a lover of socks. lolPants laid the groundwork for many of the policies and procedures during his time as Staff, and continues to help out when his services are needed.
+**Roles:** Modder, Staff (Retired), Moderator
+**Contributions** CMB, ModSaber, Moderation, BeatSaver Reloaded
+[GitHub](https://github.com/lolPants) | [Twitch](https://twitch.tv/lolpants_) | [Donate](https://www.paypal.me/jackmbaron)
+
+## Caeden117
+How many statistics could we fit into a single counters mod? A lot apparently. He's also responsible for the modding tutorials on this wiki and Chromapper, a soon to be released mapping software with Chroma RGB light support.
+**Roles:** Modder, Moderator
+**Contributions:** CountersPlus, wiki modding tutorials
+[GitHub](https://github.com/caeden117) | [Donate](https://ko-fi.com/Caeden117)
