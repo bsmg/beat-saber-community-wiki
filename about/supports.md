@@ -8,21 +8,6 @@ He'll teach you to fix your plugins and your terribly off-beat first map. We've 
 **Roles:** Support, Mapper
 [Twitch](https://www.twitch.tv/kolezan) | [Donate](https://paypal.me/kolezan)
 
-## Melopod ƸӜƷ
-Likes pies, tartes, and helping people fix their mods!
-**Roles:** Support
-[Twitch](https://www.twitch.tv/mamamelo) | [Donate](https://streamlabs.com/mamamelo)
-
-## Razor
-Literally no clue what he's doing when it comes to coding, at all, but he can fix ploogin.
-**Roles:** Support
-[Twitch](https://www.twitch.tv/sarpest_razor) | [Donate](https://streamelements.com/sarpest_razor/tip)
-
-## 𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯
-Poi!
-**Roles:** 3D Artist, Support
-[Twitch](https://www.twitch.tv/br3uker)
-
 ## Pespiri
 He'll give me his bio later today
 **Roles:** Support, Modder
