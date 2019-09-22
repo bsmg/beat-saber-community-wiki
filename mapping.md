@@ -86,6 +86,15 @@ The #testplays channel in the Beat Saber Modding Group discord makes it easy to 
 **Feedback:** Any requests for feedback (specific difficulties to be tested, things to look for etc.)
 **Status:** What state is the map in? (i.e., First draft complete, no lights; 1:45 mapped; release candidate w/ lighting; etc.)
 3. Testers will usually look at your map within 24-48 hours and will use a number of reaction emojis (listed in #testplays pinned posts) to track testing status.
+
+You can use the following code to copy and paste into Discord:
+```**Map:**
+**Length:**
+**BPM:**
+**Difficulty:**
+**Feedback:**
+**Status:**
+```
 # Publishing Songs
 One your song has been mapped, lighted, and playtested and it’s a finished product you’re ready to release it to the world on [BeatSaver](https://beatsaver.com).
 
