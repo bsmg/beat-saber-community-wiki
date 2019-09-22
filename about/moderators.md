@@ -38,6 +38,9 @@ He's either talking about Steven or being way too patriotic in chat (BS Nordic A
 **Roles:** Moderator
 [Twitch](https://twitch.tv/bs_samuel ) | [Maps](https://beatsaver.com/uploader/5cff0b7498cc5a672c850326)
 
+## InfJager
+**Roles:** Moderator
+
 ## Melopod ƸӜƷ
 Likes pies, tartes, and helping people fix their mods!
 **Roles:** Support, Moderator
