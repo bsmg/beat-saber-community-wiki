@@ -124,15 +124,17 @@ https://goo.gl/forms/KM71UKjQpbCesWNg2
 You will be contacted when your application is looked at, but due to the limited staff and higher priority tasks to get to, the wait could be long.
 
 # Frequently Asked Questions
+>The Mapping FAQ is getting a big upgrade this week and will be moving to a child page within mapping. Thanks for your patience while we improve this space!
+{.is-info}
 ## Do I need Beat Saber installed to use the editors?
-Offical editor, yes. Community editors, no. MediocreMapper will ask for the Beat Saber directory, but it can be any folder.
+Offical editor, yes. Community editors, no. The method for setting up your editor to use an alternate folder varies by which editor you choose.
 
 ## What if I want to make my own editor / converter?
 Take a look at the SongCore documentation on [Kyle 1413's GitHub](https://github.com/Kylemc1413/SongCore)
 
 ## Where are custom maps saved?
 Custom maps are read from the `Beat Saber/Beat Saber_Data/CustomLevels` folder in your Beat Saber install folder. If your song isn't complete, place it in `CustomWIPLevels` to prevent custom leaderboards from being made for it.
-**Where is Beat Saber installed?** See [install folder.](faq/install-folder)
+**Where is Beat Saber installed?** See [install folder](faq/install-folder)
 
 ## "Your audio file name is wrong" message in the editor
 The 3D Editor only supports `.ogg` files. You have to convert your file to Ogg Vorbis using a converter, such as [Audacity](https://www.audacityteam.org/).
