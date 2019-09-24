@@ -39,6 +39,7 @@ He's either talking about Steven or being way too patriotic in chat (BS Nordic A
 [Twitch](https://twitch.tv/bs_samuel ) | [Maps](https://beatsaver.com/uploader/5cff0b7498cc5a672c850326)
 
 ## InfJager
+Can't hit jumps
 **Roles:** Moderator
 [Twitch](https://www.twitch.tv/infjager)
 
