@@ -32,6 +32,9 @@ The official editor is developed and supported by Beat Games and pre-installed w
 ## Community Editors
 Community editors are often a source of innovation with a lot of beneficial quality of life features for mappers, and can be used by mappers without VR. However, they may also be incomplete, unstable, or unpredictable at times so use with caution.
 
+### Mediocre Mapper
+The editor most used by the community, most feature rich editor, now stripped from memes and all the fun stuff. RIP Bongo cat. [Mediocre Mapper Download](https://github.com/squeaksies/MediocreMapper/releases)
+
 ### BeatMapper.app
 A new web-based 3D beat saber editor using the new 2.0 song format. Runs in the browser so it's platform agnostic. [BeatMapper Website](https://beatmapper.app/)
 
