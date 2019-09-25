@@ -1,5 +1,7 @@
 <!-- TITLE: Mapping FAQ -->
 <!-- SUBTITLE: Frequently asked questions about all things mapping, grouped by topic -->
+**Many thanks to contributors from across the mapping community who have made this expanded wiki possible!**
+* [Mapping Term Glossary](/mapping/glossary)
 
 >The Mapping FAQ is getting a big upgrade soon and has moved to a child page within mapping. Thanks for your patience while we improve this space!
 {.is-info}
