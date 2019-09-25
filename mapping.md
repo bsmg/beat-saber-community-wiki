@@ -6,6 +6,7 @@
 
 **Many thanks to contributors from across the mapping community who have made this expanded wiki possible!**
 * [Frequently Asked Questions](/mapping/faq)
+* [Mapping Term Glossary](/mapping/glossary)
 # Tutorials and References
 ## Video Guides
 * [BennyDaBeast's Mapping Tutorials](https://bsaber.com/benny-custom-mapping/) **highly recommended**
