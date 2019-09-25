@@ -5,7 +5,7 @@
 {.is-info}
 
 **Many thanks to contributors from across the mapping community who have made this expanded wiki possible!**
-* [Frequently Asked Questions](/faq)
+* [Frequently Asked Questions](/mapping/faq)
 # Tutorials and References
 ## Video Guides
 * [BennyDaBeast's Mapping Tutorials](https://bsaber.com/benny-custom-mapping/) **highly recommended**
