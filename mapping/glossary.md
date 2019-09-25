@@ -18,7 +18,7 @@ Beats per Minute: Defines the tempo (speed) of a song. The number of beats that 
 BeatSaver: The repository for all custom songs in Beat Saber. Songs uploaded here feed automatically to Beast Saber.
 Block: A cube with either an arrow or dot on it. The primary element of gameplay. By default, blocks are red or blue. Also known as Note
 BPM: Acronym for Beats per Minute.
-Bomb: A block that looks like a mine and that damages the player if their saber touches it. It is safe for a bomb to pass through the player’s body.
+Bomb: A block that looks like a spiky circle and that damages the player if their saber touches it. It is safe for a bomb to pass through the player’s body. Also known as *Mine*
 Bomb Reset: A pattern of bombs placed to forcibly reset the player’s arms. See also reset
 Bomb Spiral/Helix: A pattern of bombs placed in a spiral or helical pattern, intended to force the player to move their arms in a large circle.
 # C
@@ -86,6 +86,7 @@ Loloppe Notes: Two same direction blocks placed side-by-side such that hitting b
 # M
 Mapping Extensions: A mod developed by Kyle1314 that allows mappers access to a number of unique utilities for advanced mapping. See also Precision Placement, Precision Rotation, JSON Walls
 Mediocre Mapper: The most popular community mapper. Developed by squeaksies as a fork of the original EditSaber editor by Ikiewa. Full of memes, cats, and lots of quality of life features.
+**Mine:** A *block* that looks like a spiky circle and that damages the player if their saber touches it. It is safe for a mine to pass through the player’s body. Also known as *Bomb*
 Mismap: A mistake, incorrect, or faulty choice in a map.
 Modding: A derivative of “Moderation.” The act of thoroughly reviewing and providing feedback on a map to check for adherence to ranking criteria or for general improvement. Originates from Osu! A map should be modded prior to submitting a rank request. Unrelated to game mods that alter the UI or gameplay of Beat Saber.
 Multiple BPM: A song with one or more BPM changes as intended by the song’s composer. Also known as Variable BPM
