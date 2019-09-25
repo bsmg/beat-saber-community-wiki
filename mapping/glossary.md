@@ -96,7 +96,7 @@ Note: A cube with either an arrow or dot on it. The primary element of gameplay.
 Note Jump Speed: The speed that objects approach the player in-game. Labeled in info.dat as "noteJumpMovementSpeed”. Abbreviated NJS
 Notes Per Second: A measure of map density. The number of notes that pass the player within one second. A very rough approximate measure of difficulty. Abbreviated NPS
 # O
-Obstacle: A generic term for both walls (all types) and bombs. See also: Wall, Fake Wall, Bomb
+Obstacle: A generic term for both walls (all types) and bombs. See also: Wall, Fake Wall
 Offset: A value in milliseconds (ms) used in the editor to perfectly align the track beat markers with the beat of the music. Song files set up correctly with the BPM aligned in an audio editor do not usually need an offset value.
 .ogg File: The Vorbis OGG song format
 Osu!: Another popular rhythm game with a large library of custom maps. Converters exist to translate timings from Osu! maps into Beat Saber maps.
