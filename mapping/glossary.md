@@ -18,7 +18,7 @@ Beats per Minute: Defines the tempo (speed) of a song. The number of beats that 
 BeatSaver: The repository for all custom songs in Beat Saber. Songs uploaded here feed automatically to Beast Saber.
 Block: A cube with either an arrow or dot on it. The primary element of gameplay. By default, blocks are red or blue. Also known as Note
 BPM: Acronym for Beats per Minute.
-Bomb: A block that looks like a mine and that damages the player if their saber touches it. It is safe for a bomb to pass through the player’s body. Also known as Obstacle
+Bomb: A block that looks like a mine and that damages the player if their saber touches it. It is safe for a bomb to pass through the player’s body.
 Bomb Reset: A pattern of bombs placed to forcibly reset the player’s arms. See also reset
 Bomb Spiral/Helix: A pattern of bombs placed in a spiral or helical pattern, intended to force the player to move their arms in a large circle.
 # C
