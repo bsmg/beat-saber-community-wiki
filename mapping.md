@@ -28,8 +28,8 @@ There are both official and community-developed editors available and preference
 Community editors are often a source of innovation with a lot of beneficial quality of life features for mappers, and can be used by mappers without VR. However, they may also be incomplete, unstable, or unpredictable at times so use with caution.
 
 ### Mediocre Mapper
-The editor most used by the community, most feature rich editor using the new 2.0 song format, now stripped from memes and all the fun stuff. RIP Bongo cat. *No longer supported* [Mediocre Mapper Download](https://github.com/squeaksies/MediocreMapper/releases)
-> There is a full "User Guide" page coming on Mediocre Mapper Mk5, but until that's available here is Joetastic's [Mk5 Song Setup Tutorial](https://streamable.com/01we6) video to get you started.
+The most feature rich 3D editor used by the majority of the mapping community, now stripped from memes and all the fun stuff. RIP Bongo cat. Uses the new 2.0 song format. *No longer supported by the developer, direct questions to #mapping-discussion* [Mediocre Mapper Download](https://github.com/squeaksies/MediocreMapper/releases)
+> There is a full "User Guide" page coming very soon on Mediocre Mapper Mk5, but until that's available here is Joetastic's [Mk5 Song Setup Tutorial](https://streamable.com/01we6) video to get you started.
 {.is-info}
 ### BeatMapper.app
 A new web-based 3D beat saber editor using the new 2.0 song format. Runs in the browser so it's platform agnostic. [BeatMapper Website](https://beatmapper.app/)
