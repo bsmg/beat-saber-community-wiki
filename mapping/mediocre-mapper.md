@@ -8,7 +8,7 @@
 1. Download MediocreMapper.zip from [GitHub](https://github.com/squeaksies/MediocreMapper/releases/latest) 
 > Do not download Mediocre Mapper Server (mediocremapperserver.zip). This is a separate tool for mapping collaboration that is not covered on this page.
 {.is-warning}
-2. Unzip the file and place the .exe file wherever you like on your hard drive.
+2. Unzip the file and place the extracted folder wherever you like on your hard drive.
 3. Double click `mediocremapper.exe` to run.
 ## First Time Setup
 The first time you run MM you will need to direct it to the location of two folders: `CustomLevels` and `CustomWIPLevels`. You have several options available to you:
