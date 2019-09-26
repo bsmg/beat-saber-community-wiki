@@ -1,7 +1,7 @@
 <!-- TITLE: Mediocre Mapper User Guide -->
 <!-- SUBTITLE: Essential information to get up and running using Mediocre Mapper Mk5 -->
 
-> Mediocre Mapper (MM) is no longer in development or supported by its creator. Mk5 (released on 9/24/19) is the final public release and is now open source.
+> Mediocre Mapper (MM) is no longer in development or supported by its creator. Mk5 (released on 9/24/19) is the final public release.
 {.is-warning}
 # Editor Setup
 ## Installation
@@ -44,7 +44,7 @@ Below the map selection pane you can create a new empty song folder in `CustomWI
 The settings pane includes global settings for autosaving, zip packaging, folder paths, and more.
 * **Autosave Settings:** Autosave is enabled by default at an interval of 300 seconds (5 minutes). This is generally fine for most users unless you are doing a light-heavy map. Autosave while playing the song in the editor is also enabled by default.
 * **Mapping & Lighting Settings:** 
-   - No lighting is off by default, meaning that the lighting track will be visible to the right of the mapping track. Check to hide the lighting track.
+   - No lighting is off by default, meaning that any lighting events placed on the lighting track will play. Check to prevent lights from playing while mapping.
    - You have the option to provide MM with an alternate folder to save your packaged songs. By default the packaged song will be found in the same folder where the uncompressed map lives.
 * **Beta Settings:** If you have the Mapping Extensions mod installed you will have additional checkboxes enabled for "extended" mapping features like precision placement, precision rotation, and six-lane. New mappers are encouraged to skip this until they're more comfortable with the basics.
 * **Legacy Settings:** If you have the ChromaToggle mod installed you can check this box to enable the game modes but it has been unsupported for some time.
