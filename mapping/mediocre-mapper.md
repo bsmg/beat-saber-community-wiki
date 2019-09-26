@@ -28,7 +28,7 @@ All of your working map files will go into a song name folder within this Custom
 These core settings are all available from the MM home page when you first open the program. 
 ### Map Selection
 The map selection pane has four tabs, each with songs listed alphabetically.
-* **WIP Songs:** This tab contains all of the map folders saved in your `CustomIPLevels` folder. New maps are created here and are accessible in-game under "Custom WIP Levels."
+* **WIP Songs:** This tab contains all of the map folders saved in your `CustomWIPLevels` folder. New maps are created here and are accessible in-game under "Custom WIP Levels."
 * **Custom Songs:** This tab contains all the downloaded custom songs saved in your `CustomLevels` folder. Maps are accessible in-game under "Custom Levels."
 * **Multi-Mapper:** This tab contains any maps being collboratively worked on via the *Mediocre Mapper Server.*
 * **Temp Loader:** This tab allows you to temporarily "quick preview" zip files online (i.e., from #testplays, BeatSaver, or BeastSaber) without downloading and extracting them.
