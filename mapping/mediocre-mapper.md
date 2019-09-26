@@ -43,12 +43,11 @@ Below the map selection pane you can create a new empty song folder in `CustomWI
 The settings pane includes global settings for autosaving, zip packaging, folder paths, and more.
 * **Autosave Settings:** Autosave is enabled by default at an interval of 300 seconds (5 minutes). This is generally fine for most users unless you are doing a light-heavy map. Autosave while playing the song in the editor is also enabled by default.
 * **Mapping & Lighting Settings:** 
-* - No lighting is off by default, meaning that the lighting track will be visible to the right of the mapping track. Check to hide the lighting track.
-* - You have the option to provide MM with an alternate folder to save your packaged songs. By default the packaged song will be found in the same folder where the uncompressed map lives.
+   - No lighting is off by default, meaning that the lighting track will be visible to the right of the mapping track. Check to hide the lighting track.
+   - You have the option to provide MM with an alternate folder to save your packaged songs. By default the packaged song will be found in the same folder where the uncompressed map lives.
 * **Beta Settings:** If you have the Mapping Extensions mod installed you will have additional checkboxes enabled for "extended" mapping features like precision placement, precision rotation, and six-lane. New mappers are encouraged to skip this until they're more comfortable with the basics.
 * **Legacy Settings:** If you have the ChromaToggle mod installed you can check this box to enable the game modes but it has been unsupported for some time.
-* **Other Settings:** Click the <kbd>Clear Settings</kbd> button to revert to default settings. You may also enter new paths for either of your song folders. If for some reason nothing works you can click the <kbd>Everything Inexplicably Broken?<kbd> button to delete your MM config file.
- 
+* **Other Settings:** Click the <kbd>Clear Settings</kbd> button to revert to default settings. You may also enter new paths for either of your song folders. If for some reason nothing works you can click the <kbd>Everything Inexplicably Broken?</kbd> button to delete your MM config file.
 # Song Setup
 # Basic Controls
 > This is a stub section in progress. DM helencarnate#2079 if you'd like to contribute.
