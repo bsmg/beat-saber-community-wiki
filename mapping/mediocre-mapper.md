@@ -52,6 +52,12 @@ The settings pane includes global settings for autosaving, zip packaging, folder
 # Song Setup
 > This is a stub section in progress. DM helencarnate#2079 if you'd like to contribute.
 {.is-info}
+
+## Song Creation
+
+## Song Info Settings
+
+## Mapping Settings
 # Basic Controls
 > This is a stub section in progress. DM helencarnate#2079 if you'd like to contribute.
 {.is-info}
