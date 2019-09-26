@@ -56,6 +56,8 @@ The settings pane includes global settings for autosaving, zip packaging, folder
 ## Song Creation
 
 ## Song Info Settings
+### Whole Map Settings
+### Difficulty Settings
 
 ## Mapping Settings
 # Basic Controls
