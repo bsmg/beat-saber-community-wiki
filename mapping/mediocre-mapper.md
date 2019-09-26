@@ -24,6 +24,7 @@ The first time you run MM you will need to direct it to the location of two fold
 All of your working map files will go into a song name folder within this CustomWIPLevels folder.
 
 ## Editor Settings
+These core settings are all available from the MM home page when you first open the program. 
 ### Map Selection
 The map selection pane has four tabs, each with songs listed alphabetically.
 * **WIP Songs:** This tab contains all of the map folders saved in your `CustomIPLevels` folder. New maps are created here and are accessible in-game under "Custom WIP Levels."
@@ -38,7 +39,16 @@ There are several functions available to you on this screen:
 * The <kbd>Star</kbd> button next to a map favorites it, bumping it to the top of the list.
 ### Map Creation
 Below the map selection pane you can create a new empty song folder in `CustomWIPLevels` by entering the desired name of your folder (typically Song Name or Artist - Song Name) then clicking <kbd>Create Level</kbd>.
-
+### Settings
+The settings pane includes global settings for autosaving, zip packaging, folder paths, and more.
+* **Autosave Settings:** Autosave is enabled by default at an interval of 300 seconds (5 minutes). This is generally fine for most users unless you are doing a light-heavy map. Autosave while playing the song in the editor is also enabled by default.
+* **Mapping & Lighting Settings:** 
+* - No lighting is off by default, meaning that the lighting track will be visible to the right of the mapping track. Check to hide the lighting track.
+* - You have the option to provide MM with an alternate folder to save your packaged songs. By default the packaged song will be found in the same folder where the uncompressed map lives.
+* **Beta Settings:** If you have the Mapping Extensions mod installed you will have additional checkboxes enabled for "extended" mapping features like precision placement, precision rotation, and six-lane. New mappers are encouraged to skip this until they're more comfortable with the basics.
+* **Legacy Settings:** If you have the ChromaToggle mod installed you can check this box to enable the game modes but it has been unsupported for some time.
+* **Other Settings:** Click the <kbd>Clear Settings</kbd> button to revert to default settings. You may also enter new paths for either of your song folders. If for some reason nothing works you can click the <kbd>Everything Inexplicably Broken?<kbd> button to delete your MM config file.
+ 
 # Song Setup
 # Basic Controls
 > This is a stub section in progress. DM helencarnate#2079 if you'd like to contribute.
