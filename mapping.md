@@ -83,7 +83,7 @@ Testing your work is a critical part of mapping. Playing your own maps as you wo
 Follow these steps to test any of your maps made with a community editor using PC-based VR.
 
 1. If your WIP song folder isn’t already in Beat Saber_Data\CustomWIPLevels then place a copy there.
-2. Access your map in-game via the CustomWIPLevels category in the bottom song pack menu.
+2. Access your map in-game via the CustomWIPLevels category in the bottom song pack menu. Use practice mode to play (the small button next to the yellow play button).
 
 ## Testing on a Quest
 Follow these steps to test any of your maps made with a community editor using an Oculus Quest. You must have [SideQuest](https://sidequestvr.com) and [BeatOn](https://bsaber.com/beaton/) installed.
@@ -91,7 +91,7 @@ Follow these steps to test any of your maps made with a community editor using a
 1. Create a compressed .zip file of the individual song files (not the song folder).
 2. Drag and drop the .zip file onto the BeatOn upload window.
 3. Click “Sync to Beat Saber.”
-4. Access your map in-game via the CustomWIPLevels category in the bottom song pack menu.
+4. Access your map in-game via the CustomWIPLevels category in the bottom song pack menu. Use practice mode to play (the small button next to the yellow play button).
 
 ## Outside Testing
 The #testplays channel in the Beat Saber Modding Group discord makes it easy to have your work checked by knowledgeable mappers. Playtesters will provide constructive feedback on how to improve your map in either video or text format in the #mapping-discussion channel.
