@@ -53,9 +53,11 @@ The settings pane includes global settings for autosaving, zip packaging, folder
 Once you've finished one-time editor setup you're ready to create your first map.
 ## Song Creation
 There are four files (minimum) you need to create a map:
+
 **Mapper-Provided**
 * Your song file in .ogg format (review setup instructions).
 * Your cover file in .jpg or .png. 
+
 **Editor-Created**
 * Info.dat file which contains all of the core data for your map as a whole. Created the first time you open the map.
 * [difficulty].dat file which contains all of the data specific to each difficulty.
