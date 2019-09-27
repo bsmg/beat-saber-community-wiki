@@ -44,8 +44,7 @@ Community editors are often a source of innovation with a lot of beneficial qual
 
 ### Mediocre Mapper
 The most feature rich 3D editor used by the majority of the mapping community, now stripped of memes and all the fun stuff. RIP Bongo cat. Uses the new 2.0 song format. *No longer supported by the developer, direct questions to #mapping-discussion* [Mediocre Mapper Download](https://github.com/squeaksies/MediocreMapper/releases/latest)
-> There is a full "User Guide" page coming very soon on Mediocre Mapper Mk5, but until that's available here is Joetastic's [Mk5 Song Setup Tutorial](https://streamable.com/01we6) video to get you started.
-{.is-info}
+* Check out the (almost finished) [Mediocre Mapper Mk5 User Guide](/mapping/mediocre-mapper) for info on installation, initial setup, song setup, basic controls, error checking, and more.
 ### BeatMapper.app
 A new web-based 3D beat saber editor using the new 2.0 song format. Runs in the browser so it's platform agnostic. [BeatMapper Website](https://beatmapper.app/)
 ### EditSaber Enhanced
