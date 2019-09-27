@@ -82,12 +82,30 @@ On the left side of the `Song Info` page is information that applies to your who
 * **Cover Image Name:** The name of the image file you have placed in `CustomWIPLevels > [Song Folder]`. Must be perfectly square and at least 256 px but no more than 512 px
 * **Environment Name:** A dropdown menu of the default environments or platforms available. See [Basic Lighting Practices](#) for an overview of these environments
 * **Custom Platform:** The copy/pasted name of a custom platform from [ModelSaber](https://modelsaber.com/Platforms/). This feature is glitchy and it's recommended that you JSON edit any custom platform information
-* **Contributors Tab:** This side tab is an optional spot to give credit to mappers, lighters, playtesters or other contributors to your map. Enter the contributor role, their name, and the file name of a square "profile image" which you place in your song folder
 
 The <kbd>Open Sond Folder</kbd> button will open your song folder in Windows Explorer. This will help you confirm that you have your files in the right spot.
 The <kbd>Package Song to Zip</kbd> button will remove your autosaves folder and zip the files for BeatSaver.
 The <kbd>Save Song Info</kbd> button commits all of your metadata to the info.dat file
 ### Difficulty Settings
+On the right side of the `Song Info` page is the area where you create individual difficulties and edit data that only applies to a single diffculty level. To create your first difficulty:
+
+1. Click the <kbd>Add Difficulty</kbd> button. The default difficulty is easy
+2. In the `Difficulty` dropdown select which difficulty you want to make (easy, normal, hard, expert, or expertplus)
+3. In the `Characteristic` dropdown you can select Standard, No Arrows, or Single Saber.
+4. The <kbd>Difficulty Label</kbd> is optional and allows you to give your difficulties custom names in-game, *This feature may not reliably work on all VR models*
+5. The <kbd>Start Offset (ms)</kbd> field is where you entered an offset value, in milliseconds, if needed based on the way you [setup your audio file](#)
+6. The <kbd>Note Jump Speed</kbd> field is where you change the speed at which the notes move down the track. Click into the field for a pop-up of helpful information. See [Basic Mapping Practices](#) for guidance on setting an appropriate NJS for your difficulty.
+7. The <kbd>Spawn Distance Modifier</kbd> field allows you to adjust how far down the track your blocks appear. Changing this value will adjust the "jump distance" guidance pop-up
+
+> You **must** click <kbd>Apply Modifications</kbd> if you make a change to difficulty settings, otherwise it will not be saved. In Mk5 this appers to automatically happen when you enter a song file for editing.
+{.is-warning}
+
+Click <kbd>Edit Level</kbd> when you're ready to start mapping!
+
+### Other Settings
+* **Contributors Tab:** This left side tab is an optional spot to give credit to mappers, lighters, playtesters or other contributors to your map. Enter the contributor role, their name, and the file name of a square "profile image" which you place in your song folder
+* **Extra Fields:** This right side tab allows you to include in-game viewable warnings (i.e, Seizure Alert), information, suggestions (i.e. Use Chroma), and requirements (i.e., Mapping Extensions)
+* **Autosaves:** This right side tab allows you to easily restore an autosaved version of your map if you've crashed or need to revert work
 
 ## Mapping Settings
 # Basic Controls
