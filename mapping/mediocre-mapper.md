@@ -97,7 +97,7 @@ On the right side of the `Song Info` page is the area where you create individua
 6. The **Note Jump Speed** field is where you change the speed at which the notes move down the track. Click into the field for a pop-up of helpful information. See [Basic Mapping Practices](#) for guidance on setting an appropriate NJS for your difficulty.
 7. The **Spawn Distance Modifier** field allows you to adjust how far down the track your blocks appear. Changing this value will adjust the "jump distance" guidance pop-up
 
-> You **must** click <kbd>Apply Modifications</kbd> if you make a change to difficulty settings, otherwise it will not be saved. In Mk5 this appers to automatically happen when you enter a song file for editing.
+> You **must** click <kbd>Apply Modifications</kbd> if you make a change to difficulty settings, otherwise it will not be saved. In Mk5 this appears to automatically happen when you enter a song file for editing.
 {.is-warning}
 
 Click <kbd>Edit Level</kbd> when you're ready to start mapping!
