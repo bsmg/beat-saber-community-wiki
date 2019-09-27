@@ -52,11 +52,41 @@ The settings pane includes global settings for autosaving, zip packaging, folder
 # Song Setup
 > This is a stub section in progress. DM helencarnate#2079 if you'd like to contribute.
 {.is-info}
-
+Once you've finished one-time editor setup you're ready to create your first map.
 ## Song Creation
+There are four files (minimum) you need to create a map:
+**Mapper-Provided**
+* Your song file in .ogg format (review setup instructions).
+* Your cover file in .jpg or .png. 
+**Editor-Created**
+* Info.dat file which contains all of the core data for your map as a whole. Created the first time you open the map.
+* [difficulty].dat file which contains all of the data specific to each difficulty.
 
+You have two options to create your song folder:
+1. Enter your desired folder name in the 'Create New Level' pane and click <kbd>Create Level</kbd>. Your new folder will automatically appear in your map list.
+2. Navigate to your `CustomWIPLevels` folder and make a folder with your desired folder name. You will need to click <kbd>Refresh Song List</kbd> to see your folder.
+
+Click <kbd>Edit</kbd> to enter your song information and metadata.
 ## Song Info Settings
+The `Song Info` page is the first screen you see every time you edit a map.
 ### Whole Map Settings
+On the left side of the `Song Info` page is information that applies to your whole map. See [Beat Saber Metadata Criteria](https://docs.google.com/document/d/1ehotupIYMVlc8x41JldO-24m7Am-oTVYnciF9KCRdNM/edit) for standards on presenting complex song names and multiple artists.
+* **Song Name:** The primary name of the song
+* **Song SubName:** Any following tags like (Short Ver.), (SDVX Mix), etc.
+* **Song Artist:** The person or group who authored the song
+* **Mapper:** This is YOU! It's recommended you list your name the same as your BeatSaver user name
+* **BPM:** The tempo of the song. It's *critical* to get this right before you start. See [Basic Audio Setup](#) for guidance
+* **Audio File Name:** The name of the song file you have placed in `CustomWIPLevels > [Song Folder]` Recommended to just name it *song.ogg* to avoid the pitfalls of special characters
+* **Preview Start Time:** Position in the song file, in seconds, of the start of the in-game menu song preview. Defaults to 12s
+* **Preview Duration:** Duration, in seconds, of the in-game menu song preview. Defaults to 10s
+* **Cover Image Name:** The name of the image file you have placed in `CustomWIPLevels > [Song Folder]`. Must be perfectly square and at least 256 px but no more than 512 px
+* **Environment Name:** A dropdown menu of the default environments or platforms available. See [Basic Lighting Practices](#) for an overview of these environments
+* **Custom Platform:** The copy/pasted name of a custom platform from [ModelSaber](https://modelsaber.com/Platforms/). This feature is glitchy and it's recommended that you JSON edit any custom platform information
+* **Contributors Tab:** This side tab is an optional spot to give credit to mappers, lighters, playtesters or other contributors to your map. Enter the contributor role, their name, and the file name of a square "profile image" which you place in your song folder
+
+The <kbd>Open Sond Folder</kbd> button will open your song folder in Windows Explorer. This will help you confirm that you have your files in the right spot.
+The <kbd>Package Song to Zip</kbd> button will remove your autosaves folder and zip the files for BeatSaver.
+The <kbd>Save Song Info</kbd> button commits all of your metadata to the info.dat file
 ### Difficulty Settings
 
 ## Mapping Settings
