@@ -50,8 +50,6 @@ The settings pane includes global settings for autosaving, zip packaging, folder
 * **Legacy Settings:** If you have the ChromaToggle mod installed you can check this box to enable the game modes but it has been unsupported for some time.
 * **Other Settings:** Click the <kbd>Clear Settings</kbd> button to revert to default settings. You may also enter new paths for either of your song folders. If for some reason nothing works you can click the <kbd>Everything Inexplicably Broken?</kbd> button to delete your MM config file.
 # Song Setup
-> This is a stub section in progress. DM helencarnate#2079 if you'd like to contribute.
-{.is-info}
 Once you've finished one-time editor setup you're ready to create your first map.
 ## Song Creation
 There are four files (minimum) you need to create a map:
