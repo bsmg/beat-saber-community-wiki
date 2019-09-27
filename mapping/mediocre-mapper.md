@@ -90,12 +90,12 @@ The <kbd>Save Song Info</kbd> button commits all of your metadata to the info.da
 On the right side of the `Song Info` page is the area where you create individual difficulties and edit data that only applies to a single diffculty level. To create your first difficulty:
 
 1. Click the <kbd>Add Difficulty</kbd> button. The default difficulty is easy
-2. In the `Difficulty` dropdown select which difficulty you want to make (easy, normal, hard, expert, or expertplus)
-3. In the `Characteristic` dropdown you can select Standard, No Arrows, or Single Saber.
-4. The <kbd>Difficulty Label</kbd> is optional and allows you to give your difficulties custom names in-game, *This feature may not reliably work on all VR models*
-5. The <kbd>Start Offset (ms)</kbd> field is where you entered an offset value, in milliseconds, if needed based on the way you [setup your audio file](#)
-6. The <kbd>Note Jump Speed</kbd> field is where you change the speed at which the notes move down the track. Click into the field for a pop-up of helpful information. See [Basic Mapping Practices](#) for guidance on setting an appropriate NJS for your difficulty.
-7. The <kbd>Spawn Distance Modifier</kbd> field allows you to adjust how far down the track your blocks appear. Changing this value will adjust the "jump distance" guidance pop-up
+2. In the **Difficulty** dropdown select which difficulty you want to make (easy, normal, hard, expert, or expertplus)
+3. In the **Characteristic** dropdown you can select Standard, No Arrows, or Single Saber.
+4. **Difficulty Label** is optional and allows you to give your difficulties custom names in-game, *This feature may not reliably work on all VR models*
+5. The **Start Offset (ms)** field is where you entered an offset value, in milliseconds, if needed based on the way you [setup your audio file](#)
+6. The **Note Jump Speed** field is where you change the speed at which the notes move down the track. Click into the field for a pop-up of helpful information. See [Basic Mapping Practices](#) for guidance on setting an appropriate NJS for your difficulty.
+7. The **Spawn Distance Modifier** field allows you to adjust how far down the track your blocks appear. Changing this value will adjust the "jump distance" guidance pop-up
 
 > You **must** click <kbd>Apply Modifications</kbd> if you make a change to difficulty settings, otherwise it will not be saved. In Mk5 this appers to automatically happen when you enter a song file for editing.
 {.is-warning}
@@ -108,6 +108,20 @@ Click <kbd>Edit Level</kbd> when you're ready to start mapping!
 * **Autosaves:** This right side tab allows you to easily restore an autosaved version of your map if you've crashed or need to revert work
 
 ## Mapping Settings
+Mapping settings can be accessed by clicking the hamburger menu in the top right while editing the map. It can also be toggled using the <kbd>ESC</kbd> key. These settings persist throughout your mapping session but will be reset the next time you open the editor. The `Mapping Settings` pane also includes a comprehensive list of keybindings.
+
+* <kbd>Move WaveForm to Other Side</kbd>: This button will shift the wave form from the left of the mapping track to the left of the lighting track. Useful during the lighting process.
+* **Playback Speed:** Will slow down the map and song in the editor. Decimal values representing pecentage (i.e., 1.0 = 100% speed). This feature is helpful when timing particularly gnarly sections of a map.
+* **Editor Scale:** Adjusts the spacing of the beat markers on the map to help with visibility. Increase the number to spread notes or lighting events out more for easier placement.
+* **Note Sound:** Allows you to select from several in-editor hit sounds to help with timing. Select `None` to turn off hit sounds in the editor. *This does not impact hit sounds in-game*
+* **Music Volume:** Adjusts the volume of the song in the editor only. 100% by default.
+* **Hit Volume:** Adjusts the volume of the hit sounds in the editor only. 100% by default
+* **Metronome Volume:** Adjusts the volume of an in-editor metronome. 0% (off) by default
+* **Enable WaveForm:** Toggles the wave form visualizer on and off. The wave form is incredibly helpful for timing but it very resource intensive on your CPU
+* **Move Every Object (in beats):** Allows you enter a decimal value in beats, positive or negative, to shift ALL objects that number of beats up or down the track. Helps you fix hot starts if you didn't correctly set up your audio file
+* <kbd>Apply Move:</kbd> This button will commit the note movement specified above
+* <kbd>Make/Delete Bookmark</kbd>: This button will add a bookmark at the current cursor placement if one doesn't exist (add a name and hit enter to save) or will delete an existing bookmark
+* <kbd>Set Preview Start at Cursor</kbd>: This button allows you to quickly reset the beginning of your in-game music preview at the cursor location
 # Basic Controls
 > This is a stub section in progress. DM helencarnate#2079 if you'd like to contribute.
 {.is-info}
