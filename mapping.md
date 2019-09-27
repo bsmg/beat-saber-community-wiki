@@ -43,13 +43,13 @@ There are both official and community-developed editors available and preference
 Community editors are often a source of innovation with a lot of beneficial quality of life features for mappers, and can be used by mappers without VR. However, they may also be incomplete, unstable, or unpredictable at times so use with caution.
 
 ### Mediocre Mapper
-The most feature rich 3D editor used by the majority of the mapping community, now stripped of memes and all the fun stuff. RIP Bongo cat. Uses the new 2.0 song format. *No longer supported by the developer, direct questions to #mapping-discussion* [Mediocre Mapper Download](https://github.com/squeaksies/MediocreMapper/releases)
+The most feature rich 3D editor used by the majority of the mapping community, now stripped of memes and all the fun stuff. RIP Bongo cat. Uses the new 2.0 song format. *No longer supported by the developer, direct questions to #mapping-discussion* [Mediocre Mapper Download](https://github.com/squeaksies/MediocreMapper/releases/latest)
 > There is a full "User Guide" page coming very soon on Mediocre Mapper Mk5, but until that's available here is Joetastic's [Mk5 Song Setup Tutorial](https://streamable.com/01we6) video to get you started.
 {.is-info}
 ### BeatMapper.app
 A new web-based 3D beat saber editor using the new 2.0 song format. Runs in the browser so it's platform agnostic. [BeatMapper Website](https://beatmapper.app/)
 ### EditSaber Enhanced
-An older 3D map editor using the old 1.0 song format (maps must be converted before being playable). [EditSaber Enhanced Download](https://github.com/permissionBRICK/EditSaberEnhanced/releases)
+An older 3D map editor using the old 1.0 song format (maps must be converted before being playable). [EditSaber Enhanced Download](https://github.com/permissionBRICK/EditSaberEnhanced/releases/latest)
 
 ## Official Editor 
 The official editor is developed and supported by Beat Games and pre-installed with the Steam VR or Oculus PC versions of the game. It makes playtesting very convenient with one-click access to your work-in-progress in-game. The official editor is 2D and requires good visualization skills to translate well to a 3D play space, which can be challenging for new mappers. The vast majority of mappers use a [Community Editor](https://bsmg.wiki/mapping#community-editors).
