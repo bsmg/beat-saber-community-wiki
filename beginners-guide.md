@@ -6,7 +6,7 @@
 ## Preface
 > This guide is for PC-modding on Windows. 
 > If you have a Quest, check out the tutorial on [BeastSaber](https://bsaber.com/beaton/).
-> If you're on Linux, check out [QBeat](https://github.com/geefr/beatsaber-linux-goodies/blob/master/README.md)
+> If you're on Linux, check out the [Linux page](https://bsmg.wiki/modding/linux) or [QBeat](https://github.com/geefr/beatsaber-linux-goodies/blob/master/README.md)
 
 
 Beat Saber natively supports custom songs, so if that's all you're looking for, you don't require more mods! It's a wise idea to install `SongCore` though, as this mod expands upon the base game functionality to improve loading times and provide functionality for other mods like the in-game downloader, custom leaderboards, playlists, etc.
