@@ -92,7 +92,7 @@ Follow these steps to test any of your maps made with a community editor using a
 3. Click “Sync to Beat Saber.”
 4. Access your map in-game via the CustomWIPLevels category in the bottom song pack menu. Use practice mode to play (the small button next to the yellow play button).
 
-## Outside Testing
+## Community / Third Party Testing
 The #testplays channel in the Beat Saber Modding Group discord makes it easy to have your work checked by knowledgeable mappers. Playtesters will provide constructive feedback on how to improve your map in either video or text format in the #mapping-discussion channel.
 
 1. Create a compressed .zip file of the individual song files (not the song folder).
