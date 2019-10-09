@@ -45,6 +45,8 @@ Cube Community made some videos showing off some of the more popular grips for O
 
 A video has not yet been made for Index controllers, but you can find some examples in their #tips-and-grips channel! [CC Discord](https://discord.gg/dwe8mbC)
 
+Below are some (outdated) images listing some examples. Do not contact Kyle1413 about his grips, he will eat your hand
+
 ![Vive Grips Guide](/uploads/vive-grips-guide.png "Vive Grips Guide")
 ![Oculus Grips Guide](/uploads/oculus-grips-guide.png "Oculus Grips Guide")
 
