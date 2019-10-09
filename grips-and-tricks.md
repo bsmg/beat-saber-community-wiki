@@ -45,6 +45,9 @@ Cube Community made some videos showing off some of the more popular grips for O
 
 A video has not yet been made for Index controllers, but you can find some examples in their #tips-and-grips channel! [CC Discord](https://discord.gg/dwe8mbC)
 
+![Vive Grips Guide](/uploads/vive-grips-guide.png "Vive Grips Guide")
+![Oculus Grips Guide](/uploads/oculus-grips-guide.png "Oculus Grips Guide")
+
 # Improve VIVE controller tracking
 Your body may be blocking one lighthouse from seeing one of your controllers.
 Here are some steps that may help improve tracking.
