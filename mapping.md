@@ -12,7 +12,7 @@ Go from thinking about mapping to releasing your first map by following this che
 > Additional links from this checklist to essential information are coming *very* soon. Check back often as we continue to build this out!
 {.is-warning}
 - [ ] Download the necessary tools for mapping: an [audio editor](https://www.audacityteam.org/) and a [map editor](/mapping#map-editing-resources).
-- [ ] [Set up your audio file](/mapping#audio-editing-resources) (courtesy of Kolezan) including finding and confirming the BPM and exporting to OGG format. 
+- [ ] [Set up your audio file](/mapping#audio-editing-resources) including finding and confirming the BPM and exporting to OGG format. 
 - [ ] Set up your first song in your mapping editor (steps vary by which editor you choose).
 - [ ] Get mapping! Review [Basic Mapping practices](/mapping#tutorials-and-references) before you start. [Playtest](/mapping#playtesting) your own work early and often while mapping.
 - [ ] Get lighting! Review [Basic Lighting information](https://docs.google.com/document/d/1wpZgBeOD1-UbJpXf-b6gX5ICNYygCd6UK6LOPm-t5QM/edit) (courtesy of Puds). Simple manual lighting is easier than you think!
