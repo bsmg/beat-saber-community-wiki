@@ -11,10 +11,10 @@
 Go from thinking about mapping to releasing your first map by following this checklist.
 > Additional links from this checklist to essential information are coming *very* soon. Check back often as we continue to build this out!
 {.is-warning}
-- [ ] Download the necessary tools for mapping: an [audio editor](https://www.audacityteam.org/) and a [map editor](/mapping/#map-editing-resources).
-- [ ] [Set up your audio file](https://bsaber.com/custom-mapping-song-audio-editing/) (courtesy of Kolezan) including finding and confirming the BPM and exporting to OGG format. 
+- [ ] Download the necessary tools for mapping: an [audio editor](https://www.audacityteam.org/) and a [map editor](/mapping#map-editing-resources).
+- [ ] [Set up your audio file](/mapping#audio-editing-resources) (courtesy of Kolezan) including finding and confirming the BPM and exporting to OGG format. 
 - [ ] Set up your first song in your mapping editor (steps vary by which editor you choose).
-- [ ] Get mapping! Review [Basic Mapping practices](/mapping/#tutorials-and-references) before you start. [Playtest](/mapping/#playtesting) your own work early and often while mapping.
+- [ ] Get mapping! Review [Basic Mapping practices](/mapping#tutorials-and-references) before you start. [Playtest](/mapping#playtesting) your own work early and often while mapping.
 - [ ] Get lighting! Review [Basic Lighting information](https://docs.google.com/document/d/1wpZgBeOD1-UbJpXf-b6gX5ICNYygCd6UK6LOPm-t5QM/edit) (courtesy of Puds). Simple manual lighting is easier than you think!
 - [ ] Get your map [playtested](/mapping/#playtesting)! Third-party playtesting via the BSMG Discord is highly recommended to get constructive feedback and to get past your own “map blindness.”
 - [ ] Once your song has been mapped, lighted, and playtested you’re ready to [release](/mapping/#publishing-songs) your song to the world on Beat Saver.
@@ -28,7 +28,6 @@ Go from thinking about mapping to releasing your first map by following this che
 * [Best Practices Guide](https://bit.ly/2LjbURw), by Awfulnaut **please for the love of all things good read this**
 * [Mapping Quickstart Guide](https://bsaber.com/mapping-quickstart-guide-ogg-bpm-offset-and-timing/), by SilentCaay
 * [OST Analysis Spreadsheet](https://docs.google.com/spreadsheets/d/13wyoviJAplYOrsMocOA7YNXJxVRHd74G7z4U2jhCZa4/edit#gid=0)
-* [Song/Audio Editing Guide](https://bsaber.com/custom-mapping-song-audio-editing/), by Kolezan
 * [Error Checking with MediocreMapper](https://docs.google.com/document/d/1IYIMQVHK75ZG1JV2VKCTagA_ty-tnzzR7yaFPHTiswg), by Helen Carnate
 * [Ultimate Mapping Guide](https://docs.google.com/presentation/d/1dG-MlY4GkqcRKzf6fPkDtyFyce1BQVnDREXqnCZ3Us0/edit#slide=id.g4c98ed3226_0_187) by Skyler Wallace 
 
@@ -37,6 +36,11 @@ Go from thinking about mapping to releasing your first map by following this che
 ## Ranking Criteria
 Maps that are ranked and worth PP need to adhere to the [ScoreSaber Ranking Critera](https://docs.google.com/document/d/1mtVihRO1LomyptXayoDNDTQYgX_TQPp6ZYDmtwR2jMI/edit). To learn more about the ranking process, visit the [ScoreSaber Discord](https://discord.gg/WpuDMwU).
 
+# Audio Editing Resources
+Before you can start mapping you need to choose a song, find some basic information about it, and set it up using an audio editor. The most commonly used editor is the free [Audacity](https://www.audacityteam.org/) utility. The rest of this audio section will reference how to use this tool to set up and edit your audio file.
+
+* [Basic Audio Setup](/mapping/basic-audio)
+* Advanced Audio Editing *coming soon!*
 # Map Editing Resources
 There are both official and community-developed editors available and preference is highly personal and frequently shifting as new official and community-developed tools come and go.
 ## Community Editors
