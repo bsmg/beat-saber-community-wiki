@@ -72,7 +72,7 @@ After syncing the song to the beat manually or by using Vortex Arrow you will ha
 
 ## Add Silence
 If the waveform/audio clip has a gap to the timeline start (0,0 seconds) you will need to add silence, or else Audacity will export from the start of the audio clip. Do the following to add silence:
-1. Switch to the Selection Tool () and select the empty space between the audio clip and the start of the track (Yellow vertical lines will indicate the start and end edges when you make a selection).
+1. Switch to the Selection Tool (![Selection Tool](/uploads/wiki/selection.png)) and select the empty space between the audio clip and the start of the track (Yellow vertical lines will indicate the start and end edges when you make a selection).
 2. Click Generate menu – > Silence…
 3. The right amount of silence should already be input automagically so just hit OK. (After generating the silence you can click the dark line in the song track to get rid of the cut.)
 4. Done.
@@ -80,8 +80,8 @@ If the waveform/audio clip has a gap to the timeline start (0,0 seconds) you wil
 
 ## Trim the Intro
 If your track has arrows pointing to the left at the start it means you’ve time shifted the audio forward in time outside the timeline. If you’ve done this to shorten the intro, although not necessary, it is beneficial to trim the sound clip and add a fade in. To trim and add a fade in to the song (optional) do the following:
-1. Drag a sele ction from 0.0 seconds to the end of the audio track (yellow vertical lines).
-2. Click Trim to Selection (). The arrows should now disappear. 
+1. Drag a selection from 0.0 seconds to the end of the audio track (yellow vertical lines).
+2. Click Trim audio outside selection (![Trim to Selection](/uploads/wiki/trimtoselection.png)). The arrows should now disappear. 
 3. (Optional) Make a selection from track start (vertical yellow line) to about 1-2 seconds (depending on into).
 4. (Optional) Go to `Effect menu -> Fade In`.
 5. Done.
