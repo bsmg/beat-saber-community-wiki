@@ -81,7 +81,7 @@ If the waveform/audio clip has a gap to the timeline start (0,0 seconds) you wil
 ## Trim the Intro
 If your track has arrows pointing to the left at the start it means you’ve time shifted the audio forward in time outside the timeline. If you’ve done this to shorten the intro, although not necessary, it is beneficial to trim the sound clip and add a fade in. To trim and add a fade in to the song (optional) do the following:
 1. Drag a selection from 0.0 seconds to the end of the audio track (yellow vertical lines).
-2. Click Trim audio outside selection (![Trim audio to selection](/uploads/wiki/trimtoselection2.png)). The arrows should now disappear. 
+2. Click Trim audio outside selection (![Trim audio to selection](https://i.imgur.com/0qOEXjQ.png)). The arrows should now disappear. 
 3. (Optional) Make a selection from track start (vertical yellow line) to about 1-2 seconds (depending on into).
 4. (Optional) Go to `Effect menu -> Fade In`.
 5. Done.
