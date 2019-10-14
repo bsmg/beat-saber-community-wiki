@@ -56,7 +56,7 @@ In all cases above you will need to time shift the song to an appropriate time b
 3. **Long intro:** Move the song forward in time, placing the first note(s) within 8 seconds (See Sync the Song to the Beat), then trim the audio before 0 seconds (See Trimming the Intro).
 
 ## Sync the Song to the Beat
-1. Select the Time Shift Tool.
+1. Select the Time Shift Tool (![Time Shift Tool](/uploads/wiki/timeshift.png)).
 2. Left click on the song track and hold, then drag the audio so that the first planned mapped note(s) in your song ends up within the appropriate seconds (see timeline above the track) to avoid a “Hot Start” or too long intro (See Planning the First Notes if you haven’t already).
 3. Release to place the audio in the new position.
 4. Play back the audio in this position. The song will be out of sync, so find the closest beat in the click track and align your song to the beat (click track) by moving it backward or forwards in time by small increments. Zoom in for better accuracy. Repeat until it sounds spot on.
