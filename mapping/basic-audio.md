@@ -182,7 +182,7 @@ To generate a compatible sound file to use we need to do the following:
 1. Delete the Click Track (if you haven’t already done so).
 2. Click the `File menu -> Export -> Export as OGG.`
 3. Name your file `song.ogg`.
-4. Choose an appropriate OGG quality:
+4. Choose an appropriate OGG quality ([more info here](/advanced-audio#choosing-appropriate-ogg-export-quality)):
 * a. High quality source (WAVE / FLAC / MP3 / AAC) use 6-9 (unless there is a file size issue.)
 * b. Low quality source (YouTube or such): use 3-5; 
 5. Click Save.
