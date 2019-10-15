@@ -76,8 +76,7 @@ Explanation video and examples: https://www.youtube.com/watch?v=ImO9cFW5vyQ&t
 
 # Playtesting
 Testing your work is a critical part of mapping. Playing your own maps as you work helps you adjust for major playability issues and get a feel for your map. Third-party or “outside” playtesting is when someone other than yourself tests your pre-release map and provides constructive feedback and is helpful in highlighting issues to which you may be "map blind."
->You **do not** need to upload your map to Beat Saver in order for you or anyone else to test.
-{.is-warning}
+>You **do not** need to upload your map to Beat Saver in order for you or anyone else to test.{.is-warning}
 
 * If your map is using the 1.0 song format (your files are .json and .ogg) you must convert your map using one of several available tools like [Songe Converter](https://github.com/lolPants/songe-converter) by lolPants or [BeatMapper Tools](https://beatmappertools.com/index.php) by Darkuni.
 * If your map is using the 2.0 song format (your files are .dat and .egg) you’re ready to test.
@@ -121,8 +120,7 @@ You can use the following code to copy and paste into Discord:
 # Publishing Songs
 One your song has been mapped, lighted, and playtested and it’s a finished product you’re ready to release it to the world on [BeatSaver](https://beatsaver.com).
 
->Please **do not** upload an incomplete WIP map to BeatSaver. Anyone who plays your WIP without practice mode will create a new leaderboard for that map. See the [Playtesting](/mapping#playtesting) section for instructions.
-{.is-danger}
+>Please **do not** upload an incomplete WIP map to BeatSaver; Uploading to BeatSaver equates to "Putting it on the store shelf" and should only be your final version. Anyone who plays your WIP without Practice Mode will create a new leaderboard for that map. See the [Playtesting](/mapping#playtesting) section for instructions.{.is-danger}
 
 ## BeatSaver
 BeatSaver is the public repository for all custom Beat Saber maps. Songs must be in the 2.0 song format (files are .dat and .egg) to be compatible. To release a map:
@@ -134,8 +132,7 @@ BeatSaver is the public repository for all custom Beat Saber maps. Songs must be
 {.is-info}
 4. Add your .zip file and click “Upload.”
 
->Map files cannot currently be updated on BeatSaver. If you need to upload a new version of your map you will need to delete the old one and re-post.
-{.is-warning}
+>Map files cannot currently be updated on BeatSaver. If you need to upload a new version of your map you will need to delete the old one and re-post.{.is-warning}
 
 ## BeastSaber
 [BeastSaber](http://www.bsaber.com) is a song review and curation site with a social side for member profiles, forums, news, and tutorials. All songs published on BeatSaver are mirrored to BeastSaber within 10-15 minutes.
