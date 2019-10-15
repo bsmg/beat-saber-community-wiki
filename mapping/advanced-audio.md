@@ -7,17 +7,17 @@
 
 On this page you will find additional guides and resources for better understanding audio or more advanced techniques of editing audio.
 # Checking Audio Quality
-Generally, as a rule, always use **WAV(E) or FLAC (lossless uncompressed or compressed)** files as sources for your songs. This is because **lossy formats like MP3, AAC or OGG always lose information when converted to their formats** and cannot be restored by 'un-converting'. This is why you should never use your exported OGG-file to make new edits to your audio. Therefore, always use a lossless source file, if possible. However, some FLAC sources could be “up-converted” from lossy formats, so using a spectral analyser tool to check your audio file(s) before using them is a recommended practice. For more info on audio formats * [this article is recommended](https://opentrackers.org/whatinterviewprep.com/prepare-for-the-interview/audio-formats/index.html).
+Generally, as a rule, always use **WAV(E) or FLAC (lossless uncompressed or compressed)** files as sources for your songs. This is because **lossy formats like MP3, AAC or OGG always lose information when converted to their formats** and cannot be restored by 'un-converting'. This is why you should never use your exported OGG-file to make new edits to your audio. Therefore, always use a lossless source file, if possible. However, some FLAC sources could be “up-converted” from lossy formats, so using a spectral analyser tool to check your audio file(s) before using them is a recommended practice. For more info on audio formats [this article is recommended](https://opentrackers.org/whatinterviewprep.com/prepare-for-the-interview/audio-formats/index.html).
 > Tip: Save your own lossless WAV(E) files when doing edits, at each step, so you always have a lossless source to continue editing from without having to redo everything from the start.
 
-The best way to check this quality loss is using * [Spek](http://spek.cc/), a free acoustic spectrum analyser tool:
+The best way to check this quality loss is using [Spek](http://spek.cc/), a free acoustic spectrum analyser tool:
 
 ![Spectrum example](https://i.imgur.com/fdOZR2K.png "Spectrum example")
 
 This tool shows the time of the song from left to right, the frequencies from lowest at the bottom to highest at the top and the loudness of the frequencies in color (legend to the right). This screenshot shows the same song with the top graph being a WAVE file and the bottom graph being an OGG file export of the same WAVE file.
 
 The biggest difference you will notice is the frequency cut off at the top. This is a common technique for lossy formats to save on data as these high frequencies aren’t as important for the overall sound reproduction.
-However, if you look more closely at the frequencies in the audible spectrum (20hz to 20khz) you can see that the top graph looks a lot smoother with good gradients compared to the bottom graph which is more jagged and doesn’t include much of the finer gradients. Look for this when analysing sound files. For more info on spectrum analysis * [this article is recommended](https://opentrackers.org/whatinterviewprep.com/prepare-for-the-interview/spectral-analysis/index.html).
+However, if you look more closely at the frequencies in the audible spectrum (20hz to 20khz) you can see that the top graph looks a lot smoother with good gradients compared to the bottom graph which is more jagged and doesn’t include much of the finer gradients. Look for this when analysing sound files. For more info on spectrum analysis [this article is recommended](https://opentrackers.org/whatinterviewprep.com/prepare-for-the-interview/spectral-analysis/index.html).
 
 To use this tool simply open Spek.exe then drag and drop the audio file into the window.
 ## Choosing Appropriate OGG Export Quality
@@ -33,7 +33,7 @@ When editing a shorter version of a song and a simple hard immediate cut between
 
 For those who don’t know, a cross-fade is when one audio track fades out while another simultaneously fades in. For best result find identical or near-identical sections on each end of the region you want to cut. Instrumental regions in electronic music better suited than regions with vocals. **Using the smallest segment possible, particularly a small section between two peaks/beats, is better to convince a listener.**
 
-There is also a video of this process * [available here](https://www.youtube.com/watch?v=oSua4ITfPy8).
+There is also a video of this process [available here](https://www.youtube.com/watch?v=oSua4ITfPy8).
 
 **To crossfade two sections of a song do the following:**
 1. Open the song in Audacity.
@@ -42,6 +42,13 @@ There is also a video of this process * [available here](https://www.youtube.com
 ![Cut song section](https://i.imgur.com/IRiNCz0.png "Cut song section")
 4. Align the tracks by using the Time Shift Tool (![Time Shift Tool](/uploads/wiki/timeshift.png)) to move the second track to a place roughly in place so the similar sections are close to each other. Then zoom in and adjust again, then repeat till the waveform changes to dots when you zoom. Align the dots on the bottom track with the similar peaks and lows with the top track, if possible. (Tip: Utilize a Click Track to make sure the tracks are in time with each other. See * [Audio Preparation: Adding Click Track](https://bsmg.wiki/mapping/basic-audio#add-a-click-track).)
 ![Zoomed syncing](https://i.imgur.com/9jyrzzv.png "Zoomed syncing")
-5. The last section of the top track should now be identical or similar to the first section of the bottom track but from different times in the song. Listen to the overlapping area to confirm a match, making sure there is no echo/offset from misaligned tracks. (Tip: To avoid overdrive/clipping from two -0db peaking tracks you can set the faders for both tracks to -6db ![Fader](https://i.imgur.com/kvsHvMT.png) then later back to +0db after the crossfade has been applied. Double click the fader to type in the number.)
+5. The last section of the top track should now be identical or similar to the first section of the bottom track but from different times in the song. Listen to the overlapping area to confirm a match, making sure there is no echo/offset from misaligned tracks.
+>Tip: To avoid overdrive/clipping from two -0db peaking tracks you can set the faders for both tracks to -6db ![Fader](https://i.imgur.com/kvsHvMT.png) then later back to +0db after the crossfade has been applied. Double click the fader to type in the number.
+7. Select the overlapping region across both tracks.
+8. Go to `Effect menu -> Crossfade Tracks`. Set Fade direction to `Alternating Out / In`. Click OK to apply crossfade.
+![Crossfade](https://i.imgur.com/amqrj1I.png "Crossfade")
+9. Listen to the overlapping sections again. If all went well, you should now have a perfectly blended transition between the two tracks.
+10. Combine the tracks by selecting all (`Select menu -> All` or `Ctrl+A`) then going to `Tracks menu -> Mix` then `Mix and Render`.
+11. Done. You could now proceed with other [Audio Editing](/mapping/basic-audio#editing-with-audacity) or finish with [Exporting](/mapping/basic-audio#exporting).
 
 
