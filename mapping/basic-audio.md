@@ -33,7 +33,7 @@ If both methods above fail you will have to manually find the BPM, but this is e
 3. With the webpage in focus, tap any key to the beat (every quarter note) for about 30 seconds and the tool will display the BPM of the song.
 4. Take note of the nearest whole value.
 # Audio Preparation
-To make it easier to map and make sure that the song is synced perfectly you need to set up your audio file correctly. This page will assume you are using [Audacity](https://www.audacityteam.org/)
+To make it easier to map and make sure that the song is synced perfectly to the game's beat you need to set up your audio file correctly. This page will assume you are using [Audacity](https://www.audacityteam.org/)
 ## Add a Click Track
 1. Open the song you want to map into Audacity.
 2. Add a new mono track from `Tracks menu > Add New > Mono Track`
