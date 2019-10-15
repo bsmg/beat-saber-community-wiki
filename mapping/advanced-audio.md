@@ -8,7 +8,7 @@
 On this page you will find additional guides and resources for better understanding audio or more advanced techniques of editing audio.
 # Checking Audio Quality
 Generally, as a rule, always use **WAV(E) or FLAC (lossless uncompressed or compressed)** files as sources for your songs. This is because **lossy formats like MP3, AAC or OGG always lose information when converted to their formats** and cannot be restored by 'un-converting'. This is why you should never use your exported OGG-file to make new edits to your audio. Therefore, always use a lossless source file, if possible. However, some FLAC sources could be “up-converted” from lossy formats, so using a spectral analyser tool to check your audio file(s) before using them is a recommended practice. For more info on audio formats * [this article is recommended](https://opentrackers.org/whatinterviewprep.com/prepare-for-the-interview/audio-formats/index.html).
-> Tip: Save your own lossless WAV(E) files when doing edits, at each step, so you always have a lossless source to continue editing from when you need to do edits.
+> Tip: Save your own lossless WAV(E) files when doing edits, at each step, so you always have a lossless source to continue editing from without having to redo everything from the start.
 
 The best way to check this quality loss is using * [Spek](http://spek.cc/), a free acoustic spectrum analyser tool:
 
@@ -38,9 +38,7 @@ There is also a video of this process * [available here](https://www.youtube.com
 **To crossfade two sections of a song do the following:**
 1. Open the song in Audacity.
 2. Duplicate the song track (Select menu -> All + Edit menu -> Duplicate, or simply press Ctrl+A then Ctrl+D.)
-3. Roughly fill the unwanted end of the first track and unwanted start of the second track with silence (Select, then Generate menu -> Silence...).
-
-![Cut song section](https://i.imgur.com/IRiNCz0.png "Cut song section")
-
+3. Roughly fill the unwanted end of the first track and unwanted start of the second track with silence (Select, then Generate menu -> Silence...). ![Cut song section](https://i.imgur.com/IRiNCz0.png "Cut song section")
+4. Align the tracks by using the Time Shift Tool () to move the second track to a place roughly in place so the similar sections are close to each other. Then zoom in and adjust again, then repeat till the waveform changes to dots when you zoom. Align the dots on the bottom track with the similar peaks and lows with the top track, if possible. (Tip: Utilize a Click Track to make sure the tracks are in time with each other. See “Audio Preparation: Adding Click Track”.)
 
 
