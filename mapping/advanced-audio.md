@@ -22,7 +22,7 @@ However, if you look more closely at the frequencies in the audible spectrum (20
 To use this tool simply open Spek.exe then drag and drop the audio file into the window.
 ## Choosing Appropriate OGG Export Quality
 You should aim at preserving most of the source audio data while still having the smallest file size. Keep OGG file size under 14MB (for BeatSaver) or 7MB (for Discord without Nitro).
-To know what level is ideal for your song you can export your track with different qualities and compare the spectrals. However, as a general recommendation follow these settings:
+To know what level is ideal for your song you can export your track with different qualities and [compare the spectrals](/mapping/advanced-audio#checking-audio-quality). However, as a general recommendation follow these settings:
 
 * High quality source (WAVE, FLAC or MP3/AAC@+200kbps): choose an OGG quality level between 9 to 6.
 * Low quality source (MP3 / AAC / OGG): choose an OGG quality level between 5 to 3.
