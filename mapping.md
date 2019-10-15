@@ -40,7 +40,7 @@ Maps that are ranked and worth PP need to adhere to the [ScoreSaber Ranking Crit
 Before you can start mapping you need to choose a song, find some basic information about it, and set it up using an audio editor. The most commonly used editor is the free [Audacity](https://www.audacityteam.org/) utility. The rest of this audio section will reference how to use this tool to set up and edit your audio file.
 
 * [Basic Audio Setup](/mapping/basic-audio)
-* Advanced Audio Editing *coming soon!*
+* [Advanced Audio Editing](/mapping/advanced-audio)
 # Map Editing Resources
 There are both official and community-developed editors available and preference is highly personal and frequently shifting as new official and community-developed tools come and go.
 ## Community Editors
