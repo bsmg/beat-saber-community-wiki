@@ -7,10 +7,8 @@
 
 On this page you will find additional guides and resources for better understanding audio or more advanced techniques of editing audio.
 # Checking Audio Quality
-Generally, as a rule, always use **WAV(E) or FLAC (lossless uncompressed or compressed)** files as sources for your songs. This is because **lossy formats like MP3, AAC or OGG always lose information when converted to their formats** and cannot be restored by 'un-converting'. This is why you should never use your exported OGG-file to make new edits to your audio. Therefore, always use a lossless source file, if possible. However, some FLAC sources could be “up-converted” from lossy formats, so using a spectral analyser tool to check your audio file(s) before using them is a recommended practice.
+Generally, as a rule, always use **WAV(E) or FLAC (lossless uncompressed or compressed)** files as sources for your songs. This is because **lossy formats like MP3, AAC or OGG always lose information when converted to their formats** and cannot be restored by 'un-converting'. This is why you should never use your exported OGG-file to make new edits to your audio. Therefore, always use a lossless source file, if possible. However, some FLAC sources could be “up-converted” from lossy formats, so using a spectral analyser tool to check your audio file(s) before using them is a recommended practice. For more info on audio formats * [this article is recommended](https://opentrackers.org/whatinterviewprep.com/prepare-for-the-interview/audio-formats/index.html).
 > Tip: Save your own lossless WAV(E) files when doing edits, at each step, so you always have a lossless source to continue editing from when you need to do edits.
-
-For more info on audio formats * [this article is recommended](https://opentrackers.org/whatinterviewprep.com/prepare-for-the-interview/audio-formats/index.html).
 
 The best way to check this quality loss is using * [Spek](http://spek.cc/), a free acoustic spectrum analyser tool:
 
@@ -30,7 +28,6 @@ To know what level is ideal for your song you can export your track with differe
 * Low quality source (MP3 / AAC / OGG): choose an OGG quality level between 5 to 3.
 
 You can’t increase audio quality by saving a lossy track with a higher bitrate (e.g. saving a YouTube-sourced track with level 10 quality), you will only bloat the file size. As explained in the previous chapter, information is lost when transcoding to any lossy format and thus can’t be restored. Transcoding one lossless format to another lossless format is fine though, e.g. FLAC to WAV(E).
-
 # Song Editing using Cross-fades
 When editing a shorter version of a song and a simple hard immediate cut between two similar sections of a song isn’t enough to convince your ears (usually the sections aren’t perfectly the same, usually in non-electronic music) then applying a cross-fade between the sections usually helps. Any type of restructuring editing is easier in a DAW software that uses beat grid editing, but it is possible to do the same in the free software of Audacity as well, which we will show here.
 
@@ -42,5 +39,8 @@ There is also a video of this process * [available here](https://www.youtube.com
 1. Open the song in Audacity.
 2. Duplicate the song track (Select menu -> All + Edit menu -> Duplicate, or simply press Ctrl+A then Ctrl+D.)
 3. Roughly fill the unwanted end of the first track and unwanted start of the second track with silence (Select, then Generate menu -> Silence...).
+
+![Cut song section](https://i.imgur.com/IRiNCz0.png "Cut song section")
+
 
 
