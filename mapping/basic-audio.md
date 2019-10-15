@@ -41,8 +41,10 @@ To make it easier to map and make sure that the song is synced perfectly to the 
 4. Input the nearest whole BPM you got earlier into the Tempo field and enter the duration of the song in the optional rhythm track duration field (the duration is displayed at the top right of the timeline).
 5. Copy the other recommended settings below:
 ![Audacity Rhythm Track Menu](https://i.imgur.com/jC6OU0i.png)
+
 If everything was correctly input you will have something like this:
 ![Audacity main screen showing song track and rhythm track](https://i.imgur.com/R55YOXZ.png)
+
 This click track is completely in sync with the beats in the map editor later when you input the same BPM in the map editor.
 ## Plan Your First Note
 Think about the intro of your song. Depending on where in the song you want to place your first block, you'll need to avoid both a *hot start* (not enough time before the first block) and a too-long intro. Your song will fit into one of three categories:
