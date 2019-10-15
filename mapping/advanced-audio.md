@@ -1,5 +1,5 @@
 <!-- TITLE: Advanced Audio Editing -->
-<!-- SUBTITLE: Advanced Audio Editing -->
+<!-- SUBTITLE: Diving deeper into audio editing -->
 
 **Content in this section is derived from original guides by n3tman and LittleAsi, edited by Kolezan. Many thanks to contributors from across the mapping community who made this expanded wiki possible!**
 * [Frequently Asked Questions](/mapping/faq)
