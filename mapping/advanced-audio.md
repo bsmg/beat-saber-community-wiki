@@ -12,7 +12,7 @@ Tip: Save your own lossless WAV(E) files when doing edits, at each step, so you 
 For more info on audio formats * [this article is recommended](https://opentrackers.org/whatinterviewprep.com/prepare-for-the-interview/audio-formats/index.html).
 
 The best way to check this quality loss is using * [Spek](http://spek.cc/), a free acoustic spectrum analyser tool:
-![spectrum example](/uploads/wiki/spectrum_example.png "spectrum example")
+![Spectrum example](https://i.imgur.com/fdOZR2K.png "Spectrum example")
 
 
 
