@@ -176,12 +176,12 @@ To trim the ending at this point do the following:
 
 The song will now fade out just before it gets to the end of the map and the player will be presented with the scoring results much faster.
 # Exporting
-We now have our finished audio that you will use and hear in the editor and the game. It is recommended to make another WAVE file backup just in case you need to export to OGG again in a lower quality*. (File menu -> Export as WAV).
+We now have our finished audio that you will use and hear in the editor and the game. It is recommended to make another WAVE file backup just in case you need to export to OGG again in a lower quality. (`File menu -> Export as WAV`).
 
-To get a compatible sound file to use we need to do the following:
+To generate a compatible sound file to use we need to do the following:
 1. Delete the Click Track (if you haven’t already done so).
 2. Click the `File menu -> Export -> Export as OGG.`
-3. Name your file song.egg. (Newest mapping format uses .egg file extension instead of .ogg)
+3. Name your file `song.ogg`.
 4. Choose an appropriate OGG quality:
 * a. High quality source (WAVE / FLAC / MP3 / AAC) use 6-9 (unless there is a file size issue.)
 * b. Low quality source (YouTube or such): use 3-5; 
