@@ -51,7 +51,9 @@ There is also a video of this process [available here](https://www.youtube.com/w
 10. Combine the tracks by selecting all (`Select menu -> All` or `Ctrl+A`) then going to `Tracks menu -> Mix` then `Mix and Render`.
 11. Done. You could now proceed with other [Audio Editing](/mapping/basic-audio#editing-with-audacity) or finish with [Exporting](/mapping/basic-audio#exporting).
 # Variable BPM
-If the song you’re trying to map has a tempo that doesn’t line up with a fixed BPM (as in, even with BPM values with decimals), such as (older) acoustic pop, rock and metal songs, they were most likely not recorded to a metronome and will thus not easily sync up with a fixed BPM in Audacity or the map editor. No matter what the solution is it always involves brute forcing it by manually adjusting the BPM (tempo track) to fit the song, which takes a lot of time and patience.
+If the song you’re trying to map has a tempo that doesn’t sync up with a fixed BPM (as in, even with BPM values with decimals), such as (older) acoustic pop, rock or metal songs, they were most likely not recorded to a metronome and will thus not easily sync up to a fixed BPM in Audacity or the map editor. No matter what the solution is it always involves brute forcing it by manually adjusting the BPM (tempo track) at intervals, sometimes every beat, to fit the song. This takes a lot of time and patience, so make sure it's worth the extra effort.
+
+The benefit of having a synced BPM/tempo track is easier and consistent note placement and editing, as well as easier and consistent lighting editing, especially with more than one difficulty in a map.
 
 There are several methods to go about handling variable BPM:
 * Manually time the BPM changes in MedicoreMapper. [Video tutorial by BennyDaBeast here](https://www.youtube.com/watch?v=6AwR4SeaiHU).
