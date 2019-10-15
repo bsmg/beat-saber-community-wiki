@@ -11,7 +11,7 @@ Generally, as a rule, always use **WAV(E) or FLAC (lossless uncompressed or comp
 Tip: Save your own lossless WAV(E) files when doing edits, at each step, so you always have a lossless source to continue editing from when you need to do edits.
 For more info on audio formats * [this article is recommended](https://opentrackers.org/whatinterviewprep.com/prepare-for-the-interview/audio-formats/index.html).
 
-The best way to check this quality loss is using * [http://spek.cc/](Spek), a free acoustic spectrum analyser tool:
+The best way to check this quality loss is using * [Spek](http://spek.cc/), a free acoustic spectrum analyser tool:
 ![Spek spectrum graph example](/uploads/wiki/spectrum_example.png "Spek spectrum graph example")
 
 
