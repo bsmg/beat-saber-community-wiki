@@ -128,8 +128,7 @@ BeatSaver is the public repository for all custom Beat Saber maps. Songs must be
 1. [Create an account](https://beatsaver.com/auth/register) on BeatSaver.
 2. Click the “Upload” button in the top-right nav bar.
 3. Add your BeatSaver map name and map description. Only the map name is searchable so be sure to include song name, song artist, and other terms that might make it easier to find your map.
->Use “tags” like (Chroma), (OneSaber), or (Mapping Extensions) if your map uses some special modifications or characteristics you want to highlight.
-{.is-info}
+>Use “tags” like (Chroma), (OneSaber), or (Mapping Extensions) if your map uses some special modifications or characteristics you want to highlight.{.is-info}
 4. Add your .zip file and click “Upload.”
 
 >Map files cannot currently be updated on BeatSaver. If you need to upload a new version of your map you will need to delete the old one and re-post.{.is-warning}
