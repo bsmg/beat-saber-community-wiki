@@ -38,7 +38,8 @@ There is also a video of this process * [available here](https://www.youtube.com
 **To crossfade two sections of a song do the following:**
 1. Open the song in Audacity.
 2. Duplicate the song track (Select menu -> All + Edit menu -> Duplicate, or simply press Ctrl+A then Ctrl+D.)
-3. Roughly fill the unwanted end of the first track and unwanted start of the second track with silence (Select, then Generate menu -> Silence...). ![Cut song section](https://i.imgur.com/IRiNCz0.png "Cut song section")
-4. Align the tracks by using the Time Shift Tool () to move the second track to a place roughly in place so the similar sections are close to each other. Then zoom in and adjust again, then repeat till the waveform changes to dots when you zoom. Align the dots on the bottom track with the similar peaks and lows with the top track, if possible. (Tip: Utilize a Click Track to make sure the tracks are in time with each other. See “Audio Preparation: Adding Click Track”.)
+3. Roughly fill the unwanted end of the first track and unwanted start of the second track with silence (Select, then Generate menu -> Silence...).
+![Cut song section](https://i.imgur.com/IRiNCz0.png "Cut song section")
+4. Align the tracks by using the Time Shift Tool (![Time Shift Tool](/uploads/wiki/timeshift.png)) to move the second track to a place roughly in place so the similar sections are close to each other. Then zoom in and adjust again, then repeat till the waveform changes to dots when you zoom. Align the dots on the bottom track with the similar peaks and lows with the top track, if possible. (Tip: Utilize a Click Track to make sure the tracks are in time with each other. See * [Audio Preparation: Adding Click Track](https://bsmg.wiki/mapping/basic-audio#add-a-click-track).)
 
 
