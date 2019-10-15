@@ -50,5 +50,10 @@ There is also a video of this process [available here](https://www.youtube.com/w
 9. Listen to the overlapping sections again. If all went well, you should now have a perfectly blended transition between the two tracks.
 10. Combine the tracks by selecting all (`Select menu -> All` or `Ctrl+A`) then going to `Tracks menu -> Mix` then `Mix and Render`.
 11. Done. You could now proceed with other [Audio Editing](/mapping/basic-audio#editing-with-audacity) or finish with [Exporting](/mapping/basic-audio#exporting).
+# Variable BPM
+If the song you’re trying to map has a tempo that doesn’t line up with a fixed BPM (as in, even with BPM values with decimals), such as (older) acoustic pop, rock and metal songs, they were most likely not recorded to a metronome and will thus not easily sync up with a fixed BPM in Audacity or the map editor. No matter what the solution is it always involves brute forcing it by manually adjusting the BPM (tempo track) to fit the song, which takes a lot of time and patience.
 
-
+There are several methods to go about handling variable BPM:
+* Manually time the BPM changes in MedicoreMapper. [Video tutorial by BennyDaBeast here](https://www.youtube.com/watch?v=6AwR4SeaiHU).
+* Use a DAW software and find all the tempo changes using a tempo track editor. Use Jumps instead of Ramps as that’s how MediocreMapper changes tempo. When you’ve found all the tempo changes input those into MediocreMapper. (Remember, DAW softwares usually display measures and beats, but MediocreMapper only displays beats.)
+* Use a DAW software and time warp the sound into a fixed BPM. This, however, could introduce artifacts or warp the sound and could be more easily noticeable by listeners/players.
