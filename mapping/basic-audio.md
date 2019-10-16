@@ -57,7 +57,7 @@ Analyse the intro of the song. Depending on where in the song you want to place 
 
 In all cases above you will need to time shift the song to an appropriate time based on your needs:
 1. **No intro:** Move the song back in time (to the right in the audio track), placing the first mapped note(s) after two seconds. Then sync the song to the beat (See [Sync the Song to the Beat](/mapping/basic-audio#sync-the-song-to-the-beat)). Later fill the gap with silence (See [Add Silence](/mapping/basic-audio#add-silence)).
-2. **Short Intro:** Sync the song to the beat (See [Sync the Song to the Beat](/mapping/basic-audio#sync-the-song-to-the-beat)) and then fill the gap with silence (See [Add Silence](/mapping/basic-audio#add-silence)) or trim the audio before 0 seconds depending on which case applies (See [Trim the Intro](/mapping/basic-audio#trim-the-intro)).
+2. **Short Intro:** Sync the song to the beat (See [Sync the Song to the Beat](/mapping/basic-audio#sync-the-song-to-the-beat)) and then fill the gap with silence (See [Add Silence](/mapping/basic-audio#add-silence)) or trim the audio before 0 seconds (See [Trim the Intro](/mapping/basic-audio#trim-the-intro)) depending on which case applies.
 3. **Long intro:** Move the song forward in time (to the left in the audio track), placing the first note(s) within 8 seconds (See [Sync the Song to the Beat](/mapping/basic-audio#sync-the-song-to-the-beat)), then trim the audio before 0 seconds (See [Trim the Intro](/mapping/basic-audio#trim-the-intro)).
 
 ## Sync the Song to the Beat
