@@ -41,7 +41,7 @@ To make it easier to map and make sure that the song is synced perfectly to the 
 1. Open the song you want to map into Audacity.
 2. Add a new mono track from `Tracks menu > Add New > Mono Track`
 3. Place the cursor at the start of the new track (Click on the track and press your Home key) and then click `Generate menu > Rhythm Track…`
-4. Input the nearest whole BPM you got earlier into the `Tempo field` and enter the duration of the song in the optional rhythm track duration field (the duration is displayed at the top right of the timeline).
+4. Input the nearest whole BPM you got earlier into the `Tempo (bpm)` field and enter the duration of the song in the optional rhythm track duration field (the duration is displayed at the top right of the timeline).
 5. Copy the other recommended settings below:
 ![Audacity Rhythm Track Menu](https://i.imgur.com/jC6OU0i.png)
 
