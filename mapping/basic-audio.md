@@ -48,7 +48,7 @@ To make it easier to map and make sure that the song is synced perfectly to the 
 If everything was correctly input you will have something like this:
 ![Audacity main screen showing song track and rhythm track](https://i.imgur.com/R55YOXZ.png)
 
-This click track is completely in sync with the beats in the map editor later when you input the same BPM in the map editor.
+This click track is completely in sync with the beats in the map editor and game, but the song is currently not synced. Continue below for how to do that.
 ## Plan Your First Note
 Think about the intro of your song. Depending on where in the song you want to place your first block, you'll need to avoid both a *hot start* (not enough time before the first block) and a too-long intro. Your song will fit into one of three categories:
 1. **Songs with no intro:** It is critical to leave at **minimum two seconds** of preparation time for the player before the first playable note(s) in your map, otherwise this is known as a “Hot Start.”
