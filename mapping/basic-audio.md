@@ -5,7 +5,7 @@
 * [Frequently Asked Questions](/mapping/faq)
 * [Glossary of Terms](/mapping/glossary)
 
-This page provides both new and experienced mappers with general recommendations for setting up a new song file before starting to map. Not all sections may apply for your song, so review the table of contents to the left and skip any sections you deem them unnecessary.
+This page provides both new and experienced mappers with general recommendations for setting up a new song file before starting to map. Not all sections may apply for your song, so review the table of contents to the left and skip any sections you deem unnecessary.
 # Song Selection for New Mappers
 These recommendations are **not** requirements but will help to ease you into mapping. If you want to map “In A Gadda Da Vida” for your first map then have at it but know that you’ll face a **lot** of additional challenges.
 
