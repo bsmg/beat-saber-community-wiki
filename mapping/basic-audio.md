@@ -62,11 +62,11 @@ In all cases above you will need to time shift the song to an appropriate time b
 
 ## Sync the Song to the Beat
 1. Select the Time Shift Tool (![Time Shift Tool](/uploads/wiki/timeshift.png)).
-2. Left click on the song track and hold, then drag the audio so that the first planned mapped note(s) in your song ends up within the appropriate seconds (see timeline above the track) to avoid a “Hot Start” or too long intro (See Planning the First Notes if you haven’t already).
+2. Left click on the song track and hold, then drag the audio so that the first planned mapped note(s) in your song ends up within the appropriate seconds (see timeline above the track) to avoid a “Hot Start” or too long intro (See [Plan Your First Notes](/mapping/basic-audio#plan-your-first-note) if you haven’t already).
 3. Release to place the audio in the new position.
 4. Play back the audio in this position. The song will be out of sync, so find the closest beat in the click track and align your song to the beat (click track) by moving it backward or forwards in time by small increments. Zoom in for better accuracy. Repeat until it sounds spot on.
-5. When you think you’ve found the beats of the song to match the Click Track review the whole song to ensure that the BPM you have is the correct one and that the song is in the same fixed BPM throughout the whole song. If not, you might have gotten the wrong BPM, in which case try to tap out the BPM again manually, see “Manual BPM Calculation”. 
-> If BPM is correct for parts of the song but suddenly change then you most likely have a song with Variable BPM, see [Advanced Audio Editing Variable BPM](/mapping/advanced-audio#variable-bpm) for more info.
+5. When you think you’ve found the beats of the song to match the Click Track review the whole song to ensure that the BPM you have is the correct one and that the song is in the same fixed BPM throughout the whole song. If not, you might have gotten the wrong BPM, in which case try to tap out the BPM manually (again), see “Manual BPM Calculation”. 
+> If BPM is correct for the first part of the song but suddenly change then you most likely have a song with Variable BPM, see [Advanced Audio Editing Variable BPM](/mapping/advanced-audio#variable-bpm) for more info on this subject.
 {.is-warning}
 
 Below shows how it looks like when the first planned mapped note(s) (cursor position) are placed after 2 seconds and the beats of the song is synced to the BPM/Click Track.
