@@ -102,8 +102,8 @@ To check the RMS value in your song do the following:
 2. With the Contrast Analysis window still open, select a part of the chorus section (about 15-20 seconds) of your song
 3. Click any of the Measure selection buttons. (We only need to use one.)
 4. In the Volume output field you will now find a value. Compare this value to the recommended values above.
-5. If this value is smaller (more negative) than the recommended values, see “Volume Modification, Making it Louder”.
-6. If this value is bigger than (less negative) than the recommended values see “Volume Modification, Making it Softer”.
+5. If this value is smaller (more negative) than the recommended values, see [Volume Modification: Making Your Song Louder](/mapping/basic-audio#making-your-song-louder).
+6. If this value is bigger than (less negative) than the recommended values see [Volume Modification: Making Your Song Softer](/mapping/basic-audio#making-your-song-softer).
 ![Analyzing song volume with Audacity](https://i.imgur.com/EmfULcw.png)
 ## Volume Modification
 Before you continue with the next steps with the song editing it highly recommended to save your current progress as a WAVE file as a backup. This is to ensure that you if you need to go back and redo some of the editing you will have a high quality source to use. (Don’t load the OGG you exported as it will have lost a lot of the source quality.) Remove the Click Track if you haven’t already done so, then go to `File menu -> Export -> Export as WAV`, then save the file to a location of your choice.
