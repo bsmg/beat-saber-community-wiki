@@ -16,10 +16,11 @@ These recommendations are **not** requirements but will help to ease you into ma
 # Audio Quality
 Before you begin mapping, ensure you have a high quality source file for your song. Many maps have terrible audio files, often from YouTube rips or low bitrate files. Follow these general guidelines as you work on your maps:
 
-* Use the highest quality source you can find such as WAV(E) or FLAC files (lossless format). A close second are high bitrate (+200kbps) MP3 or AAC files (lossy formats). Often an artist’s [Bandcamp](https://bandcamp.com/), [SoundCloud](https://soundcloud.com) (if they offer downloads) or other sites where you can buy the tracks/album will have the highest quality source.
+* Use the highest quality source you can find such as WAV(E) or FLAC files (lossless format).
+* A close second are high bitrate (+200kbps) MP3 or AAC files (lossy formats). Often an artist’s [Bandcamp](https://bandcamp.com/), [SoundCloud](https://soundcloud.com) (if they offer downloads) or other sites where you can buy the tracks/album will have the highest quality source.
 * Use a YouTube rip **only** as a last resort. The bitrate is low and the volume is seldom right. In this case some audio editing might be required (see [Editing with Audacity](#)).
 
-See the [Advanced Audio Editing](/mapping/advanced-audio) page for more in-depth techniques and tools for analysing the high quality audio.
+See the [Advanced Audio Editing](/mapping/advanced-audio) page for more in-depth techniques and tools for analysing the audio quality of files.
 # Finding the BPM
 There are three ways to find the BPM for the song which you want to map. Try them in order (easiest to hardest) if the you don't get any results:
 ## Online Search
