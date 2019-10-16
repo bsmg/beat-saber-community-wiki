@@ -1,5 +1,5 @@
 <!-- TITLE: Basic Audio Setup-->
-<!-- SUBTITLE: Get your audio file tune up, set up, and ready for mapping -->
+<!-- SUBTITLE: Get your audio file set up and ready for mapping -->
 
 **Content in this section is derived from original guides by Kolezan & Nik.** Many thanks to contributors from across the mapping community who made this expanded wiki possible!
 * [Frequently Asked Questions](/mapping/faq)
