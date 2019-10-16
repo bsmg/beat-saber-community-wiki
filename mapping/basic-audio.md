@@ -16,7 +16,7 @@ These recommendations are **not** requirements but will help to ease you into ma
 # Audio Quality
 Before you begin mapping, ensure you have a high quality source file for your song. Many maps have terrible audio files, often from YouTube rips or low bitrate files. Follow these general guidelines as you work on your maps:
 
-* Use the highest quality source you can find such as **FLAC or WAV(E) **files (lossless format).
+* Use the highest quality source you can find such as **FLAC or WAV(E)** files (lossless format).
 * A close second are high bitrate (+200kbps) **MP3 or AAC** files (lossy formats). 
 * Use a YouTube rip **only** as a last resort. The bitrate is low and the volume is seldom right. In this case some audio editing might be required (see [Editing with Audacity](#)).
 
