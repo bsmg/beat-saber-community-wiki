@@ -22,7 +22,7 @@ Before you begin mapping, ensure you have a high quality source file for your so
 
 See the [Advanced Audio Editing](/mapping/advanced-audio) page for more in-depth techniques and tools for analysing the audio quality of files.
 # Finding the BPM
-There are three ways to find the BPM for the song which you want to map. Try them in order (easiest to hardest) if the you don't get any results:
+There are three ways to find the BPM for the song which you want to map. Try them in order (easiest to hardest) if you don't get any results:
 ## Online Search
 You can search online using a search engine site (e.g. [Google](http://google.com) in your web browser for `[song name] + [artist] + “bpm”` and often find a number of sites (e.g. [SongBPM.com](https://songbpm.com/)) with this information.
 ## Tool-Assisted BPM Calculation
