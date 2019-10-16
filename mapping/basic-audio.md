@@ -91,7 +91,7 @@ If your track has arrows pointing to the left at the start it means you’ve tim
 4. (Optional) Go to `Effect menu -> Fade In`.
 5. Done.
 
-Before trim and fade-in (left) and after trim and fade-in applied (right):
+Before (left) and after trim and fade-in applied (right):
 ![Trimming the song intro](https://i.imgur.com/AbKyyl4.png)
 
 ## Check Song Volume
