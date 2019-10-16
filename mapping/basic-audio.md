@@ -113,10 +113,11 @@ Before you continue with the next steps with the song editing it highly recommen
 ### Making Your Song Louder
 If your song’s chorus has a lower RMS value than the recommended **-11db** then you will need to do Compression and/or Limiting to bring the volume up. (Note: Amplify/Gain is not used for this, as anything above 0db will create an unpleasant distortion.)
 
-To check if you need to apply Compressor before Limiter visually analyse the waveform. If there are a lot of sharp peaks with a pretty constant body throughout the song, as shown in the example below, then you will not need to apply compressor. Only a Limiter will suffice (skip to Limiter).
+To check if you need to apply Compressor before Limiter visually analyse the waveform. If there are a lot of sharp peaks with a pretty constant body throughout the song, as shown in the example below, then you will not need to apply compressor. Only a Limiter will suffice (skip to [Limiter](/mapping/basic-audio#limiter)).
 ![Viewing a song that is too quiet](https://i.imgur.com/mcuODfJ.png)
 However, if the waveform varies a lot between soft and loud parts then compression will most likely be needed first.
-### Compression
+
+#### Compression
 1. Select the whole song track (Double click on the track)
 2. Go to Effects menu -> Compressor
 3. As a starting point, copy the settings below and click OK. Make sure that Compress based on Peaks is checked.
@@ -136,13 +137,14 @@ To know if you’ve reached the right volume after compressing and limiting chec
 1. Open Contrast Analyzer in `Analyze menu -> Contrast…`
 2. With the Contrast Analysis window still open, select a part of the chorus section (about 15-20 seconds) of your song.
 3. Click any of the Measure selection buttons. (We only need to use one.)
-4. In the Volume output field you will now find a value. This value should be between -8.5db and -9.5db for optimal level. If not, undo the limiter process and increment the Input Gain by +/-0.5db and try again.
+4. In the `Volume output` field you will now find a value. This value should be between -8.5db and -9.5db for optimal level. If not, undo the limiter process and increment the `Input Gain` by +/-0.5db and try again.
 
 After limiting you will have something like this:
 ![Song after limiting](https://i.imgur.com/TRkvzTc.png)
 You can now skip to “Outro/Trimming the End”.
+
 ### Making Your Song Softer
-Some modern electronic music producers have a tendency to make their songs really loud (killing any dynamic range in the process) just to have a louder track. In the rare cases you have this kind of song (**RMS value above -8.5db**) it is **strongly recommended** to lower the volume of the song to make all Beat Saber songs normalized. This helps with hearing the note slice sounds better and to give the players a much more pleasant experience switching between songs.
+Some modern electronic music producers have a tendency to make their songs really loud just to have a track louder than other's. In the rare cases you have this kind of song (**RMS value above -8.5db**) it is **strongly recommended** to lower the volume of the song to make all Beat Saber songs normalized. This helps with hearing the note slice sounds better and to give the players a much more pleasant experience switching between songs.
 
 Before you lower the volume you want to know approximately how much you need to lower the volume with. Do this by checking with the RMS volume tool:
 1. Open Contrast Analyzer in `Analyze menu -> Contrast…`
@@ -154,20 +156,21 @@ Before you lower the volume you want to know approximately how much you need to 
 Now let’s use the Amplify effect to lower the volume:
 1. Select the whole song (Double click the song track)
 2. Go to `Effects menu -> Amplify...`
-3. Enter the difference value you calculated earlier (it should be negative) into the Amplification field:
+3. Enter the difference value you calculated earlier (it should be negative) into the `Amplification` field:
 ![Amplification menu](https://i.imgur.com/OoyhGek.png)
-New Peak Amplification field will repeat what the first input field says, this is normal for a song that is already peaking at 0db.
+`New Peak Amplification` field will repeat what the first input field says, this is normal for a song that is already peaking at 0db.
 4. Click OK to apply a negative Amplify effect.
 5. Done.
 
 To know if you’ve reached the right volume check again with the RMS volume tool:
 1. Open Contrast Analyzer in `Analyze menu -> Contrast…`
 2. With the Contrast Analysis window still open, select a part of the chorus section (about 15-20 seconds) of your song.
-3. Click any of the Measure selection buttons. (We only need to use one.)
-4. In the Volume output field you will now find a value. This value should be between -8.5db and -9.5db for optimal level. If not, undo the Amplify process and increment the Input value by +/- 0.5db and try again.
+3. Click any of the `Measure selection` buttons. (We only need to use one.)
+4. In the `Volume output` field you will now find a value. This value should be between -8.5db and -9.5db for optimal level. If not, undo the Amplify process and increment the Input value by +/- 0.5db and try again.
 
 After the negative value Amplify effect your song will look something like this:
 ![Amplification effect](https://i.imgur.com/EIu7AFi.png)
+
 ### Trimming the Outro
 In Beat Saber the map will continue for as long as the audio file lasts. E.g. this means that having silence for five seconds after the song has ended the map will still play for five seconds before terminating and bringing the player to the score view. This is why it’s important to mind the time from the last note to when the audio track ends.
 
@@ -181,7 +184,7 @@ To trim the ending at this point do the following:
 
 The song will now fade out just before it gets to the end of the map and the player will be presented with the scoring results much faster.
 # Exporting
-We now have our finished audio that you will use and hear in the editor and the game. It is recommended to make another WAVE file backup just in case you need to export to OGG again in a lower quality. (`File menu -> Export as WAV`).
+We now have our finished audio that you will use and hear in the editor and the game. It is recommended to make another WAVE file backup just in case you need to export to OGG again with a different quality setting. (`File menu -> Export as WAV`).
 
 To generate a compatible sound file to use we need to do the following:
 1. Delete the Click Track (if you haven’t already done so).
@@ -192,5 +195,5 @@ To generate a compatible sound file to use we need to do the following:
 * b. Low quality source (YouTube or such): use 3-5; 
 5. Click Save.
 
-The song/audio file is now ready to be used in any map editor. Input the BPM you got earlier in your map editor of choice and make sure to use 0ms offset for all difficulties (since the song is already synced to the beat).
+The song/audio file is now ready to be used in any map editor. Input the same BPM you got earlier in your map editor of choice and make sure to use 0ms offset for all difficulties (since the song is already synced to the beat).
 >Audio file should not be larger than ~14 MB due to the BeatSaver 15 MB ZIP file limit. If this is the case export at a lower quality until the file meets the file size limit. ZIP files over 8 MB cannot be shared directly on Discord (without Nitro) for playtesting.{.is-info}
