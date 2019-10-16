@@ -50,15 +50,15 @@ If everything was correctly input you will have something like this:
 
 This click track is completely in sync with the beats in the map editor and game, but the song is currently not synced. Continue below for how to do that.
 ## Plan Your First Note
-Think about the intro of your song. Depending on where in the song you want to place your first block, you'll need to avoid both a *hot start* (not enough time before the first block) and a too-long intro. Your song will fit into one of three categories:
+Analyse the intro of the song. Depending on where in the song you want to place your first block, you'll need to avoid both a *hot start* (not enough time before the first block) and a too-long intro. Your song will fit into one of three categories:
 1. **Songs with no intro:** It is critical to leave at **minimum two seconds** of preparation time for the player before the first playable note(s) in your map, otherwise this is known as a “Hot Start.”
 2. **Songs with a short intro:** If your song has a short intro that is **less than eight seconds** it is OK for the music to start playing immediately.
-3. **Songs with a long intro:** If the song has a very long and uneventful/fade-in intro for **more than ten seconds** it is strongly recommended to place the first notes within eight seconds from map start.
+3. **Songs with a long intro:** If the song has a very long and uneventful/fade-in intro for **more than ten seconds** it is strongly recommended to shorten the intro so the first note(s) are placed within eight seconds from map start.
 
 In all cases above you will need to time shift the song to an appropriate time based on your needs:
-1. **No intro:** Move the song back in time, placing the first mapped note(s) after two seconds. Then sync the song to the beat (See Sync the Song to the Beat). Later fill the gap with silence (See Adding Silence).
-2. **Short Intro:** Sync the song to the beat (See Sync the Song to the Beat) and then fill the gap with silence (See Adding Silence) or trim the audio before 0 seconds depending on which case applies (See Trimming the Intro).
-3. **Long intro:** Move the song forward in time, placing the first note(s) within 8 seconds (See Sync the Song to the Beat), then trim the audio before 0 seconds (See Trimming the Intro).
+1. **No intro:** Move the song back in time (to the right in the audio track), placing the first mapped note(s) after two seconds. Then sync the song to the beat (See [Sync the Song to the Beat](/mapping/basic-audio#sync-the-song-to-the-beat)). Later fill the gap with silence (See [Add Silence](/mapping/basic-audio#add-silence)).
+2. **Short Intro:** Sync the song to the beat (See Sync the Song to the Beat) and then fill the gap with silence (See [Add Silence](/mapping/basic-audio#add-silence)) or trim the audio before 0 seconds depending on which case applies (See [Trim the Intro](/mapping/basic-audio#trim-the-intro)).
+3. **Long intro:** Move the song forward in time, placing the first note(s) within 8 seconds (See [Sync the Song to the Beat](/mapping/basic-audio#sync-the-song-to-the-beat))), then trim the audio before 0 seconds (See [Trim the Intro](/mapping/basic-audio#trim-the-intro)).
 
 ## Sync the Song to the Beat
 1. Select the Time Shift Tool (![Time Shift Tool](/uploads/wiki/timeshift.png)).
