@@ -34,10 +34,10 @@ To work with audio and do processing of the soundwaves there are several tools a
 
 ## Compressor
 
-More indepth information about compressors can be found here: https://www.practical-music-production.com/audio-compressor/
+More indepth information about compressors [can be found here](https://www.practical-music-production.com/audio-compressor/).
 
 ## Limiter
-More indepth information about limiters can be found here: https://www.practical-music-production.com/audio-limiter/
+More indepth information about limiters [can be found here](https://www.practical-music-production.com/audio-limiter/).
 # Song Editing using Cross-fades
 When editing a shorter version of a song and a simple hard immediate cut between two similar sections of a song isn’t enough to convince your ears (usually the sections aren’t perfectly the same, usually in non-electronic music) then applying a cross-fade between the sections usually helps. Any type of restructuring editing is easier in a DAW software that uses beat grid editing, but it is possible to do the same in the free software of Audacity as well, which we will show here.
 
