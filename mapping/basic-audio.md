@@ -108,7 +108,7 @@ To check the RMS value in your song do the following:
 ![Analyzing song volume with Audacity](https://i.imgur.com/EmfULcw.png)
 ## Volume Modification
 Before you continue with the next steps with the song editing it highly recommended to save your current progress as a WAVE file as a backup. This is to ensure that you if you need to go back and redo some of the editing you will have a high quality source to use. (Don’t load the OGG you exported as it will have lost a lot of the source quality.) Remove the Click Track if you haven’t already done so, then go to `File menu -> Export -> Export as WAV`, then save the file to a location of your choice.
-> Doing any kind of audio editing on a song will inevitably change its sound, however, it's an imporant step to give your players the best map and song experience.
+> Doing any kind of audio processing on a song will inevitably change its sound, however, it's an imporant step to give your players the best map and song experience.
 {.is-info}
 
 ### Making Your Song Louder
