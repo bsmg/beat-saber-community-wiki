@@ -64,6 +64,8 @@ An example of how compression affects the audio, highlighted part has been compr
 > 3. To maximize track height go to `View -> Track Size -> Fit to Height` or simply press `Ctrl + Shift + F`. This will show more of the scale.
 > ![Track](https://i.imgur.com/2zWoX9q.png)
 
+One handy feature with this plug-in is the `Enable` tickbox, which will let you play back the audio and adjust the settings in real time. This way you can monitor your changes right away.
+
 More in-depth information about compressors [can be found here](https://www.practical-music-production.com/audio-compressor/).
 
 ## Limiter
