@@ -14,8 +14,9 @@ These recommendations are **not** requirements but will help to ease you into ma
 * Choose a song on the shorter side (less than 3 minutes is better). Mapping a 10-minute epic to start with may lead to frustration and/or burn out.
 * Finally, choose a song that you don’t mind listening to over and over and over and over again. But avoid mapping your favorite song as your first few maps, save that for when you’re more experienced.
 # Audio Quality
-Before you begin mapping, ensure you have a high quality source file for your song. Many maps have terrible audio files, often from YouTube rips or low bitrate files. Follow these general guidelines as you work on your maps:
+Before you begin mapping, ensure you have a high quality source file for your song. Many maps have terrible audio files, often from YouTube rips or low bitrate files. This is a game for music after all, so having good audio is essential for a good player experience.
 
+Follow these general guidelines as you work on your maps:
 * Use the highest quality source you can find such as **FLAC or WAV(E)** files (lossless format).
 * A close second are high bitrate (+200kbps) **MP3 or AAC** files (lossy formats). 
 * Use a YouTube rip **only** as a last resort. The bitrate is low and the volume is seldom right. In this case some audio editing might be required (see [Editing with Audacity](#)).
