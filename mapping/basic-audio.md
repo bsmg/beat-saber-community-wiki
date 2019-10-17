@@ -118,7 +118,7 @@ To check if you need to apply Compressor before Limiter visually analyse the wav
 ![Viewing a song that is too quiet](https://i.imgur.com/mcuODfJ.png)
 However, if the waveform varies a lot between soft and loud parts then compression will most likely be needed first.
 
-#### Compression
+### Compression
 1. Select the whole song track (Double click on the track)
 2. Go to Effects menu -> Compressor
 3. As a starting point, copy the settings below and click OK. Make sure that Compress based on Peaks is checked.
@@ -126,7 +126,7 @@ However, if the waveform varies a lot between soft and loud parts then compressi
 Here’s a before (top) and after (bottom) Compressor comparison:
 ![Before and after compression](https://i.imgur.com/M6A60eV.png)
 
-#### Limiter
+### Limiter
 The compressor reduces many of the unnecessary peaks and makes the more important sounds louder. However, we still haven’t reached the right RMS volume for the song. To achieve this we will remove more of the headroom using the Limiter effect:
 1. Select the whole song (Double click the song track)
 2. Go to `Effects menu -> Limiter…`
