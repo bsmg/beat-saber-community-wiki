@@ -30,14 +30,15 @@ To know what level is ideal for your song you can export your track with differe
 You can’t increase audio quality by saving a lossy track with a higher bitrate (e.g. saving a YouTube-sourced track with level 10 quality), you will only bloat the file size. As explained in the previous chapter, information is lost when transcoding to any lossy format and thus can’t be restored. Transcoding one lossless format to another lossless format is fine though, e.g. FLAC to WAV(E).
 
 # Explaning Audio Processing
+> This section is under construction{is.warning}
 To work with audio and do processing of the soundwaves there are several tools available to help achieve what we want or need. Two of these tools used are *Compressor* and *Limiter* which we used for volume processing in [Volume Modification: Making Your Song Louder](/mapping/basic-audio#making-your-song-louder). Below these tools are explained in more detail:
 
 ## Compressor
-
-More indepth information about compressors [can be found here](https://www.practical-music-production.com/audio-compressor/).
+In essence, a Compressor reduces the dynamics above a certain threshold, ultimately making the audio signal less dynamic and lower in volume. When also boosting the signal after a compressor (Make Up Gain) you can make the audio signal be perceived even louder than before.
+More in-depth information about compressors [can be found here](https://www.practical-music-production.com/audio-compressor/).
 
 ## Limiter
-More indepth information about limiters [can be found here](https://www.practical-music-production.com/audio-limiter/).
+More in-depth information about limiters [can be found here](https://www.practical-music-production.com/audio-limiter/).
 # Song Editing using Cross-fades
 When editing a shorter version of a song and a simple hard immediate cut between two similar sections of a song isn’t enough to convince your ears (usually the sections aren’t perfectly the same, usually in non-electronic music) then applying a cross-fade between the sections usually helps. Any type of restructuring editing is easier in a DAW software that uses beat grid editing, but it is possible to do the same in the free software of Audacity as well, which we will show here.
 
