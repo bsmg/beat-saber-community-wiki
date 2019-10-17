@@ -35,7 +35,35 @@ You can’t increase audio quality by saving a lossy track with a higher bitrate
 To work with audio and do processing of the soundwaves there are several tools available to help achieve what we want or need. Two of these tools used are *Compressor* and *Limiter* which we used for volume processing in [Volume Modification: Making Your Song Louder](/mapping/basic-audio#making-your-song-louder). Below these tools are explained in more detail:
 
 ## Compressor
-In essence, a Compressor reduces the dynamics above a certain threshold, ultimately making the audio signal less dynamic and lower in volume. When also boosting the signal after a compressor (Make Up Gain) you can make the audio signal be perceived even louder than before.
+In essence, a Compressor reduces the dynamics above a certain threshold, ultimately making the audio signal less dynamic and lower in volume. When also boosting the signal after a compressor (Make Up Gain/Normalize) you can make the audio signal be even louder than before when measuring with RMS.
+
+The Compressor effect shipped with Audacity is actually not the best tool for music mastering because it is made for more speech oriented audio. However, it is very simple to use which is why it is used in [Volume Modification: Compression](https://bsmg.wiki/mapping/basic-audio#compression) and basic settings are provided that work for most cases. However, if you're reading this you either noticed an unpleasant distortion in the sound (the sound cuts out a bit after loud peaks) or you're curious about the settings you can adjust in a compressor, so let's take a look at those settings using the more advanced [SC4 plug-in](https://ttmanual.audacityteam.org/o/man/sc4.html) for Audacity (you may need to install the [LADSPA bundle](http://www.audacityteam.org/download/plug-ins/#ladspa) to get access to this tool).
+
+![SC4](https://i.imgur.com/yIVsuuc.png)
+
+**RMS/peak:** Somewhat unique to this particular plug-in, you can think of it as an aggressivness slider. For our purpose we want it set to Peak, **1.0**.
+
+**Attack time (ms):** How soon the compressor starts to compress the dynamics after the threshold is exceeded, in milliseconds. To make the compressor as transparent as possible setting it to **1.5 ms** is recommended.
+
+**Release time (ms):** How soon the compressor starts to release the volume level back to normal after the level drops below the threshold, in milliseconds. To make the compressor as transparent as possible setting it to **2.0 ms** is recommended. This setting is one reason the Compressor effect shipped with Audacity isn't optimal as it only allows Release times at shortest 1 second.
+
+**Threshold level (dB):** The level at which the compressor will start to apply.
+
+**Ratio (1:n):** The gain reduction ratio used when the signal level exceeds the threshold level. A good starting point is **1:3**. Turn this up to have an even more aggressive reduction.
+
+**Knee radius (dB):** The distance from the threshold where the knee curve starts. Setting this to **1 dB** or less should be sufficient.
+
+**Makeup gain (dB):** The amount of gain added to the processed result. Compared to the Compressor effect shipped with Audacity there is no *Make-up gain to 0dB after compressing* setting in this plug-in. However, you can easily set this to 0dB and then apply a *Normalize* effect to 0dB to the whole song and it will do the exact same processing.
+
+An example of how compression affects the audio, highlighted part has been compressed at 1:3 ratio with a threshold at -30db (red line).
+![Compression](https://i.imgur.com/6VMXy3j.png)
+
+> **Tip:** To make it easier to visually judge the dynamics of the song in dB you can set the threshold at do the following:
+> 1. Left-click the track label and choose `Waveform (dB)`. This will show a logarithmic waveform with dB in the scale instead of a linear scale.
+> 2. To increase the scale right click the scale on the left of the tack and click Half Wave.
+> 3. To maximize track height go to `View -> Track Size -> Fit to Height` or simply press `Ctrl + Shift + F`. This will show more of the scale.
+> ![Track](https://i.imgur.com/2zWoX9q.png)
+
 More in-depth information about compressors [can be found here](https://www.practical-music-production.com/audio-compressor/).
 
 ## Limiter
