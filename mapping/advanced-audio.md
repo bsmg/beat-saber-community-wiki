@@ -28,6 +28,14 @@ To know what level is ideal for your song you can export your track with differe
 * Low quality source (MP3 / AAC / OGG): choose an OGG quality level between 5 to 3.
 
 You can’t increase audio quality by saving a lossy track with a higher bitrate (e.g. saving a YouTube-sourced track with level 10 quality), you will only bloat the file size. As explained in the previous chapter, information is lost when transcoding to any lossy format and thus can’t be restored. Transcoding one lossless format to another lossless format is fine though, e.g. FLAC to WAV(E).
+
+# Explaning Audio Processing
+To work with audio and do processing of the soundwaves there are several tools available to help achieve what we want or need. Two of these tools used are *Compressor* and *Limiter* which we used for volume processing in [Volume Modification: Making Your Song Louder](/mapping/basic-audio#making-your-song-louder). Below these tools are explained in more detail:
+
+## Compressor
+
+## Limiter
+
 # Song Editing using Cross-fades
 When editing a shorter version of a song and a simple hard immediate cut between two similar sections of a song isn’t enough to convince your ears (usually the sections aren’t perfectly the same, usually in non-electronic music) then applying a cross-fade between the sections usually helps. Any type of restructuring editing is easier in a DAW software that uses beat grid editing, but it is possible to do the same in the free software of Audacity as well, which we will show here.
 
@@ -40,7 +48,7 @@ There is also a video of this process [available here](https://www.youtube.com/w
 2. Duplicate the song track (`Select menu -> All + Edit menu -> Duplicate`, or simply press `Ctrl+A` then `Ctrl+D`.)
 3. Roughly fill the unwanted end of the first track and unwanted start of the second track with silence (Select, then `Generate menu -> Silence...`).
 ![Cut song section](https://i.imgur.com/IRiNCz0.png "Cut song section")
-4. Align the tracks by using the Time Shift Tool (![Time Shift Tool](/uploads/wiki/timeshift.png)) to move the second track to a place roughly in place so the similar sections are close to each other. Then zoom in and adjust again, then repeat till the waveform changes to dots when you zoom. Align the dots on the bottom track with the similar peaks and lows with the top track, if possible. (Tip: Utilize a Click Track to make sure the tracks are in time with each other. See * [Audio Preparation: Adding Click Track](https://bsmg.wiki/mapping/basic-audio#add-a-click-track).)
+4. Align the tracks by using the Time Shift Tool (![Time Shift Tool](/uploads/wiki/timeshift.png)) to move the second track to a place roughly in place so the similar sections are close to each other. Then zoom in and adjust again, then repeat till the waveform changes to dots when you zoom. Align the dots on the bottom track with the similar peaks and lows with the top track, if possible. (Tip: Utilize a Click Track to make sure the tracks are in time with each other. See [Audio Preparation: Adding Click Track](https://bsmg.wiki/mapping/basic-audio#add-a-click-track).)
 ![Zoomed syncing](https://i.imgur.com/9jyrzzv.png "Zoomed syncing")
 5. The last section of the top track should now be identical or similar to the first section of the bottom track but from different times in the song. Listen to the overlapping area to confirm a match, making sure there is no echo/offset from misaligned tracks.
 >Tip: To avoid overdrive/clipping from two -0db peaking tracks you can set the faders for both tracks to -6db ![Fader](https://i.imgur.com/kvsHvMT.png) then later back to +0db after the crossfade has been applied. Double click the fader to type in the number.
