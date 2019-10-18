@@ -142,7 +142,7 @@ The **Error Checker** functionality is one of the top quality of life features f
 6. **Clear Errors:** Clears highlighting from all error blocks. They’re still errors, just not marked. 
 7. **Previous/Next:** Jumps you backwards or forwards through your map to each highlighted error.
 8. **Stat Panel:** A wondrous box of delicious statistical information that can help you ensure that your map is leveled appropriately and follows row placement best practices.
-9.** Lightmap Integration:** Not part of error checking, and not covered in this guide, but this is how you can add fast (but terrible) lights.
+9. **Lightmap Integration:** Not part of error checking, and not covered in this guide, but this is how you can add fast (but terrible) lights.
 
 ### Highlighted Errors
 Once you click “Check for [error of your choice]” pay attention to the bottom center of your screen. Red text will pop up that tells you how many errors were found within the specified number of beats:
