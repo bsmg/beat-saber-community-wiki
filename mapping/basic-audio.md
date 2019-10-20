@@ -77,7 +77,7 @@ After time shifting the song you will need to add silence, continue below on how
 After syncing the song to the beat manually or by using Vortex Arrow you will have to add silence to the intro of the song. You may also need to do other edits if they’re necessary. More on that below.
 
 ## Add Silence
-If the waveform/audio clip has a gap to the timeline start (0,0 seconds) you will need to add silence to the audio, or else Audacity will export from the start of the audio clip and yu will lose any sync you've done. Do the following to add silence:
+If the waveform/audio clip has a gap to the timeline start (0,0 seconds) you will need to add silence to the audio, or else Audacity will export from the start of the audio clip and you will lose any sync you've done. Do the following to add silence:
 1. Switch to the Selection Tool (![Selection Tool](/uploads/wiki/selection.png)) and select the empty space between the audio clip and the start of the track (Yellow vertical lines will indicate the start and end edges when you make a selection).
 2. Click Generate menu – > Silence…
 3. The right amount of silence should already be input automagically so just hit OK. (After generating the silence you can click the dark line in the song track to get rid of the cut.)
