@@ -77,14 +77,14 @@ This seems to happen when updating Beat Saber and having mods installed previous
 ## Framerate Issues
 ### 2.3 The game stutters unbearably after installing mods
 If the game lags so badly that you can barely click the `Continue` button on the Health & Saftey screen, then verify files if you have the game on Steam, or reinstall the game on Oculus Home. 
-Do the same if it won't start up at all, and shows no error messages when trying to launch the game.
+Do the same if it won't start up at all and shows no error messages when trying to launch the game.
 
 If that didn't solve the issue, then check section [2.4 Improving framerate](#framerate-issues)
 
 ### 2.4 Improving Framerate
 If [2.3](#2-3-the-game-stutters-unbearably-after-installing-mods) didn't improve your fps, then your PC might simply be struggling to keep up with the stress caused by mods. Here are some things you can do to improve framerate, in no particular order:
 
-**NVDIA GEFORCE EXPERIENCE NOW OPTIMIZES BEATSABER, IT USUALLY SETS YOUR GAMES RENDERING SCALE PAST 1.0 (DEFAULT), USUALLY 1.4 or 1.8 THIS IS THE COMMON REASON FOR LAG RECENTLY**
+**NVIDIA GEFORCE EXPERIENCE NOW OPTIMIZES BEATSABER, IT USUALLY SETS YOUR GAMES RENDERING SCALE PAST 1.0 (DEFAULT), USUALLY TO 1.4 OR 1.8. THIS IS THE COMMON REASON FOR LAG RECENTLY.**
 
 * Use a less complex custom avatar.
 * The custom saber **Plasma Katanas** have tons of custom events and are known to introduce lag if you miss.
@@ -95,6 +95,7 @@ If [2.3](#2-3-the-game-stutters-unbearably-after-installing-mods) didn't improve
 * Perform a clean reinstall of the game files. [Clean Installation](#clean-installation)
 * Low framerate can also be caused by something going wrong within your application data folder, to fix this refer to [Deleting The Beatsaber Folder Within Your App Data](#deleting-your-beat-saber-saves-in-app-data)
 * CountersPlus counters like scorecounter and swing speed can be expensive. [See this github wiki page on performance with Counters+](https://github.com/Caeden117/CountersPlus/wiki/Performance-and-Optimization)
+* HTTPStatus mod can cause lag spikes. Test without this mod to see if the lag spikes go away.
 
 VR is very CPU intensive, especially if you add mods. If you're struggling to run the game with the mods you want, consider upgrading your hardware. 
 Note that Beat Saber doesn't utilize the GPU very much as visually it's a fairly simple game.
