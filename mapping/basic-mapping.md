@@ -35,6 +35,7 @@ For more on row usage in different difficulties, see Gauging Difficulty.
 
 >If you’re using [Mediocre Mapper](/mapping/mediocre-mapper) as your editor you can hit <kbd>SHIFT+TAB</kbd> to open the error checker then click “Stat Panel” to see this breakdown.
 {.is-info} 
+
 >Certain styles of maps (like dance maps) will have a higher percentage of blocks on the top row but always remember to consider your target audience and their comfort.
 {.is-warning}
 # Vision Blocks
