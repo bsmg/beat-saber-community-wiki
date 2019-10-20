@@ -23,7 +23,6 @@ When you’re ready to prepare your song for upload you must have a minimum of f
 Directional Blocks | Dot Blocks | Bombs | Walls
 -------------- | -------------- | -------------- | --------------
 Image 1 | Image 2 | Image 3 | Image 4
--------------- | -------------- | -------------- | --------------
 Contents 1 | Contents 2 | Contents 3 | Contents 4
 ## Block Distribution
 # Vision Blocks
