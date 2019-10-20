@@ -84,7 +84,7 @@ If that didn't solve the issue, then check section [2.4 Improving framerate](#fr
 ### 2.4 Improving Framerate
 If [2.3](#2-3-the-game-stutters-unbearably-after-installing-mods) didn't improve your fps, then your PC might simply be struggling to keep up with the stress caused by mods. Here are some things you can do to improve framerate, in no particular order:
 
-**NVDIA GEFORCE EXPERIENCE NOW OPTIMIZES BEATSABER, IT USUALLY SETS YOUR GAMES RENDERING SCALE PAST 1.0, USUALLY 1.4 or 1.8 THIS IS THE COMMON REASON FOR LAG RECENTLY**
+**NVDIA GEFORCE EXPERIENCE NOW OPTIMIZES BEATSABER, IT USUALLY SETS YOUR GAMES RENDERING SCALE PAST 1.0 (DEFAULT), USUALLY 1.4 or 1.8 THIS IS THE COMMON REASON FOR LAG RECENTLY**
 
 * Use a less complex custom avatar.
 * The custom saber **Plasma Katanas** have tons of custom events and are known to introduce lag if you miss.
