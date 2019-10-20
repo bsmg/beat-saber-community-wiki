@@ -25,6 +25,18 @@ Directional Blocks | Dot Blocks | Bombs | Walls
 Image 1 | Image 2 | Image 3 | Image 4
 Contents 1 | Contents 2 | Contents 3 | Contents 4
 ## Block Distribution
+As a *very general* rule of thumb for new mappers, blocks should be distributed roughly as follows:
+
+* 60-80% on the bottom row
+* 10% or less on the top row
+* The rest on the middle row
+
+For more on row usage in different difficulties, see Gauging Difficulty.
+
+>If you’re using [Mediocre Mapper](/mapping/mediocre-mapper) as your editor you can hit <kbd>SHIFT+TAB</kbd> to open the error checker then click “Stat Panel” to see this breakdown.
+{.is-info} 
+>Certain styles of maps (like dance maps) will have a higher percentage of blocks on the top row but always remember to consider your target audience and their comfort.
+{.is-warning}
 # Vision Blocks
 # Double Directionals & Resets
 # Pattern Best Practices
