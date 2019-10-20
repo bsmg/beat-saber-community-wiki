@@ -158,8 +158,8 @@ Your CameraPlus display isn't filling up your canvas. Either drag the corner to 
 
 ## Beatsaver Downloader
 ### 3.10 Beatsaver Downloader More Songs Button
-The **More Songs button is located in the Mods button in the main menu**, if the button for More Songs is greyed out then make sure all your songs loaded first, as seen in the bar on the main menu
-if your mods button isnt there then kindly make sure your plugins and dependencies are working and installed properly, refer to [No Mods In Game](#1-4-no-mods-in-game).
+**The More Songs button is located in the Mods button in the main menu**. If the button for More Songs is greyed out then make sure all your songs loaded first, as seen in the bar on the main menu
+If your Mods button isn't there then kindly make sure your plugins and dependencies are working and installed properly, refer to [No Mods In Game](#1-4-no-mods-in-game).
 
 ### 3.11 Nothing Showing Up In The More Songs Menu
 The probable causes for beatsaver downloader not working are:
