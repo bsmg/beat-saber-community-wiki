@@ -85,10 +85,10 @@
 **Loloppe Notes:** Two same direction blocks placed side-by-side such that hitting both requires abusing the block hitbox. Named after the mapper who made them famous.
 # M
 **Mapping Extensions:** A mod developed by Kyle1314 that allows mappers access to a number of unique utilities for advanced mapping. See also Precision Placement, Precision Rotation, JSON Walls
-**Mediocre Mapper:** The most popular community mapper. Developed by squeaksies as a fork of the original EditSaber editor by Ikiewa. No longer in development or supported by sq
+**Mediocre Mapper:** The most popular community mapper. Developed by squeaksies as a fork of the original EditSaber editor by Ikiewa. No longer in development or supported by its author
 **Mine:** A *block* that looks like a spiky circle and that damages the player if their saber touches it. It is safe for a mine to pass through the player’s body. Also known as *Bomb*
 **Mismap:** A mistake, incorrect, or faulty choice in a map.
-**Modding:** A derivative of “Moderation.” The act of thoroughly reviewing and providing feedback on a map to check for adherence to ranking criteria or for general improvement. Originates from Osu! A map should be modded prior to submitting a rank request. Unrelated to game mods that alter the UI or gameplay of Beat Saber.
+**Modding:** A derivative of “Moderation.” The act of thoroughly reviewing and providing feedback on a map to check for adherence to ranking criteria or for general improvement. Originates from the rhythm game *osu!* A map should be modded prior to submitting a rank request. Unrelated to game mods that alter the UI or gameplay of Beat Saber.
 **Multiple BPM:** A song with one or more BPM changes as intended by the song’s composer. Also known as Variable BPM
 # N
 **NJS:** Abbreviation of Note Jump Speed.
@@ -98,16 +98,16 @@
 **Notes Per Second:** A measure of map density. The number of notes that pass the player within one second. A very rough approximate measure of difficulty. Abbreviated NPS
 # O
 **Obstacle:** A generic term for both walls (all types) and bombs. See also: Wall, Fake Wall
-**Offset:** A value in milliseconds (ms) used in the editor to perfectly align the track beat markers with the beat of the music. Song files set up correctly with the BPM aligned in an audio editor do not usually need an offset value.
-**.ogg File:** The Vorbis OGG song format
-**osu!:** Another popular rhythm game with a large library of custom maps. Converters exist to translate timings from osu! maps into Beat Saber maps.
+**Offset:** A value in milliseconds (ms) used in the map editor to perfectly align the track beat markers with the beat of the music. Song files set up correctly with the BPM aligned in an audio editor do not usually need an offset value.
+**.ogg File:** The [OGG Vorbis](https://en.wikipedia.org/wiki/Vorbis) audio file format
+**osu!:** Another popular rhythm game with a large library of custom maps. Converters exist to translate timings from *osu!* maps into Beat Saber maps.
 # P
 **Parity:** The mathematical term describing the ‘group’ a block belongs to- within the context of Beat Saber, this refers to the up/down nature of a block.
 **Pattern:** A generic name for a sequence of blocks.
 **Piano Stream:** A sequence of alternating color and direction blocks that progresses horizontally across lanes on the track.
-**Playtest: **The act of playing a WIP map to check for errors and improvements. Highly recommended for a quality product.
-**Performance Points: **The metric determining ranking on the Scoresaber leaderboards. Abbreviated PP.
-**Platform: **The in-game play area and associated track and lights. Also known as Environment
+**Playtest:** The act of playing a WIP map to check for errors and improvements. Highly recommended for a quality product.
+**Performance Points:** The metric determining ranking on the Scoresaber leaderboards. Abbreviated PP.
+**Platform:** The in-game play area and associated track and lights. Also known as Environment
 **PP: **Abbreviation of Performance Points.
 **Precision:** The division of a beat in an editor; used to place notes consistently. Typically 1/1 (one note per beat), 1/2 (one note per half beat), or 1/4 (one note per quarter beat). Also known as Cursor Precision
 **Precision Placement:** A style of mapping that requires Mapping Extensions which allows the mapper to place blocks outside of the standard 4 x 3 grid. Not recommended for novice mappers.
@@ -121,18 +121,18 @@
 **RGB:** A style of lighting that requires Chroma and allows lighting events to be any color and often uses more than two colors.
 **Row:** Vertical divisions above the track, down which blocks travel. The default track has three rows (bottom, middle, top). Also known as Layer. See also: Lane, Column
 # S
-**Scoresaber: **The organization responsible for managing the ranked Beat Saber leaderboards.
+**Scoresaber:** The organization responsible for managing the ranked Beat Saber leaderboards.
 **Setup:** The process of maneuvering the players arms into position for a pattern via appropriate placement of the preceding blocks.
 **Single:** A single block hit with one saber. Typically makes up the majority of patterns in a map. See also Double
-**Single BPM: **A song with a consistent BPM from start to finish with no variation. Also known as Fixed BPM. See also Variable BPM
+**Single BPM:** A song with a consistent BPM from start to finish with no variation. Also known as Fixed BPM. See also Variable BPM
 **Sliders:** A series of same-colored dots or arrow blocks spaced close enough together for the player to sweep the saber through in one motion. Placed at ⅛ or closer precision.
 **Spawn Distance:** The distance down the track where the blocks and obstacles spawn. Measured in beats; therefore varies in “spatial” distance by BPM . See also Spawn Point, NJS, BPM, and Spawn Offset. Also known as Half Jump Duration.
-**Spawn Offset: **A variable denoted as “noteJumpStartBeatOffset” in the map’s Info File that modifies the spawn distance. Can be a floating value, typically between 0.0 and 1.0. Also known as Spawn Distance Modifier
+**Spawn Offset:** A variable denoted as “noteJumpStartBeatOffset” in the map’s Info File that modifies the spawn distance. Can be a floating value, typically between 0.0 and 1.0. Also known as Spawn Distance Modifier
 **Spawn Point:** The location on the track where blocks and obstacles first appear, accompanied by a flash of light. See also Spawn Distance
 **Spiral:** A slider whose path traces a rotation long enough to return to its original direction or further. See also Bomb Spiral
 **Stack: **Two or three same-colored, same-direction blocks placed in a line on the same beat. Results in the player swinging a larger, faster hit. Also known as Tower, Double
-**Staggers: **Sliders placed with spacing too large for the player to hit in one motion, considered a mismap. Occurs when sliders are placed slower than ⅛ precision.
-**Stream: **A steady, sustained pattern of notes, typically at 1/4 precision.
+**Staggers:** Sliders placed with spacing too large for the player to hit in one motion, considered a mismap. Occurs when sliders are placed slower than ⅛ precision.
+**Stream:** A steady, sustained pattern of notes, typically at 1/4 precision.
 **Strobe:** 1) n. A rapidly flashing on/off light 2) v. To cause a light to flash on/off or on/flash when lighting a map.
 # T
 **Tangle:** A pattern that results in arm paths preventing the next motion from occurring without resetting. Occurs commonly in incorrect crossovers.
@@ -140,11 +140,11 @@
 **Thin Wall:** A wall that is only a tiny fraction of a beat thick that doesn’t tick any damage on the player. Created in Mediocre Mapper by clicking to add a wall then immediately clicking to “drop” it,  without scrolling for any time duration. See also Wall, Fake Wall
 **Tower:** Two or three same-colored, same-direction blocks placed in a line on the same beat. Results in the player swinging a larger, faster hit. Two-block towers may also be referred to as doubles. Also known as Stack
 **Track:** The area in an editor where blocks are placed and the are in-game where blocks spawn and move toward the player. In most editors there is a track for notes/blocks and a separate track for lighting. See also Lighting Track
-**Triangle: **Three or more notes forming a “triangle” pattern with position and orientation. Causes a Wrist Reset, especially if used in high precision (under 1/1).
+**Triangle:** Three or more notes forming a “triangle” pattern with position and orientation. Causes a Wrist Reset, especially if used in high precision (under 1/1).
 # UV
 **Variable BPM:** 1) A song with an intentionally shifting BPM as intended by its composer 2) A song with irregular, unintentionally shifting BPM as a result of fluctuations; for example, a live performance without a metronome. (from Ranking Criteria) Also known as Drifting BPM, See also Fixed BPM, Multiple BPM
-**Vibro: **An extremely high speed stream of a pace requiring small wrist motions to hit, typically 1/8. Note that this does NOT apply to dots. Also known as Vibro Stream
-**Vision Block: **A sequence of blocks, typically using the middle row, that blocks the player’s vision of the following notes. The most common form of vision blocks are Face Notes but blocks outside of the center two squares can also block line of sight to later blocks. Abbreviated VB.
+**Vibro:** An extremely high speed stream of a pace requiring small wrist motions to hit, typically 1/8. Note that this does NOT apply to dots. Also known as Vibro Stream
+**Vision Block:** A sequence of blocks, typically using the middle row, that blocks the player’s vision of the following notes. The most common form of vision blocks are Face Notes but blocks outside of the center two squares can also block line of sight to later blocks. Abbreviated VB.
 # WXYZ
 **Wall:** A translucent barrier that damages the player if they put their body in it. It is safe for players to rest their sabers in walls. Also known as Obstacle. See also: Fake Walls
 **Window:** A 3-block or larger tower containing a gap allowing for vision through the tower.
