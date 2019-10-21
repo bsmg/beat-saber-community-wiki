@@ -21,8 +21,7 @@ Here is a [Python3 Script](https://cdn.discordapp.com/attachments/44237280670593
 
 # Audio FAQ
 ## How do I delay a song so that it doesn't start right when the level loads?
-Currently this isn't possible in Beat Saber or the editors. For now you have to edit the song in an audio editor *(such as Audacity)* to add silence at the beginning of the track.
-Check out [Kolezan's Song/Audio Editing Guide](https://bsaber.com/custom-mapping-song-audio-editing/) for instructions.
+Small offsets within a second (1000ms) can be made in some editors (e.g. MediocreMapper), but recommended practice is to insert the correct amount of silence to the audio file. For instructions using Audacity to accomplish this read [Basic Audio Setup](/mapping/basic-audio).
 # Mediocre Mapper FAQ
 ## "Your audio file name is wrong" message in the editor
 The 3D Editor only supports `.ogg` files. You have to convert your file to Ogg Vorbis using a converter, such as [Audacity](https://www.audacityteam.org/).
