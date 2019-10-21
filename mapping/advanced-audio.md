@@ -35,7 +35,7 @@ You can’t increase audio quality by saving a lossy track with a higher bitrate
 To work with audio and do processing of the soundwaves there are several tools available to help achieve what we want or need. Two of these tools used are *Compressor* and *Limiter* which we used for volume processing in [Volume Modification: Making Your Song Louder](/mapping/basic-audio#making-your-song-louder). Below these tools are explained in more detail:
 
 ## Compressor
-In essence, a Compressor reduces the dynamics above a certain threshold, ultimately making the audio signal less dynamic and lower in volume. When also boosting the signal after a compressor (Make Up Gain/Normalize) you can make the audio signal be even louder than before when measuring with RMS.
+In essence, a Compressor reduces the dynamics above a certain threshold, ultimately making the audio signal less dynamic and lower in volume. When also boosting the signal after a compressor (Make Up Gain/Normalize) you can make the sound be perceived even louder.
 
 The Compressor effect shipped with Audacity is actually not the best tool for music mastering because it is made for more speech oriented audio. However, it is very simple to use which is why it is used in [Volume Modification: Compression](/mapping/basic-audio#compression) and basic settings are provided that work for most cases. However, if you're reading this you either noticed an unpleasant distortion in the sound (the sound cuts out a bit after loud peaks) or you're curious about the settings you can adjust in a compressor, so let's take a look at those settings using the more advanced [SC4 plug-in](https://ttmanual.audacityteam.org/o/man/sc4.html) for Audacity (you may need to install the [LADSPA bundle](http://www.audacityteam.org/download/plug-ins/#ladspa) to get access to this tool).
 
@@ -68,7 +68,7 @@ One handy feature with this plug-in is the `Enable` tickbox, which will let you 
 
 More in-depth information about compressors [can be found here](https://www.practical-music-production.com/audio-compressor/).
 ## Limiter
-A limiter is in essence a compressor effect with an infinite gain reduction ratio, terminating any signal from going above the threshold. It means a Limiter is useful for cutting off the peaks of a waveform and making the audio even louder.
+A limiter is in essence a compressor effect with an infinite gain reduction ratio, terminating any signal from going above the threshold. It means a Limiter is useful for cutting off the peaks of a waveform and making the audio be perceived even louder.
 
 Let's take a look at Audacity's [Limiter](https://manual.audacityteam.org/man/limiter.html) effect:
 
