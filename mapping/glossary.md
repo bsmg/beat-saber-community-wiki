@@ -82,7 +82,7 @@
 **Layer:** Vertical divisions above the track, down which blocks travel. The default track has three layers (bottom, middle, top). Also known as Row. See also: Lane, Column
 **Lighting:** A collective term for all of the lighting events and options available to mappers. A map is not considered complete without some form of lighting. See also Event
 **Lighting Track:** The area in most map editors where lighting events are placed. See also Track
-**Loloppe Notes: **Two same direction blocks placed side-by-side such that hitting both requires abusing the block hitbox. Named after the mapper who made them famous.
+**Loloppe Notes:** Two same direction blocks placed side-by-side such that hitting both requires abusing the block hitbox. Named after the mapper who made them famous.
 # M
 **Mapping Extensions:** A mod developed by Kyle1314 that allows mappers access to a number of unique utilities for advanced mapping. See also Precision Placement, Precision Rotation, JSON Walls
 **Mediocre Mapper:** The most popular community mapper. Developed by squeaksies as a fork of the original EditSaber editor by Ikiewa. No longer in development or supported by sq
