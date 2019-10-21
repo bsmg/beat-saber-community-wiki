@@ -80,7 +80,7 @@ Let's take a look at Audacity's [Limiter](https://manual.audacityteam.org/man/li
 
 **Limit to (dB):** At which volume the effect will limit the signal. This can be set at 0dB and will thus prevent distortion clipping, but to give lossy formats some headroom when encoding the best value to use is **-0.1dB**.
 
-**Hold (ms):** For how long the limiter effect should last for once engaged. Using the default value of **10ms** will make the limiter effect quite transparent but keep it from doing too much distortion.
+**Hold (ms):** For how long the limiter effect should last for once engaged. To make the Limiter as transparent as possible setting this to **1ms** is best for our purpose.
 
 **Apply Make-up Gain:** Will normalize the peaks to close to 0dB, but we've already set the proper volume with `Limit to (dB)` so this setting is unnecessary. For our purpose set this to **No**.
 
