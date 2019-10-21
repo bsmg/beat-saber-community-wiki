@@ -9,15 +9,15 @@
 * [Mapping Term Glossary](/mapping/glossary)
 # Mapping Quick Start
 Go from thinking about mapping to releasing your first map by following this checklist.
-> Additional links from this checklist to essential information are coming *very* soon. Check back often as we continue to build this out!
-{.is-warning}
-- [ ] Download the necessary tools for mapping: an [audio editor](https://www.audacityteam.org/) and a [map editor](/mapping#map-editing-resources).
-- [ ] [Set up your audio file](/mapping#audio-editing-resources) including finding and confirming the BPM and exporting to OGG format. 
-- [ ] Set up your first song in your mapping editor (steps vary by which editor you choose).
-- [ ] Get mapping! Review [Basic Mapping practices](/mapping#tutorials-and-references) before you start. [Playtest](/mapping#playtesting) your own work early and often while mapping.
-- [ ] Get lighting! Review [Basic Lighting information](https://docs.google.com/document/d/1wpZgBeOD1-UbJpXf-b6gX5ICNYygCd6UK6LOPm-t5QM/edit) (courtesy of Puds). Simple manual lighting is easier than you think!
-- [ ] Get your map [playtested](/mapping/#playtesting)! Third-party playtesting via the BSMG Discord is highly recommended to get constructive feedback and to get past your own “map blindness.”
-- [ ] Once your song has been mapped, lighted, and playtested you’re ready to [release](/mapping/#publishing-songs) your song to the world on Beat Saver.
+> Additional links from this checklist to essential information are coming *very* soon. Check back often as we continue to build this out!{.is-warning}
+
+1. [ ] Download the necessary tools for mapping: an [audio editor](https://www.audacityteam.org/) and a [map editor](/mapping#map-editing-resources).
+2. [ ] [Set up your audio file](/mapping#audio-editing-resources) including finding and confirming the BPM and exporting to OGG format. 
+3. [ ] Set up your first song in your mapping editor (steps vary by which editor you choose).
+4. [ ] Get mapping! Review [Basic Mapping practices](/mapping#tutorials-and-references) before you start. [Playtest](/mapping#playtesting) your own work early and often while mapping.
+5. [ ] Get lighting! Review [Basic Lighting information](https://docs.google.com/document/d/1wpZgBeOD1-UbJpXf-b6gX5ICNYygCd6UK6LOPm-t5QM/edit) (courtesy of Puds). Simple manual lighting is easier than you think!
+6. [ ] Get your map [playtested](/mapping/#playtesting)! Third-party playtesting via the BSMG Discord is highly recommended to get constructive feedback and to get past your own “map blindness.”
+7. [ ] Once your song has been mapped, lighted, and playtested you’re ready to [release](/mapping/#publishing-songs) your song to the world on Beat Saver.
 # Tutorials and References
 ## Video Guides
 * [BennyDaBeast's Mapping Tutorials](https://bsaber.com/benny-custom-mapping/) **highly recommended**
