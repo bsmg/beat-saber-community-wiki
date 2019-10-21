@@ -60,15 +60,30 @@ An example of how compression affects the audio, highlighted part has been compr
 
 > **Tip:** To make it easier to visually judge the dynamics of the song in dB you can set the threshold at do the following:
 > 1. Left-click the track label and choose `Waveform (dB)`. This will show a logarithmic waveform with dB in the scale instead of a linear scale.
-> 2. To increase the scale right click the scale on the left of the tack and click Half Wave.
+> 2. To increase the scale right click the scale on the left of the tack and click `Half Wave`.
 > 3. To maximize track height go to `View -> Track Size -> Fit to Height` or simply press `Ctrl + Shift + F`. This will show more of the scale.
 > ![Track](https://i.imgur.com/2zWoX9q.png)
 
 One handy feature with this plug-in is the `Enable` tickbox, which will let you play back the audio and adjust the settings in real time. This way you can monitor your changes right away.
 
 More in-depth information about compressors [can be found here](https://www.practical-music-production.com/audio-compressor/).
-
 ## Limiter
+A limiter is in essence a compressor effect with an infinite gain reduction ratio, terminating any signal from going above the threshold. It means a Limiter is useful for cutting off the peaks of a waveform and making the audio even louder.
+
+Let's take a look at Audacity's [Limiter](https://manual.audacityteam.org/man/limiter.html) effect:
+
+![Limiter](https://i.imgur.com/6fAwHCv.png)
+
+**Type:** How the effect should apply the limiting effect. For our purpose we want **Hard Limit**.
+
+**Input Gain (dB) mono/Left/Right channel:** This is by how much you want to boost the audio volume by. Essentially the same as the Amplify effect. Have the same value for both left and right or you will skew the stereo image.
+
+**Limit to (dB):** At which volume the effect will limit the signal. This can be set at 0dB and will thus prevent distortion clipping, but to give lossy formats some headroom when encoding the best value to use is **-0.1dB**.
+
+**Hold (ms):** For how long the limiter effect should last for once engaged. Using the default value of **10ms** will make the limiter effect quite transparent but keep it from doing too much distortion.
+
+**Apply Make-up Gain:** Will normalize the peaks to close to 0dB, but we've already set the proper volume with `Limit to (dB)` so this setting is unnecessary. For our purpose set this to **No**.
+
 More in-depth information about limiters [can be found here](https://www.practical-music-production.com/audio-limiter/).
 # Song Editing using Cross-fades
 When editing a shorter version of a song and a simple hard immediate cut between two similar sections of a song isn’t enough to convince your ears (usually the sections aren’t perfectly the same, usually in non-electronic music) then applying a cross-fade between the sections usually helps. Any type of restructuring editing is easier in a DAW software that uses beat grid editing, but it is possible to do the same in the free software of Audacity as well, which we will show here.
