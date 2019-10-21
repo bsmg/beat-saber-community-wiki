@@ -130,7 +130,7 @@
 **Spawn Offset:** A variable denoted as “noteJumpStartBeatOffset” in the map’s Info File that modifies the spawn distance. Can be a floating value, typically between 0.0 and 1.0. Also known as Spawn Distance Modifier
 **Spawn Point:** The location on the track where blocks and obstacles first appear, accompanied by a flash of light. See also Spawn Distance
 **Spiral:** A slider whose path traces a rotation long enough to return to its original direction or further. See also Bomb Spiral
-**Stack: **Two or three same-colored, same-direction blocks placed in a line on the same beat. Results in the player swinging a larger, faster hit. Also known as Tower, Double
+**Stack:** Two or three same-colored, same-direction blocks placed in a line on the same beat. Results in the player swinging a larger, faster hit. Also known as Tower, Double
 **Staggers:** Sliders placed with spacing too large for the player to hit in one motion, considered a mismap. Occurs when sliders are placed slower than ⅛ precision.
 **Stream:** A steady, sustained pattern of notes, typically at 1/4 precision.
 **Strobe:** 1) n. A rapidly flashing on/off light 2) v. To cause a light to flash on/off or on/flash when lighting a map.
