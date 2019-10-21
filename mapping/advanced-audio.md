@@ -73,7 +73,7 @@ Let's take a look at Audacity's [Limiter](https://manual.audacityteam.org/man/li
 
 **Type:** How the effect should apply the limiting effect. For our purpose we want **Hard Limit**.
 
-**Input Gain (dB) mono/Left/Right channel:** This is by how much you want to boost the audio volume by. Essentially the same as the Amplify effect. Have the same value for both left and right or you will skew the stereo image.
+**Input Gain (dB) mono/Left/Right channel:** This is by how much you want to boost the audio volume by. Essentially the same as the Amplify effect. Have the same value for both left and right or you will skew the stereo image. This is the value you adjust if you need a louder or softer effect.
 
 **Limit to (dB):** At which volume the effect will limit the signal. This can be set at 0dB and will thus prevent distortion clipping, but to give lossy formats some headroom when encoding the best value to use is **-0.1dB**.
 
