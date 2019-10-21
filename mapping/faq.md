@@ -22,10 +22,12 @@ Here is a [Python3 Script](https://cdn.discordapp.com/attachments/44237280670593
 # Audio FAQ
 ## How do I delay a song so that it doesn't start right when the level loads?
 Small offsets within a second (1000ms) can be made in some editors (e.g. MediocreMapper), but recommended practice is to insert the correct amount of silence to the audio file. For instructions using Audacity to accomplish this read [Basic Audio Setup](/mapping/basic-audio).
+## My song's volume is too soft/too loud. Can I change this?
+Yes, it is possible to both make it louder (to a certain degree) or make it softer. For instructions see [Basic Audio Setup](/mapping/basic-audio). While there are mods that can change the music or note slash volume not many players use this, which is why it's better to set the right volume for you song in the audio file.
 # Mediocre Mapper FAQ
 ## "Your audio file name is wrong" message in the editor
 The 3D Editor only supports `.ogg` files. You have to convert your file to Ogg Vorbis using a converter, such as [Audacity](https://www.audacityteam.org/).
-If you simply change the file extension to `.ogg`, it will not work.
+If you simply change the file extension to `.ogg` it will not work.
 
 # BeatSaver & Publishing FAQ
 ## I'm having issues uploading the map to BeatSaver, it says the format is invalid but everything looks right.
