@@ -108,7 +108,7 @@
 **Playtest:** The act of playing a WIP map to check for errors and improvements. Highly recommended for a quality product.
 **Performance Points:** The metric determining ranking on the Scoresaber leaderboards. Abbreviated PP.
 **Platform:** The in-game play area and associated track and lights. Also known as Environment
-**PP: **Abbreviation of Performance Points.
+**PP:** Abbreviation of Performance Points.
 **Precision:** The division of a beat in an editor; used to place notes consistently. Typically 1/1 (one note per beat), 1/2 (one note per half beat), or 1/4 (one note per quarter beat). Also known as Cursor Precision
 **Precision Placement:** A style of mapping that requires Mapping Extensions which allows the mapper to place blocks outside of the standard 4 x 3 grid. Not recommended for novice mappers.
 **Precision Rotation:** A style of mapping that requires Mapping Extensions which allows the mapper to freely rotate blocks (vs. the standard 45 degree rotation). Not recommended for novice mappers.
