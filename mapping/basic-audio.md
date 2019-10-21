@@ -108,8 +108,7 @@ To check the RMS value in your song do the following:
 ![Analyzing song volume with Audacity](https://i.imgur.com/EmfULcw.png)
 ## Volume Modification
 Before you continue with the next steps with the song editing it highly recommended to save your current progress as a WAVE file as a backup. This is to ensure that you if you need to go back and redo some of the editing you will have a high quality source to use. (Don’t load the OGG you exported as it will have lost a lot of the source quality.) Remove the Click Track if you haven’t already done so, then go to `File menu -> Export -> Export as WAV`, then save the file to a location of your choice.
-> Doing any kind of audio processing on a song will inevitably change its sound, however, it's an imporant step to give your players the best map and song experience.
-{.is-info}
+> Doing any kind of audio processing on a song will inevitably change its sound, however, it's an imporant step to give your players the best map and song experience.{.is-info}
 
 ### Making Your Song Louder
 If your song’s chorus has a lower RMS value than the recommended **-11db** then you will need to do Compression and/or Limiting to bring the volume up. (Note: Amplify/Gain is not used for this, as anything above 0db will create an unpleasant distortion.)
@@ -123,8 +122,11 @@ However, if the waveform varies a lot between soft and loud parts then compressi
 2. Go to Effects menu -> Compressor
 3. As a starting point, copy the settings below and click OK. Make sure that Compress based on Peaks is checked.
 ![Understanding compression](https://i.imgur.com/avQlouA.png)
+
 Here’s a before (top) and after (bottom) Compressor comparison:
 ![Before and after compression](https://i.imgur.com/M6A60eV.png)
+
+Check the song again and listen for any unnatural distortions, such as volume cut outs after loud peaks. If so, undo (`Ctrl-Z`), tweak the `Threshold` setting and apply again. If you want to know more about the settings check the [Advanced Audio Editing: Compressor](/mapping/advanced-audio#compressor) page.
 
 ### Limiter
 The compressor reduces many of the unnecessary peaks and makes the more important sounds louder. However, we still haven’t reached the right RMS volume for the song. To achieve this we will remove more of the headroom using the Limiter effect:
@@ -133,6 +135,8 @@ The compressor reduces many of the unnecessary peaks and makes the more importan
 3. As a starting point, copy the settings below:
 ![Limiter in Audacity](https://i.imgur.com/6fAwHCv.png)
 4. Click OK to apply Limiter.
+
+Check the song again and listen for any unnatural distortions, such as crushed/severely distorted peaks. If so, undo (`Ctrl-Z`), tweak the `Input Gain` settings and apply again. If you want to know more about the settings check the [Advanced Audio Editing: Limiter](/mapping/advanced-audio#limiter) page.
 
 To know if you’ve reached the right volume after compressing and limiting check again with the RMS volume tool:
 1. Open Contrast Analyzer in `Analyze menu -> Contrast…`
