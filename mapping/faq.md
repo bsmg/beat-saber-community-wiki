@@ -32,4 +32,4 @@ If you simply change the file extension to `.ogg` it will not work.
 # BeatSaver & Publishing FAQ
 ## I'm having issues uploading the map to BeatSaver, it says the format is invalid but everything looks right.
 If you have Windows file extensions turned off, then you might have unknowingly saved your files with names like `cover.jpg.jpg`.  To turn off file extensions in Windows, see the following image:
-![File Extensions](/uploads/images/file-extensions.png "File Extensions")
+![File Extensions](https://i.imgur.com/xYTTkVN.png "File Extensions")
