@@ -56,6 +56,9 @@ To install songs downloaded from the site, unzip them into a folder and place it
 
 There are a couple more resources to help you find songs over in the [FAQ](faq#more-songs)
 
+## Song Management Apps
+* [BeatDrop](https://bsaber.com/beatdrop/) isn't just for mods, it also allows you to download songs and create playlists. 
+* [BeatList](https://github.com/Alaanor/beatlist) is an app to manage playlist and beatmaps, by Alaanor. 
 # How to uninstall mods
 **Currently the only way to uninstall a mod is to remove the dll from the `Plugins` folder.**
 |  |  |
