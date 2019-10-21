@@ -44,7 +44,7 @@ The Compressor effect shipped with Audacity is actually not the best tool for mu
 
 **Release time (ms):** How soon the compressor starts to release the volume level back to normal after the level drops below the threshold, in milliseconds. To make the compressor as transparent as possible setting it to **2.0 ms** is recommended. This setting is one reason the Compressor effect shipped with Audacity isn't optimal as it only allows Release times at shortest 1 second.
 
-**Threshold level (dB):** The level at which the compressor will start to apply.
+**Threshold level (dB):** The level at which the compressor will start to apply. This is the value to adjust if you need less or more compression.
 
 **Ratio (1:n):** The gain reduction ratio used when the signal level exceeds the threshold level. A good starting point is **1:3**. Turn this up to have an even more aggressive reduction.
 
