@@ -29,7 +29,7 @@ There are three ways to find the BPM for the song which you want to map. Try the
 ## Online Search
 You can search online using a search engine site (e.g. [Google](http://google.com)) in your web browser for `[song name] + [artist] + “bpm”` and often find a number of sites (e.g. [SongBPM.com](https://songbpm.com/)) with this information.
 ## Tool-Assisted BPM Calculation
-**Arrow Vortex** is a free tool to analyze a song’s BPM automatically. It will also find the offset needed to line the audio up to the beat in Audacity or your map editor. Ryger’s [Arrow Vortex BPM Analysis Tutorial](https://youtu.be/Z49UKFefu5c) includes both BPM detection and confirmation.
+[Arrow Vortex](https://arrowvortex.ddrnl.com/) is a free tool to analyze a song’s BPM automatically. It will also find the offset needed to line the audio up to the beat in Audacity or your map editor. Ryger’s [Arrow Vortex BPM Analysis Tutorial](https://youtu.be/Z49UKFefu5c) includes both BPM detection and confirmation.
 ## Manual BPM Calculation
 If both methods above fail you will have to manually find the BPM, but this is easier than you might think.
 1. Use an online BPM tapping calculator (like the [Tap for BPM Tool](https://www.all8.com/tools/bpm.htm), open the page in your web browser).
@@ -37,7 +37,7 @@ If both methods above fail you will have to manually find the BPM, but this is e
 3. With the webpage in focus, tap any key to the beat (every quarter note) for about 30 seconds and the tool will display the BPM of the song.
 4. Take note of the nearest whole value.
 # Audio Preparation
-To make it easier to map and make sure that the song is synced perfectly to the game's beat you need to set up your audio file correctly. This page will assume you are using [Audacity](https://www.audacityteam.org/)
+To make it easier to map and make sure that the song is synced perfectly to the game's beat you need to set up your audio file correctly. This page will assume you are using [Audacity](https://www.audacityteam.org/) If you're using Tool Assisted BPM offset detection (such as Arrow Vortex) you can skip to  
 ## Add a Click Track
 1. Open the song you want to map into Audacity.
 2. Add a new mono track from `Tracks menu > Add New > Mono Track`
@@ -74,16 +74,27 @@ Below shows how it looks like when the first planned mapped note(s) (cursor posi
 ![Audacity song lined up with rhythm track](https://i.imgur.com/Znpy0PZ.png)
 After time shifting the song you will need to add silence, continue below on how to do that.
 # Editing with Audacity
-After syncing the song to the beat manually or by using Vortex Arrow you will have to add silence to the intro of the song. You may also need to do other edits if they’re necessary. More on that below.
-
+After syncing the song to the beat manually or by using tool assisted sync (e.g. Vortex Arrow) you will have to add silence to the intro of the song. You may also need to do other edits if they’re necessary. More on that below.
 ## Add Silence
+### After manual sync:
 If the waveform/audio clip has a gap to the timeline start (0,0 seconds) you will need to add silence to the audio, or else Audacity will export from the start of the audio clip and you will lose any sync you've done. Do the following to add silence:
-1. Switch to the Selection Tool (![Selection Tool](/uploads/wiki/selection.png)) and select the empty space between the audio clip and the start of the track (Yellow vertical lines will indicate the start and end edges when you make a selection).
-2. Click Generate menu – > Silence…
-3. The right amount of silence should already be input automagically so just hit OK. (After generating the silence you can click the dark line in the song track to get rid of the cut.)
-4. Done.
+1. Switch to the Selection Tool (![Selection Tool](/uploads/wiki/selection.png)).
+2. Select the empty space between the audio clip and the start of the track (Yellow vertical lines will indicate the start and end edges when you make a selection).
+3. Click `Generate menu – > Silence…`
+4. The right amount of silence should already be input automagically so just hit OK.
+5. Done.
 ![Adding silence with Audacity](https://i.imgur.com/6lZv03x.png)
 
+### After tool assisted sync:
+If you've used Arrow Vortex or other tool assisted syncing then do the following to add the right amount of silence to the song track:
+1. Switch to the Selection Tool (![Selection Tool](/uploads/wiki/selection.png)).
+2. Place the cursor at the start of the song track (Click on the song track and press your `Home` key).
+3. Click `Generate menu – > Silence…`
+4. Input the sync `Music offset` value you got from Arrow Vortex (or similar tool) and then click OK. 
+5. Done.
+![Adding silence with Audacity](https://i.imgur.com/BvPIHr2.png)
+
+After generating the silence you can click the dark line in the song track to get rid of the cut.
 ## Trim the Intro
 If your track has arrows pointing to the left at the start it means you’ve time shifted the audio forward in time outside the timeline. If you’ve done this to shorten the intro, although not necessary, it is beneficial to trim the sound clip and add a fade in. To trim and add a fade in to the song (optional) do the following:
 1. Drag a selection from 0.0 seconds to the end of the audio track (yellow vertical lines).
@@ -94,7 +105,6 @@ If your track has arrows pointing to the left at the start it means you’ve tim
 
 Before (left) and after trim and fade-in applied (right):
 ![Trimming the song intro](https://i.imgur.com/AbKyyl4.png)
-
 ## Check Song Volume
 To ensure that your song isn’t too soft, or even too loud for that matter, we can measure it using RMS (Root Mean Squared) in Audacity. To have a good balance between note slice sounds and your song the RMS value should be **louder than -11db** (in the verses and/or choruses) or **softer than -8.5db** (at the loudest parts).
 
