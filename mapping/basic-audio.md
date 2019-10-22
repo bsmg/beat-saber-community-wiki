@@ -98,6 +98,7 @@ If you've used Arrow Vortex or other tool assisted syncing then do the following
 
 After generating the silence you can click the dark line in the song track to get rid of the cut.
 ## Trim the Intro
+This step is optional.
 If your track has arrows pointing to the left at the start it means you’ve time shifted the audio forward in time outside the timeline. If you’ve done this to shorten the intro, although not necessary, it is beneficial to trim the sound clip and add a fade in. To trim and add a fade in to the song (optional) do the following:
 1. Drag a selection from 0.0 seconds to the end of the audio track (yellow vertical lines).
 2. Click Trim audio outside selection (![Trim audio to selection](https://i.imgur.com/0qOEXjQ.png)). The arrows should now disappear. 
