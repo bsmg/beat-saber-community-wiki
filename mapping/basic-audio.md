@@ -37,7 +37,7 @@ If both methods above fail you will have to manually find the BPM, but this is e
 3. With the webpage in focus, tap any key to the beat (every quarter note) for about 30 seconds and the tool will display the BPM of the song.
 4. Take note of the nearest whole value.
 # Audio Preparation
-To make it easier to map and make sure that the song is synced perfectly to the game's beat you need to set up your audio file correctly. This page will assume you are using [Audacity](https://www.audacityteam.org/) If you're using Tool Assisted BPM offset detection (such as Arrow Vortex) you can skip to  
+To make it easier to map and make sure that the song is synced perfectly to the game's beat you need to set up your audio file correctly. This page will assume you are using [Audacity](https://www.audacityteam.org/) If you're using Tool Assisted BPM and offset detection (such as Arrow Vortex) you can skip to [Adding Silence: After Tool Assisted Sync](/mapping/basic-audio#after-tool-assisted-sync).
 ## Add a Click Track
 1. Open the song you want to map into Audacity.
 2. Add a new mono track from `Tracks menu > Add New > Mono Track`
@@ -85,6 +85,7 @@ If the waveform/audio clip has a gap to the timeline start (0,0 seconds) you wil
 5. Done.
 ![Adding silence with Audacity](https://i.imgur.com/6lZv03x.png)
 
+After generating the silence you can click the dark line in the song track to get rid of the cut.
 ### After tool assisted sync:
 If you've used Arrow Vortex or other tool assisted syncing then do the following to add the right amount of silence to the song track:
 1. Switch to the Selection Tool (![Selection Tool](/uploads/wiki/selection.png)).
