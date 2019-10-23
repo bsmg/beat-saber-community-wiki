@@ -52,6 +52,8 @@ The Compressor effect shipped with Audacity is actually not the best tool for mu
 
 **Makeup gain (dB):** The amount of gain added to the processed result. Compared to the Compressor effect shipped with Audacity there is no *Make-up gain to 0dB after compressing* setting in this plug-in. However, you can easily set this to 0dB and then apply a *Normalize* effect to 0dB to the whole song and it will do the exact same processing.
 
+**Enable:** A handy feature with this plug-in is the `Enable` tickbox. It will let you play back the audio with the effect window open and adjust the settings in real time. This way you can monitor your changes right away.
+
 An example of how compression affects the audio, highlighted part has been compressed at 1:3 ratio with a threshold at -30db (red line).
 ![Compression](https://i.imgur.com/6VMXy3j.png)
 
@@ -60,8 +62,6 @@ An example of how compression affects the audio, highlighted part has been compr
 > 2. To increase the scale right click the scale on the left of the tack and click `Half Wave`.
 > 3. To maximize track height go to `View -> Track Size -> Fit to Height` or simply press `Ctrl + Shift + F`. This will show more of the scale.
 > ![Track](https://i.imgur.com/2zWoX9q.png)
-
-One handy feature with this plug-in is the `Enable` tickbox, which will let you play back the audio and adjust the settings in real time. This way you can monitor your changes right away.
 
 More in-depth information about compressors [can be found here](https://www.practical-music-production.com/audio-compressor/).
 ## Limiter
