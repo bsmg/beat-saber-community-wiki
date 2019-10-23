@@ -134,7 +134,7 @@ However, if the waveform varies a lot between soft and loud parts then compressi
 ### Compression
 1. Select the whole song track (Double click on the track)
 2. Go to `Effects menu -> Compressor`
-3. As a starting point, copy the settings below and click OK. Make sure that Compress based on Peaks is checked.
+3. As a starting point, copy the settings below and click OK. Make sure that `Compress based on Peaks` is checked.
 ![Understanding compression](https://i.imgur.com/avQlouA.png)
 
 Here’s a before (top) and after (bottom) Compressor comparison:
