@@ -248,6 +248,7 @@ For all you streamers out there who want song requests in your chat!
 **Enhanced Twitch Chat** by brian
 A rich text Twitch chat integration mod with full unicode, emote (including BetterTwitchTV and FrankerFaceZ), badge, and Emoji support.
 [Release and Usage](https://brian91292.github.io/BeatSaber-EnhancedTwitchChat//)
+
 ---
 
 **Twitch Chat IRC** by RQ
