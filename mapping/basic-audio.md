@@ -196,7 +196,7 @@ In Beat Saber the map will continue for as long as the audio file lasts. E.g. th
 Go to the end of your song and play the last part and outro. From the point where you intend to have the last note(s) count to 3 or 4 seconds and pause the playback. Where your playback cursor is now located is where you should generally cut off your song. (Naturally all songs will differ, so do what makes most sense for your song.)
 
 To trim the ending at this point do the following:
-1. From the paused playback position drag a selection from here to the end of the track (yellow vertical line) and press the Delete key to remove this part.
+1. From the paused playback position drag a selection from here to the end of the track (yellow vertical line) and press the `Delete` key to remove this part.
 2. Make a new selection from the end of the song track (yellow vertical line) and backwards about 2 to 3 seconds.
 3. Go to `Effects menu -> Studio Fade Out`
 4. Done.
@@ -211,7 +211,7 @@ To generate a compatible sound file to use we need to do the following:
 3. Name your file `song.ogg`.
 4. Choose an appropriate OGG quality ([more info here](/mapping/advanced-audio#choosing-appropriate-ogg-export-quality)):
 * a. High quality source (WAVE / FLAC / MP3 / AAC) use 6-9 (unless there is a file size issue.)
-* b. Low quality source (YouTube or such): use 3-5; 
+* b. Low quality source (YouTube or such): use 3-5
 5. Click Save.
 
 The song/audio file is now ready to be used in any map editor. Input the same BPM you got earlier in your map editor of choice and make sure to use 0ms offset for all difficulties (since the song is already synced to the beat).
