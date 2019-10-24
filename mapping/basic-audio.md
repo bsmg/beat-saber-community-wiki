@@ -150,7 +150,7 @@ The compressor reduces many of the unnecessary peaks and makes the more importan
 ![Limiter in Audacity](https://i.imgur.com/6fAwHCv.png)
 4. Click OK to apply Limiter.
 
-Check the song again and listen for any unnatural distortions, such as crushed/severely distorted peaks. If so, undo (`Ctrl-Z`), tweak the `Input Gain` settings and apply again. If you want to know more about the settings check the [Advanced Audio Editing: Limiter](/mapping/advanced-audio#limiter) page.
+Check the song again and listen for any unnatural distortions, such as crushed/severely distorted peaks. If so, undo (`Ctrl-Z`), tweak the `Input Gain` settings to a lower value (still above 0db) and apply again. Make sure both `Input Gain`values are the same or else the stereo image will be skewed. If you want to know more about the settings of the Limiter effect check the [Advanced Audio Editing: Limiter](/mapping/advanced-audio#limiter) page.
 
 To know if you’ve reached the right volume after compressing and limiting check again with the RMS volume tool:
 1. Open Contrast Analyzer in `Analyze menu -> Contrast…`
