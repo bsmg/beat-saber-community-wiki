@@ -160,7 +160,7 @@ To know if you’ve reached the right volume after compressing and limiting chec
 
 After limiting you will have something like this:
 ![Song after limiting](https://i.imgur.com/TRkvzTc.png)
-You can now skip to “Outro/Trimming the End”.
+You can now skip to [Trimming the Outro](/mapping/basic-audio#trimming-the-outro).
 
 ### Making Your Song Softer
 Some modern electronic music producers have a tendency to make their songs really loud just to have a track louder than other's. In the rare cases you have this kind of song (**RMS value above -8.5db**) it is **strongly recommended** to lower the volume of the song to make all Beat Saber songs normalized. This helps with hearing the note slice sounds better and to give the players a much more pleasant experience switching between songs.
