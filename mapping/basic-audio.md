@@ -89,7 +89,7 @@ If the waveform/audio clip has a gap to the timeline start (0,0 seconds) you wil
 After generating the silence you can click the dark line in the song track to get rid of the cut.
 ### After tool assisted sync:
 If you've used Arrow Vortex or other tool assisted syncing then do the following to add the right amount of silence to the song track:
-1. Switch to the Selection Tool (![Selection Tool](/uploads/wiki/selection.png)).
+1. Open the song in Audacity if you haven't already done so, then switch to the Selection Tool (![Selection Tool](/uploads/wiki/selection.png)).
 2. Place the cursor at the start of the song track (Click on the song track and press your `Home` key).
 3. Click `Generate menu – > Silence…`
 4. Input the sync `Music offset` value you got from Arrow Vortex (or similar tool) and then click OK. 
@@ -115,8 +115,8 @@ To ensure that your song isn’t too soft, or even too loud for that matter, we 
 To check the RMS value in your song do the following:
 1. Open Contrast Analyzer in `Analyze menu -> Contrast…`
 2. With the Contrast Analysis window still open, select a part of the chorus section (about 15-20 seconds) of your song
-3. Click any of the Measure selection buttons. (We only need to use one.)
-4. In the Volume output field you will now find a value. Compare this value to the recommended values above.
+3. Click any of the `Measure selection` buttons. (We only need to use one.)
+4. In the `Volume output` field you will now find a value. Compare this value to the recommended values above.
 5. If this value is smaller (more negative) than the recommended values, see [Volume Modification: Making Your Song Louder](/mapping/basic-audio#making-your-song-louder).
 6. If this value is bigger than (less negative) than the recommended values see [Volume Modification: Making Your Song Softer](/mapping/basic-audio#making-your-song-softer).
 ![Analyzing song volume with Audacity](https://i.imgur.com/EmfULcw.png)
