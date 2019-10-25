@@ -46,6 +46,9 @@ There are both official and community-developed editors available and preference
 ## Community Editors
 Community editors are often a source of innovation with a lot of beneficial quality of life features for mappers, and can be used by mappers without VR. However, they may also be incomplete, unstable, or unpredictable at times so use with caution.
 
+> Interested in making your own editor or converter? You may find the [SongCore readme page](https://github.com/Kylemc1413/SongCore/blob/master/README.md) and [this additional link](https://pastebin.com/cTPGrxWY) helpful!
+{is.info}
+
 ### Mediocre Mapper
 The most feature rich 3D editor used by the majority of the mapping community, now stripped of memes and all the fun stuff. RIP Bongo cat. Uses the new 2.0 song format. *No longer supported by the developer, direct questions to #mapping-discussion* [Mediocre Mapper Download](https://github.com/squeaksies/MediocreMapper/releases/latest)
 * Check out the (almost finished) [Mediocre Mapper Mk5 User Guide](/mapping/mediocre-mapper) for info on installation, initial setup, song setup, basic controls, error checking, and more.
