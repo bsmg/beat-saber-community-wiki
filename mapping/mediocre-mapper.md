@@ -22,7 +22,7 @@ The first time you run MM you will need to direct it to the location of two fold
 * Make two folders called `CustomLevels` and `CustomWIPLevels`
 * Example: `C:\Users\Helen\Documents\CustomWIPLevels`
 
-![Screenshot of Mediocre Mapper path entry](https://i.imgur.com/MqhSM0p.jpg)
+![Screenshot of Mediocre Mapper path entry](https://i.imgur.com/MqhSM0p.jpg=500x)
 All of your working map files will go into a song name folder within this CustomWIPLevels folder.
 
 ## Editor Settings
