@@ -22,8 +22,8 @@ When you’re ready to prepare your song for upload you must have a minimum of f
 ## Block Types
 Directional Blocks | Dot Blocks | Bombs | Walls
 -------------- | -------------- | -------------- | --------------
-Image 1 | Image 2 | Image 3 | Image 4
-Contents 1 | Contents 2 | Contents 3 | Contents 4
+![Directional Block](https://i.imgur.com/lYn2dp7.png?1) | ![Dot Block](https://i.imgur.com/dHwvAxi.png?1) | ![Bomb](https://i.imgur.com/5urqS7x.png?1) | ![Wall](https://i.imgur.com/fgkJLAf.png?1)
+Must be hit in the direction of the arrow | Can be hit in any direction | Damages players but ok to rest sabers | Causes damage when struck but safe for players
 ## Block Distribution
 As a *very general* rule of thumb for new mappers, blocks should be distributed roughly as follows:
 
