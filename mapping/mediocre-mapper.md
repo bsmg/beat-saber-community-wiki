@@ -55,7 +55,8 @@ The settings pane includes global settings for autosaving, zip packaging, folder
 >Double check to make sure that the paths you entered at setup are showing up under the "Songs" and "WIP Songs" fields. Add them if they are missing.
 {.is-warning}
 # Song Setup
-Once you've finished one-time editor setup you're ready to create your first map.
+Once you've finished one-time editor setup you're ready to create your first map. 
+
 ## Song Creation
 There are four files (minimum) you need to create a map:
 
@@ -69,11 +70,13 @@ There are four files (minimum) you need to create a map:
 
 You have two options to create your song folder:
 1. Enter your desired folder name in the 'Create New Level' pane and click <kbd>Create Level</kbd>. Your new folder will automatically appear in your map list.
+![Using "Create A New Level" to make a song folder](https://i.imgur.com/HlV7DVd.jpg)
 2. Navigate to your `CustomWIPLevels` folder and make a folder with your desired folder name. You will need to click <kbd>Refresh Song List</kbd> to see your folder.
 
 Click <kbd>Edit</kbd> to enter your song information and metadata.
 ## Song Info Settings
 The `Song Info` page is the first screen you see every time you edit a map.
+![Mediocre Mapper song setup screen](https://i.imgur.com/CiopwiZ.jpg?1)
 ### Whole Map Settings
 On the left side of the `Song Info` page is information that applies to your whole map. See [Beat Saber Metadata Criteria](https://docs.google.com/document/d/1ehotupIYMVlc8x41JldO-24m7Am-oTVYnciF9KCRdNM/edit) for standards on presenting complex song names and multiple artists.
 * **Song Name:** The primary name of the song
@@ -114,6 +117,7 @@ Click <kbd>Edit Level</kbd> when you're ready to start mapping!
 
 ## Mapping Settings
 Mapping settings can be accessed by clicking the hamburger menu in the top right while editing the map. It can also be toggled using the <kbd>ESC</kbd> key. These settings persist throughout your mapping session but will be reset the next time you open the editor. The `Mapping Settings` pane also includes a comprehensive list of keybindings.
+![Mapping Setting screen in Mediocre Mapper](https://i.imgur.com/h1DoGjU.jpg?1)
 
 * <kbd>Move WaveForm to Other Side</kbd>: This button will shift the wave form from the left of the mapping track to the left of the lighting track. Useful during the lighting process.
 * **Playback Speed:** Will slow down the map and song in the editor. Decimal values representing pecentage (i.e., 1.0 = 100% speed). This feature is helpful when timing particularly gnarly sections of a map.
@@ -164,8 +168,6 @@ Once you click “Check for [error of your choice]” pay attention to the botto
 {.is-warning}
 
 **For Vision Blocks:** The highlighted block is being obscured by the blocks immediately in front of it within the specified distance. This guide won’t get into details on vision blocks but mappers should be very selective when placing any blocks in the center two positions as those are at eye-height for the player in-game and are not-so-affectionately referred to as “facenotes.” Blocks in other positions can be vision blocks as well but the two center positions are the most likely culprits. Depending on your BPM, 1-2 beats is fine.
-
-
 ## Stats Panel
 # Song Packaging
 > This is a stub section in progress. DM helencarnate#2079 if you'd like to contribute.
