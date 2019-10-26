@@ -49,8 +49,11 @@ The settings pane includes global settings for autosaving, zip packaging, folder
    - No lighting is off by default, meaning that any lighting events placed on the lighting track will play. Check to prevent lights from playing while mapping.
    - You have the option to provide MM with an alternate folder to save your packaged songs. By default the packaged song will be found in the same folder where the uncompressed map lives.
 * **Beta Settings:** If you have the Mapping Extensions mod installed you will have additional checkboxes enabled for "extended" mapping features like precision placement, precision rotation, and six-lane. New mappers are encouraged to skip this until they're more comfortable with the basics.
-* **Legacy Settings:** If you have the ChromaToggle mod installed you can check this box to enable the game modes but it has been unsupported for some time.
+* **Legacy Settings:** If you have the Chroma mod installed you can check this box to enable the Chroma lighting toolbar but it has been unsupported for some time.
 * **Other Settings:** Click the <kbd>Clear Settings</kbd> button to revert to default settings. You may also enter new paths for either of your song folders. If for some reason nothing works you can click the <kbd>Everything Inexplicably Broken?</kbd> button to delete your MM config file.
+
+>Double check to make sure that the paths you entered at setup are showing up under the "Songs" and "WIP Songs" fields. Add them if they are missing.
+{.is-warning}
 # Song Setup
 Once you've finished one-time editor setup you're ready to create your first map.
 ## Song Creation
