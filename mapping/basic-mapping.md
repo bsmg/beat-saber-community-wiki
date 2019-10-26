@@ -31,7 +31,7 @@ As a *very general* rule of thumb for new mappers, blocks should be distributed 
 * 10% or less on the top row
 * The rest on the middle row
 
-For more on row usage in different difficulties, see Gauging Difficulty.
+For more on row usage in different difficulties, see [Gauging Difficulty](/mapping/basic-mapping#gauging-difficulty).
 
 >If you’re using [Mediocre Mapper](/mapping/mediocre-mapper) as your editor you can hit <kbd>SHIFT+TAB</kbd> to open the error checker then click “Stat Panel” to see this breakdown.
 {.is-info} 
