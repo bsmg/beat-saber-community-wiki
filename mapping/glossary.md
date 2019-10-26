@@ -125,7 +125,7 @@
 **Setup:** The process of maneuvering the players arms into position for a pattern via appropriate placement of the preceding blocks.
 **Single:** A single block hit with one saber. Typically makes up the majority of patterns in a map. See also Double
 **Single BPM:** A song with a consistent BPM from start to finish with no variation. Also known as Fixed BPM. See also Variable BPM
-**Sliders:** A series of same-colored dots or arrow blocks spaced close enough together for the player to sweep the saber through in one motion. Placed at ⅛ or closer precision.
+**Sliders:** A series of same-colored dots or arrow blocks spaced close enough together for the player to sweep the saber through in one motion. Placed at 1/12 or closer precision.
 **Spawn Distance:** The distance down the track where the blocks and obstacles spawn. Measured in beats; therefore varies in “spatial” distance by BPM . See also Spawn Point, NJS, BPM, and Spawn Offset. Also known as Half Jump Duration.
 **Spawn Offset:** A variable denoted as “noteJumpStartBeatOffset” in the map’s Info File that modifies the spawn distance. Can be a floating value, typically between 0.0 and 1.0. Also known as Spawn Distance Modifier
 **Spawn Point:** The location on the track where blocks and obstacles first appear, accompanied by a flash of light. See also Spawn Distance
