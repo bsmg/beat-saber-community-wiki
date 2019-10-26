@@ -9,7 +9,7 @@
 2. [x] [Set up your audio file](/mapping/basic-audio) to confirm your bpm and make sure you’ve got a good intro/outro?
 3. [x] [Exported](/mapping/basic-audio#exporting) your song file as an OGG?
 
->Are all these things done? GREAT! You're ready to dive into your favorite editor and start mapping!
+>Are all these things done? GREAT! You're ready to dive into your favorite editor and start mapping! If not, click the links on the task list for more information.
 {.is-success}
 # The Essentials
 Before you can even think about mapping, you need to understand the basics.
