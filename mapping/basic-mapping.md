@@ -6,7 +6,7 @@
 # Ready to Map?
 **Have you…**
 1. [x] [Downloaded Audacity](https://www.audacityteam.org/) and chosen a [map editor](/mapping#map-editing-resources)?
-2. [x] [Set up our audio file](/mapping/basic-audio) to confirm your bpm and make sure you’ve got a good intro/outro?
+2. [x] [Set up your audio file](/mapping/basic-audio) to confirm your bpm and make sure you’ve got a good intro/outro?
 3. [x] [Exported](/mapping/basic-audio#exporting) your song file as an OGG?
 # The Essentials
 Before you can even think about mapping, you need to understand the basics.
