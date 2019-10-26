@@ -22,10 +22,12 @@ The first time you run MM you will need to direct it to the location of two fold
 * Make two folders called `CustomLevels` and `CustomWIPLevels`
 * Example: `C:\Users\Helen\Documents\CustomWIPLevels`
 
+![Screenshot of Mediocre Mapper path entry](https://i.imgur.com/MqhSM0p.jpg)
 All of your working map files will go into a song name folder within this CustomWIPLevels folder.
 
 ## Editor Settings
-These core settings are all available from the MM home page when you first open the program. 
+Once you've set up your paths, these core settings are all available from the MM song selection page when you first open the program.
+![Song Selection screen in Mediocre Mapper](https://i.imgur.com/GTH8rH5.jpg =500x)
 ### Map Selection
 The map selection pane has four tabs, each with songs listed alphabetically.
 * **WIP Songs:** This tab contains all of the map folders saved in your `CustomWIPLevels` folder. New maps are created here and are accessible in-game under "Custom WIP Levels."
