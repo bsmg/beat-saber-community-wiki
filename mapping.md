@@ -136,7 +136,7 @@ If you wish to fix this yourself, here is a quick template which shows you where
 Alternatively, since `_customData` is **NOT** a required field, you can go ahead and remove everything that would be placed in there, and upload that result.
 ```
 {
-    "_verson": "2.0.0",
+    "_version": "2.0.0",
     "_notes": [],
     "_obstacles": [],
     "_events": [],
