@@ -32,7 +32,7 @@ If you simply change the file extension to `.ogg` it will not work.
 # BeatSaver & Publishing FAQ
 ## Invalid Beatmap: Error in Info.dat
 ![Error in info.dat error](https://cdn.discordapp.com/attachments/443569023951568906/638148374092316685/unknown.png)
-This error is caused by having a map that doesn't follow the latest BeatSaver data schema (a known issue of the Mk5 of Mediocre Mapper). You will need to edit your info.dat and difficulty files to address. See the [BeatSaver section](https://bsmg.wiki/mapping#beat-saver-data-schema-change-october-27-2019) of the main mapping wiki page.
+This error is caused by having a map that doesn't follow the latest BeatSaver data schema (a known issue of the Mk5 of Mediocre Mapper). You will need to edit your info.dat and difficulty files to address. See the [BeatSaver section](/mapping#beat-saver-data-schema-change-october-27-2019) of the main mapping wiki page.
 ## I'm having issues uploading the map to BeatSaver, it says the format is invalid but everything looks right.
 If you have Windows file extensions turned off then you might have unknowingly saved your files with names as `cover.jpg.jpg`.  To turn on file extensions in Windows do the following:
 ![File Extensions](https://i.imgur.com/xYTTkVN.png "File Extensions")
