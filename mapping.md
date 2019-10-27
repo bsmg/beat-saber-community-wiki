@@ -146,7 +146,7 @@ If you wish to fix this yourself, here is a quick template which shows you where
 }
 ```
 
-**To release a map:**
+### How to Release a Map
 
 1. [Create an account](https://beatsaver.com/auth/register) on BeatSaver.
 2. Click the “Upload” button in the top-right nav bar.
