@@ -91,10 +91,10 @@ Follow these steps to test any of your maps made with a community editor using P
 2. Access your map in-game via the CustomWIPLevels category in the bottom song pack menu. Use practice mode to play (the small button next to the yellow play button).
 
 ## Testing on a Quest
-Follow these steps to test any of your maps made with a community editor using an Oculus Quest. You must have [SideQuest](https://sidequestvr.com) and [BeatOn](https://bsaber.com/beaton/) installed.
+Follow these steps to test any of your maps made with a community editor using an Oculus Quest. You must have [SideQuest](https://sidequestvr.com) and [BMBF](https://github.com/kihecido/BMBF/releases/latest) installed.
 
 1. Create a compressed .zip file of the individual song files (not the song folder).
-2. Drag and drop the .zip file onto the BeatOn upload window.
+2. Drag and drop the .zip file onto the BMBF upload window.
 3. Click “Sync to Beat Saber.”
 4. Access your map in-game via the CustomWIPLevels category in the bottom song pack menu. Use practice mode to play (the small button next to the yellow play button).
 
