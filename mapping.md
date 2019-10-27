@@ -148,6 +148,8 @@ Alternatively, since `_customData` is **NOT** a required field, you can go ahead
 }
 ```
 
+Another breaking change happened in the `info.dat` files, where `_editorOffset` and `_editorOldOffset` are now prohibited. To be compliant with the new schema, please find and remove any of those two objects in your `info.dat` file.
+
 ### How to Release a Map
 
 1. [Create an account](https://beatsaver.com/auth/register) on BeatSaver.
