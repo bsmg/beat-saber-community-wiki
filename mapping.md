@@ -126,7 +126,7 @@ One your song has been mapped, lighted, and playtested and it’s a finished pro
 >Please **do not** upload an incomplete WIP map to BeatSaver; Uploading to BeatSaver equates to "Putting it on the store shelf" and should only be your final version. Anyone who plays your WIP without Practice Mode will create a new leaderboard for that map. See the [Playtesting](/mapping#playtesting) section for instructions.{.is-danger}
 
 ## BeatSaver
-BeatSaver is the public repository for all custom Beat Saber maps. Songs must be in the 2.0 song format (files are .dat and .egg) to be compatible.
+BeatSaver is the public repository for all custom Beat Saber maps. Songs must be in the 2.0 song format (files are .dat and .ogg/.egg) to be compatible.
 
 ### BeatSaver Data Schema Change - October 27, 2019
 BeatSaver now enforces a schema in order for your maps to be uploaded, of which public MediocreMapper is not compliant with. The most breaking change happened in the difficulty data files, where MM-specific fields were moved inside a `_customData` object.
