@@ -129,9 +129,11 @@ One your song has been mapped, lighted, and playtested and it’s a finished pro
 BeatSaver is the public repository for all custom Beat Saber maps. Songs must be in the 2.0 song format (files are .dat and .egg) to be compatible.
 
 ### BeatSaver Data Schema Change - October 27, 2019
-BeatSaver now enforces a schema in order for your maps to be uploaded, with which public MediocreMapper is not compliant. The most breaking change happened in the difficulty data files, where MM-specific fields were moved inside a _customData object.
+BeatSaver now enforces a schema in order for your maps to be uploaded, of which public MediocreMapper is not compliant with. The most breaking change happened in the difficulty data files, where MM-specific fields were moved inside a `_customData` object.
 
 If you wish to fix this yourself, here is a quick template which shows you where everything should go in order for your map to be compliant with BeatSaver's new schema.
+
+Alternatively, since `_customData` is **NOT** a required field, you can go ahead and remove everything that would be placed in there, and upload that result.
 ```
 {
     "_verson": "2.0.0",
