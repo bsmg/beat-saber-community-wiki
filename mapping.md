@@ -148,7 +148,7 @@ Alternatively, since `_customData` is **NOT** a required field, you can go ahead
 }
 ```
 
-Another breaking change happened in the `info.dat` files, where `_editorOffset` and `_editorOldOffset` are now prohibited. To be compliant with the new schema, please find and remove any of those two objects in your `info.dat` file.
+To be compliant with the new schema, please also find and remove any **blank fields** in your `info.dat` or difficulty files.
 
 ### How to Release a Map
 
