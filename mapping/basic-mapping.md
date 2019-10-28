@@ -45,7 +45,9 @@ For more on row usage in different difficulties, see [Gauging Difficulty](/mappi
 ## Timing & Rhythm
 Before you start mapping in earnest you need to think about the rhythm of the song you want to map. You’ll place blocks on one or more of the main instruments in the song: the drum beat, lead instrument, bass, synths, or even vocals. 
 
-To place blocks in time with the rhythm you’ll need to change your cursor precision. Most (but not all) songs will use 1/1, 1/2, or ¼ cursor precision to get on beat. Some songs may use “triplets” or ⅓ cursor precision but this is more rare.
+To place blocks in time with the rhythm you’ll need to change your cursor precision. Most (but not all) songs will use 1/1, 1/2, or ¼ cursor precision to get on beat. Some songs may use “triplets” or ⅓ cursor precision but this is more rare. You should not need to use less than 1/4 cursor precision for most songs *including* mapping to vocals.
+> 9 times out of 10, mapping with high precision (1/8, 1/16, 1/32, or 1/64) will make your song seem mistimed!
+{.is-warning}
 1/1 Cursor Precision | 1/2 Cursor Precision | 1/4 Cursor Precision
 -------------- | -------------- | --------------
 Image 1 | Image 2 | Image 3
