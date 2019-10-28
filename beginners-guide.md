@@ -28,7 +28,7 @@ If you run into problems at any point, please head to the [support page](support
 
 ### Mod Assistant
 
-**This is the current recommended installer for mods.**
+**THIS IS THE CURRENT RECOMMENDED MOD INSTALLER.**
 
 **Run the game at least once** before trying to mod the game! This applies to reinstalling your game too. 
 
