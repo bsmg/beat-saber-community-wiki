@@ -46,8 +46,10 @@ For more on row usage in different difficulties, see [Gauging Difficulty](/mappi
 Before you start mapping in earnest you need to think about the rhythm of the song you want to map. You’ll place blocks on one or more of the main instruments in the song: the drum beat, lead instrument, bass, synths, or even vocals. 
 
 To place blocks in time with the rhythm you’ll need to change your cursor precision. Most (but not all) songs will use 1/1, 1/2, or ¼ cursor precision to get on beat. Some songs may use “triplets” or ⅓ cursor precision but this is more rare.
+1/1 Cursor Precision | 1/2 Cursor Precision | 1/4 Cursor Precision
+-------------- | -------------- | --------------
 Image 1 | Image 2 | Image 3
-1/1 Cursor Precision<br />1 block per beat | 1/2 Cursor Precision<br /> 2 blocks per beat | 1/4 Cursor Precision<br />4 blocks per beat
+1 block per beat | 2 blocks per beat | 4 blocks per beat
 
 When timing out your map you’ll want to double check EARLY that the waveform in your editor is lined up with the major lines of the editor track. If your waveform isn't lined up, revisit the [Basic Audio Setup](/mapping/basic-audio) page of the wiki for tips.
 >If your waveform isn’t lined up it will make it **very** difficult to place blocks in time with the music. Get this right before you start or risk remapping later!
