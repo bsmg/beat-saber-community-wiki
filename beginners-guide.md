@@ -72,7 +72,7 @@ There are a couple more resources to help you find songs over in the [FAQ](faq#m
 
 
 # Manual Installation
-Only resort to this if you absolutely know what you're doing, the installer is the recommended way to install mods.
+Only resort to this if you absolutely know what you're doing! A mod installer is the recommended way to install mods. See the section [above](##Installers)
 
 **Run the game at least once** before trying to mod the game! This applies to reinstalling your game too. 
 
