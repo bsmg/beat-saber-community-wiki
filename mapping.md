@@ -135,6 +135,9 @@ BeatSaver is the public repository for all custom Beat Saber maps. Songs must be
 ### BeatSaver Data Schema Change - October 27, 2019
 BeatSaver now enforces a schema in order for your maps to be uploaded, of which public MediocreMapper is not compliant with. The most breaking change happened in the difficulty data files, where MM-specific fields were moved inside a `_customData` object.
 
+>Many thanks to **Rabbit** who has created a schema updater utility until editors support the changes. Access it [online here](https://skystudioapps.com/schema-fixer/)!
+{.is-success}
+
 If you wish to fix this yourself, here is a quick template which shows you where everything should go in order for your map to be compliant with BeatSaver's new schema.
 
 Alternatively, since `_customData` is **NOT** a required field, you can go ahead and remove everything that would be placed in there, and upload that result.
