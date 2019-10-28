@@ -148,7 +148,7 @@ Alternatively, since `_customData` is **NOT** a required field, you can go ahead
 }
 ```
 
-To be compliant with the new schema, please also find and remove any **blank fields** in your `info.dat` or difficulty files.
+To be compliant with the new schema, please also find and remove or fill in any **blank fields** in your `info.dat` or difficulty files.
 
 ### How to Release a Map
 
