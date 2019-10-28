@@ -70,8 +70,10 @@ The official editor is developed and supported by Beat Games and pre-installed w
 ## Additional Mapping Resources
 * [BeatMapperTools](https://monroeworld.com/beatmapper-tools/) by Darkuni
 A utility for users of Mediocre Mapper Mk4.0 and earlier to easily convert, test, and package their maps.
+* [Tempo Changer](https://skystudioapps.com/tempo-changer/) by Rabbit
+A utility for mappers who need to change the BPM of their entire map that will correctly shift block placements. **Works on new format .dat files**
 * [BPM Saber](https://github.com/zevdg/bpm-saber), by Zevdg
-A utility for mappers who need to change the BPM of their entire map that will correctly shift block placements.
+A utility for mappers who need to change the BPM of their entire map that will correctly shift block placements. **Only works on old format .json files**
 * [BPM Saber](https://bsaber.com/bpmsaber/), by Elliotttate
 A utility for finding the BPM of a song
 * Fayhe's [osu! Editor Timing Tutorial](https://www.youtube.com/watch?v=nIX0koHzW8c&t)
