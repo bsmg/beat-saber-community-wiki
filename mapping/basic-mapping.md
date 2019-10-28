@@ -60,6 +60,10 @@ Audio Not Lined Up :-( | Audio Lined Up :-D
 Image 1 | Image 2
 Needs audio edits, start offset, or has wrong bpm | You’re ready to map!
 
+**Timing Notes**
+Consider starting the mapping process with placeholder or “timing” notes. Dropping a “dot note” placeholder can help you figure out whether or not your map is on time and where you should consider using extra emphasis **before** you invest a ton of time creating patterns. Listen to make sure the editor hit sounds are in time with the beat.
+>Not all mappers use timing notes but they can be a helpful way to ensure your maps are timed correctly as a new mapper>
+{.is-info}
 # Vision Blocks
 # Double Directionals & Resets
 # Pattern Best Practices
