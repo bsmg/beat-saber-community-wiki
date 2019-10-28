@@ -54,6 +54,12 @@ Image 1 | Image 2 | Image 3
 When timing out your map you’ll want to double check EARLY that the waveform in your editor is lined up with the major lines of the editor track. If your waveform isn't lined up, revisit the [Basic Audio Setup](/mapping/basic-audio) page of the wiki for tips.
 >If your waveform isn’t lined up it will make it **very** difficult to place blocks in time with the music. Get this right before you start or risk remapping later!
 {.is-danger}
+
+Audio Not Lined Up :-( | Audio Lined Up :-D
+-------------- | --------------
+Image 1 | Image 2
+Needs audio edits, start offset, or has wrong bpm | You’re ready to map!
+
 # Vision Blocks
 # Double Directionals & Resets
 # Pattern Best Practices
