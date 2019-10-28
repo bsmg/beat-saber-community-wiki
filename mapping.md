@@ -141,7 +141,7 @@ Alternatively, since `_customData` is **NOT** a required field, you can go ahead
     "_obstacles": [],
     "_events": [],
     "_customData": {
-        "_BPMChanges": [],
+        "_bpmChanges": [],
         "_bookmarks": [],
         "_time": 0
     }
