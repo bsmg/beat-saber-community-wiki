@@ -1,8 +1,7 @@
 <!-- TITLE: Mediocre Map Assistant User Guide -->
 <!-- SUBTITLE: Essential information to get up and running using Mediocre Map Assistant -->
 
-> This guide currently supports both Mediocre Mapper Mk5 (the final public release by Squeaksies). All future development will be on [Mediocre Map Assistant](https://github.com/Assistant/MediocreMapAssistant2/releases/latest) by Assistant
-> > Mediocre Mapper (MM) is no longer in development or supported by its creator. Mk5 (released on 9/24/19) is the final public release.
+> This guide currently supports both Mediocre Mapper Mk5 (the final public release by Squeaksies) and the new MM fork, [Mediocre Map Assistant](https://github.com/Assistant/MediocreMapAssistant2/releases/latest) by Assistant. All future public development will occur on MMA.
 {.is-warning}
 # Editor Setup
 ## Installation
