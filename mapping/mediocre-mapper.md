@@ -1,15 +1,14 @@
-<!-- TITLE: Mediocre Mapper User Guide -->
-<!-- SUBTITLE: Essential information to get up and running using Mediocre Mapper Mk5 -->
+<!-- TITLE: Mediocre Map Assistant User Guide -->
+<!-- SUBTITLE: Essential information to get up and running using Mediocre Map Assistant -->
 
-> Mediocre Mapper (MM) is no longer in development or supported by its creator. Mk5 (released on 9/24/19) is the final public release.
+> This guide currently supports both Mediocre Mapper Mk5 (the final public release by Squeaksies). All future development will be on [Mediocre Map Assistant](https://github.com/Assistant/MediocreMapAssistant2/releases/latest) by Assistant
+> > Mediocre Mapper (MM) is no longer in development or supported by its creator. Mk5 (released on 9/24/19) is the final public release.
 {.is-warning}
 # Editor Setup
 ## Installation
-1. Download MediocreMapper.zip from [GitHub](https://github.com/squeaksies/MediocreMapper/releases/latest) 
-> Do not download Mediocre Mapper Server (mediocremapperserver.zip). This is a separate tool for mapping collaboration that is not covered on this page.
-{.is-warning}
+1. Download MMA2.zip from [GitHub](https://github.com/Assistant/MediocreMapAssistant2/releases/latest) 
 2. Unzip the file and place the extracted folder wherever you like on your hard drive.
-3. Double click `mediocremapper.exe` to run.
+3. Double click `mediocremapassistant2.exe` to run.
 ## First Time Setup
 The first time you run MM you will need to direct it to the location of two folders: `CustomLevels` and `CustomWIPLevels`. You have several options available to you:
 
@@ -76,7 +75,7 @@ You have two options to create your song folder:
 Click <kbd>Edit</kbd> to enter your song information and metadata.
 ## Song Info Settings
 The `Song Info` page is the first screen you see every time you edit a map.
-![Mediocre Mapper song setup screen](https://i.imgur.com/CiopwiZ.jpg?1)
+![Mediocre Map Assistant song setup screen](https://i.imgur.com/CiopwiZ.jpg?1)
 ### Whole Map Settings
 On the left side of the `Song Info` page is information that applies to your whole map. See [Beat Saber Metadata Criteria](https://docs.google.com/document/d/1ehotupIYMVlc8x41JldO-24m7Am-oTVYnciF9KCRdNM/edit) for standards on presenting complex song names and multiple artists.
 * **Song Name:** The primary name of the song
@@ -91,7 +90,7 @@ On the left side of the `Song Info` page is information that applies to your who
 * **Environment Name:** A dropdown menu of the default environments or platforms available. See [Basic Lighting Practices](#) for an overview of these environments
 * **Custom Platform:** The copy/pasted name of a custom platform from [ModelSaber](https://modelsaber.com/Platforms/). This feature is glitchy and it's recommended that you JSON edit any custom platform information
 
-The <kbd>Open Sond Folder</kbd> button will open your song folder in Windows Explorer. This will help you confirm that you have your files in the right spot.
+The <kbd>Open Song Folder</kbd> button will open your song folder in Windows Explorer. This will help you confirm that you have your files in the right spot.
 The <kbd>Package Song to Zip</kbd> button will remove your autosaves folder and zip the files for BeatSaver.
 The <kbd>Save Song Info</kbd> button commits all of your metadata to the info.dat file
 ### Difficulty Settings
@@ -105,7 +104,7 @@ On the right side of the `Song Info` page is the area where you create individua
 6. The **Note Jump Speed** field is where you change the speed at which the notes move down the track. Click into the field for a pop-up of helpful information. See [Basic Mapping Practices](#) for guidance on setting an appropriate NJS for your difficulty.
 7. The **Spawn Distance Modifier** field allows you to adjust how far down the track your blocks appear. Changing this value will adjust the "jump distance" guidance pop-up
 
-> You **must** click <kbd>Apply Modifications</kbd> if you make a change to difficulty settings, otherwise it will not be saved. In Mk5 this appears to automatically happen when you enter a song file for editing.
+> You **must** click <kbd>Apply Modifications</kbd> if you make a change to difficulty settings, otherwise it will not be saved. In MMA2 this appears to automatically happen when you enter a song file for editing.
 {.is-warning}
 
 Click <kbd>Edit Level</kbd> when you're ready to start mapping!
@@ -117,7 +116,7 @@ Click <kbd>Edit Level</kbd> when you're ready to start mapping!
 
 ## Mapping Settings
 Mapping settings can be accessed by clicking the hamburger menu in the top right while editing the map. It can also be toggled using the <kbd>ESC</kbd> key. These settings persist throughout your mapping session but will be reset the next time you open the editor. The `Mapping Settings` pane also includes a comprehensive list of keybindings.
-![Mapping Setting screen in Mediocre Mapper](https://i.imgur.com/h1DoGjU.jpg?1)
+![Mapping Setting screen in Mediocre Map Assistant](https://i.imgur.com/h1DoGjU.jpg?1)
 
 * **<kbd>Move WaveForm to Other Side</kbd>**: This button will shift the wave form from the left of the mapping track to the left of the lighting track. Useful during the lighting process.
 * **Playback Speed:** Will slow down the map and song in the editor. Decimal values representing pecentage (i.e., 1.0 = 100% speed). This feature is helpful when timing particularly gnarly sections of a map.
@@ -138,7 +137,7 @@ Mapping settings can be accessed by clicking the hamburger menu in the top right
 > This is a stub section in progress. DM helencarnate#2079 if you'd like to contribute.
 {.is-info}
 
-The **Error Checker** functionality is one of the top quality of life features found in MM. Access the error checker by clicking <kbd>SHIFT+TAB</kbd> to check for vision blocks, double directionals, stacked notes, and view map stats.
+The **Error Checker** functionality is one of the top quality of life features found in MMA. Access the error checker by clicking <kbd>SHIFT+TAB</kbd> to check for vision blocks, double directionals, stacked notes, and view map stats.
 ## Finding & Interpreting Errors
 ### Navigating the Error Checker
 [MISSING SCREENSHOT]
