@@ -53,7 +53,7 @@ Community editors are often a source of innovation with a lot of beneficial qual
 > Interested in making your own editor or converter? You may find the [SongCore readme page](https://github.com/Kylemc1413/SongCore/blob/master/README.md) and [this additional link](https://pastebin.com/cTPGrxWY) helpful!
 {is.info}
 
-### Mediocre Map~~per~~ Assistant
+### Mediocre Map Assistant
 A fork of a fork of a fork... the most feature rich 3D editor used by the majority of the mapping community, now stripped of memes and all the fun stuff. RIP Bongo cat. Uses the new 2.0 song format and updated BeatSaver data schema. [Mediocre Map Assistant 2 Download](https://github.com/Assistant/MediocreMapAssistant2/releases/latest)
 * Check out the (almost finished) [Mediocre Map Assistant User Guide](/mapping/mediocre-mapper) for info on installation, initial setup, song setup, basic controls, error checking, and more.
 ### BeatMapper.app
