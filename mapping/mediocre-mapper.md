@@ -25,7 +25,7 @@ All of your working map files will go into a song name folder within this Custom
 
 ## Editor Settings
 Once you've set up your paths, these core settings are all available from the MM song selection page when you first open the program.
-![Song Selection screen in Mediocre Mapper](https://i.imgur.com/GTH8rH5.jpg)
+![Song Selection screen in Mediocre Map Assistant](https://i.imgur.com/GTH8rH5.jpg)
 ### Map Selection
 The map selection pane has four tabs, each with songs listed alphabetically.
 * **WIP Songs:** This tab contains all of the map folders saved in your `CustomWIPLevels` folder. New maps are created here and are accessible in-game under "Custom WIP Levels."
