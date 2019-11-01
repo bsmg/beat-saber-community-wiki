@@ -36,7 +36,7 @@ As a *very general* rule of thumb for new mappers, blocks should be distributed 
 
 For more on row usage in different difficulties, see [Gauging Difficulty](/mapping/basic-mapping#gauging-difficulty).
 
->If you’re using [Mediocre Mapper](/mapping/mediocre-mapper) as your editor you can hit <kbd>SHIFT+TAB</kbd> to open the error checker then click “Stat Panel” to see this breakdown.
+>If you’re using [Mediocre Map Assistant](/mapping/mediocre-mapper) or Mediocre Mapper (outdated) as your editor you can hit <kbd>SHIFT+TAB</kbd> to open the error checker then click “Stat Panel” to see this breakdown.
 {.is-info} 
 
 >Certain styles of maps (like dance maps) will have a higher percentage of blocks on the top row but always remember to consider your target audience and their comfort.
