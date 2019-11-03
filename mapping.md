@@ -21,7 +21,7 @@ Go from thinking about mapping to releasing your first map by following this che
 # Tutorials and References
 ## Video Guides
 * [BennyDaBeast's Mapping Tutorials](https://bsaber.com/benny-custom-mapping/) **highly recommended**
->NOTE: Benny uses a slightly older version of Mediocre Mapper in these tutorials. The UI and some processes have changed in the most recent MM version but the rest of the content is great!
+>NOTE: Benny uses a slightly older version of Mediocre Mapper in these tutorials. The UI and some processes have changed in the most recent MM/MMA version but the rest of the content is great!
 {.is-warning}
 * [Freeek's Mapping and Editor Tutorials](https://www.youtube.com/playlist?list=PLYeZR6d3zDPgDgWogOwMteL-5SQWAE14b)
 >NOTE: Freeek uses a very old editor called EditSaber in these tutorials. Many UI elements and processes have changed in newer editors but the rest of the content is great!
