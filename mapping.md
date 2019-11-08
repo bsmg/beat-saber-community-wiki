@@ -15,7 +15,7 @@ Go from thinking about mapping to releasing your first map by following this che
 2. [ ] [Set up your audio file](/mapping#audio-editing-resources) including finding and confirming the BPM and exporting to OGG format. 
 3. [ ] Set up your first song in your mapping editor (steps vary by which editor you choose).
 4. [ ] Get mapping! Review [Basic Mapping practices](/mapping#tutorials-and-references) before you start. [Playtest](/mapping#playtesting) your own work early and often while mapping.
-5. [ ] Get lighting! Review [Basic Lighting information](https://docs.google.com/document/d/1wpZgBeOD1-UbJpXf-b6gX5ICNYygCd6UK6LOPm-t5QM/edit) (courtesy of Puds). Simple manual lighting is easier than you think!
+5. [ ] Get lighting! Review [Basic Lighting information](/mapping#lighting-practices). Simple manual lighting is easier than you think!
 6. [ ] Get your map [playtested](/mapping/#playtesting)! Third-party playtesting via the BSMG Discord is highly recommended to get constructive feedback and to get past your own “map blindness.”
 7. [ ] Once your song has been mapped, lighted, and playtested you’re ready to [release](/mapping/#publishing-songs) your song to the world on Beat Saver.
 # Tutorials and References
@@ -58,8 +58,6 @@ A fork of a fork of a fork... the most feature rich 3D editor used by the majori
 * Check out the (almost finished) [Mediocre Map Assistant User Guide](/mapping/mediocre-mapper) for info on installation, initial setup, song setup, basic controls, error checking, and more.
 ### BeatMapper.app
 A new web-based 3D beat saber editor using the new 2.0 song format. Runs in the browser so it's platform agnostic. [BeatMapper Website](https://beatmapper.app/)
-### EditSaber Enhanced
-An older 3D map editor using the old 1.0 song format (maps must be converted before being playable). [EditSaber Enhanced Download](https://github.com/permissionBRICK/EditSaberEnhanced/releases/latest)
 
 ## Official Editor 
 The official editor is developed and supported by Beat Games and pre-installed with the Steam VR or Oculus PC versions of the game. It makes playtesting very convenient with one-click access to your work-in-progress in-game. The official editor is 2D and requires good visualization skills to translate well to a 3D play space, which can be challenging for new mappers. The vast majority of mappers use a [Community Editor](https://bsmg.wiki/mapping#community-editors).
@@ -77,8 +75,15 @@ A utility for mappers who need to change the BPM of their entire map that will c
 * [BPM Saber](https://bsaber.com/bpmsaber/), by Elliotttate
 A utility for finding the BPM of a song
 * Fayhe's [osu! Editor Timing Tutorial](https://www.youtube.com/watch?v=nIX0koHzW8c&t)
-# Other Resources
-## Lightmap
+# Lighting Practices
+A map is not considered complete without some form of lighting included. Lighting can range from very basic to incredibly detailed using additional mods to enable more features.
+
+* [Beginner's Guide to Lighting](https://docs.google.com/document/d/1wpZgBeOD1-UbJpXf-b6gX5ICNYygCd6UK6LOPm-t5QM/edit) by Puds
+* [Lighting Environment Guide](https://bsaber.com/creating-lighting-environment-guide/) by ManDynasty
+* [Using Flash & Fade Lighting Events](https://bsaber.com/creating-lighting-how-flash-fade-notes-actually-work-in-game/) by ManDynasty
+* [Side Laser Speed Guide](https://docs.google.com/spreadsheets/d/1tIERmSyFI4ssjDkE-oJjBBvUZUJ7eoVhCQyM3_BsJwE/edit?usp=sharing) by LittleAsi
+
+**Lightmap**
 A tool to automatically generate lighting events for a custom song by Freeek and Recrudesce!
 Get it here: https://github.com/recrudesce/lightmap/releases
 Explanation video and examples: https://www.youtube.com/watch?v=ImO9cFW5vyQ&t
