@@ -161,9 +161,11 @@ Once you click “Check for [error of your choice]” pay attention to the botto
 * Use the previous and next buttons to jump from error to error to resolve them. 
 
 **For Double-Directionals:** The highlighted block is the second instance of a same color-same direction, so look back in time to see the first block in the sequence. You can change either the first instance or the second instance to correct the error. Once you’ve made your change you can click “Check for Double Directionals” again to see if the issue is resolved. You can change the max time value to suit the speed of your song. 1.5 beats is a good baseline for new mappers but the faster the song the more beats you may need for a reasonable reset (if that is your intention).
->Diagonals count as double directionals with BOTH cardinal directions that follow.
+>Diagonals count as double directionals with BOTH cardinal directions that follow. For example:
 >![Red note up right](https://i.imgur.com/u2XHSJ5.png) is a DD with both ![Red note up](https://i.imgur.com/c5SuWVv.png) and ![Red note right](https://i.imgur.com/ONpMhdc.png)
 {.is-info}
+
+![Double directional example](https://i.imgur.com/Km2W2it.png) | In this example, max time is set to 0.75 beats. There is a set of down notes 1/2 beat apart and then a set of diagonal notes 1/2 beat after that. The first set of blocks isn't flagged but the next two are because they are double directionals within 3/4 (0.75) of a beat after the first set.
 
 >Keep clicking the “Check for Double Directionals” button… sometimes fixing one error can create a new error out of your line of sight. Check early and often!
 {.is-warning}
