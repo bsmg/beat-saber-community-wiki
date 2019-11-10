@@ -5,7 +5,7 @@
 
 ## Preface
 > This guide is for PC-modding on Windows. 
-> If you have a Quest, check out the tutorial on [BeastSaber](https://bsaber.com/beaton/).
+> If you have a Quest, check out the tutorial on [BeastSaber](https://bsaber.com/oculus-quest-custom-songs/).
 > If you're on Linux, check out the [Linux page](https://bsmg.wiki/modding/linux) or [QBeat](https://github.com/geefr/beatsaber-linux-goodies/blob/master/README.md)
 
 
