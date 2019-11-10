@@ -138,13 +138,14 @@ Mapping settings can be accessed by clicking the hamburger menu in the top right
 
 The **Error Checker** functionality is one of the top quality of life features found in MMA. Access the error checker by clicking <kbd>SHIFT+TAB</kbd> to check for vision blocks, double directionals, stacked notes, and view map stats.
 ## Finding & Interpreting Errors
+This section walks you through basic usage of the error checker's primary functions: **Check for Double Directionals, Check for Vision Blocks**, and **Check for Stacked Notes**
 ### Navigating the Error Checker
-[MISSING SCREENSHOT]
+![Error Checker main panel](https://i.imgur.com/ZKmFjQH.png)
 
 1. **Minimum Time:** The minimum amount of time in beats that will be checked. Leave it alone.
-2. **Maximum Time:** The maximum amount of time in beats that will be checked. You’ll need to adjust this based on both the BPM and NJS (Note Jump Speed) of your song/level. *1.5 beats is the minimum recommended for new mappers*
-3. **Double-Directional Checker:** Highlights any instances of a block of the same color pointing in the same direction within the number of beats specified in Maximum Time.
-4. **Vision Block Checker:** Highlights any instances of blocks or walls obscuring or hiding a block within the number of beats specified in Maximum Time.
+2. **Maximum Time:** The maximum amount of time in beats that will be checked. You’ll need to adjust this based on both the BPM and NJS (Note Jump Speed) of your song/level. ***1.5 beats is the minimum recommended for new mappers***
+3. **Double-Directional Checker:** Highlights any instances of a block of the same color pointing in the same direction within the number of beats specified in *Maximum Time*.
+4. **Vision Block Checker:** Highlights any instances of blocks or walls obscuring or hiding a block within the number of beats specified in *Maximum Time*.
 5. **Stacked Block Checker:** Highlights any instances where multiple blocks are stacked on top of each other.
 6. **Clear Errors:** Clears highlighting from all error blocks. They’re still errors, just not marked. 
 7. **Previous/Next:** Jumps you backwards or forwards through your map to each highlighted error.
@@ -153,6 +154,7 @@ The **Error Checker** functionality is one of the top quality of life features f
 
 ### Highlighted Errors
 Once you click “Check for [error of your choice]” pay attention to the bottom center of your screen. Red text will pop up that tells you how many errors were found within the specified number of beats:
+![122 errors found... don't do this. This is bad.](https://i.imgur.com/X1ZoKYa.png)
 
 * Only one error can be highlighted at a time. 
 * Clicking one error button immediately after the other will wipe out the error highlights and replace them with the next type. 
@@ -160,6 +162,7 @@ Once you click “Check for [error of your choice]” pay attention to the botto
 
 **For Double-Directionals:** The highlighted block is the second instance of a same color-same direction, so look back in time to see the first block in the sequence. You can change either the first instance or the second instance to correct the error. Once you’ve made your change you can click “Check for Double Directionals” again to see if the issue is resolved. You can change the max time value to suit the speed of your song. 1.5 beats is a good baseline for new mappers but the faster the song the more beats you may need for a reasonable reset (if that is your intention).
 >Diagonals count as double directionals with BOTH cardinal directions that follow.
+>![Red note up right](https://i.imgur.com/u2XHSJ5.png) is a DD with both ![Red note up](https://i.imgur.com/c5SuWVv.png) and ![Red note right](https://i.imgur.com/ONpMhdc.png)
 {.is-info}
 
 >Keep clicking the “Check for Double Directionals” button… sometimes fixing one error can create a new error out of your line of sight. Check early and often!
