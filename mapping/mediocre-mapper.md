@@ -165,7 +165,9 @@ Once you click “Check for [error of your choice]” pay attention to the botto
 >![Red note up right](https://i.imgur.com/u2XHSJ5.png) is a DD with both ![Red note up](https://i.imgur.com/c5SuWVv.png) and ![Red note right](https://i.imgur.com/ONpMhdc.png)
 {.is-info}
 
-|![Double directional example](https://i.imgur.com/Km2W2it.png) | In this example, max time is set to 0.75 beats. There is a set of down notes 1/2 beat apart and then a set of diagonal notes 1/2 beat after that. The first set of blocks isn't flagged but the next two are because they are double directionals within 3/4 (0.75) of a beat after the first set.
+Example | Explanation
+- | -
+![Double directional example](https://i.imgur.com/Km2W2it.png) | In this example, max time is set to 0.75 beats. There is a set of down notes 1/2 beat apart and then a set of diagonal notes 1/2 beat after that. The first set of blocks isn't flagged but the next two are because they are double directionals within 3/4 (0.75) of a beat after the first set.
 
 >Keep clicking the “Check for Double Directionals” button… sometimes fixing one error can create a new error out of your line of sight. Check early and often!
 {.is-warning}
