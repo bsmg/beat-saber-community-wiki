@@ -18,6 +18,7 @@ If you have a plugin template ready to go, and don't know how exactly to program
 
 ### Want more?
 If you've completed the modding tutorial, and still want more ways to improve your mod development experience, [check out the Extras page](modding/extras).
+
 # Launch args
 Helpful launch arguments that will make modding / debugging easier.
 
@@ -37,3 +38,4 @@ We're working on getting the ModSaber archive organized, so hopefully we can hav
 * [dnSpy](https://github.com/0xd4d/dnSpy)
 * [Harmony](https://github.com/pardeike/Harmony)
 * [Beat Saber IPA](https://github.com/nike4613/BeatSaber-IPA-Reloaded)
+* [Beat Saber Mods](https://stadivm.com/threads/how-to-install-beat-saber-mods.540/)
